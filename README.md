@@ -10,3 +10,15 @@ We use timestamps obtained along with metadata for the purpose of filtering. Nex
 Once we obtain the list pages and the versions being considered for each of them, we scrape the Wikipedia article corresponding to each version. We remove all additional information in sections like References, Category, etc. from the scraped articles. This is done to ensure that the model doesn’t utilize this information to learn undesirable patterns, and to ensure that the identification ofrelations is solely based on the content.
 
 Our final dataset comprises 1, 755 unique Wikipedia articles with a total of 10, 267 versions; each article having 5.85 ± 0.28 versionson average. We split the dataset into train, validation, and test sets in the ratio of 0.7 : 0.1 : 0.2, respectively.
+
+## Contact 
+[Natwar Modani](mailto:nmodani@adobe.com), [Inderjeet Nair](mailto:inair@adobe.com)
+
+## Citation
+This work is accepted at International conference on [Web Information Systems Engineering (WISE), 2021](http://www.wise-conferences.org/2021/index.html).
+
+  
+## License Information
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />ReAct is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+NOTE: _Please refer to the [LICENSE](./LICENSE.md) file for detailed information._
