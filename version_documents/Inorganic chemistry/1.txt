@@ -1,0 +1,18 @@
+ca:química inorgànicaes:química inorgánicafr:chimie minéraleja:無機化学nl:anorganische chemie
+inorganic chemistry is the branch of chemistry concerned with the study of materials that contain any combination of chemical elements except for organic compounds.
+major branches include:
+ minerals, such as salt, asbestos, silicates,  , ...
+ metals and their alloys, like iron, copper, aluminum, brass, bronze, ...
+ compounds involving non-metallic elements, like silicon, phosphorus, ,chlorine, oxygen, for example water
+ metal complexes
+
+some important inorganic products are silicon chips, transistors, lcd screens, and fiber optics.
+
+inorganic chemistry often overlaps with mineralogy, geochemistry,analytical chemistry, environmental chemistry, physical chemistry, and organometallic chemistry.
+organometallic chemistry combines aspects of organic chemistry with inorganic chemistry, and is partially characterized by the study of metal-carbon bonds, in which the carbon, apart from the metal-carbon bond, would otherwise be considered a part of an organic compound.
+vitamin b12, whose active site is similar to that of hemoglobin, is a naturally-occurring, metabolically-important organometallic compound containing a large organic components (corrin and protein), a metal (cobalt), a bond between the metal and the carbon of a methyl group.
+despite the presence of metal ions or metal-carbon bonds, gold cyanide, calcium carbonate, and nickel tetracarbonyl (to name just a few such) are inorganic, rather than organometallic, compounds, although some chemists consider metal carbonyls to be organometallic.
+
+adding to the confusion, the oxides of carbon, carbonate salts, and materials containing carbon like steel and diamond are usually considered inorganic, while the inorganic molecule nitric oxide is often studied for biochemical effects.
+
+much of inorganic chemistry deals with molecular compounds, i.e many inorganic materials have a structure that can be described in terms of molecules but many others do not. the study of such solids is called solid state chemistry. it is a branch of materials science.

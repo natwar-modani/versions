@@ -1,0 +1,52 @@
+ 
+
+i've just started trying to learn some topology, and i've come across this definition a few times.  while i think i can visualise the specific example - two points, disjoint open sets around them - i don't feel i fully understand it.  can anyone help me (and presumably anyone else new to topology)?  
+
+are there any immediate and more graspable consequences that follow from a topological space being hausdorff?  why is hausdorff-ness important?  are most interesting and useful spaces hausdorff?  what do non-hausdorff spaces look like: are they ugly and weird, are there significant examples that naturally crop up?
+- stuart presnell
+
+this line
+   limits of sequences (when they exist) are unique in hausdorff spaces.
+is a typical example of the ways in which hausdorff spaces are 'nice'.
+--matthew woodcraft
+
+is the contrapositive of this true?  if a space is non-hausdorff, does this mean that the limits of sequences are not unique?
+-- stuart presnell
+
+this is not the contrapositive, it is the converse, and it is false. as to your original question: most topological spaces encountered in analysis are hausdorff (most of them are even metric spaces, but not all, see e.g. weak topology). an important non-hausdorff topology is the zariski topology in algebraic geometry. --axelboldt
+
+an example of limit behaviour in a non-hausdorff space:
+let x = { 1, 2 } and t = { ø , x } 
+t is then a topology on x (called the chaotic topology).
+the sequence 1,1,1,1,1... has both 1 and 2 as limits, basically because the topology is incapable of distinguising between them.
+a non-hausdorff space will always have at least one pair of indistinguishable points, so a sequence with more than one limit can be constructed as above. -- tarquin
+
+i'm pretty sure that one can construct some non-first-countable non-hausdorff t1 space where limits of sequences are unique. i think hausdorff spaces can be characterized by the fact that limits of filters are unique. --axelboldt
+
+"particularly nice" - zoe
+ a not-so-nice property of non-hausdorff spaces
+
+if a space x carries a non-hausdorff topology, it is impossible for continuous functions with values in the real or complex numbers (or any hausdorff space y, for that matter) to separate points. a function  is said to separate the points x and y if . assume x and y are non-hausdorff points, i.e. for any two open sets a and b with  we have . let y be a hausdorff space and  a function separating x and y. since y is hausdorff, there exist disjoint open sets u and v with . would f be continuous then  and  would be disjoint open sets with . but this is impossible, so f cannot be continuous.
+
+the importance of this fact is that non-hausdorff spaces cannot be adequately described by continuous functions on them.
+
+that could just as well be an argument for why hausdorff spaces are not "nice"! (whatever that means...) thehotelambush (talk) 09:10, 30 march 2009 (utc)
+
+ hausdorff redirect 
+
+i feel like the word hausdorff is used far more often to refer to a property of spaces than it is to refer to mr. felix q hausdorff.  accordingly, i think hausdorff should redirect here, rather than there. -lethe talk 00:06, 3 december 2005 (utc)
+
+ closed singletons iff t1, not iff t2 
+in the article it was stated:
+
+for a topological space x, the following are equivalent:
+ x is hausdorff space.
+ every singleton set contained in x is equal to the intersection of all closed neighbourhoods containing it.
+
+this is not true. a set is closed iff it is equal to it's closure, which is the intersection of all closed sets containing the set. therefore the second condition above means "every singleton is closed". but this is a condition equivalent to the given space being t1. as t1 spaces exist which are not t2, the stated equivalence does not hold.
+
+therefore i removed from the article the following line:
+ every singleton set contained in x is equal to the intersection of all closed neighbourhoods containing it.
+--87.205.171.230 (talk) 13:03, 14 august 2008 (utc)
+
+i've restored it, as it's correct. the intersection of the closed neighbourhoods of a point is not the same thing as the intersection of the closed sets containing the point. --zundark (talk) 13:45, 14 august 2008 (utc)

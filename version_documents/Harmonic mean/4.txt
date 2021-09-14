@@ -1,0 +1,36 @@
+in mathematics, the harmonic mean is one of several methods of calculating an average. typically, it is appropriate for situations when the average of rates is desired.
+
+the harmonic mean h of the positive real numbers a1, ..., an is defined to be 
+
+in words, the harmonic mean of a group of terms is the number of terms divided by the sum of the terms' reciprocals.
+
+examples
+in certain situations, the harmonic mean provides the correct notion of "average". for instance, if for half the distance of a trip you travel at 40 kilometres per hour and for the other half of the distance you travel at 60 kilometres per hour, then your average speed for the trip is given by the harmonic mean of 40 and 60, which is 48; that is, the total amount of time for the trip is the same as if you travelled the entire trip at 48 kilometres per hour. (note however that if you had travelled for half the time at one speed and the other half at another, the arithmetic mean, 50 kilometres per hour, would provide the correct notion of "average".)
+
+similarly, if in an electrical circuit you have two resistors connected in parallel, one with 40ω and the other with 60ω, then the average resistance of the two resistors is 48ω; that is, the total resistance of the circuit is the same as it would be if each of the two resistors were replaced by a 48ω resistor. (this is not to be confused with their equivalent resistance, 24ω, which is the resistance needed for a single resistor to replace the two resistors at once.)
+
+harmonic mean of two numbers
+when dealing with just two numbers, an equivalent, sometimes more convenient, formula of their harmonic mean is given by:
+
+in this case, their harmonic mean is related to their arithmetic mean,
+
+and their geometric mean,
+
+by
+
+note that this result holds only in the case of just two numbers.
+
+relationship with other means
+the harmonic mean is one of the pythagorean means and is never larger than the geometric mean or the arithmetic mean (the other two pythagorean means).
+
+it is the special case  of the power mean.
+
+it is equivalent to a weighted arithmetic mean with each value's weight being the reciprocal of the value.
+
+since the harmonic mean of a list of numbers tends strongly toward the least elements of the list, it tends (compared to the arithmetic mean) to mitigate the impact of large outliers and aggravate the impact of small ones.
+
+the arithmetic mean is often incorrectly used in places calling for the harmonic mean.*statistical analysis, ya-lun chou, holt international, 1969, isbn 03-910061-8   in the speed example above for instance the arithmetic mean 50 is incorrect, and too big.  such an error was apparently made in a calculation of transport capacity of american ships during world war i.  the arithmetic mean of the various ships' speed was used, resulting in a total capacity estimate which proved unattainable. 
+
+other names
+in older literature, it is sometimes called the subcontrary mean.
+

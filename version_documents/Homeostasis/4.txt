@@ -1,0 +1,92 @@
+homeostasis is the property of an open system, especially living organisms, to regulate its internal environment to maintain a stable, constant condition, by means of multiple dynamic equilibrium adjustments, controlled by interrelated regulation mechanisms. the term was coined in 1932 by walter cannon from the greek homoios (same, like, resembling) and stasis (to stand, posture).
+
+ overview 
+the term is most often used in the sense of biological homeostasis.  multicellular organisms require a homeostatic internal environment, in order to live; some ecologists believe this principle also applies to the global environment.
+many ecological, biological, and social systems are homeostatic. they oppose change to maintain equilibrium. if the system does not succeed in reestablishing its balance, it may ultimately lead the system to stop functioning.
+
+complex systems, such as a human body, must have homeostasis to maintain stability and to survive. these systems do not only have to endure to survive; they must adapt themselves and evolve to modifications of the environment.
+
+ varieties of homeostasis 
+the chemical composition of organisms typically changes with the growth rate, as is explained by the dynamic energy budget theory, that delineates structure and (one or more) reserves in an organism.
+strong homeostasis is that structure and reserve do not change in composition. since the amount of reserve and structure can vary, this still allows a particular change in the composition of the whole body
+weak homeostasis is that the ratio of the amounts of reserve and structure becomes constant as long food availability  is constant, even when the organism grows. this means that the whole body composition becomes constant during growth.
+structural homeostasis means that the sub-individual structures grow in harmony with the whole individual.
+
+ properties of homeostasis 
+homeostatic systems show several properties:
+they are ultrastable: the system is capable of testing which way its variables should be adjusted.
+their whole organization (internal, structural, and functional) contributes to the maintenance of equilibrium.
+main examples of homeostasis in mammals are as follows:
+the regulation of the amounts of water and minerals in the body. this is known as osmoregulation. this happens in the kidneys.
+the removal of metabolic waste. this is known as excretion. this is done by the excretory organs such as the kidneys and lungs. 
+the regulation of body temperature. this is mainly done by the skin.
+the regulation of blood glucose level. this is mainly done by the liver and the insulin secreted by the pancreas in the body.
+
+it is important to note that while organisms exhibit equilibrium, their physiological state is not necessarily static.  many organisms exhibit endogenous fluctuations in the form of  circadian (period 20 to 28 hours), ultradian (period <20 hours) and infradian (period > 28 hours) rhythms.  thus even in homeostasis, body temperature, blood pressure, heart rate and most metabolic indicators are not always at a constant level, but vary predictably over time.
+
+image:wiki_varano.jpg
+
+thermographic image: reptiles regulating their bodytemperature
+
+ mechanisms of homeostasis: feedback 
+main article: feedback
+
+when a change of variable occurs, there are two main types of feedback to which  the system reacts:
+
+negative feedback is a reaction in which the system responds in such a way as to reverse the direction of change.  since this tends to keep things constant, it allows the maintenance of homeostasis.  for instance, when the concentration of carbon dioxide in the human body increases, the lungs are signaled to increase their activity and expel more carbon dioxide. thermoregulation is another example of negative feedback. when body temperature rises (or falls), receptors in the skin and the hypothalamus sense a change, triggering a command from the brain.  this command, in turn, effects the correct response, in this case a decrease in body temperature.
+
+in positive feedback, the response is to amplify the change in the variable.  this has a destabilizing effect, so does not result in homeostasis.  positive feedback is less common in naturally occurring systems than negative feedback, but it has its applications.  for example, in nerves, a threshold electric potential triggers the generation of a much larger action potential.  two exceptions, (see also leverage points.) blood clotting and events in childbirth are other types of positive feedback.
+
+sustainable systems require combinations of both kinds of feedback.  generally with the recognition of divergence from the homeostatic condition positive feedbacks are called into play, whereas once the homeostatic condition is approached, negative feedback is used for "fine tuning" responses.  this creates a situation of "metastability", in which homeostatic conditions are maintained within fixed limits, but once these limits are exceeded, the system can shift wildly to a wholly new (and possibly less desirable) situation of homeostasis.  such catastrophic shifts may occur with increasing nutrient load in clear rivers suddenly producing a homeostatic condition of high eutrophication and turbidity, for instance.
+
+ ecological homeostasis 
+
+ecological homeostasis is found in a climax community of maximum permitted biodiversity, given the prevailing ecological conditions.
+
+in disturbed ecosystems or sub-climax biological communities such as the island of krakatoa, after its major eruption in 1883, the established stable homeostasis of the previous forest climax ecosystem was destroyed and all life eliminated from the island. krakatoa, in the years after the eruption went through a sequence of ecological changes in which successive groups of new plant or animal species followed one another, leading to increasing biodiversity and eventually culminating in a re-established climax community.  this ecological succession on krakatoa occurred in a number of several stages, in which a sere is defined as "a stage in a sequence of events by which succession occurs". the complete chain of seres leading to a climax is called a prisere.  in the case of krakatoa, the island as reached its climax community with eight hundred different species being recorded in 1983, one hundred years after the eruption which cleared all life off the island. evidence confirms that this number has been homeostatic for some time, with the introduction of new species rapidly leading to elimination of old ones.
+
+the evidence of krakatoa, and other disturbed or virgin ecosystems shows that the initial colonisation by pioneer or r strategy species occurs through positive feedback reproduction strategies, where species are weeds, producing huge numbers of possible offspring, but investing little in the success of any one.  rapid boom and bust plague or pest cycles are observed with such species.  as an ecosystem starts to approach climax these species get replaced by more sophisticated climax species which through negative feedback, adapt themselves to specific environmental conditions.  these species, closely controlled by carrying capacity, follow k strategies where species produce fewer numbers of potential offspring, but invest more heavily in securing the reproductive success of each one to the micro-environmental conditions of its specific ecological niche.
+
+it begins with a pioneer community and ends with a climax community. this climax community occurs when the ultimate vegetation has become in equilibrium with the local environment. 
+ 
+such ecosystems form nested communities or heterarchies, in which homeostasis at one level, contributes to homeostatic processes at another holonic level.  for example, the loss of leaves on a mature rainforest tree gives a space for new growth, and contributes to the plant litter and soil humus build-up upon which such growth depends.  equally a mature rainforest tree reduces the sunlight falling on the forest floor and helps prevent invasion by other species.  but trees too fall to the forest floor and a healthy forest glade is dependent upon a constant rate of forest regrowth, produced by the fall of logs, and the recycling of forest nutrients through the respiration of termites and other insect, fungal and bacterial decomposers.  similarly such forest glades contribute ecological services, such as the regulation of microclimates or of the hydrological cycle for an ecosystem, and a number of different ecosystems act together to maintain homeostasis perhaps of a number of river catchments within a bioregion.  a diversity of bioregions similarly makes up a stable homeostatic biological region or biome.
+
+in the gaia hypothesis, james lovelock stated that the entire mass of living matter on earth (or any planet with life) functions as a vast homeostatic superorganism that actively modifies its planetary environment to produce the environmental conditions necessary for its own survival. in this view, the entire planet maintains homeostasis. whether this sort of system is present on earth is still open to debate. however, some relatively simple homeostatic mechanisms are generally accepted. for example, when atmospheric carbon dioxide levels rise, certain plants are able to grow better and thus act to remove more carbon dioxide from the atmosphere. when sunlight is plentiful and atmospheric temperature climbs, the phytoplankton of the ocean surface waters thrive and produce more dimethyl sulfide, dms. the dms molecules act as cloud condensation nuclei which produce more clouds and thus increase the atmospheric albedo and this feeds back to lower the temperature of the atmosphere.  as scientists discover more about gaia, vast numbers of positive and negative feedback loops are being discovered, that together maintain a metastable condition, sometimes within very broad range of environmental conditions.
+
+ biological homeostasis 
+
+homeostasis is one of the fundamental characteristics of living things.  it is the maintenance of the internal environment within tolerable limits.
+
+the internal environment of a living organism's body features body fluids in multicellular animals.  the body fluids include blood plasma, tissue fluid and intracellular fluid.  the maintenance of a steady state in these fluids is essential to living things as the lack of it harms the genetic material.
+
+with regard to any parameter, an organism may be a conformer or a regulator.  regulators try to maintain the parameter at a constant level, regardless of what is happening in its environment.  conformers allow the environment to determine the parameter.  for instance, endothermic animals maintain a constant body temperature, while ectothermic animals exhibit wide variation in body temperature.
+
+this is not to say that conformers may not have behavioral adaptations that allow them to exert some control over the parameter in question.  for instance, reptiles often sit on sun-heated rocks in the morning to raise their body temperatures.
+
+an advantage of homeostatic regulation is that it allows the organism to function more effectively.  for instance, ectotherms tend to become sluggish at low temperatures, whereas endotherms are as active as always.  on the other hand, regulation requires energy.  one reason snakes are able to eat just once a week is that they use much less energy for maintaining homeostasis.
+
+ homeostasis in the human body 
+all sorts of factors affect the suitability of the human body fluids to sustain life; these include properties like temperature, salinity, and acidity, and the concentrations of nutrients such as glucose, various ions, oxygen, and wastes, such as carbon dioxide and urea.  since these properties affect the chemical reactions that keep bodies alive, there are built-in physiological mechanisms to maintain them at desirable levels. 
+
+homeostasis is not the reason for these ongoing unconscious adjustments. it should be thought of as a general characterization of many normal processes in concert, not their proximal cause. moreover, there are numerous biological phenomena which do not conform to this model, such as anabolism.
+
+ other fields 
+the term has come to be used in other fields, as well.
+
+an actuary may refer to risk homeostasis, where (for example) people who have anti-lock brakes have no better safety record than those without anti-lock brakes, because they unconsciously compensate for the safer vehicle via less-safe driving habits. previously, certain maneuvers involved minor skids, evoking fear and avoidance: now the anti-lock system moves the boundary for such feedback, and behaviour patterns expand into the no-longer punitive area.
+
+sociologists and psychologists may refer to stress homeostasis, the tendency of a population or an individual to stay at a certain level of stress, often generating artificial stresses if the "natural" level of stress is not enough.
+
+examples
+thermoregulation
+the skeletal muscles can shiver to produce heat if the body temperature is too low.
+non-shivering thermogenesis involves the decomposition of fat to produce heat.
+sweating cools the body with the use of evaporation.
+chemical regulation
+the pancreas produces insulin and glucagon to control blood-sugar concentration.
+the lungs take in oxygen and give off carbon dioxide.
+the kidneys remove urea, and adjust the concentrations of water and a wide variety of ions.
+
+most of these organs are controlled by hormones secreted from the pituitary gland, which in turn is directed by the hypothalamus.
+
+ cultural 

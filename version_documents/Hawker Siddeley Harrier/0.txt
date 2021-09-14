@@ -1,0 +1,61 @@
+hawker siddeley harrierimage:harrier.gr7.300pix.jpgraf harrier gr7descriptionrolecrewfirst flightentered servicemanufacturerdimensionslength ft  in mwingspan ft  in mheight ft  in mwing area ft² m²weightsempty lb kgloaded lb kgmaximum takeoff lb kgcapacitypowerplantenginesthrust lb knperformancemaximum speed mph km/hcombat range miles kmferry range miles kmservice ceiling ft mrate of climb ft/min m/minwing loading lb/ft² kg/m²thrust/weightpower/mass hp/lb kw/kgavionicsavionicsarmamentgunsbombsmissilesrocketsother
+the harrier is a successful close-support and reconnaissance fighter aircraft with v/stol capabilities, currently built by bae systems and boeing (under license).
+
+the harrier family was started with the hawker p.1127. design began in 1957 by sir sidney camm, ralph hooper of hawker aviation and stanley hooker of the bristol engine company. rather than using rotors or a direct jet thrust the p.1127 had a innovative vectored thrust turbofan engine and the first vertical take-off was on october 21, 1960. design continued after hawker siddeley aviation was created with the kestrel, which first flew on march 7, 1964. the kestrel was a evaluation aircraft offered to military test pilots from britain, the us and west germany (the tri-partite evaluation unit). successful tests led to an order for sixty aircraft from the raf in 1967. the harrier gr mk.1 was the first production model, it first flew on december 28, 1967, and entered service with the raf on april 1, 1969. construction took place at factories in kingston-upon-thames in southwest london and at dunsfold, surrey. the latter adjoined an airfield used for flight testing; both factories have since closed. the ski-jump technique for stol use by harriers launched from royal navy aircraft carriers was tested at the royal navy's somerset airfield at yeovilton. their flight decks were designed with an upward curve to the bow following the successful conclusion of those tests. the air combat technique of viffing was evolved in the harrier - vectoring in forward flight - to outmaneuver a hostile aircraft or other inbound weapon.
+
+ harrier gr mk.1 
+ dimensions 
+length: 13.90 m
+height: 3.45 m
+span: 7.70 m
+
+ power plant 
+1 rolls royce bristol pegasus 101 turbofan with four swivelling nozzles, generating 19000 lb (85 kn) of thrust.
+
+ weight 
+basic operating weight: 5530 kg
+max. payload on external stores: 2300 kg plus
+max. take-off weight: 11,500 kg
+
+ performance 
+max. speed at sea level: 1185 km/h
+ceiling : 15 000 m
+
+ armament 
+thumb|250px|royal air force harrier gr-7.
+there was no internal armament. two 30-mm aden cannon pods could be fitted under the fuselage sides. there were an additional four underwing and one under-fuselage pylon hard-points to carry various loadouts, including bombs, unguided rocket pods, the martel or aim-9d guided missiles, reconnaissance pod or fuel tanks
+
+the raf ordered 118 of the gr mk.1 to 3 series harrier. the av-8a for the usmc and the spanish airforce was very similar and 113 craft were ordered.
+
+ hawker p.1127 (1960)
+ hawker siddeley kestrel (1964)
+ hawker siddeley harrier gr mk.1 (1966)
+ hawker siddeley harrier gr mk.1/1a (1969)
+ hawker siddeley harrier gr mk.3/3a 
+ british aerospace sea harrier frs mk.1 (1979)
+ british aerospace sea harrier frs mk.51 (1983)
+ british aerospace sea harrier fa2 (1988)
+ hawker siddeley harrier t mk.2/2a (1970)
+ hawker siddeley harrier t mk.4/4a 
+ british aerospace harrier t8 (1994)
+ hawker siddeley av-8a harrier (usmc version, 1970)
+ hawker siddeley av-8s matador (for spain, 1983)
+ mcdonnell douglas-bae av-8b harrier ii (1983)
+ british aerospace-mcdonnell douglas harrier gr mk.5/5a (1985)
+ british aerospace-mcdonnell douglas harrier gr7 (1992)
+ british aerospace harrier t mk.10
+ mcdonnell douglas-bae av-8b harrier ii plus (1992)
+
+the later model harriers are easily distinguished by their extended wingspan, the wings extending beyond the outrigger wheels that are at the wingtips of the earlier versions (including kestrel prototypes and the sea harrier).
+
+military service
+the sea harrier played a key role in the british victory in the falklands war. a total of twenty sea harriers were deployed from hms hermes and hms invincible, and they inflicted serious losses on the argentine air force destroying 23 aircraft in air-to-air combat. in all three sea harriers were lost to ground fire.
+
+the sea harrier also saw combat during the bosnia conflict, with one aircraft being shot down by serbian defences in 1994. during the kosovo war, combat air patrols were flown, but no weapons were fired. the sea harrier also made operational patrols over iraq during the 12 years of enforcing no-fly zones.
+
+the raf version of the hawker siddley harrier also saw combat during the falklands war. they operated from hms hermes and provided close air support to the ground forces. by the time the harrier next saw combat, all the raf hawker siddeley machines had been exchanged for the upgraded mcdonnell douglas derived harrier ii.
+
+the sea harrier and harrier gr7 forces were merged to formed joint force harrier in 2000. with the retirement of the sea harrier by 2006 the raf and rn will share the upgraded gr9 fleet until the introduction of the f-35 joint strike fighter.
+
+ja:ハリアー de:hawker siddeley harrier
+

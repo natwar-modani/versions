@@ -1,0 +1,67 @@
+da:isaac newton
+de:isaac newton
+eo:neuxtono
+fr:isaac newton
+nl:isaac newton
+pl:isaac newton
+sv:isaac newton
+
+image:newton.jpg
+sir isaac newton, (december 25, 1642 - march 20, 1727) was an english scientist, philosopher, mathematician, and alchemist who published the philosophiae naturalis principia mathematica, more commonly referred to as the principia, where he described the inverse-square law of gravitation (see law of nature) and, via his laws of motion, laid the groundwork for the field of classical mechanics. he was the first to show that the natural laws governing earthly motion and those governing celestial motion are not different from each other. he is often ranked as the greatest scientist of all time, and his works as the culmination of the scientific revolution.
+
+following is a brief biography - for more in depth information see the biographical subpages at the bottom of this article. 
+
+newton was born in woolsthorpe, lincolnshire. his father had died three months before newton's birth, and two years later his mother went to live with her new husband, leaving her son in the care of his grandmother.
+
+newton was educated at grantham grammar school. in 1661 he joined trinity college, cambridge, where his uncle william ayscough had studied. at that time the college's teachings were based on those of aristotle, but newton preferred to read the more advanced ideas of modern philosophers such as descartes, galileo, copernicus and kepler. in 1665 he discovered the binomial theorem and began to develop a mathematical theory that would later become calculus. soon after newton had collected his degree in 1665, the university closed down as a precaution against the great plague. for the next two years newton worked at home on calculus, optics and gravitation.
+
+tradition has it that newton was sitting under an apple tree when an apple fell on his head, and this made him understand that earthly and celestial gravitation are the same. this is an exaggeration of newton's own tale about sitting by the window of his home (woolsthorpe manor) and watching an apple fall from a tree. however it is now generally considered that he invented this story in his later life, to try to show how clever he was at drawing inspiration from everyday events and to try to show that he had the idea of gravity before anyone else.  a contemporary writer, william stukeley, recorded in his memoirs of sir isaac newton's life a conversation with newton in kensington on april 15 1726, in which newton recalled "when formerly, the notion of gravitation came into his mind. it was occasioned by the fall of an apple, as he sat in contemplative mood. why should that apple always descend perpendicularly to the ground, thought he to himself. why should it not go sideways or upwards, but constantly to the earth's centre."
+
+newton became a fellow of trinity college in 1667. in the same year he circulated his findings in de analysi per aequationes numeri terminorum infinitas (on analysis by infinite series), and later in de methodis serierum et fluxionum (on the methods of series and fluxions), whose title gave the name to his "method of fluxions".
+
+newton and gottfried wilhelm leibniz developed the theory of calculus independently and used different notations. although newton had worked out his own method before leibniz, the latter's notation and "differential method" were superior, and were generally adopted. though newton belongs among the brightest scientists of his era, the last twenty-five years of his life were marred by a bitter dispute with leibniz, whom he accused of plagiarism.
+
+he was elected lucasian professor of mathematics in 1669. this position exempted him from having to enter the church in order to remain a fellow of the college, and prevented the conflict that would have occurred between his anti-trinitarian views and the orthodoxy of the church.
+
+newton and optics
+
+from 1670 to 1672 he lectured on optics. during this period he investigated the refraction of light, demonstrating that a prism could decompose white light into a spectrum of colours, and then a lens and a second prism could recompose the multi-colored spectrum into white light. from his work he concluded that any refracting telescope would suffer from the dispersion of light into colours, and invented the reflecting telescope to bypass that problem. (later, when glasses with a variety of refractive properties became available, achromatic lenses became possible.) in 1671 the royal society asked for a demonstration of his reflecting telescope. their interest encouraged him to publish his notes on colour, which he later expanded into his opticks. when robert hooke criticised some of newton's ideas, newton was so offended that he withdrew from public debate. due to newton's paranoia, the two men remained enemies until hooke's death.
+
+newton argued that light is composed of particles. later physicists instead favored a wave explanation of light because of certain experimental findings. today's quantum mechanics recognizes a wave-particle duality. 
+
+in his hypothesis of light of 1675, newton relied on the existence of the ether to transmit forces between particles. newton was in contact with henry more, the cambridge platonist who was born in grantham, on alchemy, and now his interest in the subject revived.  he replaced the ether with occult forces based on hermetic ideas of attraction and repulsion between particles. john maynard keynes, who acquired many of newton's writings on alchemy, stated that "newton was not the first of the age of reason: he was the last of the magicians." newton's interest in alchemy cannot be isolated from his contributions to science. had he not believed in the occult idea of action at a distance, across a vacuum, he may not have developed his theory of gravity.
+
+in 1679, newton returned to his work on gravitation and its effect on the orbits of planets, with reference to kepler's laws of motion, and consulting with hooke and flamsteed on the subject. he published his results in de motu corporum (1684). this contained the beginnings of the laws of motion that would inform the principia.
+
+image:sir isaac newton.jpg
+philosophiae naturalis principia mathematica (now known as the principia) was published in 1687 with encouragement and financial help from edmond halley. in this work newton stated the three universal laws of motion that were not to be improved upon for the next three hundred years. he used the latin word gravitas (weight) for the force that would become known as gravity, and defined the law of universal gravitation. in the same work he presented the first analytical determination, based on boyle's law, of the speed of sound in air.
+
+with the principa, newton became internationally recognised. he acquired a circle of admirers, including the swiss-born mathematician nicolas fatio de duillier, with whom he formed an intense relationship that lasted until 1693. the end of this friendship led newton to a nervous breakdown.
+
+in the 1690s newton wrote a number of religious tracts dealing with the literal interpretation of the bible. henry more's belief in the infinity of the universe and rejection of cartesian dualism may have influenced newton's religious ideas. a manuscript he sent to john locke in which he disputed the existence of the trinity was never published. later works - the chronology of ancient kingdoms amended (1728) and observations upon the prophecies of daniel and the apocalypse of st. john (1733) - were published after his death. he also devoted a great deal of time to alchemy; this was at a time when there was no clear distinction between the science of chemistry and the pseudoscience of alchemy.
+
+newton was also a member of parliament from 1689 to 1690 and in 1701, but his only recorded comments were to complain about a cold draft in the chamber and request that the window be closed.
+
+newton moved to london to take up the post of warden of the royal mint in 1696, a position that he had obtained through the patronage of charles montague, then chancellor of the exchequer. he became master of the mint in 1699. these appointments were intended as sinecures, but newton took them seriously, exercising his power to reform the currency and punish counterfeiters. he retired from his cambridge duties in 1701.
+
+in 1701 newton anonymously published a law of thermodynamics now known as "newton's law of cooling" in the philosophical transactions of the royal society.
+
+in 1703 newton became president of the royal society and an associate of the french académie des sciences. in his position at the royal society, newton made an enemy of john flamsteed, the astronomer royal, by attempting to steal his catalogue of observations.
+
+opticks was published in english in 1704.
+
+newton was knighted by queen anne in 1705.
+
+arithmetica universalis was published in 1707.
+
+newton never married, nor had any recorded children. he died in london and was buried in westminster abbey.
+
+short chronicle, the system of the world, optical lectures, universal arithmetic, and de mundi systemate were published posthumously in 1728.
+
+newton is included in the top 10 of the 2002 100 greatest britons" poll sponsored by the bbc and voted for by the public.
+
+biographical subpages
+early life and achievements
+the first 15 years as lucasian professor
+authoring principia
+later life -- the mint and the royal society

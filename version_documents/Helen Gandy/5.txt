@@ -1,0 +1,5 @@
+<div class="boilerplate metadata" id="vfd" style="background-color: #fffce6; margin: 0 2.5%; padding: 0 10px; border: 1px solid #aaa;">
+a request has been made on wikipedia for this article to be deleted in accordance with the deletion policy.
+
+this request is being discussed to form a consensus whether this is, or could be, an article appropriate for wikipedia. please see this page's entry on the votes for deletion page for details. also see possible outlets for removed articles. if you feel deletion is not justified by wikipedia deletion policy you may vote against its deletion. please do not remove this notice or blank this page while the question is being considered. however, you are welcome to continue editing this article and improve it, especially if you can address the concerns of those who believe the article should be deleted.
+</div >

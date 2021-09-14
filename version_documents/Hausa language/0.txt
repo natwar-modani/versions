@@ -1,0 +1,30 @@
+hausa is the  chadic language with the largest number of speakers, spoken as a first language by about 24 million people, and as a second language by about 15 million more. native speakers of hausa are mostly to be found in the african country of niger and in the north of nigeria, but the language is widely used as a lingua franca in a much larger swathe of west africa, particularly amongst muslims. 
+
+hausa has had a written form for more than 200 years, at first with an arabic script, but this has largely been superseded by a latin script which was introduced at the beginning of the 20th century. hausa is a tone language. each of its five vowels a,e,i,o and u may have low tone, high tone and falling tone. for representing it in html for example the french accented vowels may be used:
+
+à è ì ò ù  (low tone)
+
+á é í ó ú   (high tone)
+
+â ê î ô û (falling tone)
+
+in general writing tone is often not marked. however it is needed for disambiguation in some cases.
+
+in the hausa alphabet there are three additional consonants which are added to the roman alphabet:
+
+ɓ &#595;
+
+ɗ &#599;
+
+ƙ &#409;
+
+(&#nnn; are the sgml character entities which give the unicode value in decimal)
+
+how to create a web page in hausa?
+ use any html editor or just plain text editor.
+ use qb for ɓ , qd for ɗ and qk for ƙ .
+ save your file by naming it  o-myhausafile.html.
+ open a command line interpreter
+ to replace the transcripted three consonsants run the command
+ sed -f hausatranscrtounicode.sed o-myhausafile.html > myhausafile.html
+ the file hausatranscrtounicode.sed contains the replacement commands for qb, qd, qk to unicode character entity 

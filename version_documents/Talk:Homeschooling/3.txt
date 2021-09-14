@@ -1,0 +1,36 @@
+archive 1
+
+ methods 
+
+i cut down the homeschooling methods section, reducing overhead verbiage and eliminating pro/con arguments which were aimed at "how to choose the right method for your family" which doesn't really belong in wikipedia -- same with advice about curriculum fairs and buying used materials. i also eliminated this entire paragraph:
+a family interested in homeschooling should first decide what their educational goals are, and then research options and resources through the internet and the public library. it can be helpful to attend homeschooling events to meet homeschoolers, learn about various topics and inspect educational materials. curriculum shops, web sites and mail-order houses can help locate conventions and conferences, as can a search of the internet. most families find a trip to a homeschooling convention fascinating, because of the number and scope of options. some find the options overwhelming and do better by finding a local homeschool group and learning from experienced homeschoolers.
+--wahoofive 19:06, 29 mar 2005 (utc)
+
+the best way to get started is to call the local board of education, inquire about the requirements of homeschooling and ask them to tell you how to get in touch with the local home school group. or find a way to get in touch with them yourself. they can tell you everything you need to get started. darthmalt
+
+ more removals 
+
+removed this from the "academic results" topic. it's worthwhile material, however, and should go somewhere:
+research in the uk from university of durham by paula rothermel shows that the parent's own education level did not correlate with outcomes for their home educated children.
+many advocates say that serious academic study should originate with primary sources, rather than with textbooks of questionable quality and possible bias.
+--wahoofive 19:29, 29 mar 2005 (utc)
+
+ recent revert 
+
+i removed the following paragraph added by user:papetti at the end of "social development":
+one could argue that homeschoolers are indeed socialized, simply socialized in a different way. people who grew up homeschooled tend to see the nuclear family as the basic unit of society, while those in public schools tend to see the family in the context of society at-large. by the same logic, private schools could be said to inculcate a meritocratic or even aristocratic view of society. questions of schooling are not about socialization or non-socialization, but about which kind of socialization a child should recieve.
+the purpose of this article isn't to debate, but just to present a neutral point of view. most of these points are already present in the article, but you're welcome to edit it if it isn't clear enough. —wahoofive | talk 22:02, 2 apr 2005 (utc)
+perhaps that is because many certified teachers choose to home school their own children.  if you want to play a constructive role, perhaps you can balance this with some truancy sites, or pro-schooling or pro-education sites that have a government school emphasis.  the other pov does not have to be critical of homeschooling, just praising of something that is quite the opposite.--silverback 02:14, apr 10, 2005 (utc)
+
+ external links 
+
+i have reorganized the external links into three categories. please feel free to change it as needed. however, there are far too many such links. this article does not need to be a resource for hs parents, and there's no need to list publishers of homeschool materials, for example. --wahoofive 18:33, 29 mar 2005 (utc)
+
+i agree that there are too many extern links.  to curb this problem in other articles that experience "link creep," notices have been added as comments in the extern links sections.  such as this one:
+<!-- do not add your pet site here without discussing it on the talk page first. if you add a site without discussing it first, it will be reverted, no questions asked. click the "discuss this page" link to start a discussion on why you think your site should be added. -->
+
+it's worked exceptionally well in other articles.  some sites are sometimes still added without discussion, but they are quickly reverted and the section stays nice and tidy. :-) before we do this, however, the extern links section will have to be heavily trimmed first. — frecklefoot | talk 15:28, apr 19, 2005 (utc)
+
+sounds good to me. what criteria could we use to determine which sites are worth keeping? i'd move we eliminate all the "resources for homeschoolers" links and most of the "pro-homeschooling" sites (maybe keep the first two plus wiked wiki). i'm the one who sorted the sites this way (from one big list), and i did it based on a pretty cursory examination, so maybe the "neutral" sites aren't. i propose that our focus should be sites about homeschooling, not how-to or "you can do it" or sites which are primarily advocacy (i think there's a distinction between sites which advocate hs directly to the reader and sites like hslda which are about organizations which advocate elsewhere than their website). we also need to try to keep some non-us sites. —wahoofive | talk 17:11, 19 apr 2005 (utc)
+
+okay, i just trimmed down the 

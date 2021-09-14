@@ -1,0 +1,24 @@
+hymenoptera is one of the larger orders of insects, comprising the sawflies, wasps, bees, and ants. the name refers to the membranous wings of the insects, and is derived from the ancient greek ὑμήν (humẽn): membrane and πτερόν (pteron): wing. the hindwings are connected to the forewings by a series of hooks called hamuli.
+
+females typically have a special ovipositor for inserting eggs into hosts or otherwise inaccessible places.  the ovipositor is often modified into a stinger. the young develop through complete metamorphosis — that is, they have a worm-like larval stage and an inactive pupal stage before they mature. (see holometabolism.)
+
+evolution
+hymenoptera originated in the triassic, the oldest fossils belonging to the family xyelidae. social hymenopterans appeared during the cretaceous. the evolution of this group has been intensively studied by a. rasnitsyn, m. s. engel, g. dlussky, and others.
+
+sex determination
+
+among the hymenopterans, sex is determined by the number of chromosomes an individual possesses. fertilized eggs get two sets of chromosomes (one from each parent's respective gametes), and so develop into diploid females, while unfertilized eggs only contain one set (from the mother), and so develop into haploid males; the act of fertilization is under the voluntary control of the egg-laying female.  this phenomenon is called haplodiploidy.  note, however, that the actual genetic mechanisms of haplodiploid sex determination may be more complex than simple chromosome number.  in many hymenoptera, sex is actually determined by a single gene locus with many alleles.  in these species, haploids are male and diploids heterozygous at the sex locus are female, but occasionally a diploid will be homozygous at the sex locus and develop as a male instead.  this is especially likely to occur in an individual whose parents were siblings or other close relatives.  diploid males are known to be produced by inbreeding in many ant, bee and wasp species.
+
+one consequence of haplodiploidy is that females on average actually have more genes in common with their sisters than they do with their own daughters.  because of this, cooperation among kindred females may be unusually advantageous, and has been hypothesized to contribute to the multiple origins of eusociality within this order.
+
+classification
+symphyta
+the suborder symphyta includes the sawflies, horntails, and parasitic wood wasps. the group appears to be paraphyletic, as it is often believed that the family orussidae may be the group from which the apocrita arose. they have an unconstricted junction between the thorax and abdomen, and the larvae of free-living forms are herbivorous, have legs, prolegs (on every segment, unlike lepidoptera), and ocelli.
+
+apocrita
+the wasps, bees, and ants together make up the suborder apocrita, characterized by a constriction between the first and second abdominal segments called a wasp-waist (petiole), also involving the fusion of the first abdominal segment to the thorax. also, the larvae of all apocrita do not have legs, prolegs, or ocelli.
+
+hymenoptera in fiction
+in the science fiction-themed pbem jmc blue dwarf, the name hymenoptera is given to a species of large space-travelling insects whom conquer planets to convert the planet's living protein into food.
+"first contant", by david ball (accessed 09 august 2007) many sub-species of hymenoptera have been mentioned. these large insects are allergic to alcohol."weapons and pills", by callum armour (accessed 09 august 2007)
+

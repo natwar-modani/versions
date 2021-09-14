@@ -1,0 +1,78 @@
+impacted wisdom teeth? andre 10:53, 5 aug 2004 (utc)
+
+it should be noted that this article appears to have been written by someone with the same wikipedia user name as one of the people named in the article.
+
+one might speculate on how long havenco could resist an attack from a nation state or its police force, or how robust its communications to the net are against attack.
+
+one might also speculate what form a sting operation by a nation state against prospective data haven users would take.
+
+the anome
+
+feel free to speculate on such things and add them to the article!
+
+(i am cto of havenco, but i think the havenco article is relatively unbiased; no one else posted anything yet, though)
+
+our policy has always been "we can destroy stuff before it is captured, and will do so".  we have sufficient security/military/etc. to protect equipment from our own staff, and from invasion.  we certainly can't defend against destruction.  our communications are relatively robust (terminating in many countries), but even someone like abovenet could be flooded off the net for a few weeks with enough effort.  our security is sufficient to delay capture long enough to destroy things (which in most cases just means shutting off power; disks are encrypted, and boot codes require positive cooperation and can be destroyed with a single switch)
+
+we also do tamper-resistant hardware for our more security-conscious customers -- even i can't compromise it.  even if the hardware fell into "enemy" hands for months, it would be in my opinion impossible to recover data.
+as for being a sting -- sure.  crypto ag is a better example.  we deal with this issue by not requiring *any* information from customers; leave a bag of cash in a locker at an airport, anonymous-remail me the code, i'll pick it up, and then put a server online, using factory-standard tamper-resistance, which can be remotely verified.  we *could* be a sting, but we work to make sure stuff is provably secure even from ourselves, so even if i worked for the cia or mi6, customers could trust our security due to faith in mathematics and physics.  i'd have *more* trust in havenco if it were mi6/cia, as then you'd know for sure it was being operated professionally.  most of our customers are casinos and backups anyway, and don't really care about security from intelligence agencies.
+
+i'll include some comments on this (including links to crypto ag and a brief article on it) if you don't.
+
+so, you are saying that you have direct undersea fibre connectivity to many countries?
+
+please explain 'factory-standard tamper-resistance'. 
+
+the anome
+
+wireless, satellite, etc. to many countries, yes.  fiber is planned but expensive to go to many countries.  also we handle layer-3 (ip) in more countries than layer-2, using encrypted tunnels.
+
+we have metal-enclosed coprocessors (486, crypto coprocessor, storage) inside sealed pci cards which zeroize themselves if they detect any attempt at tampering.  people run security-critical parts of their application on those, random other stuff outside.  so even if you break into the machine, all the critical data is on this card (which is really a separate computer), which runs a special-purpose os, has been audited, etc.
+
+costs range from ~$8 (ibutton) to ~$50k (compaq atalla); ibm 4758-002 is in my opinion the best.  there was recently found a vulnerability with one of the libraries, but it's not one we use.  the hardware itself is very secure.
+
+you mean michael bond and richard clayton's attack at http://www.cl.cam.ac.uk/~rnc1/descrack/ ?
+
+looking at the ibm documentation on the 4758, it is clear that the hardware's security hinges on the user trusting ibm (for example, only they should know the root certificate for the 4758).  but if you are a sting operation, ibm will surely have cooperated with those parties? and this same would be true of any us or uk sourced security hardware, such as the ibutton or the compaq.
+
+the anome
+
+yes, that research.
+
+you can do "cut and choose" verification on the hardware, and you can run your own software inside a module.  ibm doesn't have the ability to *change* the machines once they're released, only to certify fraudulent ones, so you can buy a thousand, open 999 to verify there is no backdoor, load your software into one, and then ship it, knowing it hasn't been tampered with.
+
+also there are non-us/uk manufacturers of such devices, and the technology to make such a device is not *that* impossible.  plus, you could do secret-sharing across multiple manufacturers, if you cared, at multiple sites.
+
+but most people have no reason to be so paranoid.  the people involved with havenco have some pre-havenco notoriety beforehand, but i suppose you could claim i was recruited by <agency> when i was 10 years old and raised to run a sting operation :)
+
+surely that's the point. if i am not paranoid, i don't need an offshore data haven.
+i just trust secure processor hardware and mathematics in a number of tier-1 secure colos in various jurisdictions. that gives me as much resilience and security as could normally be desired.
+if i want to go beyond this, i need to have my own physically secure premises and hire my own guard force.
+
+if someone is paranoid enough to need a data haven, then they are presumably either 
+ mentally ill or 
+ doing something that makes them reasonably expect to be subject to such attacks.
+if the former, no amount of security will satisfy them. if the latter, they will need to take precaustions that assume that serious resources will be brought to bear upon them - such as 
+ having a copy of the ibm 4758 root private key
+ bribing, threatening or simply employing third parties in a sting operation
+
+the anome
+
+i'm not convinced that it's necessary to explore the demand for a data haven in this particular article; perhaps that would be better suited to an article on data havens in general. if you're right about no one wanting a data haven, anome, then havenco will go under. time will tell. but i'd like to focus more on havenco itself, its relationship to that odd little place called sealand, and possible attacks and on havenco's setup. and avoiding turning the whole thing into an advertisement, of course. :) --stephen gilbert
+
+ i think this needs merging 
+
+with sealand! honestly, though the company is notable, i don't think its that important. - ta bu shi da yu 11:22, 1 jan 2005 (utc)
+
+ no, it needs un-merging
+
+havenco is distinct from roughs tower, rough sands and fort rough. the attempt to merge it all together is most likely being used to give the cachet of legitimacy to bates's project. we should neither confer this legitimacy, nor endorse it. but we should not denounce it either. we should merely describe the history of it all. uncle ed july 8, 2005 18:49 (utc)
+
+this article is unnecessary duplication
+this article is a verbatim copy of the havenco section of the sealand article.  there's no need for both of them.
+
+ data_haven 
+
+http://en.wikipedia.org/wiki/data_haven says it is not hosted from
+sealand anymore, so mention that, and also mention data_haven.
+--user:jidanni 2006-04-19

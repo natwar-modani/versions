@@ -1,0 +1,32 @@
+ citation needed in lead 
+
+ the tag you wanted to use was , however since that is the article lead (wp:lead) which summarizes the article, it's unnecessary to add citations to statements that are discussed in the body (the germany section mentions illegality, for instance).  i hope this helps, —paleoneonate – 23:23, 21 august 2018 (utc)
+
+ better late than early 
+
+ the quote you removed appears to be in the "better late than early" 1975 book (apparently there's a 1977 edition also).  i couldn't access the source to see if the remaining material properly summarized it, however.  —paleoneonate – 19:16, 5 october 2018 (utc)
+verified: https://books.google.com/books?id=ophkaaaamaaj&dq="this+is+like+saying," —paleoneonate – 19:24, 5 october 2018 (utc)
+
+ i just cut this out from the lede 
+
+because it talks about "critics" but none are referenced here or later in the article that i could find.  if i missed something feel free to undo this edit.
+"critics of homeschooling claim that students lack necessary social skills." carptrash (talk) 19:48, 5 october 2018 (utc)
+when checking the article's body criticism, it appears to be mentioned but considering that there currently are more counter-arguments (i can't say if it's in due weight without more work), it may be undue for the lead, at least as-is...  —paleoneonate – 03:47, 6 october 2018 (utc)
+sure "critics" say this, but try and find a study that supports it.  i doubt that there is one. carptrash (talk) 02:54, 7 october 2018 (utc)
+yes, i agree with you, unless we have more sources and material on it, the coverage is minimal and also likely undue for the lead.  —paleoneonate – 18:47, 10 october 2018 (utc)
+
+ home 
+
+ this talk page is where you should reach consensus for your changes when they're contested, instead of restoring them (wp:brd).  my only issue with it is that it doesn't reflect what the source cited says (which is important for the verification policy).  it may be simple to find an alternate source.  if you know one, please mention it.  thanks, —paleoneonate – 18:45, 10 october 2018 (utc)
+
+hi source:
+
+uk government, elective home education. guidelines for local authorities. 
+
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/288135/guidelines_for_las_on_elective_home_educationsecondrevisev2_0.pdf
+
+'learning may take place in a variety of locations, not just in the family home.' section 1.2
+
+i am not sure how to change this and cite. any help appreciated. marcelo1147 (talk) 06:16, 11 october 2018 (utc)
+
+carptrash already helped, thank you for the alternative source.  —paleoneonate – 22:41, 11 october 2018 (utc)

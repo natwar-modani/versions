@@ -1,0 +1,97 @@
+the haber process (also known as haber–bosch process) is the reaction of nitrogen and hydrogen to produce ammonia.
+
+even though 78.1% of the air we breathe is nitrogen, the gas is relatively inert due to the strength of the triple bond that keeps the molecule together. it was not until the start of the twentieth century that this method was developed to harness the atmospheric abundance of nitrogen to create ammonia, which can then be oxidised to make the nitrates and nitrites essential for the production of nitrate fertilizer and munitions.
+
+description
+in the haber process, nitrogen (n2) and hydrogen (h2) gases are reacted over an iron catalyst (fe3+) in which aluminium oxide (al2o3) and potassium oxide (k2o) are used as promoters. the reaction is carried out under conditions of 250 atmospheres (atm), 450-500 °c; resulting in a yield of 10-20%:
+
+n2(g) + 3h2(g) → 2nh3(g) δho = -92.4 kj/mol
+(where δho is the standard heat of reaction or standard enthalpy change)
+
+these conditions are chosen due to the high reaction rate which they foster, despite the poor relative amount of ammonia produced.
+
+history
+the process was first patented by fritz haber. in 1910 carl bosch, while working for chemical company basf, successfully commercialized the process and secured further patents. it was first used on an industrial scale by the germans during world war i: germany had previously imported 'chilean saltpeter' from chile, but the demand for munitions and the uncertainty of this supply in the war prompted the adoption of the process. without this process, germany would almost certainly have run out of munitions by 1916, thereby ending the war. the ammonia produced was oxidized for the production of nitric acid in the ostwald process, and the nitric acid for the production of various explosive nitro compounds used in munitions.
+
+the process
+the bulk of the chemical technology consists in getting the hydrogen from methane or natural gas using heterogeneous catalysis and then react it with the atmospheric nitrogen.
+
+ synthesis gas preparation
+
+first, the methane is cleaned, mainly to remove sulphur impurities that would poison the catalysts. this is done by turning sulphur into hydrogen sulphide:
+
+ch3sh + h2 → ch4 + h2s
+
+and then reacting with zinc oxide to form zinc sulphide:
+ h2s + zno → zns + h2o
+
+the clean methane is then reacted with steam over a catalyst of nickel oxide. this is called steam reforming and occurs in two steps:
+
+first step:
+(one mole of methane in)
+ch4 + h2o → co + 3h2 (3 moles of hydrogen out)
+
+co + h2o → co2 + h2 (1 extra mole of hydrogen out)
+note that 4 moles of hydrogen are produced per mole of methane
+
+secondary reforming then takes place with the addition of air:
+
+2 h2 + o2 + n2 → 2h2o + n2
+this now gives a ratio of nitrogen to hydrogen of 1:5
+
+then occur two’’shifts’’ which take co to co2 again by reaction with steam, one at high temperature, then one at low temperature:
+co + h2o → co2 + h2 high temperature 1:6
+→ the catalyst here is a mixture of iron, chromium and copper
+co + h2o → co2 + h2 low temperature 1:7
+→ the catalyst here is a mixture of copper, zinc and aluminum
+
+the removal of carbon dioxide is easily done by reaction with potassium carbonate.
+k2co3 + h2o + co2→ 2khco3
+
+the gas mixture is now passed into a methanator which converts any remaining co2 into methane for recycling:
+
+ co2 + 4h2 → ch4 + 2h2o 1:3
+
+we now have a gas mixture containing nitrogen and hydrogen in the correct ratio of 1:3. this is called synthesis gas.
+
+ammonia synthesis
+the final stage is the crucial synthesis of ammonia using promoted magnetite, iron oxide, as the catalyst:
+
+n2(g) + 3h2(g) → 2nh3(g) + δho = -92.4 kj/mol
+
+this is done at 100 - 250 atmospheres (atm) and between 300 and 550 °c, passing the gases over four beds of catalyst, with cooling between each pass to maintain a reasonable equilibrium constant. on each pass only about 15% conversion occurs, but any un-reacted gases will be recycled, so that eventually an overall yield of 98% can be achieved.
+
+reaction rate and equilibrium
+there are two main opposing factors in this synthesis: the temperature and the rate of reaction. at room temperature, the reaction is painfully slow and the obvious solution is to raise the temperature. this may increase the rate of the reaction but, since the reaction is exothermic, it also has the effect, according to le chatelier's principle, of favouring the reverse reaction and thus reducing equilibrium constant, given by:
+
+as the temperature increases, the equilibrium is shifted and hence, the constant drops dramatically according to the van't hoff equation.
+
+ temp. (°c) keq 25  6.4 x 102200  4.4 x 10-1300  4.3 x 10-3400  1.6 x 10-4500  1.5 x 10-5
+
+thus one might suppose that a low temperature is to be used and some other means to increase rate. however, the catalyst itself requires a temperature of at least 400 °c to be efficient.
+
+pressure is the obvious choice to favour the forward reaction because there are 4 moles of reactant for every 2 moles of product, and the pressure used (around 200 atm) alters the equilibrium concentrations to give a profitable yield.
+
+economically, though, pressure is an expensive commodity. pipes and reaction vessels need to be strengthened, valves more rigorous, and there are safety considerations of working at 200 atm. in addition, running pumps and compressors takes considerable energy. thus the compromise used gives a single pass yield of around 15%.
+
+an additional way to force the reaction to the right is to remove the product from the system. this is done by lowering the temperature of the product gases that are still under high pressure and effectively freezing out the liquid ammonia, while the hydrogen and nitrogen remain as gases.
+
+catalysts
+the catalyst has no effect on the position of equilibrium, rather, it provides an alternative pathway with lower activation energy and hence increases the reaction rate, while remaining chemically unchanged at the end of the reaction. the first haber–bosch reaction chambers used osmium and uranium catalysts. however, today a much less expensive iron catalyst is used almost exclusively.
+
+in industrial practice, the iron catalyst is prepared by exposing a mass of magnetite, an iron oxide, to the hot hydrogen feedstock. this reduces some of the magnetite to metallic iron, removing oxygen in the process. however, the catalyst maintains most of its bulk volume during the reduction, and so the result is a highly porous material whose large surface area aids its effectiveness as a catalyst. other minor components of the catalyst include calcium and aluminum oxides, which support the porous iron catalyst and help it maintain its surface area over time, and potassium, which increases the electron density of the catalyst and so improves its reactivity.
+
+the reaction mechanism, involving the heterogeneous catalyst, is believed to be as follows:
+
+ n2(g) → n2(absorbed)
+ n2(absorbed) → 2n(absorbed)
+ h2(g) → h2(absorbed)
+ h2(absorbed) → 2h(absorbed)
+ n(adsorbed) + 3h(absorbed)→ nh3(absorbed)
+ nh3(absorbed) → nh3(g)
+
+reaction 5 occurs in three steps, forming nh, nh2, and then nh3. experimental evidence points to reaction 2 as being the slow, rate-determining step.
+
+conclusion
+the haber process now produces 100 million tons of nitrogen fertilizer per year, mostly in the form of anhydrous ammonia, ammonium nitrate, and urea. 1% of the world's annual energy supply is consumed in the haber process. that fertilizer is responsible for sustaining 40% of the earth's population, as well as various deleterious environmental consequences, although the total may be higher due to the north korea's refusal to give reports .
+

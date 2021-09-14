@@ -1,0 +1,34 @@
+hemophilia is the name of several hereditary genetic illnesses that impair the body's ability to control bleeding (an impairment known technically as bleeding diathesis).  genetic deficiencies and a rare autoimmune disorder may cause lowered plasma clotting factor activity so as to compromise blood-clotting; when a blood vessel is injured, a scab does not form and the vessel continues to bleed for an excessive period of time. the bleeding can be external, if the skin is broken by a scrape, cut or abrasion, or it can be [retard] internal, into muscles, joints or hollow organs. the result may be visible (e.g., skin bruises) or subtle (e.g., melena, hematuria, or bleeding in the brain).
+
+forms
+hemophilia a - factor viii deficiency, "classic hemophilia" (x-linked recessive)
+hemophilia b - factor ix deficiency, "christmas disease" (x-linked recessive)
+hemophilia c - factor xi deficiency (ashkenazi jews, autosomal recessive)
+
+the unrelated type 1 and type 2 von willebrand disease (vwd) are milder than any of the three hemophilias; only type 3 von willebrand disease expresses a severity similar to the hemophilias. vwd is caused by mutations in the coagulation protein von willebrand factor. it is the most common coagulation disorder present in 1% of the population.
+
+genetics structure
+right|x-linked recessive inheritance
+
+females possess two x-chromosomes, whereas males have one x and one y chromosome. since the mutations causing the disease are recessive, a woman carrying the defect on one of her x-chromosomes can not be affected by it, as the equivalent allele on her other chromosome should express itself to produce the necessary clotting factors. however the y-chromosome in men has no gene for factors viii or ix. if the genes responsible for production of factor viii or factor ix present on a male's x-chromosome is deficient there is no equivalent on the y-chromosome, so the deficient gene is not masked by the dominant allele and he will develop the illness.
+
+since a male receives his single x-chromosome from his mother, the son of a healthy female silently carrying the deficient gene will have a 50% chance of inheriting that gene from her and with it the disease; and if his mother is affected with hemophilia, he will have a 100% chance of being a hemophiliac. in contrast, for a female to inherit the disease, she must receive two deficient x-chromosomes, one from her mother and the other from her father (who must therefore be a hemophiliac himself). hence hemophilia is far more common among males than females. however it is possible for female carriers to become mild hemophiliacs due to lyonisation of the x chromosomes. hemophiliac daughters are more common than they once were, as improved treatments for the disease have allowed more hemophiliac males to survive to adulthood and become parents. adult females may experience menorrhagia (heavy periods) due to the bleeding tendency.
+
+as with all genetic disorders, it is of course also possible for a human to acquire it spontaneously (de novo), rather than inheriting it, because of a new mutation in one of their parents' gametes. spontaneous mutations account for about 1/3 of all hemophilia a and 1/5 of all hemophilia b cases. genetic testing and genetic counseling is recommended for families with hemophilia.  prenatal testing, such as amniocentesis, is available to pregnant women who may be carriers of the condition.
+
+probability
+if a female gives birth to a hemophiliac child, she is a carrier for the disease. until modern direct dna testing, however, it was impossible to determine if a female with only healthy children was a carrier or not. generally, the more healthy sons she bore, the higher the probability that she was not a carrier. if the rh factor of the born male is different from the mother, the child will be not affected.
+
+it is estimated that about 0.006% of the united states population suffers from hemophilia.
+
+treatment
+though there is no cure for hemophilia, it can be controlled with regular injections of the deficient clotting factor, i.e. factor viii in hemophilia a or factor ix in hemophilia b. some hemophiliacs develop antibodies (inhibitors) against the replacement factors given to them, so the amount of the factor has to be increased or non-human replacement products must be given, such as porcine factor viii.
+
+if a patient becomes refractory to replacement coagulation factor as a result of circulating inhibitors, this may be overcome with recombinant human factor vii (novoseven®), which is registered for this indication in many countries.
+
+in western countries, common standards of care fall into one of two categories: prophylaxis or on-demand. prophylaxis involves the infusion of clotting factor on a regular schedule in order to keep clotting levels sufficiently high to prevent spontaneous bleeding episodes. on-demand treatment involves treating bleeding episodes once they arise.
+
+as a direct result of the contamination of the blood supply in the late 1970s and early/mid 1980s with viruses such as hepatitis and hiv, new methods were developed in the production of clotting factor products. the initial response was to heat treat (pasteurize) plasma-derived factor concentrate, followed by the development of monoclonal factor concentrates which use a combination of heat treatment and affinity chromatography to inactivate any viral agents in the pooled plasma from which the factor concentrate is derived. the lindsay tribunal in ireland investigated, among other things, the slow adoption of the new methods.
+
+since 1993(dr. mary nugent), recombinant factor products (which are typically cultured in chinese hamster ovary (cho) tissue culture cells and involve little, if any human plasma products) have become available and are widely used in wealthier western countries. while recombinant clotting factor products offer higher purity and safety, they are, like concentrate, extremely expensive, and not generally available in the developing world. in many cases, factor products of any sort are difficult to obtain in developing countries.
+

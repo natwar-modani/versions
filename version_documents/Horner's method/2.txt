@@ -1,0 +1,34 @@
+in the mathematical subfield of numerical analysis the horner scheme or horner algorithm, named after william george horner, is an algorithm for the efficient evaluation of polynomials in monomial form.
+
+history
+even though it is named after william george horner, who described the algorithm in 1819, it was already known to isaac newton in 1669 and even to the chinese mathematician ch'in chiu-shao around 1200s.
+
+it has been shown that the horner scheme is optimal, that is, any algorithm that evaluates an arbitrary polynomial must use at least as many steps. that the number of additions required is minimal was shown by alexander ostrowski in 1954, and victor pan proved that the number of multiplications is minimal in 1966.
+
+basic idea
+assume we want to evaluate the polynomial in the monomial form
+
+for given a0,...,an. that is we want to know
+
+for a given x. when using the monomial form of the polynomial we need n additions and (n2+n)/2 multiplications for the calculation of p(x). our aim is to decrease the number of multiplications because they are slow and  numerically unstable compared to the additions. the horner algorithm rearranges the polynomial into the recursive form
+ 
+
+and then evaluates the polynomial recursively using only n additions and n multiplications. additionally it is numerically more stable because we eliminated some multiplications. alternatively it could be computed with n fused multiply-adds.
+
+horner algorithm
+
+given the polynomial
+
+we rearrange it into
+
+then starting from the innermost parentheses and working outwards we define
+
+if we put the bn in the polynomial we see that
+
+so b0 is the value of the polynomial p at x.
+
+application
+the horner scheme is often used to convert between different positional numeral systems (in which case x is the base of the number system, and the ai are the digits) and can also be used if x is a matrix, in which case the gain is even larger.
+
+the horner scheme can also be viewed as a fast algorithm for dividing a polynomial by a linear polynomial (see ruffini's rule).
+

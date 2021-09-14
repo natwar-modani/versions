@@ -1,0 +1,23 @@
+thumb|right|200px|henry moseley
+
+henry gwyn jeffreys moseley (november 23, 1887 – august 10, 1915) was an english physicist.  his main contribution to science, the justification of the concept of atomic number, advanced chemistry.
+
+ biography 
+moseley was born in weymouth, on the south west coast of england, 1887, the youngest of 22 children. he attended eton college on a king's scholarship . in 1906, he entered trinity college of the university of oxford, and on graduation from that institution in 1910 went to manchester university to work with ernest rutherford. during his first year at manchester, he had a full teaching load, but after a year he was relieved of his teaching duties and began full-time research.
+
+in 1913, by using x-ray spectra obtained by diffraction in crystals, he found a systematic relation between wavelength and atomic number, moseley's law. previous to this, atomic numbers had been thought of as an arbitrary number, based on sequence of atomic weights, but altered when necessary (for example, by dmitri mendeleev) to put an element in the appropriate place in the periodic table. moseley's discovery showed that atomic numbers were not arbitrary but had an experimentally measurable basis. in addition, moseley showed that there were gaps in the sequence at numbers 43, 61 and 75 (now known to be radioactive, non-naturally-occurring, technetium and promethium, and the last discovered naturally-occurring element rhenium, respectively). mendeleev had previously predicted technetium, and bohuslav brauner had previously predicted promethium; moseley confirmed their predictions, predicted one additional undiscovered element, and showed there were no other gaps in the periodic table between aluminum and gold.
+
+in 1914, he resigned at manchester to return to oxford to pursue his research, but when world war i broke out, he turned down a job offer and enlisted in the royal engineers. he fought at gallipoli, where he was killed in action by a sniper in 1915. many have since speculated that he could have won the nobel prize, but was unable to because it is only awarded to the living.
+
+only twenty-seven years old at death, moseley could in many scientists' opinions have contributed much to the knowledge of atomic structure had he lived.  as niels bohr once said in 1962, "you see actually the rutherford work [the nuclear atom] was not taken seriously. we cannot understand today, but it was not taken seriously at all. there was no mention of it any place. the great change came from moseley."  it is speculated that because of moseley's death in the war that the british and other world governments no longer allowed their scientists to enlist in combat.
+
+ contribution to our understanding 
+previous to moseley and his law, atomic numbers had been thought of as an arbitrary number. moseley's discovery showed that atomic numbers were not arbitrary but had an experimentally measurable basis; basically he redefined the idea of atomic numbers from an around about approximation to help sorting, i.e. in the periodic table, to something more clearly measurable.
+
+ use of x-ray spectrometer 
+x-ray spectrometers as moseley knew them worked as follows; electrons are fired at a substance (i.e. element in his case) which then emits x-rays which are diffracted by a crystal allowing the wave length to be measured.
+
+ further reading 
+john l. heilbron, h. g. j. moseley: the life and letters of an english physicist, 1887-1915, university of california press berkeley and los angeles, california, 1974. isbn 0-520-02375-7.
+
+ 

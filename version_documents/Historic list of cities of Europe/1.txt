@@ -1,0 +1,27 @@
+the biggest towns in europe in 1700 (population in brackets) :
+ london (500,000)
+ paris (400,000)
+ naples (215,000)
+ amsterdam (180,000)
+ moscow (150,000)
+ venice (138,000)
+ rome (130,000)
+ milan (120,000)
+ madrid (100,000)
+ vienna (100,000)
+ sarajevo (80,000)
+ gdańsk (77,000)
+
+the biggest towns in europe in 1800 (population in brackets) :
+ london (1,000,000)
+ paris (600,000)
+ naples (426,000)
+ moscow (400,000)
+ vienna (240,000)
+ amsterdam (220,000)
+ saint petersburg (200,000)
+ dublin (200,000)
+ lisbon (180,000)
+ berlin (172,000)
+ warsaw (120,000) 1792
+

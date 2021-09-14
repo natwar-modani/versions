@@ -1,0 +1,39 @@
+this article refers to the military hmmwv, not the civilian hummer sold by general motors
+<div style="float: right; margin-top: 0px; background-color: #white; border: 0px solid #black; padding-left: 10px; width:210px; clear: both;">
+<table border="1" cellpadding="2" cellspacing="0" align="right" width="200px">
+[[image:hmmwv model.jpg|200px|scale model of hmmwv m1025 armored armament carrier, european color scheme]]
+<td colspan="2" cellspacing="0" cellpadding="2" bgcolor="#ffdead">general characteristics (humvee)
+</tr> 
+manufacturer: am general
+length:4.57 to 5.13 m 
+width:2.16 m  
+height: 1.75 to 2.59 m
+ground clearance: 0.4 m (axle), 0.6 (chasis)
+mass: 3 492 - 4 535 kg
+speed:88.5 km/h 
+range:440 - 540 km  
+crew:2-4 men 
+</table>
+</div>
+the m998 high mobility multipurpose wheeled vehicle (hmmwv or hum-vee) is a highly durable military motor vehicle. it has completely supplanted the role formerly served by the jeep with the united states military.
+
+ features 
+there are at least 17 variants of the hmmwv in service with the united states armed forces.  hmmwv serve as cargo/troop carriers, automatic weapons platforms, ambulances (4 litter patients or 8 ambulatory patients), m220 tow missile carriers, m119 howitzer prime movers, avenger surface-to-air missile platforms, mrq-12 direct air support vehicles, s250 shelter carriers among many others. it is capable of fording 0.762 m normally, or 1.5 meter with deep water fording kit.
+
+optional equipment includes a winch (max load capacity 6000lbs), and supplemental armor.  the m1025 and m1043/m1044 armament carriers provide mounting and firing capabilities for the mk19 grenade launcher, the m2 machine gun, the m240g machine gun and m249 saw.
+
+ history 
+in the 1970s, the united states army concluded that the militarized civilian trucks in use no longer satisfied their requirements.  in 1979, the army drafted specifications for a high mobility multipurpose wheeled vehicle, or hmmwv. in july of that year, am general began preliminary design work, and less than a year later, the first prototype, the m998, was in testing. 
+
+in june 1981, the army awarded am general a contract for development of several more prototype vehicles to be delivered to the u.s. government for another series of tests, and the company was later awarded the initial production contract for 55,000 hmmwvs to be delivered in 1985.  hmmwvs first saw combat in the first gulf war.
+
+they have become the backbone of u.s. forces around the world.  in the 2003 invasion of iraq over 10,000 were used.
+
+ usage in iraq and political implications 
+thumb|a destroyed humvee following a rpg attack
+the hmmwv has proven very vulnerable to light infantry weapons. the doors do not typically offer bullet-proof protections, and the overall vehicle is very vulnerable to rocket propelled grenades which are common amongst the iraqi resistance. although there are several armor kits available for the vehicle which afford it greater protection from small arms fire, it was not provided in great numbers to american forces in iraq before the invasion.  as a result of this, american soldiers and marines often have to improvise extra armor layers with scrap materials to improve the safety of the hmmwv.  while "hardening" or "up-armoring" their vehicles with sandbags, metal, and plywood does make the vehicles arguably safer, it also slows them down.  it has also been argued that hardening simply creates more shrapnel when attacked with an rpg or improvised explosive device. this extra hardening further hampered the ability of the 998 and 1025 through the addition of excess weight which overloaded the suspension and drivetrain components of these hmmwv's.
+
+the hmmwv has come to be a political symbol of the us occupation of iraq and its struggle with the resistance. in 2004, secretary of defense donald rumsfeld has come under criticism from us soldiers and their families for not providing better equipped hmmwv .
+
+to answer these troop safety issues the us department of defense contracted am general to make the m-1114 uparmored hmmwv. the 1114 has been in limited production since 1996 and seen limited use in the balkans before military deployment to the middle east. this design has a larger more powerful engine with a turbocharger, air-conditioning and a strenghtened suspension and boasts a fully armored passenger area protected by hardened steel and bullet proof glass. the m-1114 has proven it's worth at increased cost by saving countless lives of american military personell where the standard 998 and 1025 variants would have been destroyed. at this level of hardening the previous concerns about excess shrapnel during an attack have been proven unfounded. with the increase in direct attacks and geurilla warfare in iraq am general has diverted the majority of it's manufacturing power to producing these vehicles.
+

@@ -1,0 +1,87 @@
+for the various types of hierarchy, see hierarchy (disambiguation)
+
+a hierarchy (in greek: often used in geographic studies , it is derived from  — hieros, sacred, and  — arkho, rule) is a system of ranking and organizing things or people, where each element of the system (except for the top element) is subordinate to a single other element.
+
+the first use of the word "hierarchy" cited by the oxford english dictionary was in 1880, when it was used in reference to the three orders of three angels as depicted by pseudo-dionysius the areopagite. pseudo-dionysius used the word both in reference to the celestial hierarchy and the ecclesiastical hierarchy . his term is derived from the greek for 'bishop' (hierarch), and dionysius is credited with first use of it as an abstract noun. since hierarchical churches, such as the roman catholic and eastern orthodox churches, had tables of organization that were "hierarchical" in the modern sense of the word (traditionally with god as the pinnacle of the hierarchy), the term came to refer to similar organizational methods in more general settings.
+
+a hierarchy can link entities either directly or indirectly, and either vertically or horizontally. the only direct links in a hierarchy, insofar as they are hierarchical, are to one's immediate superior or to one of one's subordinates, although a system that is largely hierarchical can also incorporate other organizational patterns. indirect hierarchical links can extend "vertically" upwards or downwards via multiple links in the same direction. all parts of the hierarchy which are not vertically linked to one another can nevertheless be "horizontally" linked by traveling up the hierarchy to find a common direct or indirect superior, and then down again. this is akin to two co-workers, neither of whom is the other's boss, but both of whose chains of command will eventually meet.
+
+these relationships can be formalized mathematically; see hierarchy (mathematics).
+
+ computation and electronics 
+
+large electronic devices such as computers are usually composed of modules, which are themselves created out of smaller components (integrated circuits), which in turn are internally organized using hierarchical methods (e.g. using standard cells). the order of tasks  in a computational algorithm is often managed hierarchically, with repeated loops nested within one another. computer files in a file system are stored in a hierarchy of directories in most operating systems. in object-oriented programming, classes are organized hierarchically; the relationship between two related classes is called inheritance. in the internet, ip addresses are increasingly organized in a hierarchy (so that the routing will continue to function as the internet grows).
+
+ biological taxonomy 
+
+in biology, the study of taxonomy is one of the most conventionally hierarchical kinds of knowledge, placing all living beings in a nested structure of divisions related to their probable evolutionary descent. most evolutionary biologists assert a hierarchy extending from the level of the specimen (an individual living organism — say, a single newt), to the species of which it is a member (perhaps the eastern newt), outward to further successive levels of genus, family, order, class, phylum, and kingdom. (a newt is a kind of salamander (family), and all salamanders are types of amphibians (class), which are all types of vertebrates (phylum).) essential to this kind of reasoning is the proof that members of a division on one level are more closely related to one another than to members of a different division on the same level; they must also share ancestry in the level above. thus, the system is hierarchical because it forbids the possibility of overlapping categories. for example, it will not permit a 'family' of beings containing some examples that are amphibians and others that are reptiles — divisions on any level do not straddle the categories of structure that are hierarchically above it. (such straddling would be an example of heterarchy.)
+
+organisms are also commonly described as assemblies of parts (organs) which are themselves assemblies of yet smaller parts. when we observe that the relationship of cell to organ is like that of the relationship of organ to body, we are invoking the hierarchical aspects of physiology. (the term "organic" is often used to describe a sense of the small imitating the large, which suggests hierarchy, but isn't necessarily hierarchical.) the analogy of organ to body also extends to the relationship of a living being as a system that might resemble an ecosystem consisting of several living beings; physiology is thus hierarchically nested in ecology.
+
+ physics 
+
+in physics, the standard model of reasoning on the nature of the physical world decomposes large bodies down to their smallest particle components. observations on the subatomic (particle) level are often seen as fundamental constituent axioms, on which conclusions about the atomic and molecular levels depend. the relationships of energy and gravity between celestial bodies are, in turn, dependent upon the atomic and molecular properties of smaller bodies. in energetics, energy quality is sometimes used to quantify energy hierarchy.
+
+ language and semiotics 
+
+in linguistics, especially in the work of noam chomsky, and of later generative linguistics theories, such as ray jackendoff's, words or sentences are often broken down into hierarchies of parts and wholes. hierarchical reasoning about the underlying structure of language expressions leads some linguists to the hypothesis that the world's languages are bound together in a broad array of variants subordinate to a single universal grammar.
+
+ music 
+
+in music, the structure of a composition is often understood hierarchically (for example by heinrich schenker (1868–1935, see schenkerian analysis), and in the (1985) generative theory of tonal music, by composer fred lerdahl and linguist ray jackendoff). the sum of all notes in a piece is understood to be an all-inclusive surface, which can be reduced to successively more sparse and more fundamental types of motion. the levels of structure that operate in schenker's theory are the foreground, which is seen in all the details of the musical score; the middle ground, which is roughly a summary of an essential contrapuntal progression and voice-leading; and the background or ursatz, which is one of only a few basic "long-range counterpoint" structures that are shared in the gamut of tonal music literature.
+
+the pitches and form of tonal music are organized hierarchically, all pitches deriving their importance from their relationship to a tonic key, and secondary themes in other keys are brought back to the tonic in a recapitulation of the primary theme. susan mcclary connects this specifically in the sonata-allegro form to the feminist hierarchy of gender (see above) in her book feminine endings, even pointing out that primary themes were often previously called "masculine" and secondary themes "feminine."
+
+ ethics, behavioral psychology, philosophies of identity 
+
+in ethics, various virtues are enumerated and sometimes organized hierarchically according to certain brands of virtue theory.
+
+in all of these examples, there is an asymmetry of 'compositional' significance between levels of structure, so that small parts of the whole hierarchical array depend, for their meaning, on their membership in larger parts.
+
+in the work of diverse theorists such as william james (1842–1910), michel foucault (1926–1984) and hayden white, important critiques of hierarchical epistemology are advanced. james famously asserts in his work "radical empiricism" that clear distinctions of type and category are a constant but unwritten goal of scientific reasoning, so that when they are discovered, success is declared. but if aspects of the world are organized differently, involving inherent and intractable ambiguities, then scientific questions are often considered unresolved. a hesitation to declare success upon the discovery of ambiguities leaves heterarchy at an artificial and subjective disadvantage in the scope of human knowledge. this bias is an artifact of an aesthetic or pedagogical preference for hierarchy, and not necessarily an expression of objective observation.
+
+ hierarchies in programming 
+
+the concept of hierarchies plays a large part in object oriented programming. for more information see hierarchy (object-oriented programming) and memory hierarchy.
+
+ containment hierarchy 
+
+a containment hierarchy is a collection of strictly nested sets. each entry in the hierarchy designates a set such that the previous entry is a strict superset, and the next entry is a strict subset. for example, all rectangles are quadrilaterals, but not all quadrilaterals are rectangles, and all squares are rectangles, but not all rectangles are squares. (see also: taxonomy.)
+
+ in geometry: shape, polygon, quadrilateral, rectangle, square
+ in biology: animal, bird, raptor, eagle, golden eagle
+ the chomsky hierarchy in formal languages: recursively enumerable, context-sensitive, context-free, and regular
+ in physics: elementary particle, fermion, lepton, electron
+ social hierarchies 
+
+many human organizations, such as businesses, churches, armies and political movements are hierarchical organizations, at least officially; commonly seniors, called "bosses", have more power than their subordinates. thus the relationship defining this hierarchy is "commands" or "has power over". (some analysts question whether power "really" works as the traditional organizational chart indicates, however.) see also chain of command.
+
+some social insect species (bees, ants, termites) depend on matrilineal hierarchies centred on a queen with undeveloped female insects as attendants and workers.
+
+many social criticisms include a questioning of social hierarchies seen as being unjust. feminism, for instance, often discusses a hierarchy of gender, in which a culture sees males or masculine traits as superior to females or feminine traits.
+
+in the terms above, some feminism criticizes a hierarchy of only two nodes, "masculine" and "feminine", connected by the asymmetrical relationship "is more valuable to society", for example:
+
+ the hierarchical nature of the dualism — the systematic devaluation of females and whatever is metaphorically understood as "feminine" — is what i identify as sexism. (nelson 1992 p. 106)
+
+note that in this context and in other social criticisms, the word hierarchy usually is used as meaning power hierarchy or power structure. feminists may not take issue with inanimate objects being organized in a hierarchical fashion, but rather with the specific asymmetrical organization of unequal value and power between men and women and, usually, other social hierarchies such as in racism and anti-gay bias.
+
+anarchism, and other anti-authoritarian social movements, seek to eliminate all hierarchical social relationships.
+
+ alternatives 
+
+hierarchies and hierarchical thinking has been criticized by some, as shown above in social hierarchies and hierarchical nomenclatures in the arts and sciences. possible hierarchy alternatives include:
+
+ applied 
+ democracy — command hierarchy and workplace democracy
+ anarchism as a social/political theory and practice
+ markets and associated tools such as contracts and property
+ peer-to-peer networks
+
+ theoretic 
+ graph (mathematics)
+ triarchy theory, which proposes also heterarchy and responsible autonomy. see the three ways of getting things done.
+
+ footnotes 
+
+ 

@@ -1,0 +1,9 @@
+h.263 is a video codec originally designed by the itu-t in 1995/1996 as a low-bitrate compressed encoding solution for videoconferencing. 
+ 
+the codec was first designed to be utilized in h.324 based systems (pstn and other circuit-switched network videoconferencing and videotelephony), but has since found use in h.323 (rtp/ip-based videoconferencing), h.320 (isdn-based videoconferencing), rtsp (streaming media) and sip (internet conferencing) solutions as well.
+most flash video content (as used on sites such as youtube, google video, myspace etc.) is encoded in this format, though some sites now use vp6 encoding, which is supported since flash 8. h.263 video can be decoded with the free lgpl-licensed libavcodec library (part of the ffmpeg project) which is used by programs such as ffdshow, vlc media player and mplayer.
+
+h.263 was developed as an evolutionary improvement based on experience from h.261, the previous itu-t standard for video compression, and the mpeg-1 and mpeg-2 standards.  its first version was completed in 1995 and provided a suitable replacement for h.261 at all bitrates.  it was further enhanced in projects known as h.263v2 (also known as h.263+ or h.263 1998) and h.263v3 (also known as h.263++ or h.263 2000).
+
+the next enhanced codec developed by the itu-t (in partnership with mpeg) after h.263 is the h.264 standard, also known as avc and mpeg-4 part 10.  as h.264 provides a significant improvement in capability beyond h.263, the h.263 standard is now considered primarily a legacy design (although this is a recent development).  most new videoconferencing products now include h.264 as well as h.263 and h.261 capabilities.
+

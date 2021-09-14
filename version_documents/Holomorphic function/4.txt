@@ -1,0 +1,78 @@
+right|thumb|a rectangular grid (top) and its image under a holomorphic function f (bottom).
+
+in mathematics, holomorphic functions are the central objects of study in complex analysis.  a holomorphic function is a complex-valued function of one or more complex variables that is complex-differentiable in a neighborhood of every point in its domain.  the existence of a complex derivative is a very strong condition, for it implies that any holomorphic function is actually infinitely differentiable and equal to its own taylor series. 
+
+the term analytic function is often used interchangeably with “holomorphic function”, although the word “analytic” is also used in a broader sense to describe any function (real, complex, or of more general type) that is equal to its taylor series in a neighborhood of each point in its domain. the fact that the class of complex analytic functions coincides with the class of holomorphic functions is a major theorem in complex analysis.
+
+holomorphic functions are also sometimes referred to as regular functionsspringer online reference books, wolfram mathworld or as conformal maps.  a holomorphic function whose domain is the whole complex plane is called an entire function. the phrase "holomorphic at a point z0" means not just differentiable at z0, but differentiable everywhere within some neighbourhood of z0 in the complex plane.
+
+ definition 
+given a complex-valued function ƒ of a single complex variable, the derivative of ƒ at a point z0 in its domain is defined by the limit
+
+this is the same as the definition of the derivative for real functions, except that all of the quantities are complex.  in particular, the limit is taken as the complex number z approaches z0, and must have the same value for any sequence of complex values for z that approach z0 on the complex plane.  if the limit exists, we say that ƒ is differentiable at the point z0.  this concept of complex differentiability shares several properties with real differentiability: it is linear and obeys the product rule, quotient rule, and chain rule.
+
+if ƒ is complex differentiable at every point z0 in u, we say that ƒ is holomorphic on u.  we say that ƒ is holomorphic at the point z0 if it is holomorphic on some neighborhood of z0. we say that ƒ is holomorphic on some non-open set a if it is holomorphic in an open set containing a.
+
+the relationship between real differentiability and complex differentiability is the following. if a complex function  =  is holomorphic, then u and v have first partial derivatives with respect to x and y, and satisfy the cauchy–riemann equations:
+
+if continuity is not a given, the converse is not necessarily true.  a simple converse is that if u and v have continuous first partial derivatives and satisfy the cauchy–riemann equations, then ƒ is holomorphic.  a more satisfying converse, which is much harder to prove, is the looman–menchoff theorem:  if ƒ is continuous, u and v have first partial derivatives, and they satisfy the cauchy–riemann equations, then ƒ is holomorphic.
+
+ terminology 
+
+the word "holomorphic" was introduced by two of cauchy's students, briot (1817–1882) and bouquet (1819–1895), and derives from the greek ὅλος (holos) meaning "entire", and μορφή (morphē) meaning "form" or "appearance".
+
+today, the term "holomorphic function" is sometimes preferred to "analytic function", as the latter is a more general concept. this is also because an important result in complex analysis is that every holomorphic function is complex analytic, a fact that does not follow directly from the definitions. the term "analytic" is however also in wide use.
+
+ properties 
+
+because complex differentiation is linear and obeys the product, quotient, and chain rules, the sums, products and compositions of holomorphic functions are holomorphic, and the quotient of two holomorphic functions is holomorphic wherever the denominator is not zero. 
+
+the derivative  can be written as a contour integral using cauchy's differentiation formula: 
+
+for any simple loop positively winding once around , and 
+
+ 
+for infinitesimal positive loops  around .
+
+if one identifies c with r2, then the holomorphic functions coincide with those functions of two real variables with continuous first derivatives which solve the cauchy-riemann equations, a set of two partial differential equations.
+
+every holomorphic function can be separated into its real and imaginary parts, and each of these is a solution of laplace's equation on r2. in other words, if we express a holomorphic function f(z) as u(x, y) + i v(x, y) both u and v are harmonic functions.
+
+in regions where the first derivative is not zero, holomorphic functions are conformal in the sense that they preserve angles and the shape (but not size) of small figures.
+
+cauchy's integral formula states that every function holomorphic inside a disk is completely determined by its values on the disk's boundary.
+
+every holomorphic function is analytic. that is, a holomorphic function f has derivatives of every order at each point a in its domain, and it coincides with its own taylor series at a in a neighborhood of a. in fact, f coincides with its taylor series at a in any disk centered at that point and lying within the domain of the function.
+
+from an algebraic point of view, the set of holomorphic functions on an open set is a commutative ring and a complex vector space. in fact, it is a locally convex topological vector space, with the seminorms being the suprema on compact subsets.
+
+from a geometrical perspective, a function f is holomorphic at z0 if and only if its exterior derivative df in a neighborhood u of z0 is equal to f′(z) dz for some continuous function f′.  it follows from 
+ 
+that df′ is also proportional to dz, implying that the derivative f′ is itself holomorphic and thus that f is infinitely differentiable. similarly, the fact that d(f dz) = f′ dz ∧ dz = 0 implies that any function f that is holomorphic on the simply connected region u is also integrable on u.  (for a path γ from z0 to z lying entirely in u, define 
+; 
+in light of the jordan curve theorem and the generalized stokes' theorem, fγ(z) is independent of the particular choice of path γ, and thus f(z) is a well-defined function on u having f(z0) = f0 and df = f dz.)
+
+ examples 
+
+all polynomial functions in z with complex coefficients are holomorphic on c,
+and so are sine, cosine and the exponential function.
+(the trigonometric functions are in fact closely related to and can be defined via the exponential function using euler's formula).
+the principal branch of the complex logarithm function is holomorphic on the set c \ {z ∈ r : z ≤ 0}.
+the square root function can be defined as 
+
+and is therefore holomorphic wherever the logarithm log(z) is. the function 1/z is holomorphic on {z : z ≠ 0}.
+
+as a consequence of the cauchy–riemann equations, a real-valued holomorphic function must be constant. therefore, the absolute value of z, the argument of z, the real part of z and the imaginary part of z are not holomorphic. another typical example of a continuous function which is not holomorphic is complex conjugation.
+
+ several variables 
+
+a complex analytic function of several complex variables is defined to be analytic and holomorphic at a point if it is locally expandable (within a polydisk, a cartesian product of disks, centered at that point) as a convergent power series in the variables. this condition is stronger than the cauchy–riemann equations; in fact it can be stated 
+as follows:
+
+a function of several complex variables is holomorphic if and only if it satisfies the cauchy–riemann equations and is locally square-integrable.
+
+ extension to functional analysis 
+
+the concept of a holomorphic function can be extended to the infinite-dimensional spaces of functional analysis. for instance, the fréchet or gâteaux derivative can be used to define a notion of a holomorphic function on a banach space over the field of complex numbers.
+
+ 

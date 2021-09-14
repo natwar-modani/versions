@@ -1,0 +1,24 @@
+i've just started trying to learn some topology, and i've come across this definition a few times.  while i think i can visualise the specific example - two points, disjoint open sets around them - i don't feel i fully understand it.  can anyone help me (and presumably anyone else new to topology)?  
+
+are there any immediate and more graspable consequences that follow from a topological space being hausdorff?  why is hausdorff-ness important?  are most interesting and useful spaces hausdorff?  what do non-hausdorff spaces look like: are they ugly and weird, are there significant examples that naturally crop up?
+- stuart presnell
+
+this line
+   limits of sequences (when they exist) are unique in hausdorff spaces.
+is a typical example of the ways in which hausdorff spaces are 'nice'.
+--matthew woodcraft
+
+is the contrapositive of this true?  if a space is non-hausdorff, does this mean that the limits of sequences are not unique?
+-- stuart presnell
+
+this is not the contrapositive, it is the converse, and it is false. as to your original question: most topological spaces encountered in analysis are hausdorff (most of them are even metric spaces, but not all, see e.g. weak topology). an important non-hausdorff topology is the zariski topology in algebraic geometry. --axelboldt
+
+an example of limit behaviour in a non-hausdorff space:
+let x = { 1, 2 } and t = { ø , x } 
+t is then a topology on x (called the chaotic topology).
+the sequence 1,1,1,1,1... has both 1 and 2 as limits, basically because the topology is incapable of distinguising between them.
+a non-hausdorff space will always have at least one pair of indistinguishable points, so a sequence with more than one limit can be constructed as above. -- tarquin
+
+i'm pretty sure that one can construct some non-first-countable non-hausdorff t1 space where limits of sequences are unique. i think hausdorff spaces can be characterized by the fact that limits of filters are unique. --axelboldt
+
+"particularly nice" - zoe

@@ -1,0 +1,40 @@
+in the common law legal system, an indictment ( ) is a formal accusation that a person has committed a criminal offence. in those jurisdictions which retain the concept of a felony, the serious criminal offence would be a felony; those jurisdictions which have abolished the concept of a felony often substitute the concept of an indictable offence, i.e. an offence which requires an indictment.
+
+traditionally an indictment was handed up by a grand jury, which returned a "true bill" if it found cause to make the charge, or "no bill" if it did not find cause. most common law jurisdictions (except for much of the united states) have abolished grand juries.
+
+australia 
+in australia, an indictment is issued by a government official (the attorney-general, the director of public prosecutions, or one of their subordinates). a magistrate then holds a committal hearing, which decides whether the evidence is serious enough to commit the person to trial.
+
+brazil
+
+in brazil an indictment (called denúncia) is issued by the public prosecutor, a member of the public ministry, and it is the document that starts the criminal prosecution.
+
+the denúncia for most offenses is exclusively issued by the public prosecutor. however, some offenses (like rape or threatening) require the victim to sign a permission (called representação) in order to allow the prosecutor to file the indictment.
+
+the indictment for lesser offenses (notably those against the victim's honor, such as defamation or calumny) can be filed only by the victim themself (represented by a lawyer), in which case it is called queixa-crime.
+
+england and wales
+in england and wales (except in private prosecutions by individuals) an indictment is issued by the public prosecutor (in most cases this will be the crown prosecution service) on behalf of the crown, i.e. the monarch, presently queen elizabeth ii--who is nominally the plaintiff in all public prosecutions under english law. 
+
+this is why a public prosecution of a man called mr. smith would be referred to in writing as "r v smith" (or alternatively as "regina v. smith" or "rex v. smith" depending on the gender of the sovereign reigning at the time of the case; regina and rex are latin for queen and king respectively) (and in either case may informally be pronounced as such) and when cited orally in court would be pronounced "the queen against smith" or "the king against smith" (again depending on the gender of the reigning sovereign)..smith, a.t.h., glanville williams: learning the law, 13th edition, 2006, page 44
+
+all proceedings on indictment must be brought before the crown court.the supreme court act 1981, section 46(1) opsi by virtue of practice directions issued under section 75(1) of the supreme court act 1981, an indictment must be tried by a high court judge, a circuit judge or a recorder (which of these it is depends on the offence).
+
+united states 
+the fifth amendment to the constitution of the united states states in part: "no person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury, except in cases arising in the land or naval forces, or in the military when in actual service in time of war or public danger..."
+
+in many (though not all) u.s. jurisdictions retaining the grand jury, prosecutors often have a choice between seeking an indictment from a grand jury, or filing a charging document directly with the court. such a document is usually called an information, accusation, or complaint, to distinguish it from a grand jury indictment.  to protect the suspect's due process rights in felony cases (where the suspect's interest in liberty is at stake), there is usually a preliminary hearing where a judge determines if there is probable cause that the charged crime was committed by the suspect in custody.  if the judge finds such probable cause, he or she will bind or hold over the suspect for trial.
+
+the substance of an indictment or other charging instrument is usually the same, regardless of the jurisdiction: it consists of a short and plain statement of the time, place and manner in which the defendant is alleged to have committed the offense. each offense is usually set out in a separate count. some indictments for complex crimes, particularly those involving conspiracy or numerous counts, can run to hundreds of pages, but many indictments, even for crimes as serious as murder, consist of a single sheet of paper. 
+
+indictable offenses are normally tried by jury, unless the accused waives the right to a jury trial. the sixth amendment mandates the right of having a jury trial for any criminal offense punishable by imprisonment for more than six months. notwithstanding the existence of the right to jury trial, the vast majority of criminal cases in the u.s. are resolved by the plea bargaining process.
+
+in a multiple investigation scenario (such as a school doing an investigation after the police does one) the outcome the police find must be accepted. any charges dropped by the police may not be mentioned in any way, punishable by law.
+
+ direct indictment 
+a direct indictment is one in which the case is sent directly to trial before a preliminary inquiry is completed or when the accused has been discharged by a preliminary inquiry. it is meant to be an extraordinary, rarely used power to ensure that those who should be brought to trial are in a timely manner or where an error of judgment is seen to have been made in the preliminary inquiry.
+
+ sealed indictment 
+an indictment can be sealed so that it stays non-public until it is unsealed. this can be done for a number of reasons. it may be unsealed, for example, once the named person is arrested or has been notified by police.
+
+ 

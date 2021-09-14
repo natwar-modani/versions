@@ -1,0 +1,10 @@
+irix is a system v-based unix operating system with bsd extensions developed by silicon graphics (sgi) to run natively on their 32- and 64-bit mips architecture workstations and servers.
+
+as a result of its unix underpinnings, it is capable of extremely long uptimes, and its xfs file system is regarded as one of the most advanced journaling file systems in the industry.
+
+irix has particularly strong support for 3d graphics, video, and high-bandwidth bulk data transfer. irix was one of the first unix flavors to feature a gui for the main desktop environment, and is widely used in the computer animation industry and for scientific visualization due to its extremely good performance with 3d graphics. irix uses the irix interactive desktop, which by default uses the 4dwm window manager with a custom look designed using the motif widget toolkit.
+
+the current major version of irix is irix 6.5 which was released in may 1998. new minor versions are released every quarter. through version 6.5.22, there were two branches of each release: a maintenance release that included only fixes to the original irix 6.5 code, and a feature release that included improvements and enhancements. versions up to the 6.5.22 maintenance release are available for free download, while version 6.5.23 and higher require an active silicon graphics support contract, despite only running on silicon graphics hardware. 
+
+it is compliant with unix system v release 4, unix 95 and posix (including 1e/2c draft 15 acls and capabilities).
+

@@ -1,0 +1,57 @@
+in computer science, a heap is a specialized tree-based data structure that satisfies the heap property. its base datatype (used for node keys) must be an ordered set.
+
+if b is a child node of a, then the heap property is that:
+
+ key(a) ≥ key(b)
+
+thumb|right|240px|example of a complete binary max heap
+
+this implies that the greatest element is always in the root node, and such a heap is sometimes called a max heap. (alternatively, if the comparison is reversed, the smallest element is always in the root node, which results in a min heap.) this is why heaps are used to implement priority queues. the efficiency of heap operations is crucial in several graph algorithms.
+
+the operations commonly performed with a heap are
+ delete-max or delete-min: removing the root node of a max- or min-heap, respectively
+ increase-key or decrease-key: updating a key within a max- or min-heap, respectively
+ insert: adding a new key to the heap
+ merge: joining two heaps to form a valid new heap containing all the elements of both.
+
+heaps are used in the sorting algorithm called heapsort.
+
+variants
+
+ binary heap
+ binomial heap
+ fibonacci heap
+ pairing heap
+ leftist heap
+ soft heap
+ 2-3 heap
+ treap
+ beap
+ skew heap
+
+comparison of theoretic bounds for variants
+
+function names assume a min-heap:
+
+ operation  binary  binomial  find-min  o  o  delete-min  o  o  insert  o  o  decrease-key  o  o  merge  o  o 
+
+for pairing heaps the insert, decreasekey and merge operations are conjectured to be o amortized complexity but this has not yet been proven.
+
+heap applications
+heaps are favorite data structures for many applications.
+ heap sort: one of the best sorting methods being in-place and with no quadratic worst case scenarios.
+ selection algorithms: finding the min, max or both of them, median or even any k-th element in sublinear time can be done dynamically with heaps.
+ graph algorithms: by using heaps as internal traversal data structures, run time will be reduced by an order of polynomial. examples of such problems are kruskal's minimal spanning tree algorithm and dijkstra's shortest path problem.
+
+interestingly, heaps may be represented using an array alone. the first (or last) element will contain the root. the next two elements of the array contain its children. the next four contain the four children of the two child nodes, etc. thus the children of the node at position n would be at positions 2n and 2n+1 in a one-based array, or 2n+1 and 2n+2 in a zero-based array. balancing a heap is done by swapping elements which are out of order. as we can build a heap from an array without requiring extra memory (for the nodes, for example), heapsort can be used to sort an array in-place.
+
+one more advantage of heaps over trees in some applications is that construction of heaps can be done in linear time using tarjan's algorithm.
+
+heap implementations
+the c++ standard template library provides the make_heap, push_heap and pop_heap algorithms for binary heaps, which operate on arbitrary random access iterators.  it treats the iterators as a reference to an array, and uses the array-to-heap conversion detailed above.
+
+build heap
+a procedure that makes a heap of an array, that is, rearranges items so the array has the heap property. the time of this algorithm is o(n) on an array-based heap implementation, where n is the number of nodes in the heap.
+
+it works by heapifying the elements starting from the middle of the array.
+

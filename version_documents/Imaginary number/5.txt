@@ -1,0 +1,31 @@
+ (repeats the patternfrom blue area)    
+
+an imaginary numberthis is the definition adopted in this article. is a complex number that can be written as a real number multiplied by the imaginary unit ,j is often used in engineering which is defined by its property . the square of an imaginary number  is . for example,  is an imaginary number, and its square is . zero is considered to be both real and imaginary.
+
+an imaginary number  can be added to a real number  to form a complex number of the form , where the real numbers  and  are called, respectively, the real part and the imaginary part of the complex number.both the real part and the imaginary part are defined as real numbers. imaginary numbers can therefore be thought of as complex numbers whose real part is zero. the name "imaginary number" was coined in the 17th century as a derogatory term, as such numbers were regarded by some as fictitious or useless. the term "imaginary number" now means simply a complex number with a real part equal to , that is, a number of the form .
+
+some authors use the term pure imaginary number to denote what is called here an imaginary number, and imaginary number to denote any complex number that is not real (i.e. has non-zero imaginary part).c.l. johnston, j. lazaris, plane trigonometry: a new approach, prentice hall, 1991, p. 247.
+
+history
+
+right|thumb|an illustration of the complex plane. the imaginary numbers are on the vertical coordinate axis.
+although greek mathematician and engineer heron of alexandria is noted as the first to have conceived these numbers, rafael bombelli first set down the rules for multiplication of complex numbers in 1572. the concept had appeared in print earlier, for instance in work by gerolamo cardano. at the time, such numbers were poorly understood and regarded by some as fictitious or useless, much as zero and the negative numbers once were. many other mathematicians were slow to adopt the use of imaginary numbers, including rené descartes, who wrote about them in his la géométrie, where the term imaginary was used and meant to be derogatory., discusses ambiguities of meaning in imaginary expressions in historical context. the use of imaginary numbers was not widely accepted until the work of leonhard euler (1707–1783) and carl friedrich gauss (1777–1855). the geometric significance of complex numbers as points in a plane was first described by caspar wessel (1745–1818).
+
+in 1843 a mathematical physicist, william rowan hamilton, extended the idea of an axis of imaginary numbers in the plane to a three-dimensional space of quaternion imaginaries.
+
+with the development of quotient rings of polynomial rings, the concept behind an imaginary number became more substantial, but then one also finds other imaginary numbers such as the j of tessarines which has a square of . this idea first surfaced with the articles by james cockle beginning in 1848.james cockle (1848) "on certain functions resembling quaternions and on a new imaginary in algebra", london-dublin-edinburgh philosophical magazine, series 3, 33:435–9 and cockle (1849) "on a new imaginary in algebra", philosophical magazine 34:37–47
+
+geometric interpretation
+thumb|90-degree rotations in the complex plane
+
+geometrically, imaginary numbers are found on the vertical axis of the complex number plane, allowing them to be presented perpendicular to the real axis. one way of viewing imaginary numbers is to consider a standard number line, positively increasing in magnitude to the right, and negatively increasing in magnitude to the left. at 0 on this -axis, a -axis can be drawn with "positive" direction going up; "positive" imaginary numbers then increase in magnitude upwards, and "negative" imaginary numbers increase in magnitude downwards. this vertical axis is often called the "imaginary axis" and is denoted , , or .
+
+in this representation, multiplication by  corresponds to a rotation of 180 degrees about the origin. multiplication by  corresponds to a 90-degree rotation in the "positive" direction (i.e., counterclockwise), and the equation  is interpreted as saying that if we apply two 90-degree rotations about the origin, the net result is a single 180-degree rotation. note that a 90-degree rotation in the "negative" direction (i.e. clockwise) also satisfies this interpretation. this reflects the fact that  also solves the equation . in general, multiplying by a complex number is the same as rotating around the origin by the complex number's argument, followed by a scaling by its magnitude.
+
+square roots of negative numbers
+care must be used when working with imaginary numbers expressed as the principal values of the square roots of negative numbers. for example: extract of page 12
+ 
+sometimes this is written as:
+
+where the fallacy is that the rule  can fail when the variables are not suitably constrained, in this case when they are not both positive.
+

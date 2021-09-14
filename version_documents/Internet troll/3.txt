@@ -1,0 +1,31 @@
+es:troll fr:troll (internet) sv:internettroll 
+
+on the internet, a troll is a person who posts messages that create controversy or an angry response without adding content to the discussion, often intentionally.  though technically different from flaming, which is an unmistakable direct personal attack, trolls often resort to innuendo or misdirection in the pursuit of their objective, which is to create controversy for its own sake, discredit those with whom they disagree, or sabotage discussion by creating an intimidating atmosphere.
+
+originally this term applied to people who were intentionally posting flamebait, by analogy with the fishing technique of trolling: metaphorically, these people were dragging a conversational lure through the group, hoping for a response.  the concept of "this person is trolling our newsgroup" became shortened to "this person is a troll", and picked up the association of the monster trolls of folklore. note that this is a highly subjective term, as everyone is affected differently by the nature of the term deemed a "troll".
+
+trolling does not maintain its earlier meaning of posting messages specifically in order to elicit a particular response, usually anger or argument. the most common form, troll, usually refers to someone who induces general controversy, not necessarily a particular response. 
+
+sometimes people use this to discredit an opposing position in an argument. by asserting that one's opponents are trolls, one is asserting that they are only maintaining their position in order to feed the flames, and that their position is actually indefensible.  this use of "troll" is however then an ad hominem argument, and is itself thus usually indefensible – most correct views have historically met with opposition, so the label "troll" used this way is actually more likely to indicate a correct but controversial position that is stirring up flames precisely because it has challenged a doctrine others actually realize is wrong. that said, it is quite possible to stir up controversy with a wrong argument – but these can more effectively be met by simply responding to the substantive issue. it is safer to use the term "troll" to apply only to insubstantial irritation.
+
+examples
+
+common types of troll messages or activities:
+ off topic messages – "can anyone help me make a webpage?" "no, this is a music forum."
+ inflammatory messages – "you are an idiot for including this type of message in your list."
+ messages containing an obvious flaw or error – "i think 2001: a space odyssey is roman polanski's best movie." 
+ posting an outrageous argument deliberately constructed around a fundamental but obfuscated flaw or error.
+ unable to walk away from an argument.
+ makes loud claims to be on the defensive, but the claims are a guise for their aggressive maneuvers.
+ passive aggressive name calling, in which no names are mentioned, but are implied.
+
+an example of a troll message in the newer sense would be one that denounces a particular religion in a religion newsgroup -- though historically, this would have been called "flamebait".
+
+a variant of the second variety (inflammatory messages) involves posting content obviously severely contradictory to the focus of the group or forum- for example, posting cat meat recipes on a pet lovers forum, posting evolutionary theory on a creationist forum, or posting messages about how all dragons are boring in the usenet group alt.fan.dragons.
+
+cross posting is a popular method of choice by usenet trolls: a cross-posted article can be discussed simultaneously in several unrelated and/or opposing newsgroups; this is likely to result in a flame war.
+
+dealing with trolls
+
+there is some generally-accepted wisdom about dealing with internet trolls: "don't feed the trolls, that will only encourage them."  that is, do not respond to them, that is the attention they desire.  somebody who does respond to them is likely to hear "yhbt. yhl. hand." from other members of the group, which means "you have been trolled. you have lost. have a nice day."
+

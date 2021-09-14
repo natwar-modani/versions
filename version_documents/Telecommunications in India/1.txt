@@ -1,0 +1,80 @@
+for the past decade or so, telecommunication activities have gained momentum in india. efforts have been made from both governmental and non-governmental platforms to enhance the infrastructure. the idea is to help mordern telecommunication technology penetrate india’s socio-culturally diverse society, and to transform it into a nation of technology aware people.
+
+telephone
+telephony subscribers (wireless and landline):
+206.8 million (march 2007)india's telephone subscriber base crosses 200 million
+
+land lines: 40.8 million
+
+cellphones: 166 million (march 2007)
+
+yearly cellphone addition: 65 million (2006)
+
+monthly cellphone addition: 6.48 million (december 2006)
+
+teledensity: 20% (march 2007)
+
+projected teledensity: 30% (2010) 'dot eyes increased broadband penetration'
+
+telephone system:
+the telecommunications system in india is the fourth largest in the world and it was thrown open to private players in the 1990s.
+the country is divided into multiple zones, called circles (roughly along state boundaries). government and several private players run local and long distance telephone services. competition has caused prices to drop and calls across india are one of the cheapest in the world.the death of std the rates are supposed to go down further with new measures to be taken by the information ministry.free broadband, rent-free landlines likely: maran
+
+landlines: landline service in india is primarily run by bsnl/mtnl and reliance infocomm though there are several other private players too, such as touchtel and tata teleservices. landlines are facing stiff competition from mobile telephones. the competition has forced the landline services to become more efficient. the landline network quality has improved and landline connections are now usually available on demand, even in high density urban areas.  
+
+mobile cellular: the mobile service has seen phenomenal growth since 2000. in september 2004, the number of mobile phone connections have crossed fixed-line connections. currently there are an estimated 159.12 million mobile phone users in india compared to 40.43 million fixed line subscribers. india primarily follows the gsm mobile system, in the 900 mhz band. recent operators also operate in the 1800 mhz band. the dominant players are airtel, reliance infocomm, hutch, idea cellular and bsnl/mtnl. there are many smaller players, with operations in only a few states. international roaming agreements exist between most operators and many foreign carriers. 
+
+dialling system: on landlines, intra circle calls are considered local calls while inter circle are considered long distance calls. currently government is working to integrate the whole country in one telecom circle. for long distance calls, you dial the area code prefixed with a zero (e.g. for calling delhi, you would dial 011-xxxx xxxx). for international calls, you would dial "00" and the country code+area code+number. the country code for india is 91. 
+
+call rates slashed: communication rates in india was one of the highest in the world, till a few years back. the rates could not be justified by the fact that rupee is cheaper. in fact the indian sub continent had shown a calm tolerance towards the high rate in even in telecommunication. again, the rates were also justified as the government has to realise the high cost involved in the one-time developments like satellite and telephone tower related charges. but now owing to better technologies the telecom rates in india are on the verge of becoming more cheaper. the time may not be far when india will have the cheapest communication. one of the enabling thechnologies behind this is the brain child of an able indian engineer sandipan bhattacharjee. he co-worked with a famous mnc to redefine the way telephones interact. a, computer engineer by profession, he extended wave-overlap theory to reach this goal. the technology is now patented and details are not available. it is heard that he has dedicated his work to "someone who is unknown & unforgetable". 
+
+there is a conversion process underway to make all numbers in india 10 digits long.
+
+internet users:
+number of internet users in india is the 4th largest in the world. internet population is expected to grow to 100 million users by 2007 
+
+though the number of internet is high, the penetration level is still lower than most countries across the globe.
+
+international
+ nine satellite earth stations - 8 intelsat (indian ocean) and 1 inmarsat (indian ocean region).
+ nine gateway exchanges operating from mumbai, new delhi, kolkata, chennai, jalandhar, kanpur, gandhinagar, hyderabad and ernakulam.
+submarine cables
+ locom linking chennai to penang.
+ indo-uae-gulf cable linking mumbai to al fujayrah, uae.
+ india-sea-me-we-3, sea-me-we-2 with landing sites at cochin and mumbai.
+ fiber-optic link around the globe (flag) with a landing site at mumbai (2000).
+
+broadcasting
+
+radio broadcast stations:
+am 153, fm 91, shortwave 68 (1998)
+
+radios:
+116 million (1997)
+
+television terrestrial broadcast stations:
+562 (of which 82 stations have 1 kw or greater power and 480 stations have less than 1 kw of power) (1997)
+
+televisions:
+110 million (2006)
+
+in india, only the government owned doordarshan (door = distant = tele, darshan == vision) is allowed to broadcast terrestrial television signals. it initially had one major national channel (also known as dd1) and a metro channel in some of the larger cities (also known as dd2). 
+
+satellite/cable television took off during the first gulf war with cnn. there are no regulations against ownership of satellite dish antennas, or operation of cable television systems, which led to an explosion of viewership and channels, led by the star tv group and zee tv. initially restricted to music and entertainment channels, viewership grew, giving rise to several channels in regional languages and many in the national language, hindi. the main news channels available were cnn and bbc world. in the late 1990s, many current affairs and news channels sprouted, becoming immensely popular because of the alternative viewpoint they offered compared to doordarshan. some of the notable ones are aaj tak (means till today, run by the india today group) and star news, initially run by the ndtv group and their charismatic lead anchor, prannoy roy (ndtv now has its own channels, ndtv 24x7, ndtv profit and ndtv india). 
+
+here is a reasonably comprehensive list of indian television stations. 
+
+internet users:
+50,600,000 (december 2005) source: internet world stats
+
+broadband subscribers:
+broadband in india is defined as 256kbps and above by the government regulator. 
+total subscribers were 2 million (november 2006) source: trai
+
+internet service providers (isps) & hosts:
+86,571 (2004) source: cia world factbook
+
+country code (top-level domain): in
+
+notes
+

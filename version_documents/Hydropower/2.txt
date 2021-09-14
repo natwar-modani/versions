@@ -1,0 +1,85 @@
+[[image:water turbine.jpg|thumb|right|260px|hydraulic turbine and electrical generator. ]]
+
+hydropower is energy obtained from flowing water. energy in water can be harnessed and used, in the form of motive energy or temperature differences. the most common application is the dam, but it can be used directly as a mechanical force or a thermal source/sink.
+
+prior to the widespread availability of commercial electricity, hydropower was widely used for milling, textile manufacture, and the operation of sawmills. in the 1830s, at the height of the canal-building era, hydropower was used to transport barge traffic up and down steep hills using the technology of inclined plane railroads.
+
+ types of water power 
+there are many forms of water power:
+ hydroelectric energy, a term usually reserved for hydroelectric dams.
+ tidal power, which captures energy from the tides in horizontal direction
+ tidal stream power, which does the same vertically
+ wave power, which uses the energy in waves
+ ocean thermal energy conversion, which uses the temperature difference between the warmer surface of the ocean and the cool (or cold) lower recesses.
+ deep lake water cooling, not technically an energy generation method. uses submerged pipes to cool things.
+
+ hydroelectric power 
+main article: hydroelectricity
+
+aside from dams, the term also refers to a number of systems in which flowing water drives a water turbine or waterwheel.
+
+hydroelectric power from potential energy of the elevation of waters, now supplies about 715,000 mwe or 19% of world electricity, and large dams are still being designed. apart from a few countries with an abundance of it, hydro power is normally applied to peak-load demand, because it is so readily stopped and started. nevertheless, hydroelectric power is probably not a major option for the future of energy production in the developed nations because most major sites within these nations with the potential for harnessing gravity in this way are either already being exploited or are unavailable for other reasons such as environmental considerations.
+
+hydroelectric energy produces essentially no carbon dioxide, in contrast to burning fossil fuels or gas, and so is not a significant contributor to global warming through co2;. recent reports have linked hydroelectric power to methane, which forms out of decaying submerged plants which grow in the dried up parts of the basis in times of drought. methane is a greenhouse gas.
+
+hydroelectric power can be far less expensive than electricity generated from fossil fuel or nuclear energy.  areas with abundant hydroelectric power attract industry with low cost electricity. recently, increased environmental concerns surrounding hydroelectric power, have begun to outweigh cheap electricity in some countries.
+
+the chief advantage of hydroelectric dams is their ability to handle seasonal (as well as daily) high peak loads. when the electricity demands drop, the dam simply stores more water. some electricity generators use water dams to store excess energy (often during the night), by using the electricity to pump water up into a basin. the electricity can be re-generated when demand increases.
+in practice the utilization of stored water in river dams is sometimes complicated by demands for irrigation which may occur out of phase with peak electrical demands.
+
+ tidal power 
+main article: tidal power
+
+harnessing the tides in a bay or estuary has been achieved in france (since 1966), canada and russia, and could be achieved in certain other areas where there is a large tidal range. the trapped water can be used to turn turbines as it is released through the tidal barrage in either direction. worldwide this technology appears to have little potential, largely due to environmental constraints. see: tidal power. another possible fault is that the system would generate electricty most efficiently if it were to generate electricity in bursts, every six hours (once every tide). obviously, this limits the applications for which tidal energy can be used.
+
+ tidal stream power 
+a relatively new technology development, tidal stream generators draw energy from underwater currents in much the same way that wind generators are powered by the wind. the much higher density of water means that there is the potential for a single generator to provide significant levels of power. tidal stream technology is at the very early stages of development though and will require significantly more research before it becomes a significant contributor to electrical generation needs.
+
+several prototypes have however shown some promise. for example, in the uk in 2003, a 300 kw seaflow marine current propeller type turbine was tested off the north coast of devon, and a 150 kw oscillating hydroplane device, the stingray, was tested off the scottish coast. another british device, the hydro venturi, is to be tested in san fransisco bay.
+
+the canadian company blue energy has plans for installing very large arrays tidal current devices mounted in what they call a 'tidal fence' in various locations around the world, based on a vertical axis turbine design.
+
+ wave power 
+main article: wave power
+
+harnessing power from ocean surface wave motion is a possibility which might yield much more energy than tides. the feasibility of this has been investigated, particularly in the uk. generators either coupled to floating devices or turned by air displaced by waves in a hollow concrete structure would produce electricity for delivery to shore. numerous practical problems have frustrated progress.
+
+a prototype shore based wave power generator is being constructed at port kembla in australia and is expected to generate up to 500 mwh per annum. the wave energy converter has been constructed (as of july 2005) and initial test results have exceeded expectations in terms of energy production during times of low wave energy. the energy of waves crashing against the shore is absorbed by an air driven generator and converted to electricity. for countries with large coastlines and rough sea conditions the energy density of breaking waves offers the possibility of generating electricity in utility volumes. excess power in periods of rough sea could be used to generate renewable hydrogen.
+
+ ocean thermal energy conversion 
+main article: ocean thermal energy conversion
+
+ocean thermal energy conversion is a relatively unproven technology, though it was first used by the french engineer jacques arsene d'arsonval in 1881. the difference in temperature between water near the surface and deeper water can be as much as 20 °c. the warm water is used to make a liquid such as ammonia evaporate, causing it to expand. the expanding gas forces its way through turbines, after which it is condensed using the colder water and the cycle can begin again. read the millennial project for more information.
+
+ deep lake water cooling 
+main article: deep lake water cooling
+
+deep lake water cooling is the use of cold water piped from a lake bottom and used for cooling. energy measures  work or heat exchange; although this technology doesn't generate energy that can do work, water-cooling is a form of heat exchange. that is, this technology is an efficient, renewable substitute for expensive air conditioning which requires expensive, peak demand electrical generation which, typically uses fossil fuels. like geothermal energy and unlike many other forms of renewable energy, water-cooling taps a reliable supply because lake-bottom water is a year-round constant 4 °c.
+
+physics
+a hydropower resource can be measured according to the amount of available power, or energy per unit time. the power of a given situation is a function of the hydraulic head or rate of fluid flow. when dealing with water in a reservoir, the head is the height of the water level in the reservoir relative to its height after it has left, since hydrostatic pressure at the base is a function of height only.
+
+the amount of energy  released by lowering an object of mass  by a height  in a gravitational field is
+
+ where  is the acceleration due to gravity.
+
+the energy available to hydroelectric dams is the energy that can be liberated by lowering water in a controlled way. in these situations, the power is related to the mass flow rate.
+
+substituting  for  and expressing  in terms of the volume of liquid moved per unit time (the rate of fluid flow ) and the density of water, we arrive at the usual form of this expression:
+
+ 
+
+for  in watts,  is measured in kg/m³,  is measured in m³/s,  (gee) is measured in m/s², and  is measured in metres.
+
+some hydropower systems such as water wheels can draw power from the flow of a body of water without necessarily changing its height. in this case, the available power is the kinetic energy of the flowing water.
+
+ where  is the velocity of the water,
+or with  where a is the area through which the water passes, also
+
+over-shot water wheels can efficiently capture both types of energy.
+
+small scale hydro power.
+in poor areas of the world, many remote communities still do not have access to electricity.  micro hydro power, between 5kw and 100kw allows such communities to generate their own electricity1. this is a form of power which is supported by various organisations such as the uk's intermediate technology development group.  
+
+micro-hydro power can be used directly as "shaft power" for many industrial applications.  alternatively, the preferred option for domestic energy supply is to convert to electricity either through the use of a custom generator or through a reversed electric motor which, while often less efficient is more likely to be available locally and cheaply.
+

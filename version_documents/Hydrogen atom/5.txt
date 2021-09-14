@@ -1,0 +1,72 @@
+[[image:hydrogen_atom.png|thumb|200px|right|depiction of a hydrogen-1 atom showing the van der waals radius and the proton nucleus.]]
+a hydrogen atom is an atom of the chemical element hydrogen. it is composed of a single negatively-charged electron circling a single positively-charged proton which is the nucleus of the hydrogen atom. the electron is bound to the proton by the coulomb force.
+
+the hydrogen atom has special significance in quantum mechanics and quantum field theory as a simple two-body problem physical system which has yielded many simple analytical solutions in closed-form. 
+
+in 1913, niels bohr obtained the spectral frequencies of the hydrogen atom after making a number of simplifying assumptions. these assumptions were not fully correct, but did yield the correct energy answers (see the bohr model). the results of bohr for the frequencies and underlying energy values were confirmed by the full quantum-mechanical analysis which uses the schrödinger equation, as was shown in 1925/26. 
+the solution to the schrödinger equation for hydrogen is analytical. from this solution, the hydrogen energy levels and thus the frequencies of the hydrogen spectral lines) can be calculated.   the solution of the schrödinger equation goes much further than the bohr model however, because it also yields the shape of the electron's wave function ("orbital") for the various possible quantum-mechanical states-- thus explaining the anisotropic character of atomic bonds. 
+
+the schrödinger equation also applies to more complicated atoms and molecules, however, in most such cases the solution is not analytical and either computer calculations are necessary, or else simplifying assumptions must be made.
+
+ solution of schrödinger equation: overview of results 
+the solution of the schrödinger equation for the hydrogen atom uses the fact that the coulomb potential produced by the nucleus is isotropic (it is radially symmetric in space and only depends on the distance to the nucleus). although the resulting energy eigenfunctions (the "orbitals") are not necessarily isotropic themselves, their dependence on the angular coordinates follows completely generally from this isotropy of the underlying potential: the eigenstates of the hamiltonian (= energy eigenstates) can be chosen as simultaneous eigenstates of the angular momentum operator. this corresponds to the fact that angular momentum is conserved in the orbital motion of the electron around the nucleus. therefore, the energy eigenstates may be classified by two angular momentum quantum numbers, l and m (integer numbers). the "angular momentum" quantum number l = 0, 1, 2, ... determines the magnitude of the angular momentum. the "magnetic" quantum number m = −l, .., +l 
+determines the projection of the angular momentum on the (arbitrarily chosen) z-axis.
+
+in addition to mathematical expressions for total angular momentum and angular momentum projection of wavefunctions, an expression for the radial dependence of the wave functions must be found. it is only here that the details of the 1/r coulomb potential enter (leading to laguerre polynomials in r). this leads to a third quantum number, the principal quantum number n = 1, 2, 3, ... the principal quantum number in hydrogen is related to atom's total energy.
+
+note that the maximum value of the angular momentum quantum number is limited by the principal quantum number: it can run only up to n − 1, i.e. l = 0, 1, ..., n − 1.
+
+due to angular momentum conservation, states of the same l but different m have the same energy (this holds for all problems with rotational symmetry). in addition, for the hydrogen atom, states of the same n but different l are also degenerate (i.e. they have the same energy). however, this is a specific property of hydrogen and is no longer true for more complicated atoms which have a (effective) potential differing from the form 1/r (due to the presence of the inner electrons shielding the nucleus potential). 
+
+taking into account the spin of the electron adds a last quantum number, the projection of the electron's spin angular momentum along the z axis, which can take on two values. therefore, any eigenstate of the electron in the hydrogen atom is described fully by four quantum numbers. according to the usual rules of quantum mechanics, the actual state of the electron may be any superposition of these states. this explains also why the choice of z-axis for the directional quantization of the angular momentum vector is immaterial: an orbital of given l and m' obtained for another preferred axis z' can always be represented as a suitable superposition of the various states of different m (but same l) that have been obtained for z.
+
+ mathematical summary of eigenstates of hydrogen atom 
+
+energy levels
+the energy levels of hydrogen, including fine structure are given by
+
+where
+ is the fine-structure constant
+j is an integer which is the angular momentum eigenvalue
+the value of 13.6 ev can found from the simple bohr model, and is related to the mass, m, and charge of the electron, q:
+
+wavefunction
+the normalized position wavefunctions, given in spherical coordinates are:
+
+where:
+
+ is the bohr radius.
+ are the generalized laguerre polynomials of degree n-l-1.
+ is a spherical harmonic.
+
+angular momentum
+the eigenvalues for angular momentum operator:
+ 
+ 
+
+ visualizing the hydrogen electron orbitals 
+frame|probability densities for the electron at different quantum numbers (l)
+the image to the right shows the first few hydrogen atom orbitals (energy eigenfunctions). these are cross-sections of the probability density that are color-coded (black=zero density, white=highest density). the angular momentum quantum number l is denoted in each column, using the usual spectroscopic letter code ("s" means l = 0; "p": l = 1; "d": l = 2). the main quantum number n (= 1, 2, 3, ...) is marked to the right of each row. for all pictures the magnetic quantum number m has been set to 0, and the cross-sectional plane is the xz-plane (z is the vertical axis). the probability density in three-dimensional space is obtained by rotating the one shown here around the z-axis.
+
+the "ground state", i.e. the state of lowest energy, in which the electron is usually found, is the first one, the "1s" state (n = 1, l = 0).
+
+an image with more orbitals is also available (up to higher numbers n and l).
+
+note the number of black lines that occur in each but the first orbital. these are "nodal lines" (which are actually  nodal surfaces in three dimensions). their total number is always equal to n − 1, which is the sum of the number of radial nodes (equal to n - l - 1) and the number of angular nodes (equal to l).
+
+ features going beyond the schrödinger solution 
+
+there are several important effects that are neglected by the schrödinger equation and which are responsible for certain small but measurable deviations of the real spectral lines from the predicted ones:
+
+ although the mean speed of the electron in hydrogen is only 1/137th of the speed of light there is an increase in the electron's momentum which is not quite linear with velocity, as predicted by special relativity. the relativistic mass of the electron may be said to increase. since the electron's wavelength is determined by its momentum, orbitals containing electrons reaching higher speeds show differential contraction due to smaller wavelengths. for elements with high atomic number z, this effect is more pronounced, and especially so for s electrons, which move at relativistic velocities as they penetrate the screening electrons near the core of high z atoms. this relativistic mass effect for electrons causes a contraction of 6s orbitals relative to 5d orbitals (by comparison to corresponding s and d electrons in lighter elements in the same column of the periodic table); this results in 6s valence electrons becoming lowered in energy. examples of significant physical outcomes of this effect include the lowered melting temperature of mercury (which results from 6s electrons not being available for metal bonding) and the golden color of gold and caesium (which result from narrowing of 6s to 5d transition energy to the point that visible light begins to be absorbed). see  and ). 
+
+ even when there is no external magnetic field, in the inertial frame of the moving electron the electric field of the nucleus has a magnetic component. the spin of the electron has an associated magnetic moment which interacts with this magnetic field. this effect is also explained by special relativity, and it leads to the so-called spin-orbit coupling, i.e. an interaction between the electron's orbital motion around the nucleus, and its spin.
+
+both of these features (and more) are incorporated in the relativistic dirac equation, with predictions that come still closer to experiment. again the dirac equation may be solved analytically in the special case of a two-body system, such as the hydrogen atom. the resulting solution quantum states now must be classified by the total angular momentum number j (arising through the coupling between electron spin and orbital angular momentum). states of the same j and the same n are still degenerate.
+
+ there are always vacuum fluctuations of the electromagnetic field, according to quantum mechanics. due to such fluctuations degeneracy between states of the same j but different l is lifted, giving them slightly different energies. this has been demonstrated in the famous lamb-retherford experiment and was the starting point for the development of the theory of quantum electrodynamics (which is able to deal with these vacuum fluctuations and employs the famous feynman diagrams for approximations using perturbation theory). this effect is now called lamb shift.
+
+for these developments, it was essential that the solution of the dirac equation for the hydrogen atom could be worked out exactly, such that any experimentally observed deviation had to be taken seriously as a signal of failure of the theory.
+
+due to the high precision of the theory also very high precision for the experiments is needed, which utilize a frequency comb.
+

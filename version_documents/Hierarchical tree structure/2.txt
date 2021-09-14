@@ -1,0 +1,14 @@
+a hierarchy in which any member has at most one superior.
+
+generalizations: hierarchy, tree structure
+
+specializations: rooted hierarchical tree structure
+
+involved in: nothing yet
+
+primary domain: computer science
+
+potential examples: 
+ internet: usenet hierarchy, yahoo! subject index
+ information management: dewey decimal system
+ management: hierarchical tree business organization, hierarchical tree church organization, hierarchical tree political organization, hierarchical tree military organization

@@ -1,0 +1,40 @@
+hydrolysis is a chemical process in which a molecule is split into two parts by the addition of a molecule of water.
+ 
+this is distinct from a hydration reaction, in which water molecules are added to a substance, but no cleavage occurs. in organic chemistry, hydrolysis can be considered as the opposite of condensation, in which two fragments are joined for each water molecule produced. as hydrolysis may be a reversible reaction, condensation and hydrolysis can take place at the same time, with the position of equilibrium determining the amount of each product.  in inorganic chemistry, the word is often applied to solutions of salts and the reactions by which they are converted to new ionic species or to precipitates (oxides, hydroxides, or salts). some examples of hydrolysis are explained below.
+
+ examples 
+ hydrolysis of metal salts 
+many metal ions are strong lewis acids, and in water they may undergo hydrolysis to form basic salts.  such salts contain a hydroxyl group that is directly bound to the metal ion in place of a water ligand.  for example, aluminium chloride undergoes extensive hydrolysis in water, such that the ph of the solution become quite acidic: 
+
+200px|hydrolysis of a hydrated al3+ ion
+this means that if solutions of alcl3 are evaporated, hydrogen chloride is lost and the residue is a basic salt (in this case an oxychloride) in place of alcl3.  such behaviour is also seen with other metal chlorides such as zncl2, sncl2, fecl3 and lanthanide halides such as dycl3.  with some compounds such as ticl4, the hydrolysis may go to completion and form the pure hydroxide or oxide, in this case tio2.
+
+ hydrolysis of an ester link 
+in a hydrolysis reaction that involves breaking an ester link, one hydrolysis product contains a hydroxyl functional group, while the other contains a carboxylic acid functional group. 
+
+the fragment of the parent molecule that was originally a carboxylate gains a hydrogen ion from the additional water molecule. the fragment that was originally an alkyl group collects the remaining hydroxyl group from the water molecule. this effectively reverses the esterification reaction, yielding the original alcohol and carboxylic acid again.
+
+there are two main methods for hydrolysing esters, basic hydrolysis and acid-catalysed.  with acid-catalysed hydrolysis a dilute acid is used to protonate the carbonyl group in order to activate it towards nucleophilic attack by a water molecule.  however the more usual method for ester hydrolysis involves refluxing the ester with an aqueous base such as naoh or koh. once the reaction is complete, the carboxylate salt is acidified to release the free carboxylic acid.
+
+350px|basic hydrolysis of an ester
+an important example of this reaction is the release of fatty acids from glycerol in triglyceride hydrolysis, as occurs during saponification.
+
+ hydrolysing the peptide link of amino acids 
+in other hydrolysis reactions, such as hydrolysing the peptide links of amino acids, only the carboxylic acid product has a hydroxy group derived from the water. the amine product gains the remaining hydrogen ion.
+
+ irreversibility of hydrolysis under physiological conditions 
+under physiological conditions (i.e. in dilute aqueous solution), a hydrolytic cleavage reaction, where the concentration of a metabolic precursor is low (on the order of 10-3 to 10-6 molar), is essentially thermodynamically irreversible. to give an example:
+
+a + h2o → x + y
+
+assuming that x is the final concentration of products, and that c is the initial concentration of a, and w = [h2o] = 55.5 molar, then x can be calculated with the equation:
+
+let kd×w = k:
+
+then   
+
+for a value of c = 0.001 molar, and k = 1 molar, x/c > 0.999. less than 0.1% of the original reactant would be present once the reaction is complete.
+
+this theme of physiological irreversibility of hydrolysis is used consistently in metabolic pathways, since many biological processes are driven by the cleavage of anhydrous pyrophosphate bonds.
+
+ 

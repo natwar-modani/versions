@@ -1,0 +1,33 @@
+helium-3 is a light, non-radioactive isotope of helium. the helion, the nucleus of a helium-3 atom, consists of two protons but only one neutron, in contrast to two neutrons in ordinary helium. helium-3 is rare on earth and sought-after for use in nuclear fusion research.  more abundant helium-3 is thought to exist on the moon (embedded in the upper layer of regolith by the solar wind over billions of years) and the solar system's gas giants (left over from the original solar nebula), although still in low quantities (28ppm of lunar regolith is helium-4 and 0.01 ppm is helium-3) . as it is a primordial substance in the earth's mantle, it is used in isotope geochemistry studies.
+
+fusion
+helium-3 undergoes the following aneutronic fusion reaction, among others, although this is the one most promising for power generation:
+
+d + 3he → 4he (3.7 mev) + p (14.7 mev)
+
+the appeal of helium-3 fusion stems from the nature of its reaction products. most proposed fusion processes for power generation produce energetic neutrons which render reactor components radioactive with their bombardment, and power generation must occur through thermal means. in contrast, helium-3 itself is non-radioactive. the lone high-energy proton produced can be contained using electric and magnetic fields, which results in direct electricity generation.
+
+however, since both reactants need to be mixed together to fuse, side reactions (d + d and 3he + 3he) will occur, the first of which is not aneutronic. therefore in practice this reaction is unlikely to ever be completely 'clean'.  also, the temperatures required for d + 3he fusion are much higher than those of conventional d + t fusion, so it is unlikely that this type of fusion will be achieved before the problems with conventional fusion are worked out.
+
+a common myth is that due to the rarity of helium-3 on earth, any reliable sources of the fuel have to come from other bodies in space.  this is untrue.  helium-3 is a byproduct of tritium decay, and tritium can be produced through neutron bombardment of lithium, boron, or nitrogen targets.
+
+neutron scattering
+
+helium-3 is a most important isotope in instrumentation for neutron scattering. it has a high absorption cross section for thermal neutron beams and is used as a converter gas in neutron detectors. the neutron is converted through the nuclear reaction
+n + 3he  → 3h + 1h + 0.764 mev
+into charged particles tritium (t, 3h) and proton (p, 1h) which then are detected by creating a charge cloud in the stopping gas like in a proportional counter or a geiger-müller tube.
+
+furthermore, the absorption process is strongly spin dependent, which allows a spin-polarized helium-3 volume to transmit neutrons with one spin component while absorbing the other. this effect is employed in neutron polarization analysis, a technique which probes for magnetic properties of matter.
+
+cryogenics
+
+helium-3 is used in cryogenics to achieve temperatures as low as a few thousandths of a kelvin; it was discovered by the australian nuclear physicist mark oliphant while based at cambridge university's cavendish laboratory.
+
+an important property of helium-3, which distinguishes it from the more common helium-4, is that its nucleus is a fermion since it contains an odd number of particles. at low temperatures (around 2.2 k), helium-4 undergoes a phase transition into a superfluid phase that can be roughly understood as a type of  bose einstein condensate. such a mechanism is not available for helium-3 atoms, which are fermions. however, it was widely speculated that helium-3 could also become a superfluid at much lower temperatures, if the atoms formed up into pairs analogous to the cooper pairs in the bcs theory of superconductivity. during the 1970s, david morris lee, douglas osheroff, and robert coleman richardson showed that helium-3 indeed becomes a superfluid at around 2 millikelvins. they were awarded the 1996 nobel prize in physics for their discovery. tony leggett won the 2003 nobel prize in physics for his work on refining our understanding of the superfluid phase of helium-3.
+
+ lunar supplies 
+
+the possibility that helium-3 may be widely found on the moon has led to discussions (, ) as to whether it could be used as an energy source. yet to be determined is the exact quantity of helium-3 which the solar wind traps and deposits on the lunar surface.  it may be so scarce as to be beneath the point of economic recovery.  the temperature required for helium-3 fusion is ten times higher than conventional d-t fusion, which itself has yet to be achieved at the break-even point (to clarify, fusion experiments have produced q values >1, ie where energy output exceeded energy input; however break-even here probably refers to ignition of the plasma, otherwise known as a 'burning plasma') .  accordingly, helium-3 seems less likely than other reactants for use in fusion power generation, though it cannot be ruled out completely. 
+
+in january 2006 the russian space company rkk energiya announced that it considers lunar helium-3 a potential economic resource to be mined by 2020. 
+

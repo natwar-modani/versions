@@ -1,0 +1,32 @@
+what's meant by an "eager" variation?  i worked with functional languages for some amount of time and never heard the term. --robert merkel
+
+i'm pretty sure it means "without lazy evaluation".
+
+that's right -- the anome
+
+haskell is, as of 2002, the functional language on which the most research is being performed.
+
+do you have a reference for this statement ? --taw
+
+"haskell" can also refer to http://www.haskell.edu/ , so i'm not moving this page to haskell. --eloquence 16:55 jan 24, 2003 (utc)
+
+not sure about the new version of the fibonacci sequence example — it's longer than the first one and harder to read imho (although it is clever, i admit). any comments on this? cadr
+
+which one? -- taku 16:14, apr 6, 2004 (utc)
+
+ the one using zipwith -- cadr
+
+i see this change:
+fibs = 0 : 1 : (zipwith (+) fibs (tail fibs))
+to
+fibs@(_:rest) = 0 : 1 : (zipwith (+) fibs rest)
+
+-- taku 16:36, apr 6, 2004 (utc)
+
+yes, that's the one i meant, thanks. -- cadr
+
+i got the idea: can we present both versions on the article and discuss how they work. to be honest, i don't know how the second one works and i want to know why you said it's a clever way. the readers might be facinated by the fact haskell is so cool. -- taku 16:52, apr 6, 2004 (utc)
+
+should this article mention hindley-milner type inference and the monomorphism restriction? or is this to detailed information to be included into a encyclopedic article? -- tobias bergemann 08:30, 2004 nov 16 (utc)
+
+why the deletion of the 'extensions' section on hugs98 for .net?  i can't immediately see why it'd be problematic.  (and there no rationale provided.) alai 19:36, 19 jan 2005 (utc)

@@ -1,0 +1,57 @@
+heapsort is one of the best general-purpose sort algorithms, and is part of the selection sort family. although somewhat slower in practice on most machines than a good implementation of quicksort, it has the advantages of worst-case o(n log n) runtime and requiring only a constant amount of additional space. heapsort is not a stable sort.
+
+ overview 
+one simple way to sort a list of objects is to use a heap data structure. we add all of our objects into the heap, and the heap organizes the elements added to it in such a way that we can quickly extract either the largest value (in a max-heap) or the smallest value (in a min-heap). moreover, because this operation preserves the heap's structure, we can extract the largest/smallest value over and over again until none remain. this gives us the elements in order.
+
+in doing so, the only extra space required is that needed to store the heap. in order to achieve constant space overhead, we use a trick: we store a binary heap inside the part of the input array which has not yet been sorted. the structure of this heap is described at binary heap#heap implementation; we can perform all the usual heap operations on it. each time we extract the maximum, we place it in the last location of the array not yet occupied, and use the remaining prefix of the array as a heap holding the remaining unsorted elements:
+  _________________________________________________________
+ | heap of remaining unsorted elements  | sorted elements  |
+ |______________________________________|__________________|
+
+ variations 
+although not widely known, it is possible to define a ternary heapsort which uses a ternary heap instead of a binary heap; that is, each element in the heap has three children. ternary heapsort is somewhat more complicated to program, but it is potentially faster. each step in the sift operation of a ternary heap requires three comparisons and one swap, whereas in a binary heap two comparisons and one swap are required. the ternary heap can do two steps in less time than the binary heap requires for three steps. but two steps of a ternary tree multiply the index by a factor of 9, which is more than the factor 8 of three binary steps. ternary heapsort is about 12% faster than binary heapsort.
+
+ comparison with other sorts 
+heapsort primarily competes with quicksort, another very efficient general purpose nearly-in-place comparison-based sort algorithm.
+
+quicksort is typically somewhat faster, due to better cache behavior and other factors, but the worst-case running time for quicksort is o(n2), which is unacceptable for large data sets and can be deliberately triggered given enough knowledge of the implementation, creating a security risk. see quicksort for a detailed discussion of this problem, and possible solutions.
+
+the quicksort algorithm also requires [[image:ω(log n]]) extra storage space, making it not a strictly in-place algorithm. this typically does not pose a problem except on the smallest embedded systems, or on systems where memory allocation is highly restricted. constant space (in-place) variants of quicksort are possible to construct, but are rarely used in practice due to their extra complexity.
+
+thus, because of the o(n' log n) upper bound on heapsort's running time and constant upper bound on its auxiliary storage, embedded systems with real-time constraints or systems concerned with security often use heapsort.
+
+heapsort also competes with mergesort, which has the same time bounds, but requires ω(n) auxilary space, whereas heapsort requires only a constant amount. heapsort also typically runs more quickly in practice. however, mergesort is simpler to understand than heapsort, is a stable sort, parallelizes better, and can be easily adapted to operate on linked lists and very large lists stored on slow-to-access media such as disk storage or network attached storage. heapsort shares none of these benefits; in particular, it relies strongly on random access.
+
+ implementation in pseudocode 
+
+the following is one way to implement the algorithm, in pseudocode, where swap is used to swap two elements of the array:
+
+  function heapsort(a, count) {
+      var int start := count ÷ 2 - 1, end := count - 1
+ 
+      while start ≥ 0
+          sift(a, start, count)
+          start := start - 1
+ 
+      while end ≥ 0
+          swap(a[end], a[0])
+          sift(a, 0, end)
+          end := end - 1
+  }
+  
+  function sift(a, start, count) {
+      var int'' root := start, child
+ 
+      while root * 2 < count {
+          child := root * 2
+          if child < count - 1 and a[child] < a[child + 1]
+              child := child + 1
+          if a[root] < a[child]
+              swap(a[root], a[child])
+              root := child
+          else
+              return
+      }
+  }
+
+ 

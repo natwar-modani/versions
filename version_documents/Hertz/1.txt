@@ -1,0 +1,22 @@
+for the radio pioneer, see heinrich rudolf hertz. for other uses, see hertz (disambiguation).
+the hertz (symbol: hz) is the si unit of frequency. in english, hertz is used as both singular and plural.
+
+definition
+one hertz is defined as the reciprocal second.
+
+1 hz = 1 s−1
+
+si multiples
+
+explanation
+one hertz simply means "one per second" (1 / s); 100 hz means "one hundred per second", and so on. the unit may be applied to any periodic event – for example, a clock might be said to tick at 1 hz, or a human heart might be said to beat at 1.2 hz. frequency of aperiodic events, such as radioactive decays, is expressed in becquerels.
+
+to avoid confusion, periodically varying angles are typically not expressed in hertz, but rather in an appropriate angular unit such as radians per second. a disc rotating at 1 revolution per minute (rpm) can thus be said to be rotating at 0.105 rad/s or 0.017 hz, where the latter reflects the number of complete revolutions per second.
+
+deeper explanation
+
+hertz (hz) is a basic a measurement of sound between 1hz - 20,000+hz. the lower the hertz, the deeper the level of noise, the higher the hertz, the louder (high-pitched) level of noise. hertz is also a measurement of high-low noise frequencies forming by the content of the electromagnetism the frequency contains. the amount of content it contains is measured by the abundance of geometric pulsations the frequency holds. therefore, the higher the pulsations, the more tighter the sound waves are bonded together. the lower the pulsations, the less the waves are bonded. tight bonds create loud, high-pitched frequencies which do not travel far. weak bonds create low, sometimes even distorted frequencies that travel further because there would be more sound waves since they would not be bonded together as the tighter bonded waves.
+
+ history 
+the hertz is named after the german physicist heinrich rudolf hertz, who made important scientific contributions to electromagnetism. the name was established by the iec in 1930 .  it was adopted by the cgpm (conférence générale des poids et mesures) in 1960, replacing the previous name for the unit, cycles per second (cps), along with its related multiples, primarily kilocycles (kc) and  megacycles'' (mc).  hertz largely replaced cycles in common use by 1970.
+

@@ -1,0 +1,106 @@
+the heckler & koch mp5 is a submachine gun, developed by german weapons manufacturer heckler & koch (hk) in the 1960s. a typical mp5 fires 9 mm luger ammunition from curved box-type magazines. the mp5's accuracy, reliability, and wide range of accessories and variants have made it the submachine gun of choice for military and law enforcement agencies worldwide.
+
+as with most hk weapons, the trigger assembly is completely replaceable, and includes fully automatic, 4-, 3-, and 2-round burst, single shot, and safe positions in various combinations. mp5s were long chambered for the 9 mm luger round commonly used in pistols. in the late 1990s more powerful 10 mm auto and .40 s&w versions were introduced, but soon phased out in favor of the new ump submachine gun. the mp5 has a roller-delayed blowback mechanism tracing back to a mid-1940s german prototype known as the stg45(m) and further developed in the cetme;it was developed by mauser from the roller-locking system patented by edward stecke in the 1930s and used in the mg42.
+
+variants
+the original mp5 was available in fixed or folding butt forms. some variants did not have a 3-round burst capacity, or had only a 3-round burst mode. in 1971 (mp5a2) and 1973 (mp5a3), hk made several general improvements in the mp5.
+
+the next major development was the mp5sd series (sd1-sd6) introduced in 1974. this model had an integrated suppressor and a specially made barrel which reduced the muzzle velocity of its  ammunition to just below the speed of sound. the result was that the mp5sd series is almost inaudible at distances of more than 15 m. by its remarkable sound and almost invisible muzzle flash, it is chosen as a stealthy operating weapon in many police and military forces.
+
+the hk mp5k (the "k" stands for "kurz", meaning "short"), which is only 325 mm long, was introduced in 1976 at the request of a south american arms dealer who saw the potential for its sale to bodyguards as a concealable, but fully automatic weapon. it has a foregrip to reduce muzzle rise and aid in automatic firing and it can also be fired from inside a special briefcase. a further development of this is the mp5k-pdw (personal defense weapon) in 1991. this model was built for united states air force pilots who needed a compact weapon. unlike the original, the pdw adds a folding stock and can accept a silencer and laser sight. all variants of the mp5k are available in the similar configurations as the original weapon.
+
+under a special contract from the united states navy, hk developed the mp5n or "mp5 navy" variant for the navy's elite special operations units (including the u.s. navy seals). the mp5n features a fully ambidextrous trigger group, a telescoping stock, and a threaded barrel for accessories. in addition, hk replaced many of the metal parts on the mp5n with lighter and corrosion-resistant plastics.
+
+the mp5/10, an mp5 chambered in the 10 mm auto cartridge, was hk's first attempt to increase the power of the mp5 series. in 1994, the us federal bureau of investigation adopted the mp5/10 as their standard submachine gun. despite the discontinuance of mp5/10 production and the agency's adoption of the .40 s&w cartridge for pistol, the fbi recently solicited hk for the purchase of an additional 50 mp5/10.
+
+thumb|150px|mp5ka4 9 x 19 mm with 3-round burst trigger group
+thumb|150px|mp5k 9 x 19 mm with standard "s-e-f" trigger group in briefcase
+
+some mp5 models:
+
+note that a2, a3 denote the buttstock configuration.
+unless noted otherwise, all mp5s are chambered for the 9 x 19 mm parabellum round.
+
+mp5a2 - fixed buttstock
+mp5a3 - the most used mp5 model, has a retractable buttstock.
+mp5a4 - fixed buttstock, similar to a2. 
+mp5a5 - retractable buttstock, similar to a3.
+mp5sfa2 - sf denotes "single fire" with full-automatic removed, making it an ideal police weapon.
+mp5sfa3 
+mp5-n - model developed especially for u.s. navy
+mp5k - the very short version of the mp5
+mp5ka4 
+mp5k-n 
+mp5k-pdw - personal defense weapon; mp5k with added foldable stock and ability to add silencer.
+mp5sd1 -with integrated silencer ("schalldämpfer") 
+mp5sd2 - with integrated silencer ("schalldämpfer") 
+mp5sd3 - with integrated silencer ("schalldämpfer") 
+mp5sd4 - with integrated silencer ("schalldämpfer") 
+mp5sd5 - with integrated silencer ("schalldämpfer") 
+mp5sd6 - with integrated silencer ("schalldämpfer")
+mp5/10 - chambered in 10 mm auto
+mp5/40 - chambered in .40 s&w
+
+history
+the mp5 was first introduced by hk in 1966 under the name hk54. this name comes from hk's old numbering system. the 5 designates the model as a submachine gun, while the 4 identifies it as taking 9 x 19 mm parabellum ammunition. the current name dates from when it was officially adopted by the west german government for use by its police and border guard as the "maschinenpistole 5", or mp5 in mid-1966. the gsg-9, the counter-terrorist part of the border guard, then introduced the mp5 to other western counter-terrorist units.
+
+with the increased use of body armor, the future of the mp5 is uncertain. several new trends in gun design have begun to eclipse the submachine gun; small caliber pdw like hk's new mp7 and compact carbines such as the m4, aks-74, the g36c variant of hk's g36, and the xm8 rifle based on the g36. the only major criticism of the mp5 has been its high cost—approximately 900 usd for an mp5n, or the same price as an assault rifle. hk has started to complement the mp5 series with the more powerful and cheaper ump, which is available in both .45 acp and 9 mm luger calibers. however, since the ump uses a simple blowback action, it may not necessarily be a rival for the mp5 among the most discriminating users.
+
+one famous counter-terrorist operation involving this gun is operation nimrod (april 30, 1980) in the uk. the special air service, armed with mp5s, was deployed to neutralize the terrorists who had taken over the iranian embassy in london. stun grenades were used to startle and confuse the terrorists. then, sas members went through the front door, second, and third storey windows. most of the terrorists were shot and killed. almost every special forces and counter-terrorist unit in the world use mp5s.
+
+the mp5 was also used by crown prince dipendra of nepal to massacre the royal family (including king birendra and queen aiswarya), in a shooting spree in 2001.
+
+operation
+it is important to remember to always keep the finger off of the trigger until target has been selected and you are ready to fire. always point the weapon in a safe direction. always treat the weapon as if it were loaded.
+
+loading
+
+1. on models with "sef" trigger group, place selector (found on the left side of weapon, above pistol grip) to "s" position. on models with "pictogram" trigger group rotate rear of selector all the way up, so that front of selector points to depiction of bullet with x through it (will be only depiction outlined in white). weapon is now safed.
+
+2. holding the weapon by the pistol grip with the right hand, grasp charging handle located on front left side of weapon with the left hand and pull all the way to rear, lock into place by maneuvering handle clockwise into slot found near top of weapon. 
+
+3. insert loaded magazine into magazine well located directly behind rear of foregrip.
+
+4. grasp charging handle with left hand, manuver handle down back into travel slot. release handle, allowing it to slam forwards. 
+
+the weapon is now loaded. 
+
+firing
+
+1. while holding the weapon by the pistol grip with the right hand, and having the left hand  supporting front of weapon by grasping the foregrip (reverse hand positions if left handed), place butt of weapon firmly against shoulder. 
+
+2. depending on model*, rotate selector down one position to "e" or to image of single red bullet. weapon will now fire one bullet each time trigger is pulled. if fully-automaic fire is desired, rotate selector to "f", or depiction of 7 red bullets in a row. 
+
+3. close left eye and look through sights with right eye (reverse eye positions if left handed). select target and place top of post sticking up from front site over target, center top of post inside aperture of rear sight (see  for more in depth sighting procedures), gently squeeze trigger.
+
+*some models will have burst options (2 or 3 red bullets in a row), or will be labeled numerically (0 for safe, 1 for  semi-automatic, 20 or 25 for fully-automatic)
+
+unloading
+
+1. holding weapon by the pistol grip with the right hand use the right thumb to rotate selector to safe position.
+
+2. with left hand, grasp magazine. place left thumb between magazine release (~4mm thick piece of metal sticking down from bottom of gun) and front of trigger guard. while grasping the magazine with the left hand, use the left thumb to push the magazine release towards the magazine, and while holding the release in this position, pull the magazine out of the magazine well.
+
+3. pull back charging handle and lock to rear via slot mentioned in step two of loading procedure, if weapon is "condition 1" (meaning cocked with round chambered) prepare for round to be ejected from right side of weapon when charging handle is brought to rear. collect round and temporarily store in a place where it will not be lost. 
+
+4. after charging handle has been locked in the rearward position, visually inspect weapon to be sure no round remains in the chamber. this is done by rotating the weapon so that the right side faces up, and looking forwards into the ejection port. chambered round should be fairly easy to spot by its golden-brass color. if any doubt remains as to status of weapon, inspect chamber physically by inserting finger through ejection port and feeling around chamber. 
+
+warning: be sure charging handle is securely positioned to the rear, the handle going forwards when a finger is inside the weapon will cause injury to the user. 
+
+after the weapon has been visually/physically inspected it can be declared as "condition 3" (unloaded). when the weapon is unloaded the charging handle should remain in the rearward position, with no magazine inserted in order to signify its condition to any others who may be around, or handling the weapon.
+
+cultural impact
+thumb|200px|mp5
+[[image:elián gonzález breaking news photography.gif|thumb|200px|elián gonzález taken by ins agent armed with mp5]]
+
+the mp5 is a very popular image in popular culture. the mp5 is a very common movie prop, appearing in countless films such as die hard, s.w.a.t., bad boys, end of days, terminator 3: rise of the machines, tomorrow never dies, predator, air force one, and the rock, to name a few. it is notable that up until the 1990s, the mp5 and uzi were the only "foreign" (designed abroad) weapons that were as widespread in cinema as domestic colt m1911 pistols, m16 assault rifles, and revolvers.
+
+in die hard, bruce willis dangles in an elevator shaft suspended from the sling of his evidently sturdy mp5. in the matrix, the first gun neo uses in the lobby scene is an hk mp5k, a variant of the mp5.
+
+during the first few seasons of the television series stargate sg-1 the mp5 was the team's standard-issue firearm.  it has since been replaced by the fn p90 personal defense weapon.
+
+mp5s are ubiquitous in video games. the weapon appears in name or a similarity in many first person shooters, most famously half-life, counter-strike, and rainbow six. an mp5 (with added supressor) is also present in far cry.
+
+the mp5 is also pictured in the logo of the former german radical leftist terrorist group the red army faction.
+
+ 

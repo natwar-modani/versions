@@ -1,0 +1,7 @@
+ok, but what does "morphism" mean at all???
+
+er, so homomorphisms are the only kind of morphisms?  if not, the redirect was incorrect. --lms
+
+from mathworld: "a general morphism is called a homomorphism" -- the anome
+
+mathworld is incorrect. some people use "homomorphism" and "morphism" interchangeably, as we do here, others use "homomorphism" for "morphisms of algebraic structures" (as opposed to analytic or topological structures). in the latter terminology, a continuous map would be considered a morphism, but not a homomorphism. --axelboldt

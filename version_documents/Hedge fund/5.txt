@@ -1,0 +1,110 @@
+the term "hedge fund" dates back to the first such fund founded by alfred winslow jones in 1949.  jones' innovation was to sell short some stocks while buying others, thus some of the market risk was  hedged.  while most of today's hedge funds still trade stocks both long and short, many do not trade stocks at all and the term hedge fund has come to mean a relatively unregulated investment fund, often a partnership rather than a corporation in form, and characterized by unconventional strategies (i.e., strategies other than investing long only in bonds, equities or money markets).
+
+in addition to selling short, jones used leverage (borrowed money to trade in addition to the capital provided by his investors), charged an incentive fee (a fee based on a portion of the clients profits as opposed to a fixed percentage of assets) and had a substantial portion of his net worth in his investment funds -- all characteristics common in today's hedge funds, although virtually all hedge fund managers charge an investment management fee of between 1% and 2% per year as well as an incentive fee.
+
+at the beginning of the 21st century it was regarded by some as a "fashionable" type of investing, since hedge funds saw large inflows of money during that time.
+
+flows and levels
+the amount of money managed by funds that can be termed hedge funds passed the $1 trillion mark during 2004, according to the alternative fund services review.
+
+administration of hedge fund assets
+
+in mid-2004 39 firms provided either on-shore or offshore "administration services" to hedge funds that were managing $1.1 trillion, up from 30 firms managing $745bn a year before. "taking into account fund of funds `double-counting,'" the review said that "average assets under administration for a hedge fund administrator is us$29bn". "the total number of funds has broken the 10,000 barrier, though the grand total of 11,362 does include both master-feeders and separate feeder and sub-funds." the 39 administrators tracked for the mid-2004 number were:
+citco fund services
+fortis
+bank of bermuda gfs
+ifs (a state street company)
+bisys hedge fund services
+globeop financial services
+ubs fund services
+investors bank & trust
+sei investments (nasdaq: )
+olympia capital
+bank of new york
+rk consulting
+pfpc
+euro-vl
+bank of butterfield fund services
+ss&c fund services
+crédit agricole investor services
+dpm
+dundee leeds
+admiral administration
+daiwa securities trust & banking
+rbc
+trident trust
+citigroup global transaction services
+cayman national trust
+custom house group
+baring fund administration services (ifm)
+caledonian fund services
+kredietbank sa
+dexia bil fund services
+nottingham company
+tranaut fund administration (ireland)
+spectrum global fund administration
+bank of ireland securities services
+banque privée edmond de rothschild
+atc fund services
+meridian
+close fund services
+aib worthytrust fund administration
+
+fund strategies
+arbitrage
+convertible arbitrage
+fixed income arbitrage
+risk arbitrage
+statistical arbitrage ('statarb')
+equity (finance)
+equity market neutral
+long / short equity
+event driven (finance)
+distressed securities
+regulation d
+event driven multi-strategy
+other
+emerging markets
+
+risk arbitrage
+main article: risk arbitrage
+
+one common hedge strategy is to buy shares of a company that is in the process of a merger and acquisition. the company's stock has an announced price that it will be worth on the date of the merger, so if the stock is under that value prior to the merger, it is a safe investment to purchase the stock and wait. this strategy can be risky, as there is a possibility that the merger will not go through and the stock will be left at its current value.  frequently, the trader will also sell the stock of the acquiring company in addition to buying the stock of the target.
+
+most of the early hedge funds did just this. they became very popular as a way of seeing gains better than the investment grade bond market, while still having low risk.
+
+however the side effect of this popularity was to dramatically increase the interest in all of the non-standard investment strategies, and soon other funds were being set up with new strategies aimed primarily at high growth. although there is no hedging in these cases, the term is still used for these funds as well.
+
+strategies
+hedge funds use alternative strategies such as selling short, arbitrage, trading options or derivatives, using leverage, investing in seemingly undervalued securities, trading commodity and fx contracts, and attempting to take advantage of the spread between current market price and the ultimate purchase price in situations such as mergers.  they can be extremely risky investments as illustrated by the example of long-term capital management.
+
+regulation
+in the united states, investment companies registered with the securities and exchange commission are subject to strict limitations on the short-selling and use of leverage that are essential to many hedge fund strategies.  for this and other reasons, hedge funds elect to operate as unregistered investment companies.  as a result, interests in a hedge fund cannot be offered or advertised to the general public, and are limited to individuals who are both "accredited investors" (who have total incomes of over us$200,000 per year or a net worth of over us$1,000,000) and "qualified purchasers" (who own at least us$5,000,000 in qualified investments).  for the funds, the trade off is that they have fewer investors to sell to, but they have few government imposed restrictions on their investment strategies.  the presumption is that hedge funds are pursuing more risky strategies, which may or may not be true depending on the fund, and that the ability to invest in these funds should be restricted to
+wealthier investors who are presumed to be more sophisticated and who
+have the financial reserves to absorb a possible loss.
+
+fund of funds
+a special type of investment vehicle called a fund of funds, a fund which invests in other hedge funds rather than trading assets itself.  because some u.s. funds of funds may be specially registered with the securities and exchange commission, they can accept investments from individuals who are not accredited investors or qualified purchasers, and often have lower investment minimums (sometimes as low as $25,000).
+
+comparison to private equity funds
+hedge funds are similar to private equity funds, such as venture capital funds, in many respects. both are relatively unregulated pools of capital that invest in securities and compensate their managers with a share of funds profits. hedge funds typically invest in very liquid assets, and permit investors to enter or leave the fund easily. private equity funds invest primarily in very illiquid assets, such as early-stage companies and consequentially, investors are "locked in" for the entire term of the fund.
+
+hedge funds are regular investors in private equity companies' acquisition funds.
+
+comparison to mutual funds
+like hedge funds, mutual funds are pools of investment capital. however, mutual funds are highly regulated by the securities and exchange commission. one consequence of this regulation is that mutual funds cannot compensate managers based on the performance of the fund, which many believe dilutes the incentive of the fund managers to perform.
+
+hedge fund privacy 
+
+as private, lightly regulated partnerships, hedge funds do not have to disclose their activities to third parties. this is in contrast to a fully regulated mutual fund (or unit trust) which will typically have to meet regulatory requirements for disclosure.  the hedge funds are typically domiciled in an  offshore jurisdiction, e.g. bermuda, cayman islands, virgin islands, where regulation of investment funds permits wider powers of investment. hedge funds have to file accounts and conduct their business in compliance with the less onerous requirements of these offshore centres. investors in hedge funds enjoy a higher level of disclosure than investors in mutual funds including detailed discussions of risks assumed, significant positions, and investors usually have direct access to the investment advisors of the funds. this high level of disclosure is not available to non-investors, hence the notion of privacy attached to hedge funds.
+
+a byproduct of this privacy and the lack of regulation is that there are no official hedge fund statistics.  an industry consulting group, hfr (hfr.com), reported with suspicious precision that at the end of the second quarter 2003 there are 5660 hedge funds world wide managing $665 billion.  to put that in perspective, at the same time the us mutual fund sector held assets $6,818 billion (according to the investment company institute).
+
+the combination of privacy and rich investors means that hedge funds are a target for criticism whenever markets move against some group's interests.  for example, hedge funds were widely blamed for the speculative run-up in the bond market that preceded the global bond crisis of 1994, although the major players in the bond spree were actually large commercial and investment banks.
+
+recent regulatory developments
+
+in october 2004, the u.s. securities and exchange commission approved a rule change that, if implemented as planned, will require most hedge fund advisers to register with the sec.
+
+the rule is expected to encounter legal challenges, specifically on the question of whether the sec has exceeded its statutory authority.
+

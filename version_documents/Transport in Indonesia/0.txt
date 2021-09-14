@@ -1,0 +1,61 @@
+railways:
+total:
+6,458 km
+narrow gauge:
+5,961 km 1.067-m gauge (101 km electrified; 101 km double track); 497 km 0.750-m gauge (1995)
+
+highways:
+total:
+342,700 km
+paved:
+158,670 km
+unpaved:
+184,030 km (1997 est.)
+
+waterways:
+21,579 km total; sumatra 5,471 km, java and madura 820 km, kalimantan 10,460 km, sulawesi (celebes) 241 km, irian jaya 4,587 km
+
+pipelines:
+crude oil 2,505 km; petroleum products 456 km; natural gas 1,703 km (1989)
+
+ports and harbors:
+cilacap, cirebon, jakarta, kupang, palembang, semarang, surabaya, ujungpandang
+
+merchant marine:
+total:
+586 ships (1,000 grt or over) totaling 2,676,875 grt/3,700,864 dwt
+ships by type:
+bulk 38, cargo 346, chemical tanker 9, container 19, liquified gas 5, livestock carrier 1, passenger 7, passenger/cargo 13, petroleum tanker 114, refrigerated cargo 1, roll-on/roll-off 11, short-sea passenger 8, specialized tanker 9, vehicle carrier 5 (1999 est.)
+
+airports:
+446 (1999 est.)
+
+airports - with paved runways:
+total:
+127
+over 3,047 m:
+4
+2,438 to 3,047 m:
+12
+1,524 to 2,437 m:
+39
+914 to 1,523 m:
+41
+under 914 m:
+31 (1999 est.)
+
+airports - with unpaved runways:
+total:
+319
+1,524 to 2,437 m:
+5
+914 to 1,523 m:
+33
+under 914 m:
+281 (1999 est.)
+<p><b>national airline:
+garuda indonesia
+
+heliports:
+4 (1999 est.)
+

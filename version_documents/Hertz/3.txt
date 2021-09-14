@@ -1,0 +1,33 @@
+ hertz (symbol: hz) is a unit of frequency. it is defined as the number of complete cycles per second. it is the basic unit of frequency in the international system of units (si), and is used worldwide in both general-purpose and scientific contexts. hertz can be used to measure any periodic event; the most common uses for hertz are to describe radio and audio frequencies, more or less sinusoidal contexts in which case a frequency of 1 hz is equal to one cycle per second.
+
+the unit hertz is defined by the international system of units (si) such that the hyperfine splitting in the ground state of the cesium 133 atom is exactly 9,192,631,770 hertz,  (hfs cs) = 9,192,631,770 hz.bipm definition equivalently, 1 hz =   (hfs cs). this definition is derived from the si definition of the second. hertz are inverse, s−1. in practice, the hertz simply replaced the older cycle per second.
+
+in english, hertz is used as both singular and plural. as an si unit, hz can be prefixed; commonly used multiples khz (kilohertz, 103 hz), mhz (megahertz, 106 hz), ghz (gigahertz, 109 hz) and thz (terahertz, 1012 hz). one hertz simply means "one cycle per second" (typically that which is being counted is a complete cycle); 100 hz means "one hundred cycles per second", and so on. the unit may be applied to any periodic event—for example, a clock might be said to tick at 1 hz, or a human heart might be said to beat at 1.2 hz. neither the cycle per second nor the hertz, however, are regularly used in nonsinusoidal contexts. the "frequency" (activity) of aperiodic or stochastic events, especially radioactive decay, is expressed in becquerels.
+
+to avoid confusion, periodically varying angles are typically not expressed in hertz, but rather in an appropriate angular unit such as radians per second. a disc rotating at 60 revolutions per minute (rpm) can thus be said to be rotating at ≈6.283 rad/s or 1 hz, where the latter reflects the number of complete revolutions per second. the conversion between a frequency f measured in hertz and an angular frequency ω measured in radians/s are:
+ and .
+
+history
+the hertz is named after the german physicist heinrich hertz, who made important scientific contributions to electromagnetism. the name was established by the international electrotechnical commission (iec) in 1930.iec history it was adopted by the general conference on weights and measures (cgpm) (conférence générale des poids et mesures) in 1960, replacing the previous name for the unit, cycles per second (cps), along with its related multiples, primarily kilocycles per second (kc/s) and megacycles per second (mc/s), and occasionally kilomegacycles per second (kmc/s). the term cycles per second was largely replaced by hertz by the 1970s.
+
+the term "gigahertz", most commonly used in computer processor speed and radio frequency (rf) applications, can be pronounced either , with a hard  sound, or , with a soft . the prefix "giga-" is derived directly from the greek "."
+
+applications
+ vibration 
+sound is a traveling wave which is an oscillation of pressure. humans perceive frequency of sound waves as pitch. each musical note corresponds to a particular frequency which can be measured in hertz. an infant's ear is able to perceive frequencies ranging from 16 hz to 20,000 hz; the average human can hear sounds between 20 hz and 16,000 hz.dominant spectral region the range of ultrasound, infrasound and other physical vibrations such as molecular vibrations extends into the megahertz range and well beyond.
+
+electromagnetic radiation
+electromagnetic radiation is often described by its frequency—the number of oscillations of the perpendicular electric and magnetic fields per second—expressed in hertz.
+
+radio frequency radiation is usually measured in kilohertz, megahertz, or gigahertz; this is why radio dials are commonly labeled with khz, mhz, and ghz. light is electromagnetic radiation that is even higher in frequency, and has frequencies in the range of tens (infrared) to thousands (ultraviolet) of terahertz. electromagnetic radiation with frequencies in the low terahertz range, (intermediate between those of the highest normally-usable radio frequencies and long-wave infrared light), is often called terahertz radiation. even higher frequencies exist, such as that of gamma rays, which can be measured in exahertz. (for historical reasons, the frequencies of light and higher frequency electromagnetic radiation are more commonly specified in terms of their wavelengths or photon energies: for a more detailed treatment of this and the above frequency ranges, see electromagnetic spectrum.)
+
+computing
+in computing, most central processing units (cpu) are labeled in terms of their clock speed expressed in megahertz or gigahertz (109 hertz). this number refers to the frequency of the cpu's master clock signal ("clock speed"). this signal is simply an electrical voltage which changes from low to high and back again at regular intervals. hertz has become the primary unit of measurement accepted by the general populace to determine the speed of a cpu, but many experts have criticized this approach, which they claim is an easily manipulable benchmark.good riddance, gigahertz for home-based personal computers, the cpu has ranged from approximately 1 megahertz in the late 1970s (atari, commodore, apple computers) to over 6 ghz in the present. this can be increased even further by increasing the frequency of the cpu (overclocking) in the bios or other software. (likewise, speed can also be decreased, or underclocked.)
+
+various computer buses, such as the front-side bus connecting the cpu and northbridge, also operate at different frequencies in the megahertz range (for modern products).
+
+si multiples
+
+frequencies not expressed in hertz
+even higher frequencies are believed to occur naturally, in the frequencies of the quantum-mechanical wave functions of high-energy (or, equivalently, massive) particles, although these are not directly observable, and must be inferred from their interactions with other phenomena. for practical reasons, these are typically not expressed in hertz, but in terms of the equivalent quantum energy, which is proportional to the frequency by the factor of planck's constant.
+

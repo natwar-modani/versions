@@ -1,0 +1,37 @@
+telephones - main lines in use:
+1,642,541 (1999)
+<p>telephones - mobile cellular:
+941,775 (1999)
+<p>telephone system:
+modern digital system using cable and microwave radio relay
+domestic:
+microwave radio relay
+international:
+satellite earth station - 1 intelsat (atlantic ocean)
+
+irish national numbering scheme - mobile access:
+ 085 meteor ltd gsm
+ 086 mmo2 gsm
+ 087 vodafone ireland gsm
+ 088 eircell tacs obslete
+
+see also:  eircom
+
+<p>radio broadcast stations:
+am 9, fm 106, shortwave 0 (1998)
+<p>radios:
+2.55 million (1997)
+
+see also: list of irish radio stations
+
+<p>television broadcast stations:
+10 (plus 36 low-power repeaters) (1997)
+<p>televisions:
+1.47 million (1997)
+
+see also: list of irish television channels
+
+<p>internet service providers (isps):
+14 (1999)
+<p>country code (top-level domain): ie
+

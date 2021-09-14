@@ -1,0 +1,28 @@
+in the common law legal system habeas corpus, latin for "you should have the body", is a prerogative writ requiring the government to produce a prisoner before a court and justify his imprisonment. its purpose is to release someone who has been arrested unlawfully. habeas corpus has nothing to do with whether the prisoner is guilty, only with whether due process has been observed.
+
+the institutions of habeas corpus and the ombudsman have been incorporated in several countries that don't follow the common law system. it is seen as a guarantee against torture.
+
+in some countries, habeas corpus has been suspended or delayed for suspected terrorists.
+
+ the origins of habeas corpus in england 
+
+blackstone cites the first recorded usage of habeas corpus in 1305, under king edward i of england.
+
+the principles of habeas corpus were put into an act of parliament in the habeas corpus act in 1679.  [...to be expanded...]
+
+ habeas corpus in the united states 
+
+this procedure, part of english common law, was considered important enough to be specifically mentioned in the u.s. constitution, which says, "the privilege of the writ of habeas corpus shall not be suspended, unless when in cases of rebellion or invasion the public safety may require it."
+
+the most common american use of habeas corpus today is as part of the appeals process after conviction. decisions by the rehnquist supreme court have limited its use, especially in capital cases.
+
+ suspension of habeas corpus during the american civil war 
+
+habeas corpus was suspended on april 27, 1861 during the american civil war by president lincoln in parts of midwestern states, including southern indiana. he did so in response to demands by generals to set up military courts to rein in "copperheads" or peace democrats, or those in the union who supported the confederate cause. his action was challenged in court and overturned by the supreme court, led by chief justice roger taney, in ex parte merryman, 17 f. cas. 144 (c.c.d. md. 1861). lincoln ignored taney's order.
+
+in 1864, lambdin milligan and four others were accused of planning to steal union weapons and invade union prisoner-of-war camps and were sentenced to hang by a military court. however, their execution was not set until may 1865, so they were able to argue the case after the civil war. it was decided in the supreme court case ex parte milligan 71 us 2 1866 that the suspension was unconstitutional because civilian courts were still operating, and the constitution (according to the court) provided for suspension of habeas corpus only if these courts are actually forced closed.
+
+af:habeas corpus
+nl:habeas corpus act
+pl:habeas corpus act
+de:habeas-corpus-akte

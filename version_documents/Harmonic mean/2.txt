@@ -1,0 +1,32 @@
+in mathematics, the harmonic mean is one of several methods of calculating an average.
+
+the harmonic mean of the positive real numbers a1,...,an is defined to be
+
+the harmonic mean is never larger than the geometric mean or the arithmetic mean (see generalized mean).
+
+in certain situations, the harmonic mean provides the correct notion of "average". for instance, if for half the distance of a trip you travel at 40 miles per hour and for the other half of the distance you travel at 60 miles per hour, then your average speed for the trip is given by the harmonic mean of 40 and 60, which is 48; that is, the total amount of time for the trip is the same as if you traveled the entire trip at 48 miles per hour. similarly, if in an electrical circuit you have two resistors connected in parallel, one with 40 ohms and the other with 60 ohms, then the average resistance of the two resistors is 48 ohms; that is, the total resistance of the circuit is the same as it would be if each of the two resistors were replaced by a 48-ohm resistor. (note: this is not to be confused with their equivalent resistance, 24 ohm, which is the resistance needed for a single resistor to replace the two resistors at once.) typically, the harmonic mean is appropriate for situations when the average of rates is desired.
+
+another formula for the harmonic mean of two numbers is to multiply the two numbers, and divide that quantity by the arithmetic mean of the two numbers. in mathematical terms:
+
+this is equivalent to the formula above, but simpler for some calculations.
+
+example
+
+in geometric optics, the mirror equation can be described in terms of a harmonic mean.  consider the case of a concave spherical mirror.  let its object distance be p, its image distance be q, and its radius of curvature be r.  then r is the harmonic mean of p and q.
+
+the focus of a spherical mirror lies halfway between the center of curvature and the vertex, so that the focal distance f is half of the radius of curvature.  since r is the harmonic mean of p and q, this means that the object and its image must lie on either side of the center of curvature: not both on the same side.  it also means that both object and image lie beyond the focus (away from the vertex), i.e. p > r/2 and q > r/2.  but if p = r/2 then q = , or if q = r/2 then p = .  this is also true of harmonic means in general, independently of any concave spherical mirror.
+
+if p and q are a pair of finite positive numbers, then both of them must each be larger than half of their harmonic mean.
+
+weighted harmonic mean
+
+in descriptive statistics, when the scores are available in the form of a regular frequency distribution, the harmonic mean is computed as follows:
+
+ 
+
+or, in summation form: 
+
+ 
+
+where f is the absolute frequency for an observation and n is the number of observations.
+

@@ -1,0 +1,10 @@
+<style>img{float:right}</style>
+
+location:
+western europe, occupying five-sixths of the island of ireland in the north atlantic ocean, west of great britain
+
+image:ei-map.jpg
+
+<p>geographic coordinates:
+53 00 n, 8 00 w
+<p>map 

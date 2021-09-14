@@ -1,0 +1,8 @@
+right|frame|herman hollerith
+herman hollerith (february 29, 1860 – november 17, 1929) was an american businessman and the promulgator of the punch card. he was born in buffalo, new york to german parents and graduated from columbia university, new york, where he received a bachelor's degree in 1879 and a ph.d. in 1890.
+
+hollerith joined the us census bureau as a statistician where he used a punched card device (inspired by the father of a personal friend, dr. billings, and a system used by railroad conductors, in which holes punched in various places on a passenger's ticket identified the holder's gender, age group, etc.) to help analyse the 1890 us census data (starting june 1). this evolved in 1928 into a punched card system that stored data in 80 columns. the punch card soon became a primary method for recording, storing and processing information in large organizations worldwide, a role it kept well into computer age. the "80-column" concept was later carried forward in various forms into modern applications — the majority of typewriters, professional text user interface computers, terminals and wordprocessor systems (including printers), used 80 columns as the de facto standard for printouts and screen display (until graphical user interfaces displaced text interfaces).
+
+on january 8, 1889, hollerith received three patents for his electric tabulating machine. in 1896, hollerith founded the tabulating machine company to market his invention and in 1924 his firm became part of ibm. the hollerith system was used for the 1911 uk census.
+
+ 

@@ -1,0 +1,31 @@
+hangman is a paper and pencil guessing game for two players.
+one player thinks of a word and the other tries to guess it by suggesting letters.
+
+the word to guess is represented by a row of dashes, giving the number of letters. if the guessing player suggests a letter which occurs in the word, the other player writes it in all its correct positions. if the suggested letter does not occur in the word, the other player draws one element of the hangman diagram. the game is over when:
+thumb|"give me a k". "yes, on 3rd". 
+ the guessing player completes the word, or guesses the whole word correctly
+ the other player completes the diagram:
+
+this diagram is, in fact, designed to look like a hanging man. although debates have arisen about the questionable taste of this picture, it is still in use today.
+
+the exact nature of the diagram differs; some players draw the gallows before play and draw parts of the man's body (traditionally the head, then the torso, then the left arm, then the right arm, then the left leg, then the right leg).
+
+some players begin with no diagram at all, and drawing the individual elements of the gallows as part of the game, effectively giving the guessing players more chances.
+
+some modifications to game play, such as "'buying' a vowel" result from the television game show wheel of fortune, created by merv griffin.
+
+hangman is sometimes played as a forum game.
+
+history
+"the origins of hangman are obscure, but it seems to have arisen in victorian times," says tony augarde, author of "the oxford guide to word games" (oxford university press).
+
+the game is mentioned in alice bertha gomme's "traditional games" in 1894 under the name "birds, beasts and fishes." the rules are simple; a player writes down the first and last letters of a word for an animal, and the other player guesses the letters in between. 
+
+in other sources the game is called "gallows", "the game of hangin'", or "hanger".
+
+example game
+the following example game illustrates a player trying to guess the word hangman using a strategy based solely on letter frequency.
+
+12345678910guesser loses - the answer was hangman.
+
+ 

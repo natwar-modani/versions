@@ -1,0 +1,34 @@
+indridae
+
+scientific classification
+kingdom:animalia
+phylum:chordata
+class:mammalia
+order:primates
+suborder:strepsirhini
+family:indridae
+genera
+indri
+propithecus
+avahi
+
+the indridae (also spelled indriidae) are strepsirhine primates with only four teeth in the toothcomb instead of the usual six.
+
+ order primates
+ suborder strepsirhini: non-tarsier prosimians
+ family cheirogaleidae: dwarf and mouse lemurs
+ family lemuridae: lemurs
+ family megaladapidae: sportive lemurs
+ family indriidae: wooly lemurs and allies
+ indri, indri indri
+ diademed sifaka, propithecus diadema 
+ golden-crowned sifaka, propithecus tattersalli 
+ verreaux's sifaka, propithecus verreauxi 
+ eastern woolly lemur, avahi laniger
+ western woolly lemur, avahi occidentalis
+ unicolor avahi, avahi unicolor
+ family daubentoniidae: aye-aye
+ family loridae
+ family galagonidae: galagos
+ suborder haplorhini: tarsiers, monkeys and apes
+

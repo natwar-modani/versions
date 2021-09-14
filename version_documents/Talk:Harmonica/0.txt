@@ -1,0 +1,22 @@
+please improve upon my humble beginnings.  let's use this area to discuss editing. 
+-john thaden  12/28/01
+p.s.  welcome harp-l'ers and the like!
+ 
+some questions for the knowledgeable:  what is it that is "harmonic" about a harmonica?  is it really a simple instrument that anyone can play?  why can regular harmonicas be played in only one key?  why do blues players use a g harmonica to play in c?  what about the chromatic harmonica?  is that they one with "keys" mentioned in this article? 
+
+i'm going to put some famous players in the article as well.  i don't know much about the ax, but i'm hoping to jump-start some discussion.  ortolan88
+
+there have been some fabulous improvements since the last time i was here, but whoever decided to put in the blank lines, please don't.  no matter how cool it looks, it causes problems when various browsers try to display text and makes it harder to edit.  but, man oh man, what a load of good work has gone into this!  ortolan88
+
+user:ortolan88, sorry about the blank lines -- i had a browser crash after starting the first major revision of this, so then i moved the whole thing into emacs to do the edit and copied it back, with blank lines i had put in for my convenience.  i'll make sure not to do that in the future!  i created the new skeleton for this and and sent an e-mail off to the harp-l list to encourage other harmonica players to add more stuff -- i'd especially like to see some info on the old harmonica bands and some of the traditional harmonica band instruments (chord harmonica, etc.).
+
+as to some of the questions above, would an explanation of blues techniques be appropriate?  it would involve a bit of musical theory, but it would be simple enough (basically, blues players are playing off of a mixolydian scale, and the bends that one can use when playing in 'g' in a 'c' also make it easy to get blue notes, such as a blue third (between major and minor) and a tritone.  discussions of technique, etc. could go on at some length, and i'm not sure where to put them (under a new section called techniques or under harmonica types?).  
+
+one final note: i just organized the list of harmonica players alphabetically by genre, so if people could follow this pattern (or propose and implement a new one) it would be much appreciated! 
+
+-- user:thomas mills hinkle
+
+maybe there should be a separate article on blues harmonica, linked from here and from the blues pages.  ortolan88
+
+i've removed the header labelled "free reed physics" and instead made a link to free reed in the first paragraph. there are many free reed instruments other than the harmonica (accordian, bandoneon, harmonium, reed organ...), so i think the subject should be discussed on a page of its own. --camembert
+see pan pipes, syrinx.  ortolan88

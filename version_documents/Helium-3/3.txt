@@ -1,0 +1,62 @@
+for the record label helium 3, see muse
+
+helium-3 is a light, non-radioactive isotope of helium. the helion, the nucleus of a helium-3 atom, consists of two protons but only one neutron, in contrast to two neutrons in ordinary helium. its existence was first proposed in 1934 by the australian nuclear physicist mark oliphant while based at cambridge university's cavendish laboratory. it was first observed at lawrence berkeley national laboratory in 1939 by luis w. alvarez and robert cornog.
+
+helium-3 is rare on earth and sought-after for use in nuclear fusion research.  more abundant helium-3 is thought to exist on the moon (embedded in the upper layer of regolith by the solar wind over billions of years) and the solar system's gas giants (left over from the original solar nebula), although still in low quantities (28 ppm of lunar regolith is helium-4 and 0.01 ppm is helium-3).http://www.moonminer.com/lunar_regolith.html
+
+fusion
+helium-3 undergoes the following aneutronic fusion reaction, among others, although this is the one most promising for power generation:
+
+2h + 3he → 4he (3.7 mev) + p (14.7 mev)
+
+the appeal of helium-3 fusion stems from the nature of its reaction products. most proposed fusion processes for power generation produce highly energetic neutrons which render reactor components radioactive with their bombardment, and power generation must occur through thermal means. in contrast, helium-3 itself is non-radioactive. the lone high-energy proton produced can be contained using electric and magnetic fields, which results in direct electricity generation.
+
+however, since both reactants need to be mixed together to fuse, side reactions (d + d and 3he + 3he) will occur, the first of which is not aneutronic. therefore in practice this reaction is unlikely to ever be completely 'clean', thus negating some of its attraction.  also, the temperatures required for d + 3he fusion are much higher than those of conventional d + t (deuterium + tritium) fusion, so it is unlikely that this type of fusion will be achieved before the problems with conventional fusion are worked out, however long that may take. finally as mentioned in the manufacturing section below helium-3 mining is impractical on earth and manufacture requires the high-energy neutrons that proponents of this fusion reaction seek to avoid.
+
+the amounts of helium-3 needed as a replacement for conventional fuels should not be underestimated.  the total amount of energy produced in the 3he + d reaction is 18.4 mev, which corresponds to some 493 megawatt-hours (4.93e8 wh) per three grams (one mole) of 3he.  even if that total amount of energy could be converted to electrical power with 100% efficiency (a practical impossibility), it would correspond to about 30 minutes of output of a thousand-megawatt electrical plant; a year's production by the same plant would require some 17.5 kilograms of helium-3.  currently, the practical conversion efficiency between the fuel source and the customer's wall-socket is about 30%, so the actual amounts of helium-3 would be two or three times higher than the above estimates.
+
+the amount of fuel needed for large-scale applications can also be put in terms of total consumption: according to the us energy information administration, "electricity consumption by 107 million u.s. households in 2001 totaled 1,140 billion kwh" (1.114e15 wh).  again assuming 100% conversion efficiency, 6.7 tonnes of helium-3 would be required just for that segment of one country's energy demand, 15 to 20 tonnes given a more realistic end-to-end conversion efficiency.
+
+cryogenics
+
+a dilution refrigerator uses helium-3 to achieve cryogenic temperatures as low as a few thousandths of a kelvin.
+
+an important property of helium-3, which distinguishes it from the more common helium-4, is that its nucleus is a fermion since it contains an odd number of spin 1/2 particles. this is a direct result of the addition rules for quantized angular momentum. at low temperatures (around 2.2 k), helium-4 undergoes a phase transition into a superfluid phase that can be roughly understood as a type of bose einstein condensate. such a mechanism is not available for helium-3 atoms, which are fermions. however, it was widely speculated that helium-3 could also become a superfluid at much lower temperatures, if the atoms formed up into pairs analogous to the cooper pairs in the bcs theory of superconductivity. during the 1970s, david morris lee, douglas osheroff, and robert coleman richardson have shown that helium-3 indeed becomes a superfluid at around 2 millikelvins. they were awarded the 1996 nobel prize in physics for their discovery. tony leggett won the 2003 nobel prize in physics for his work on refining our understanding of the superfluid phase of helium-3.
+
+manufacturing
+due to the rarity of helium-3 on earth, it is typically manufactured instead of recovered from natural deposits.  helium-3 is a byproduct of tritium decay, and tritium can be produced through neutron bombardment of lithium, boron, or nitrogen targets.  current supplies of helium-3 come, in part, from the dismantling of nuclear weapons where it accumulateshttp://afci.lanl.gov/aptnews/aptnews.mar1_98.html; approximately 150 kilograms of it have resulted from decay of us tritium production since 1955, most of which was for warheadshttp://www.ieer.org/sdafiles/vol_5/5-1/tritium.html. however, the production and storage of huge amounts of the gas tritium is probably uneconomical, as roughly eighteen tons of tritium stock are required for each ton of helium-3 produced annually by decay (production rate is n γ = n t½ / (ln2); see radioactive decay). if commercial fusion reactors were to use helium-3 as a fuel, they would require tens of tons of helium-3 each year to produce a fraction of the world's power.  breeding tritium with lithium-6 consumes the neutron, while breeding with lithium-7 produces a low energy neutron as a replacement for the consumed fast neutron.  note that any breeding of tritium on earth requires the use of a high neutron flux, which proponents of helium-3 nuclear reactors hope to avoid.
+
+neutron scattering
+
+helium-3 is a most important isotope in instrumentation for neutron scattering. it has a high absorption cross section for thermal neutron beams and is used as a converter gas in neutron detectors. the neutron is converted through the nuclear reaction
+n + 3he  → 3h + 1h + 0.764 mev
+into charged particles tritium (t, 3h) and proton (p, 1h) which then are detected by creating a charge cloud in the stopping gas like in a proportional counter or a geiger-müller tube.
+
+furthermore, the absorption process is strongly spin dependent, which allows a spin-polarized helium-3 volume to transmit neutrons with one spin component while absorbing the other. this effect is employed in neutron polarization analysis, a technique which probes for magnetic properties of matter.
+
+helium-3 has been found in large quantities on the moon and there are plans by both nasa and a russian tycoon to be mining by 2020.
+
+medical lung imaging
+
+polarized helium-3 may be produced directly with lasers of the appropriate power, and with a thin layer of protective cs metal on the inside of cylinders, the magnetized gas may be stored at pressures of 10 atm for up to 100 hours. when inhaled, mixtures containing the gas can be imaged with an mri-like scanner which produces breath by breath images of lung ventilation, in real-time. applications of this experimental technique are just beginning to be exploredhttp://www.cerncourier.com/main/article/41/8/14.
+
+terrestrial occurrence
+
+3he is a primordial substance in the earth's mantle, considered to have become entrapped within the earth during planetary formation. the ratio of 3he to 4he within the earth's crust and mantle is less than that for assumptions of solar disk composition as obtained from meteorite and lunar samples, with terrestrial materials generally containing lower 3he/4he ratios due to ingrowth of 4he from radioactive decay.
+
+3he is present within the mantle, in the ratio of 200-300 parts of 3he to a million parts of 4he.  ratios of 3he/4he in excess of atmospheric are indicative of a contribution of 3he from the mantle.  crustal sources are dominated by the 4he which is produced by the decay of radioactive elements in the crust and mantle.
+
+3he is also present in the earth's atmosphere. the natural abundance of 3he in naturally occurring helium gas is 1.38 x 10-6. the partial pressure of helium in the earth's atmosphere is about 4 millitorr, and thus 5.2 parts per million of helium. since the mass of the earth's atmosphere is about 5,000 trillion metric tons, there are about 35,000 metric tons of 3he in the atmosphere.
+
+3he is produced on earth from three sources: lithium spallation, cosmic rays, and decay of tritium (3h). the contribution from cosmic rays is negligible within all except the oldest regolith materials, and lithium spallation reactions are a lesser contributor than the production of 4he by alpha particle emissions. 
+
+the total amount of helium-3 in the mantle may be in the range of 100 thousand to a million tonnes. however, this mantle helium is not directly accessible. some of it leaks up through deep-sourced hotspot volcanoes such as those of the hawaiian islands, but only 300 grams per year is emitted to the atmosphere. mid-ocean ridges emit another 3 kilogram per year. around subduction zones, various sources produce helium-3 in natural gas deposits which possibly contain a thousand tonnes of helium-3 (although there may be 25 thousand tonnes if all ancient subduction zones have such deposits). crustal natural gas sources may have only half a tonne total. there may be another four thousand tonnes in interplanetary dust particles on the ocean floors. extracting helium-3 from these sources consumes more energy than fusion would release.  extraction from the most efficient source, natural gas, consumes ten times the energy available from fusion reactions. 
+
+ lunar supplies 
+
+it is believed that the moon's surface has large amounts of helium-3 in the lunar regolith.http://fti.neep.wisc.edu/research/he3_pubs.html  at the start of the 21st century several countries planned to explore the moon and to use its resources.  helium-3 is expected to be one of those resources if a commercial fusion process is created. yet to be determined is the exact quantity of helium-3 which the solar wind traps and deposits on the lunar surface.  as of our current knowledge of lunar regolith, it is  exceedingly scarce (ppb quantities mixed in with ppm quantities of he4), and may be beneath the point of economic recovery.  however, processes to extract other materials from the lunar regolith could cover the majority of the energy expenditures in extraction; helium-3 extraction might be piggybacked on these processes. 
+
+cosmochemist and geochemist ouyang ziyuan from the chinese academy of sciences  who is now in charge of the chinese lunar exploration program has already stated on many occasions that one of the main goals of the program would be the mining of helium-3, from where "each year three space shuttle missions could bring enough fuel for all human beings across the world."http://www.chinadaily.com.cn/cndy/2006-07/26/content_649325.htm
+
+in january 2006 the russian space company rkk energiya announced that it considers lunar helium-3 a potential economic resource to be mined by 2020.http://www.space.com/news/ap_060126_russia_moon.html
+

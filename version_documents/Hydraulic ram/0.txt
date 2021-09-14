@@ -1,0 +1,3 @@
+a hydraulic ram is a water-powered cyclic pump.  basically, it harnesses the "water hammer" effect to pump water.
+
+in operation, moving water presses on gas inside a pressure vessel.  a check valve closes, and the compressed gas pushes the water uphill.  the mass of the water moving in the pipe exerts a suction.  the suction lowers the pressure in the gas chamber.  the checkvalve opens and the cycle repeats.

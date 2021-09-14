@@ -1,0 +1,6 @@
+the holographic principle is a speculative conjecture by gerard 't hooft of quantum gravity theories that all of the
+information contained in a volume of space can be represented by a theory that lives in
+the boundary of that region.  in other words, if you have a room then you can model
+all of the events within that room by creating a theory that only takes into account 
+what happens in the walls of the room.  the holographic principle also states that
+at most there is one degree of freedom per planck area in that theory.

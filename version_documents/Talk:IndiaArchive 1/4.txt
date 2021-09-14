@@ -1,0 +1,51 @@
+like the rest of south asia, india has stagnated economically since independence in 1947, while countries in nearby south-east asia and east asia have made remarkable strides in wealth creation.
+
+actually, sri lanka started privatizing, and opening up it's market, in the late 1970s, and india was not far behind. now, even the communist parties talk about how to make this transition well (though they're still opposed, in principle).
+
+ and india was not far behind.
+
+yeah, just 23 years. -- gyan
+
+is the indus valley cradle of the ancient civilization mentioned in the article now part of pakistan?
+
+it comprised a large area, falling in present day india, pakistan and even (iirc) afghanisthan. -- arvindn
+
+india used to be a great colonial master herself, the days of the mauryas.
+
+i'm not familiar with this: who was a colony of whom?
+
+in the days when mighty empires like the mauryas, guptas, etc. ruled present-day india, they colonised other smaller kingdoms not only in but also outside present-day india. many of those empires included vast regions of pakistan, afghanistan, myanmar, etc. the above are examples of north indian empires. the chola empire (south indian) colonised territories as far away as the delta of the ganges and the malacca strait in se asia.
+
+this took place between 500 b.c to 500 a.d. later india was invaded by mughals starting ~1000 a.d and the british starting ~1600 a.d.
+
+since transnational issues has grown out of its dark cia past, it should be put on its own page. however, i think transnational issues of india is kind of cumbersome. any ideas? - eean
+
+i hear the part about nonviolent indepence is incorrect. anyone know anything about this?
+
+the independence movement was largely, though not completely non-violent. (most of the violence was directed against the indians.) however, independence was mostly the result of the fact that after ww2 britain was so weakened that the colony became more of a liability than a prize.
+
+"netaji" subash chandra bose formed the indian national army to fight the british with the help of the japanese & germans (without much success except in creating more awareness about the need of independence) in direct contrast to mohandas gandhi's non-violent methods.
+
+"the republic of india, located in the south of asia, is the second most populated country in the word and is the world's largest democracy with about a billion people and a thousand plus languages."
+
+whoa, a thousand languages is a *lot*. 
+
+i see a page here http://www.sanyal.com/india/indlang.html "325 recognized indian languages" and here http://www.abhishek.mybravenet.com/languages%20of%20india.htm "india's schools teach 58 different languages. the nation has newspapers in 87 languages, radio programmes in 71, and films in 15."
+
+can anybody help sort this out?
+
+ hmm. from http://www.censusindia.net/results/eci11_page3.html
+
+it may be important to note that innumerable mother tongues are returned at every census. for example, in 1961 and 1971 censuses the total number of mother tongues returned was around 3,000, in 1981 around 7,000 and in 1991, these were more than 10,000. these vast raw returns need to be identified and classified in terms of actual languages and dialects to present a meaningful linguistic picture of the country. this operations of linguistic identification of raw mother tongue returns or linguistic rationalization and classification, produced a list of rationalized mother tongues in each census: for example, the list produced in 1961 had 1652 mother tongue names, in 1991 it was 1576. these 1576 rationalized mother tongues were further classified following the usual linguistic methods and grouped under appropriate languages. the total number of languages so arrived at was 114 in 1991 census.
+
+re india/religions:
+
+does anybody remember anything about the (legendary?) early christian communities in india?  (saint thomas ???)
+
+could someone please add the official long name (likely "republic of india/bharat") in hindi (in the devanagari script) to the table or alternatively post it here? thanks. -scipius 19:44 feb 16, 2003 (utc)
+
+done. with one problem. in the ending of the devanagari name "ज&#2351", the vertical line in the letter &#2332 sdoes not exist. instead the part to the left is joined to the last letter. but, i can't find the unicode combination to represent this "half" letter of &#2332 -- gyan
+
+the boundary as shown in the map is not recognised by the govt. of india and many indians in general. the region in kashmir under pakistani control is viewed as part of india. the map shows the region under chinese occupation. so what's wrong in having text telling the there is some region shown as part of pakistan in the map but claimed by india?
+
+and currently the deputy pm (prime minister) does a lot of the job the pm is supposed to do (like signing treaties). so i think we should make a mention of him. -- paddu 04:01 feb 21, 2003 (utc)

@@ -1,0 +1,27 @@
+hash, hashes, hash mark or hashing may refer to:
+
+ substances
+ hash (food), a coarse mixture of ingredients
+ hashish, a cannabis product
+
+ organizations
+ hash house harriers, a running club
+
+ hash mark
+ hash marks, a marking on hockey rinks and gridiron football fields
+ hatch mark, a form of mathematical notation
+ service stripe, a military decoration
+ tally mark, a counting notation
+
+ in linguistics, typography
+ hash or hash mark, the glyph # also called number sign
+
+ in computing
+ hash function, a derivation of data, notably seen in cryptographic hash functions
+ hashtag, a form of metadata often used on social networking websites
+ cryptographic hash function, a derivation of data used to authenticate message integrity
+ hash table, a data structure
+ hash (unix), an operating system command
+ fragment identifier, in computer hypertext, a string of characters that refers to a subordinate resource
+ geohash, a spatial data structure which subdivides space into buckets of grid shape
+ hash chain, a method of producing many one-time keys from a single key or password

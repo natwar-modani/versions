@@ -1,0 +1,14 @@
+hack is jargon meaning either a kludge, or the opposite of a kludge - a clever or elegant solution to a difficult problem. as a verb, it means creating or participating in a hack. the term word is commonly (but not exclusively) used in relation to computer programming; see hacker.
+
+the context determines which of the two meanings is implied. phrases such as "ugly hack" or "quick hack" generally refer to the former meaning; phrases such as "cool hack" or "neat hack" refer to the latter. the first meaning probably derives from the normal english usage of "hack", which means a person lacking talent or ability (e.g. "hack writer".) the second meaning comes from mit.
+
+in mit lingo, a "hack" is an elaborate and flamboyant student prank. past mit hacks include:
+covering the university's signature "great dome" (which seems to be something of a magnet for hacks) with tin foil
+putting a fake (but convincing) mit campus police cruiser on the dome
+decorating the dome as r2d2
+hiding the university president's office by covering its entrance with a fake bulletin board
+inflating a huge balloon on the playing field during a harvard-yale football game
+
+in a similar vein, a "hack" may refer to works outside of computer programming. for example, a math hack means a clever solution to a mathematical problem. the gnu general public licence has been described as a copyright hack.
+
+ 

@@ -1,0 +1,52 @@
+right|herbert simon, c. 2000
+
+herbert simon (june 15, 1916–february 9, 2001) was a researcher in the fields of cognitive psychology, computer science, public administration, economics and philosophy (sometimes described as a polymath). 
+
+he was awarded the acm's a.m. turing award along with allen newell in 1975 for making "basic contributions to artificial intelligence, the psychology of human cognition, and list processing." in 1978 he was awarded  nobel prize in economics "for his pioneering research into the decision-making process within economic organizations". he coined the terms bounded rationality and satisficing.
+
+he was born in milwaukee, wisconsin in 1916.  he received his b.s. in 1936 from the university of chicago, where he was a member of the debate team. he earning a ph.d. in political science from the university of chicago in 1942 with his disseration in public administration.  his disseration was published as administrative behavior, the book upon which his pioneering concepts and his nobel prize were based.  he had positions at berkeley and the illinois institute of technology.  from 1949 until his death, simon served on the faculty of carnegie mellon university, pioneering the quantitative modeling of human behavior through research in a variety of fields.  
+
+simon was a pioneer in the field of artificial intelligence, creating with allen newell the logic theory machine (1956) and the general problem solver (gps) (1957) programs.  gps was possibly the first method of separating problem solving strategy from information about particular problems. both programs were developed using the information processing language (1956) developed by newell, cliff shaw and simon. 
+
+he was awarded the acm's a.m. turing award along with allen newell in 1975 for "in joint scientific efforts extending over twenty years, initially in collaboration with j. c. (cliff) shaw at the rand corporation, and subsequentially with numerous faculty and student colleagues at carnegie mellon university, they have made basic contributions to artificial intelligence, the psychology of human cognition, and list processing."
+
+while living in pittsburgh, pa, he advised the citizenry on various issues including the use of public funds to build stadiums and the method of raising tax revenue. simon emphasized the usefulness of the land tax, reflecting the early influence of henry george on his economic thought.
+
+interesting quote
+ most producers are employees, not owners of the firms..... viewed from the vantage point of classical [economic] theory, they have no reason to maximize the profits of the firms, except to the extent that they can be controlled by owners.... moreover, there is no difference, in this respect, among profit-making firms, non-profit organizations, and bureaucratic organizations. all have exactly the same problem of inducing their employees to work toward the organizational goals. there is no reason, a priori, why it should be easier (or harder) to produce this motivation in organizations aimed at maximizing profits than in organizations with different goals. the conclusion that organization motivated by profits will be more efficient than other organizations does not follow the organizational economy from the neo-classical assumptions. if it is empirically true, other axioms will have to be introduced to account for it.
+
+ "what information consumes is rather obvious: it consumes the attention of its recipients. hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." (computers, communications and the public interest, pages 40-41, martin greenberger, ed., the johns hopkins press, 1971.)
+
+selected bibliography
+administrative behavior 1947
+models of man 1957
+models of discovery 1977
+models of thought 1979, 1989
+models of bounded rationality 1982
+models of my life 1991
+the sciences of the artificial (3rd edition) 1996
+
+reference
+h. simon, "organizations and markets," journal of economic perspectives, vol. 5, no. 2 (1991), p. 28.
+
+external link
+herbert simon's departmental web pages at carnegie mellon university as they were at the time of his death in 2001
+pioneering research into the decision-making process within economic organizations
+simon, herbert
+simon, herbert
+simon, herbert
+simon, herbert
+simon, herbert
+simon, herbert
+simon, herbert
+simon, herbert
+simon, herbert
+
+de:herbert simon
+et:herbert simon
+fr:herbert simon
+nl:herbert simon
+ja:ハーバート・サイモン
+pl:herbert simon
+pt:herbert simon
+ru:саймон, герберт

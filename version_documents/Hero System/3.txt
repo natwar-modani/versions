@@ -1,0 +1,94 @@
+the hero system (or hero system) is a generic role-playing game system that developed from the superhero rpg champions. it is used as the underlying mechanics of other hero games role-playing games such as dark champions, fantasy hero, star hero, and pulp hero. it is characterized by point-based character creation and the rigor with which it measures character abilities. it was one of the first rpg systems to forgo the use of non-cubical dice.
+
+system features
+the hero system character creation system is entirely points-based with no random elements. players are given a pool of points, the size of which varies depending on the campaign type, with which to buy characteristics, skills, talents and powers. they can gain additional points by taking disadvantages that hamper their character in play.
+
+abilities in the hero system, particularly powers (a broad category that includes superpowers, magic, psionics and high technology), are modeled based on their effects. the player chooses an effect the power models (such as energy blast) and chooses a set of modifiers to fine-tune the power's function. each modifier makes the power more or less expensive. hero system products and players are notorious for the ingenuity and complexity of their power constructions.
+
+tasks are resolved using three six-sided dice and power effects (especially damage) are resolved by rolling a number of dice based on the power's level.
+
+unlike the d20 system, experience awards are in the form of character points, which have the same value as those used in character creation and can be applied directly to the character's abilities upon receipt.
+
+character creation
+the hero system's biggest innovation was its use of a point-based system for character creation with a tool-kit approach to creating abilities. the rules only define the ability's effects in combat -- the player defines what the ability looks like when used.  for example, the ability to project a jet of fire could be bought as "energy blast," or any of a number of other abilities.  the player then defines it as a "jet of fire," with all that implies: it has the possibility of starting secondary fires; it looks, smells and sounds like a jet of fire; etc. this energy blast could be modified by any number of modifiers such as "explosion," "area of effect" or "no range."  these affect how the power works as well as its final cost.
+
+each player creates his character starting with a pool of points to buy abilities (such as the aforementioned "energy blast" and "armor"), increase characteristics (such as "strength" and "intelligence") and buy skills (such as "computer programming" and "combat driving").  this pool can be increased by taking disadvantages for your character (such as being hunted by an enemy, a dependency of some sort or having people who depend on your character in some way).  the initial pool, as well as the final pool size, is determined by the game master (gm), as well as the point limits on each individual ability.
+
+advantages and disadvantages
+the advantages of the hero system are commonly considered to be:
+
+it eases game balance issues for the gm: characters of similar point totals are usually of roughly equal power.
+it is very flexible in character creation, allowing players to create nearly any character they can imagine.
+it uses only six-sided dice, the most commonly used type.
+
+the primary disadvantages are commonly considered to be:
+
+complexity, as character generation provides a sometimes overwhelming number of options and requires more mathematical computation than other games (but see "mathematics issues" below).
+the long amount of time it can take to adjudicate combat.
+the ability for players familiar with the system's quirks to use the system to decrease the point cost of powers, leading to one character being much more powerful than another character of similar point value. 
+a large number of dice required at high power levels
+
+the "large number of dice required at high power levels" has been called both an advantage and a disadvantage.  the original designers, and some contemporary players, have cited a "feeling of power" when rolling large numbers of dice and counting off huge amounts of damage.  on the other hand, rolling such a large load of dice can be physically unwieldy and take a long time to add up.
+
+powers
+the powers system is divided into a set of standard powers, and a list of advantages and limitations that can be applied to each power. many of the powers have specific advantages and limitations that apply only to that power. the powers in the hero system are categorized roughly as follows:
+
+adjustment powers — modify the characteristics of self or another.
+attack powers — inflict physical damage or some other negative effect on an opponent.
+body-affecting powers — change shape, size, density, etc.
+defense powers — protect against an attack or mishap.
+mental powers — detect and/or affect the mind of another.
+movement powers — employ various forms of movement.
+sense-affecting powers — alter or hinder a character's senses.
+sensory powers — improve or expand upon the sensory abilities.
+size powers — growth and shrinking.
+special powers — powers with some unusual quality, including ones that do not fall into the other categories.
+standard powers — a "catch-all" for powers that are not adjustment, mental, movement, size, or special powers.
+
+within each of these categories are multiple powers that have more specialized effects. thus for the movement category there are powers that can be used for running, swimming, climbing, leaping, gliding, flying, tunneling through solid surfaces, and even teleportation. for certain game genres there are even powers for traveling to other dimensions or moving faster than light.
+
+also, many powers appear in at least two categories.  for example, most attack powers are also standard powers, and size powers are basically just a subcategory of body-affecting powers.  darkness is in three categories — standard, attack, and sense-affecting.
+
+point cost
+
+each power has a base point cost for a given effect. this could be, for example, a certain number of points per six-sided-die (or "d6") of damage inflicted upon a foe.
+
+powers can have both advantages and limitations.  both are modifiers applied at different stages in calculating cost.  these modifiers are typically in integer increments of ±¼, but can range up to ±2 or even higher.
+
+after the base cost is calculated, advantages are applied.  these, which can make a power more useful, typically expand its effectiveness or make it more powerful, and thus make it more expensive.  once advantages are applied, the base cost becomes the active cost.
+
+the formula for calculating the active cost is:
+
+active cost = base cost × (1 + advantages)
+
+once active cost is calculated, limitations are applied.  these represent shortcomings in the power, lessened reliability or situations in which the power can not be used.  limitations are added separately as positive numbers, even though they are listed as negative.
+
+the real cost of the power is then determined by:
+
+real cost = active cost / (1 + limitations)
+
+the active cost by itself is used in other calculations, such as endurance usage, skill level required, or slot usage in a power framework.  the real cost just gives the point expenditure required to gain the power.
+
+power frameworks
+
+the rules also include schemes for providing a larger number of powers to a character for a given cost. these power frameworks reduce the cost either by requiring the group of powers to have a common theme as in an elemental control framework, or by limiting the number of powers that can be active at one time with a multipower framework. powers within a framework can share common limitations, further reducing the cost.  a third type of power framework, the variable power pool (vpp), trades thrift for flexibility.  with it, powers can be arbitrarily chosen on the fly, granting enhanced in-game flexibility.  the price is a premium on points, called the control cost.  additionally, it is marked as potentially unbalancing, so not all gms will permit vpp's.
+
+mathematics issues
+one of the criticisms levelled at the hero system almost since its inception is the relatively large amount of computation involved in its use, particularly during character creation. while almost none of this math goes beyond the basic functions of addition, subtraction, multiplication, and division (certain obscure and completely optional situations may call for a logarithmic function), this can seem daunting to newcomers.
+
+as a result, software has been created to automate the bookkeeping involved. "heromaker", a ms-dos program, was distributed with some versions of champions. today, "hero designer""hero designer: character creation software for hero system, 5th edition", vendor website for the fifth edition is available on several platforms, and is supported by numerous character packs and other extensions linked to hero games book releases.
+
+publishing history
+although several games based on the hero system were published in the 1980s, including champions, danger international, justice, inc., robot warriors and the original versions of fantasy hero and star hero, each of the rpgs was self-contained, much as chaosium's basic role-playing games are.  the hero system itself was not released as an independent entity until 1989, as gurps (generic universal roleplaying system) became more popular. as a joint venture between hero games and iron crown enterprises, a stand-alone hero system rulebook was published alongside the fourth edition of champions. the content was identical to the opening sections of the champions rules, but all genre-related material was removed. afterward, genre books such as ninja hero and fantasy hero were published as sourcebooks for the hero system rulebook as opposed to being independent games.
+
+with the collapse of the hero-ice alliance, the hero system went into limbo for several years. the champions franchise released a new version under the fuzion system, which had been a joint development with r. talsorian games, called champions: the new millennium. although two editions were published, it was very poorly received by champions fans. in 2001, a reconstituted hero games was formed under the leadership of steve long, who had written several books for the earlier version of the system. it regained the rights to the hero system and to the champions trademark.
+
+in 2001, the fifth edition of the hero system rulebook was released, incorporating heavy revisions by long. a large black hardcover, it was critically well-received and attained a degree of commercial success. (following problems with fragile bindings on fourth edition rulebooks, the planned binding for the larger fifth edition was tested using a clothes dryer."news", hero games website, january 25, 2002)
+the fifth edition is often referred to as "fred", which is a backronym for "fifth rules edition". the name actually comes from steve long's reply when asked what the standard abbreviation for the fifth edition would be: "i don't care if you call it 'fred', as long as you buy it." 
+
+a revised version (isbn 1-58366-043-7) was issued in 2004, along with hero system sidekick, a condensed version of the rulebook with a cover price of under $10. fans often call the revised fifth edition "fiver," refred," or "5er" (from "fifth edition revised"; "fiver" also alludes to watership down). this rulebook is so big (592 pages) that some fans speculated that it might be bulletproof, and it did indeed stop some bullets when tested by hero games staffers."5er bulletproof video", steve long, hero games forum. video hosted at youtube.
+
+on february 28, 2008, cryptic studios purchased the champions intellectual property, and sold the rights back to hero games to publish the 6th edition books, which will debut in 2009 at gencon. one of the new features will be to allow players to adapt their champions online characters to the pen-and-paper game.
+
+in late 2008, hero released a licensed rpg for aaron williams's popular comic ps238 using a simplified version of the fifth edition rules.
+

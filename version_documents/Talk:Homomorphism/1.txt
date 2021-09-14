@@ -1,0 +1,11 @@
+ok, but what does "morphism" mean at all???
+
+er, so homomorphisms are the only kind of morphisms?  if not, the redirect was incorrect. --lms
+
+from mathworld: "a general morphism is called a homomorphism" -- the anome
+
+mathworld is incorrect. some people use "homomorphism" and "morphism" interchangeably, as we do here, others use "homomorphism" for "morphisms of algebraic structures" (as opposed to analytic or topological structures). in the latter terminology, a continuous map would be considered a morphism, but not a homomorphism. --axelboldt
+
+i stand corrected - i come at this from a computer science/category theory angle. time to call out the specialists! -- the anome
+
+i wrote the redirect on the grounds that the article implied that what it was referring to was the general notion from category theory. (it said "the notion of morphism is studied abstractly in category theory.") i wanted an article called "morphism" to link to from other things that i am writing. (but was it bad form to have put a link to the redirect in "morphism" from the article "homomorphism" itself?) upon further consideration of the article, however, i realised that this was not true. the article is written in the language of concrete categories (those where objects are sets with some structure and morphisms are functions that preserve that structure), which isn't such a crime, but unfortunately many of the statements made don't apply to all concrete categories. in particular, the bit about the equivalence relation is very specific, from universal algebra. so i rewrote the article to specify that it applied only to universal algebra (adding some features and cleaning up some notation as well -- change back any notation change that you feel is horrid). then i wrote another article under the name "morphism" that holds generally, in any category, and using the more general language of abstract categories instead of concrete ones. i hope that it's clear now what the scopes of the 2 articles are, and that the distinction between the titles of the articles can be maintained. i'm fairly new here, so let me know if i screwed stuff up. (thank goodness for the logs!) -- toby bartels

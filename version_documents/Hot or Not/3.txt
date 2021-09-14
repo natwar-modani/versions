@@ -1,0 +1,19 @@
+hot or not is a website that allows users to rate the attractiveness of photos submitted voluntarily by others.  photos are approved by volunteer moderators, who strive to keep the site "fun, clean, and real."
+
+founded in october 2000 by two silicon valley-based engineers, james hong and jim young, the site was originally called am i hot or not, and quickly became very popular. the site allowed people to submit their pictures, and visitors would rate them on a scale of one (not) to ten (hot).
+
+within a week of launching, the site had reached the level of serving almost two million page views per day. within a few months, the site had penetrated the netnielsen rating's top 25 advertising domains, placed immediately behind cnet and nbci.
+
+in order to keep up with rising costs, hong and young added a matchmaking component to their website called "meet me at hot or not", i.e. a system of range voting.
+
+imitators
+
+hot or not was originally preceded by the popular ratemyface.com and ratemybody.com which were launched a year earlier in the summer of 1999, although hot or not would eventually become a more popular website. since then, hot or not has spawned many imitators. imitators have even taken the concept as far as rating characters in massively multiplayer online role-playing games or mmorpgs (sexy sprite or fugly fright?!), network diagrams (ratemynetworkdiagram.com), the female breast (getyourboobsout.com), myspace profiles(myspacerater.com), cars (respectmyride.com)  and ambiguously pornographic images (pornornot.net). the concept always remains the same, but the subject matter varies greatly.
+
+the latest craze to hot or not style websites is in pet picture rating sites. a lot of the sites are the same and offer you the choice to post up pictures of your pets for others to rate. there are however a few more tailored websites like petsinclothes.com, which is aimed at the pet fashion category. petsinclothes.com allows the user to upload pictures of their well dressed pets for others to rate in the standard 1 - 10 scale.
+
+the most recent additions to the world wide web of photo ranking is the vote 4 camjam network; which includes  vote4them.com, vote4girls.com, vote4him.com & vote4boys.com. five domain names all pointing to one site for users to upload their pics, chat with others, email and im each other, and spend hours looking at others profiles. another new site, the snub club (snubclub.com), allows you to vote on people's images in order to allow access into the member's only side of the site.  it was created to give a place to meet others without having to sort through members who are old or ugly. passions.com is a brand new rating site that is evolving into a fully functional social networking site.  passsions is different because it utilizes the new ajax technology available to web designers.  this allows the site to load much quicker and is much more user friendly.
+
+rating distribution
+a comparison of the original hotornot.com and others, such as the german hotornot.de, revealed a large difference in average ratings between the sites. the most likely cause of this difference is that the algorithm used to keep track of scores on hotornot.com contains a bias term to adjust ratings to a 10 point scale, with most pictures rated 7 or above. the site faq mentions that statistically people tend to rate from 1 to 5 and the rate algorithm adjusts the results to scale to 10. it appears the other sites do not use such a 'normalization' method on their ratings and thus most rarely get over 7.
+

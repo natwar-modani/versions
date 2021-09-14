@@ -1,0 +1,28 @@
+early humans
+
+scientific classification
+kingdom:animalia
+phylum:chordata
+subphylum:vertebrata
+class:mammalia
+order:primates
+family:hominidae
+genus:homo
+species:habilis
+binomial name
+homo habilis
+
+homo habilis is  a species of the genus homo, which lived from approximately 2.5 million to 2.0 million years ago. the definition of this species goes back to louis leakey who found fossils in tanzania, east africa, in 1964.  its name means "handy-man".  homo habilis is the arguably the first species of the homo genus to appear.  in its appearance and morphology, habilis was the least similar to modern humans of all species to share the homo genus (save possibly homo rudolfensis).  it was very short and had disproportionately long arms compared to modern man.  homo habilis is thought to have descended from a species of the australopithecine. it may have had a more immediate ancestor in the form of the somewhat more massive and ape-like, homo rudolfensis.  homo habilis had a brain slightly less than half of the size of modern man.  these early human ancestors were not giants.  on average they stood no taller than 4 feet, 3 inches.
+
+homo habilis shared the earth with many homo-like bipedal primates such as paranthropus boisei which were also highly successful, some prospering for many a millenia. however, habilis with its early tool innovation and less specialized diet, proved to be a pre-curser of an entire line of new species, whereas paranthropus boisei and its ilk disappeared off of the fossil record.
+
+homo habilis is thought to have mastered the oldowan era (early paleolithic) tool case which utilized stone flakes.  though these stone flakes were primitive by human standards, they were more advanced than any tools that had ever previously existed, and they gave habilis the edge it needed to prosper in hostile envirenments previously too formidable for primates.  however, habilis was not the master hunter that its descendents proved to be as there is ample fossil evidence that homo habilis was a major staple in the diet of large predatory animals such as the dinofelis barlowi, a giant predatory leopard.  homo habilis used tools primarily for scavenging, such as cleaving meat off of carrion, rather than defense or hunting. 
+
+homo habilis is thought to be the ancestor of the lankier and more sophisticated, homo ergaster, which in turn gave rise to the more human appearing species, homo erectus.  there is debate over whether h. habilis is a direct human ancestor, and over how many known fossils are properly attributed to the species.
+
+there is little evidence that homo habilis controlled fire, buried its dead, hunted cooperatively, used language (any more advanced than gestures) or studied its environment in the manner of its later descendents.
+
+external link
+early human phylogeny (smithsonian institution)
+
+de:homo habilis et:homo habilis fr:homo habilis zh:能人

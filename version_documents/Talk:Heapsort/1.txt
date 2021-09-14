@@ -1,0 +1,32 @@
+is it for some reason impractical to implement a quaternary heapsort?
+
+it's not impractical to implement a quaternary heapsort. in fact, i managed to implement an n-ary heapsort algorithm in java. — pguedes
+
+i think there's a bug in the final line of the python program. should it not be called with the first element of the array, 1 instead of with 0?
+
+to my mind o(n log n) is not approximately linear for large n,
+but i suppose it depends on your viewpoint. there are sort methods which are linear - e.g pigeon hole sort for a densely populated set of integers, and these
+could be expected to run significantly faster.
+
+however, both heapsort and quicksort are, for most practical purposes, amongst the
+fastest sorts. note that scrambling the elements before doing a quicksort is often
+more effective - as often the elements are almost in order, in which case quicksort is known to be slow. this does not apply to heapsort.
+
+i agree with the o(n log n) statement, and eliminated the claim that it's about linear. scrambling the elements isn't a really effective strategy for improving quicksort, since scrambling involves a lot of cache misses, making it a very slow operation. deco 19:36, 4 nov 2004 (utc)
+
+the article states that an in-place (o(1) auxiliary space) quicksort is possible.  is that true?  don't you need a stack to manage what parts of the array you still need to sort? --ryan stone 15:52, 4 nov 2004 (utc)
+
+oh, i see it now. the data stored on the stack in quicksort is the pivot positions. it is quite possible to compute, rather than store, the pivot positions, in restricted implementations — for example, in a quicksort implementation which always uses the median. i'm not aware of any fast in-place quicksort variant though. deco 19:31, 4 nov 2004 (utc)
+
+there is something i've always wondered about heapsort. when you've created the heap and starts to extract the largest element of it, you swap it with the element with the largest index in the heap to get the value in the right position (ie when you just have created the heap, the first thing you do is to swap the 1st element with the nth, then heapify, then you swap the 1st element with the (n-1)th and heapify and so on). but if you do that you will most of a time get a very low value at the top of the heap (since the value was previously at the bottom of the heap), and since that value is pretty low the siftup will take longer. why don't you instead implement the heap as a min-heap instead of a max-heap? then the head would be at the right position directly (no need to swap) and you could make one of it's children (the element just after it) the head and then heapify. the heapifying would take shorter time on average wouldn't it? i mean, it obvoiusly wouldn't be asymptotically faster, but it would be faster, n'est pas? gkhan 01:21, feb 14, 2005 (utc)
+and oh yeah, i realize that the talk-page isn't really the right forum for asking techincal questions, but indulge me gkhan 01:22, feb 14, 2005 (utc)
+
+ first, note that the largest value isn't guaranteed to be at the end of the array in a min-heap.  for example, [0 10 5] is a valid min-heap.  if you think about it, if the largest value was guaranteed to be at the end of the array, a min-heap would be a sorted array.
+
+the reason that we swap the value at the end of the array is to avoid creating a "hole" in the heap.    consider the following max-heap:
+ [50 10 9 2 1 8 7]
+ remove the largest value, and copy the largest child to the root:
+ [10 . 9 2 1 8 7](. represents the "hole" we just created -- there's currently nothing there)
+ do the same for the heap rooted at index 1:
+ [10 2 9 . 1 8 7]
+ now, we need to move the 7 out of the position at index 6, because that's where the 50 should go(we removed it from the heap, remember?).  but we can't just put it into the hole, because then this won't be a max-heap: 7 will a child of 2.  we could sift the value up, but that's wasteful.  it's far easier to do a normal heap-removal operation.--ryan stone 03:03, 17 feb 2005 (utc)

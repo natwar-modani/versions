@@ -1,0 +1,13 @@
+for other uses, see hydrophobia.
+
+hydrophobe (from the greek (hydros) "water" and (phobos) "fear") in chemistry refers to the physical property of a molecule that is repelled by water. hydrophobic molecules in water often cluster together.
+
+hydrophobic or lipophilic species, or hydrophobes, tend to be electrically neutral and nonpolar, and thus prefer other neutral and nonpolar solvents or molecular environments. hydrophobic is often used interchangeably with "oily" or "lipophilic".
+
+the term hydrophobic interaction (hi) has been used in the context of several closely related phenomena related to hydrophobic species.
+
+according to thermodynamics, matter seeks to be a low energy state, and bonding reduces chemical energy. water is electrically polarized, and is able to form hydrogen bonds internally, which gives it many of its unique physical properties. but since hydrophobes are not electrically polarized, and because they are unable to form hydrogen bonds, water repells hydrophobes, in favour of bonding with itself. as one larger area of this kind is energetically more favourable than two smaller ones, thermodynamics favour hydrophobic molecules clustering together, even though hydrophobic molecules are not actually attracted to another.
+
+examples of hydrophobic molecules include the alkanes, oils, fats, and greasy substances in general. hydrophobic materials are used for oil removal from water, the management of oil spills, and chemical separation processes to remove non-polar from polar compounds.
+
+ 

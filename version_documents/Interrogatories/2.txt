@@ -1,0 +1,42 @@
+in law, interrogatories (also known as requests for further information) are a formal set of written questions propounded by one litigant and required to be answered by an adversary, in order to clarify matters of evidence and help to determine in advance what facts will be presented at any trial in the case.
+
+purpose of procedure
+the vast majority of such questions are to find background information about the litigants that is not specific to each case, so it is common to use pre-printed forms containing standard questions that are generally relevant to the type of case at hand, called form interrogatories.  these may even be determined by statute or court rules.
+
+in civil cases, the issues to be decided can potentially be more complex that in criminal cases. for example if a person is charged with speeding, in a hypothetical case the prosecution have to prove that the person was the driver of the motor vehicle and that it was being driven in excess of the proper speed without any lawful excuse.
+
+example
+one common civil claim brought is compensation arising out of a road accident. in reality a road traffic accident is rarely complicated. however to demonstrate the concept, this section assumes there is a car accident in a common law jurisdiction that does use complicated concepts
+
+in this hypothetical claim the injured person would usually rely on the fact that the driver to be held responsible has (in the injured person's opinion) breached the tort of negligence. if they did that, the law requires the injured person to show that the driver owed them a duty of care and breached it. in practical reality, the courts accept that drivers owe other road users and pedestrians a duty of care, and the case would come down to whether the driver drove in accordance with the standard of a reasonable driver, and whether the injured person's injuries are a foreseeable consequence of the driving.
+
+however, the manner in which the injured person could seek to prove those things is very variable. in the simplest case the injured person could allege that the driver went too fast, failed to control the car properly or failed to keep lookout. the driver may have a defence to those allegations, perhaps if the accident occurred at low speed, and was unavoidable (maybe due to some third party intervention). the injured person may, however, argue that the driver was still responsible (perhaps the driver should have used the horn of the vehicle to alert the third party), or there may be other allegations.
+
+the pleadings of the parties are intended to let the other parties know what each side will seek to prove at trial, and what case they have to answer.
+
+however, in a complicated case, the pleadings may not give enough information. in the above example, the pleading may allege:
+the driver drove negligently. the details of the negligence are,
+failing to drive carefully
+driving too fast
+failing to make proper use of the car's controls
+failing to take reasonable steps to alert the third party so as to avoid the accident.
+
+the driver is told the broad outlines of the case, but still does not know what allegation is being made regarding alerting the third party.
+
+the driver can therefore issue an interrogatory to require the injured party to state exactly what it is that the driver did not do and should have done.
+
+in the hypothetical example, this would assist the litigation process, because for example, if the injured person states that the driver ought to have alerted the third party, the driver may be aware that the law imposes no such duty, and can issue a motion, (or application) to the court to have that part of the claim dismissed.
+
+specific jurisdictions
+england and wales
+in england and wales, this procedure is governed by part 18 of the civil procedure rules 1998. it is known as a request for further information
+
+in the request for further information procedure, use of standard pre-printed forms is not common, and any such request would almost certainly be looked upon critically by the courts, as use of standard forms rather than requests tailored specifically to the case is likely to offend against the 'overriding objective' in that it is unlikely to be proportionate to the case, and instead result in the parties or their lawyers having to spend time, money and resources in answering the questions. the way the rules work, this could easily result in the party making the request having to pay both their own costs and the costs of the opponent - even if they win the case at the end.
+
+in england and wales, firstly the person wanting to know the information request it in writing, either in letter form, or more usually, on a blank document with the questions on one side of the page and space for the answers on the other side. a deadline is set for the opponent to answer the request. if they fail to answer, the person requesting can make an application on notice to the court and ask the procedural judge to make an order compelling the opponent to answer the questions. whether the judge will make an order is discretionary and will be determined in accordance with the overriding objective, and in the context of the questions asked.
+
+in particular, the procedure is not intended to be used to ask questions that would ordinarily be dealt with at trial.
+
+united states
+in the united states, use of interrogatories is governed by the kind of where the case has been filed. all federal courts operate under the federal rules of civil procedure, which places various limitations on the use of this device, permitting individual jurisdictions to limit interrogatories to twenty-five questions per party.
+

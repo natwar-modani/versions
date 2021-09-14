@@ -1,0 +1,73 @@
+the heckler & koch mp5 is a submachine gun developed by german weapons manufacturer heckler & koch (hk) in the 1960s. 
+
+history
+the mp5 was first introduced by heckler & koch in 1966, under the name hk54. this name comes from hk's old numbering system: the "5" designates the model as a submachine gun, while the "4" identifies it as being chambered for 9 x 19 mm ammunition. the current name dates from when it was officially adopted by the west german government for use by its police and border guard as the maschinenpistole 5, or mp5, in mid-1966. the gsg 9, the counter-terrorist part of the border guard, then introduced the mp5 to other western counter-terrorist units.
+
+with the increased use of body armor, the future of the mp5 is uncertain. several new trends in gun design have begun to eclipse the submachine gun; small caliber personal defense weapons (pdw) like the new heckler & koch mp7 and compact carbines such as the m4, aks-74u, the g36c variant of hk's g36, and the xm8 rifle based on the g36. the only major criticism of the mp5 has been its high cost — approximately 900 usd for an mp5n — the same price as an assault rifle. heckler & koch has started to complement the mp5 series with the more powerful and cheaper ump, which is available in .45 acp, .40 s&w and 9 mm parabellum calibers. however, since the ump uses a simple blowback action, it may not necessarily be a rival for the mp5 among the most discriminating users.
+
+one famous counter-terrorist operation involving this gun was operation nimrod. it took place on april 30, 1980 in the united kingdom, when the special air service (sas), armed with mp5s, was deployed to assault the terrorists who had taken over the iranian embassy in london.
+
+an mp5 was used by crown prince dipendra of nepal to massacre the royal family (including king birendra and queen aiswarya), in a shooting spree in 2001.
+
+design
+a typical mp5 fires 9 x 19 mm parabellum ammunition from a curved, detachable box-type magazine. the mp5's accuracy, reliability, and wide range of accessories and variations have made it the submachine gun of choice for military and law enforcement agencies worldwide.
+
+as with most heckler & koch weapons, the trigger assembly is a replaceable modular component and may include fully-automatic, 3- and 2-round burst, semi-automatic, and safe positions in various combinations. mp5s were originally chambered for the 9 mm parabellum cartridge, commonly used in pistols. in the late 1990s, more powerful 10 mm auto and .40 s&w versions, respectively called mp5/10 and mp5/40, were added to the available calibers. in 2000, however, both versions were discontinued in favor of the new ump submachine gun.
+
+the mp5 has a roller-delayed blowback mechanism tracing back to a mid-1940s german prototype known as the stg45(m) and further developed in the cetme rifle. the design was developed by mauser from the roller-locking system patented by edward stecke in the 1930s; the same system was used in the mg42 machine gun.
+
+variants
+thumb|200px|mp5ka4 9 x 19 mm luger with 3-round burst trigger group
+thumb|200px|mp5k 9 x 19 mm luger with standard "sef" trigger group in briefcase
+
+the original mp5 was available with a fixed (mp5a2) or retractable (mp5a3) stock. some variants did not have a 3-round burst capacity, or had only a 3-round burst mode. heckler & koch has made many general improvements to the mp5 over the years since its introduction.
+
+the next major development was the mp5sd series (sd1–sd6), introduced in 1974. this model had an integrated suppressor and a specially-made barrel which reduced the muzzle velocity of its ammunition to just below the speed of sound. the result was that the mp5sd series is almost inaudible at distances of more than 15 meters. by its remarkable sound and almost invisible muzzle flash, it is chosen as a stealthy-operating weapon in many police and military forces.
+
+the mp5k (the "k" stands for kurz, meaning short), which is only 325 mm long, was introduced in 1976 at the request of a south american arms dealer who saw the potential for its sale to bodyguards as a concealable, but fully-automatic weapon. it has a vertical foregrip to reduce muzzle rise and aid in automatic firing and it can also be fired from inside a special briefcase. additionally, a version without the diopter sights but a smooth upper surface and small pistol sights was developed to reduce the likelihood that the weapon would snag during the draw.
+
+a further development of the model by the u.s. division of hk was the mp5k-pdw (personal defense weapon), in 1991. this model was built for united states air force pilots who needed a compact weapon. unlike the original, the pdw adds a folding stock and can accept a suppressor and laser sight. all variants of the mp5k are available in the similar configurations as the original weapon.
+
+semi-automatic civilian versions of the mp5 and mp5k, known as the hk 94 and sp89, were offered prior to the 1994 assault weapons ban. private ownership of a fully-automatic mp5 in the united states is illegal, unless the owner obtains special federal permission from the batfe.  some of these semi-automatic models have been legally converted to submachinegun form by either modifying the lower reciever to take a select-fire trigger mechanism or by modifying the trigger mechanism of the semi-automatic lower reciever.
+
+under a special contract from the united states navy, heckler & koch developed the mp5n or "mp5 navy" variant for the navy's elite special operations units (including the u.s. navy seals). the mp5n is a standard mp5 with fully-ambidextrous navy trigger group, a retractable stock, and a threaded barrel for mounting stainless steel suppressors.
+
+the latest in the mp5 line is the mp5f ("f" stand for french), developed in 1999 specifically for the french military. the mp5f is an mp5 with some new internal parts modifications design to handle extremely hot 9 mm ammunition. the changes to the mp5f are pretty much subtle. externally, the only noticeable differences between the "f" model and standard mp5s are a new buttstock that has a two-inch thick rubber buttpad, a sling loop on the right side of the stock for left handed shooters and dual front sling bolts.
+
+the mp5/10, chambered in the 10 mm auto cartridge, was heckler & koch's first attempt to increase the power of the mp5 series. in 1994, the u.s. federal bureau of investigation (fbi) adopted the mp5/10 as their standard submachine gun. despite the discontinuance of mp5/10 production and the agency's adoption of the .40 s&w cartridge for pistols, the fbi recently solicited hk for the purchase of an additional fifty mp5/10.  the name mp10 has been incorrectly used by some to indicate the mp5/10.  this error was popularized by tom clancy's book rainbow six.
+
+mp5 models
+unless noted otherwise, all mp5 variants are chambered for the 9 x 19 mm parabellum cartridge. generally, a2 denotes fixed stock, a3 denotes retractable stock, and a1 denotes no stock, with a buttcap (or receiver cap) in place.
+
+mp5a1 — mp5 with buttcap/receiver cap; navy/"sef" trigger group
+mp5a2 — fixed stock, navy/"sef" trigger group
+mp5a3 — retractable stock, navy/"sef" trigger group
+mp5a4 — fixed buttstock, 3-round burst trigger group
+mp5a5 — retractable buttstock, 3-round burst trigger group
+mp5sfa2 — sf denotes single fire, with full auto removed; fixed stock
+mp5sfa3 — mp5sf w/ retractable stock
+mp5n — model developed especially for u.s. navy. navy trigger group, threaded barrel for attaching a suppressor and retractable stock
+mp5f — model develop specifically for the french military
+mp5k — the very short version of the mp5; "sef" trigger group
+mp5ka1 — mp5k w/ smooth upper surface and small iron sights; "sef" trigger group
+mp5ka4 — mp5k w/ 3-round burst trigger group
+mp5ka5 — mp5ka1 w/ 3-round burst trigger group
+mp5k-n — mp5k w/ navy trigger group and threaded barrel to add suppressor
+mp5k-pdw — personal defense weapon; mp5k w/ added folding stock and threaded barrel to add suppressor; navy or 3-round burst trigger group
+mp5sd1 — integrated suppressor (schalldämpfer), a1-type buttcap w/ sling loop; navy/"sef" trigger group
+mp5sd2 — integrated suppressor (schalldämpfer), fixed stock; navy/"sef" trigger group
+mp5sd3 — integrated suppressor (schalldämpfer), retractable stock; navy/"sef" trigger group
+mp5sd4 — mp5sd1 w/ 3-round burst trigger group
+mp5sd5 — mp5sd2 w/ 3-round burst trigger group
+mp5sd6 — mp5sd3 w/ 3-round burst trigger group
+mp5sd-n — mp5sd w/ navy trigger group and kac stainless steel suppressor; retractable stock
+mp5/10 — chambered in 10 mm auto, available in various stock/trigger group configurations; now discontinued
+mp5/40 — chambered in .40 s&w, available in various stock/trigger group configurations; now discontinued
+hk94a2 — mp5sf with fixed stock, 16-inch barrel and special trigger group; designed for civilian market
+hk94a3 — same as hk94a2, but w/ retractable stock
+sp89 — semi-automatic-only version of the mp5k w/ modified foregrip (redesigned into a traditional handguard); designed for civilian market
+
+popular culture
+
+the mp5 is a very popular image in popular culture. it is a very common sight in films, tv series and video games.
+

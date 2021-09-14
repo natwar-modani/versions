@@ -1,0 +1,22 @@
+properties
+  general  name
+  hydrogen peroxide  chemical formula
+  h2o2  appearance
+  colourless liquid  physical  formula weight
+  34.0 amu  melting point
+  272.6 k (-0.4 °c)  boiling point
+  423 k (150 °c)  density
+  1.4 ×103 kg/m3  solubility
+  miscible  thermochemistry  δfh0gas
+  -136.11 kj/mol  δfh0liquid
+  -188 kj/mol  δfh0solid
+  -200 kj/mol  s0gas, 1 bar
+  232.95 j/mol·k  s0liquid, 1 bar
+  110 j/mol·k  s0solid
+  ? j/mol·k  safety  ingestion
+  serious injury, death possible.  inhalation
+  severe irritation, death possible.  skin
+  causes bleaching—flush immediately.  eyes
+  dangerous.  more info
+  hazardous chemical database        si units were used where possible. unless otherwise stated, standard conditions were used.
+    <p>disclaimer and 

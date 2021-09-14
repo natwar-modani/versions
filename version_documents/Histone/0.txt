@@ -1,0 +1,4 @@
+es:histona
+
+histones are chromosome proteins that act as spools around which dna winds, thus facilitating the compaction necessary to fit the largegenomes of eukaryotes inside cell nuclei. five histone types are known (h1, h2a, h2b, h3, and h4). two each of h2a, h2b, h3, and h4 are assembled to form a nucleosome together with dna, thereby packing it tight. h1 is needed for histone-dna-complexes to form a 30-nm fiber, which packs the dna even more tightly. in general, genes that are active have less bound histone, while inactive genes are highly associated with histones during interphase.
+

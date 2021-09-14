@@ -1,0 +1,19 @@
+hellbender
+
+scientific classification
+<tr><td>
+kingdom:animalia
+phylum:chordata
+class:lissamphibia
+order:caudata
+family:cryptobranchidae
+genus:cryptobranchus
+species:         alleganiensis
+binomial name
+cryptobranchus alleganiensisdaudin, 1803
+subspecies
+<td>
+  c. a. alleganiensis (eastern hellbender)
+  c. a. bishopi (ozark hellbender)
+
+the hellbender (cryptobranchus alleganiensis) is a large aquatic salamander mainly home to the mississippi river system. reaching a length of 18 inches (46 cm), it is described as having a flattened head and body, short legs, and a compressed tail. the gills are concealed, but it otherwise resembles the mudpuppy.

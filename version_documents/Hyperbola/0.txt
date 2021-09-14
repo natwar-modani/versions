@@ -1,0 +1,11 @@
+hyperbola
+
+http://www.sisweb.com/math/graphs/conics/cone-hyp.jpg
+
+equation (cartesian): ((x-a)/c)^2 - ((y-b)/d)^2 = 1 equation (cartesian): ((x-a)/c)^2 - ((y-b)/d)^2 = -1 
+
+equation (cartesian): y-a = c/(x-b) equation (cartesian): y-a = -c/(x-b) 
+
+equation (polar): r^2 = a sec 2t equation (polar): r^2 = -a sec 2t 
+
+equation (polar): r^2 = a csc 2t equation (polar): r^2 = -a csc 2t 

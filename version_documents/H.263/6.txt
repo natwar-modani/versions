@@ -1,0 +1,63 @@
+h.263 is a video codec standard originally designed by the itu-t in a project ending in 1995/1996 as a low-bitrate compressed format for videoconferencing. it is one member of the h.26x family of video coding standards in the domain of the itu-t video coding experts group (vceg).
+ 
+the codec was first designed to be utilized in h.324 based systems (pstn and other circuit-switched network videoconferencing and videotelephony), but has since also found use in h.323 (rtp/ip-based videoconferencing), h.320 (isdn-based videoconferencing), rtsp (streaming media) and sip (internet conferencing) solutions.
+
+h.263 was developed as an evolutionary improvement based on experience from h.261, the previous itu-t standard for video compression, and the mpeg-1 and mpeg-2 standards.  its first version was completed in 1995 and provided a suitable replacement for h.261 at all bitrates.  it was further enhanced in projects known as h.263v2 (also known as h.263+ or h.263 1998) and h.263v3 (also known as h.263++ or h.263 2000).
+
+the next enhanced codec developed by itu-t vceg (in partnership with mpeg) after h.263 is the h.264 standard, also known as avc and mpeg-4 part 10.  as h.264 provides a significant improvement in capability beyond h.263, the h.263 standard is now considered primarily a legacy design (although this is a recent development).  most new videoconferencing products now include h.264 as well as h.263 and h.261 capabilities.
+
+versions
+since the original ratification of h.263 in march 1996 (approving a document that was produced in november 1995), there have been two subsequent additions which improved on the original codec by additional optional annexes (extensions).  for example, the h.263v2 added a deblocking filter via annex j.
+
+the original h.263 specified the following annexes:
+ annex a - inverse transform accuracy specification
+ annex b - hypothetical reference decoder
+ annex c - considerations for multipoint
+ annex d - unrestricted motion vector mode
+ annex e - syntax-based arithmetic coding mode
+ annex f - advanced prediction mode
+ annex g - pb-frames mode
+ annex h - forward error correction for coded video signal
+
+in march of 1997, an informative annex i describing error tracking — an encoding technique for providing improved robustness to data losses and errors, was approved to provide information for the aid of implementers having an interest in such techniques.
+
+ h.263v2 (h.263+) 
+h.263v2 (also known as h.263+ or as the 1998 version of h.263) is the informal name of the second edition of the itu-t h.263 international video coding standard. it retained the entire technical content of the original version of the standard, but enhanced h.263 capabilities by adding several annexes which can substantially improve encoding efficiency and provide other capabilities (such as enhanced robustness against data loss in the transmission channel). the h.263+ project was ratified by the itu in february 1998.  it added the following annexes:
+ annex i - advanced intra coding mode
+ annex j - deblocking filter mode
+ annex k - slice structured mode
+ annex l - supplemental enhancement information specification
+ annex m - improved pb-frames mode
+ annex n - reference picture selection mode
+ annex o - temporal, snr, and spatial scalability mode
+ annex p - reference picture resampling
+ annex q - reduced-resolution update mode (see implementors' guide correction as noted below)
+ annex r - independent segment decoding mode
+ annex s - alternative inter vlc mode
+ annex t - modified quantization mode
+ annex x - profiles and levels definition
+h.263v2 also added support for flexible customized picture formats and custom picture clock frequencies.  previously the only picture formats supported in h.263 had been sub-qcif, qcif, cif, 4cif, and 16cif, and the only picture clock frequency had been 30000/1001 (approximately 29.97) clock ticks per second.
+
+h.263v2 specified a set of recommended modes in an informative appendix (appendix ii, since deprecated):
+level 1level 2level 3 advanced intra coding    deblocking filter    supplemental enhancement information (full-frame freeze only)    modified quantization    unrestricted motion vectors    slice structured mode    reference picture resampling (implicit factor-of-4 mode only)    advanced prediction    improved pb-frames    independent segment decoding    alternate inter vlc   level 1level 2level 3
+
+ h.263v3 (h.263++) and annex x 
+the definition of h.263v3 (also known as h.263++ or as the 2000 version of h.263) consisted of the addition of three additional annexes.  these annexes and an additional annex that specified profiles (approved the following year) were originally published as separate documents from the main body of the standard itself. the additional annexes specified are:
+ annex u - enhanced reference picture selection mode
+ annex v - data-partitioned slice mode
+ annex w - additional supplemental enhancement information specification
+ annex x (originally specified in 2001) - profiles and levels definition
+
+the prior informative appendix ii (recommended optional enhancement) was obsoleted by the creation of the normative annex x.
+
+in june 2001, another informative appendix (appendix iii, examples for h.263 encoder/decoder implementations) was approved.  it describes techniques for encoding and for error/loss concealment by decoders. 
+
+in january 2005, a unified h.263 specification document was produced (with the exception of appendix iii, which remains as a separately-published document).
+
+in august 2005, an implementors guide was approved to correct a small error in the seldom-used annex q reduced-resolution update mode.
+
+applications
+ h.263 video can be decoded with the free lgpl-licensed libavcodec library (part of the ffmpeg project) which is used by programs such as ffdshow, vlc media player and mplayer.
+ some flash video content (as used on sites such as youtube, google video, myspace etc.) is encoded in this format, though most sites now use vp6 encoding, which is supported since flash 8. 
+ the original version of the realvideo codec was based on h.263 up until the release of realvideo 8.
+

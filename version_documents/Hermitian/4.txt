@@ -1,0 +1,11 @@
+a number of mathematical entities are named hermitian, after the mathematician charles hermite:
+
+hermitian adjoint
+hermitian form
+hermitian function
+hermitian matrix
+hermitian metric
+hermitian operator
+hermitian transpose
+hermitian wavelet
+

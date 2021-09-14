@@ -1,0 +1,25 @@
+hunter college of the city university of new york
+	hunter logo
+
+	motto
+	mihi cura futuri ("mine is the care of the future")
+	established
+	1870
+	school type
+	public
+	president
+	jennifer raab
+	location
+	new york, ny, usa
+	enrollment
+	15,566 undergraduate, 5,743 graduate and professional
+	faculty
+	544
+	campus
+	urban
+	athletics
+	12 sports teams
+	mascot
+	hawk
+	homepage
+	hunter.cuny.edu

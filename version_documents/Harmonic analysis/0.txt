@@ -1,0 +1,18 @@
+harmonic analysis is the branch of mathematics which studies the representation of functions or signals as the superposition of basic waves. it investigates and generalizes the notions of fourier series and fourier transforms. the basic waves are called "harmonics", hence the name "harmonic analysis." 
+
+the classical fourier transform on rn is still an  area of ongoing research, particularly concerning fourier transformation on more general objects such as tempered distributions. for instance, if we impose some requirements on a distribution f, we can attempt to translate these requirements in terms of the fourier transform of f.  the paley-wiener theorem is an example of this. the paley-wiener theorem immediately implies that if f is a nonzero distribution of compact support (these include functions of compact support), then its fourier transform is never compactly supported.  this is a very elementary form of an uncertainty principle in a harmonic analysis setting.
+
+fourier series can be conveniently studied in the context of hilbert spaces, which provides a connection between harmonic analysis and functional analysis.
+
+one of the more modern branches of harmonic analysis, having its roots in the mid-twentieth century, is analysis on topological groups. the core motivating idea are the various fourier transforms, which can be generalized to a transform of functions defined on locally compact groups. 
+
+the theory for abelian locally compact groups is called pontryagin duality; it is considered to be in a satisfactory state, as far as explaining the main features of harmonic analysis goes. it is developed in detail on its dedicated page.
+
+harmonic analysis studies the properties of that duality and fourier transform; and attempts to extend those features to different settings, for instance to the case of non-abelian lie groups. 
+
+for general nonabelian locally compact groups, harmonic analysis is closely related to the theory of unitary group representations.  for compact groups,
+the peter-weyl theorem explains how one may get harmonics by choosing one irreducible representation out of each equivalence class of representations. this choice of harmonics enjoys some of the useful properties of the classical fourier transform in terms of carrying convolutions to pointwise products, or otherwise showing a certain understanding of the underlying group structure.
+
+eo:fourier-a analizo
+it:analisi di fourier
+nl:fourieranalyse

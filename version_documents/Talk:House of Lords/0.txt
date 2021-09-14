@@ -1,0 +1,67 @@
+article talks of the "reform act of 1911"... that should be the parliament act 1911, right? also, some mention should be made of the parliament act 1949, the argument that the parliament act 1949 is unconstitutional (have a look at the house of lord hansard for 2000 or 2001, where one lord introduced a bill relating to this), and the salisbury convention (have i got the name right?). -- sjk
+
+how is it that the privy council is the highest court at the same time as the house of lords is the highest court?  (is it that the privy council always decides cases on the advice of the lords?  or what?)
+
+--tb 00:21 16 jul 2003 (utc)
+
+judicial committee of the privy council has a list of the areas in which the  privy council is the highest court - mainly appeals from commonwealth countries and a few specialist areas like devolution law and appeals from the ecclesiastical courts. for almost all points of english law the highest court is the lords. also bear in mind that the "lords" and the "privy council" in these cases have a substantial number of members in common. (see judicial committee of the house of lords) --rbrwr
+
+ah, thank you very much. i see now that i misread the wording of the privy council page.  no strong preference, but it might be nice for house of lords and privy council to each have a sentence briefly acknowledging the judicial role of the other?  --tb 08:26 16 jul 2003 (utc)
+
+maybe so, though the judicial role of the privy council within the uk is pretty small. most of its uk cases are appeals from doctors who have been struck off by the general medical council. see the list of cases so far this year. --rbrwr
+
+exactly--that's my point.  the privy council page says "functions as one of the highest courts in the united kingdom."  i understand that that privy council does precious little judicial work, and that the law lords are vastly more important (for the present!).  but the encyclopedia shouldn't rely on this understanding... it should *explain* it.  --tb 09:39 16 jul 2003 (utc)
+
+i've put in a brief disclaimer at privy council for the moment, and will have a harder look at the "judicial committee" pages. --rbrwr
+
+i'm quite interested in the term "judicial committee of the house of lords".  more at talk:judicial committee of the house of lords
+
+in what sense in the house of lords "ad hoc"? --tb 20:02 16 jul 2003 (utc)
+
+i have been pondering that question myself.... i was going to rewrite the first para myself (after that odd edit earlier) but i got stuck on how much detail to add on the purview of the judicial function - i.e. it is not just the highest court for england (and wales), but also for northern ireland and for scottish civil cases, but not for scottish criminal cases or the handful of things that fall under the privy council. --rbrwr
+
+here's a suggestion:  leave the opening paragraph much as-is.  have secions:
+"membership", "legislative functions", "judicial functions", "history", "future directions".  
+
+membership would be what it is now, but say more about how the 92 hereditary peers are elected by their peers. :)
+
+legislative functions could describe what it really does now.
+
+judicial functions could describe the role of the law lords, the two committees in which they do their work, and so forth.  (and then the bad page on the "judicial committee of the house of lords" could simply be dropped.)
+
+history would be what it is now.
+
+future directions would mention perhaps the abolishment of the lord chancellor, changes to drop all hereditary peers, reduction in the number of bishops, and dropping of the judicial function.
+
+--tb 20:51 16 jul 2003 (utc)
+
+is there no public-domain photo of the chamber itself? this would make an excellent opening illustration, i think... radagast 14:40, nov 25, 2004 (utc)
+
+ how many options? 
+a joint committee was established in 2001 to resolve the issue, but it reached no conclusion and instead gave parliament five options to choose from (fully appointed, twenty per cent elected, forty per cent elected, fifty per cent elected, sixty per cent elected, eighty per cent elected, and fully elected).
+i count that as seven options. --palnatoke 07:29, 7 dec 2004 (utc)
+
+ no article is perfect, but.. 
+
+no article is perfect, but this is just a beautifully done article. i'm proud to see such a high-quality article in wikipedia; it's a gem that truly deserves to be shown off.zantastik 03:44, 28 dec 2004 (utc)
+
+comment on membership
+the "lords spiritual" form only a small part of the total membership. this article gives the impression that they are the major portion. this is incorrect.
+''anonymous comment copied from wikipedia talk:today's featured article/december 28, 2004
+
+where does it give that impression? rob.derosa 21:40, 6 jan 2005 (utc)
+
+ future of the house 
+
+if the house of lords becomes fully or partly elected in the future, will it regain some of the political privileges it has lost, such as the right to reject legislation passed by the commons?  funnyhat 07:05, 18 apr 2005 (utc)
+that remains to be seen. there is no law that states that it would regain any of these powers; the reforms would have to cover such specifics. -- emsworth 10:32, 18 apr 2005 (utc)
+
+green peer
+
+there is a green peer could someone add this
+
+james cullis
+
+i think you already did ; however you put it in the wrong place - a footnote about hereditary peers - so i took it out again. the green is timothy beaumont, baron beaumont of whitley, a former liberal and liberal democrat, who is a life peer. he comes under "other parties" in the "current composition". i wonder whether we need a footnote about the "other parties"; the greens are the only "real" party among them, the rest being independents of one sort or another or non-aligned. --rbrwr± 11:17, 14 may 2005 (utc)
+
+ cullis here surly he is by right another party? therefore he should get slot as green is legelly a party

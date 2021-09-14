@@ -1,0 +1,49 @@
+hydrolysis is a chemical reaction or process in which a chemical compound is broken down by reaction with water.compendium of chemical terminology, hydrolysis, accessed 2007-01-23.compendium of chemical terminology, solvolysis, accessed 2007-01-23. this is the type of reaction that is used to break down polymers. water is added in this reaction.
+
+in organic chemistry, hydrolysis can be considered as the reverse or opposite of condensation, a reaction in which two molecular fragments are joined for each water molecule produced. as hydrolysis may be a reversible reaction, condensation and hydrolysis can take place at the same time, with the position of equilibrium determining the amount of each product.
+
+in inorganic chemistry, the word is often applied to solutions of salts and the reactions by which they are converted to new ionic species or to precipitates (oxides, hydroxides, or salts). the addition of a molecule of water to a chemical compound, without forming any other products is usually known as hydration, rather than hydrolysis.
+
+in biochemistry, hydrolysis is considered the reverse or opposite of dehydration synthesis. in hydrolysis, a water molecule (h2o), is added. where as in dehydration synthesis, a molecule of water is removed.
+
+ examples 
+ hydrolysis of metal salts 
+many metal ions are strong lewis acids, and in water they may undergo hydrolysis to form basic salts.  such salts contain a hydroxyl group that is directly bound to the metal ion in place of a water ligand.  for example, aluminium chloride undergoes extensive hydrolysis in water, such that the solution becomes quite acidic.
+
+this means that if solutions of alcl3 are evaporated, hydrogen chloride is lost and the residue is a basic salt (in this case an oxychloride) in place of alcl3.  such behaviour is also seen with other metal chlorides such as zncl2, sncl2, fecl3 and lanthanide halides such as dycl3.  with some compounds such as ticl4, the hydrolysis may go to completion and form the pure hydroxide or oxide, in this case tio2.
+
+ hydrolysis of an ester link 
+in a hydrolysis reaction that involves breaking an ester link, one hydrolysis product contains a hydroxyl functional group, while the other contains a carboxylic acid functional group. 
+
+the carbonyl is attacked by a hydroxide anion (or a water molecule, which is rapidly deprotonated). the resulting tetrahedral intermediate breaks down. the alkoxide fragment breaks off from the tetrahedral carbon and becomes an alcohol by protonation, leaving the acyl fragment with the attacking hydroxide, to produce a carboxylic acid. this is the reverse of the esterification reaction, yielding the original alcohol and carboxylic acid again. in a basic solution, the carboxylic acid is deprotonated, such that the basic hydrolysis is irreversible, while acidic hydrolysis is not.
+
+there are two main methods for hydrolysing esters, basic hydrolysis and acid-catalysed.  with acid-catalysed hydrolysis a dilute acid is used to protonate the carbonyl group in order to activate it towards nucleophilic attack by a water molecule.  however the more usual method for ester hydrolysis involves refluxing the ester with an aqueous base such as naoh or koh. once the reaction is complete, the carboxylate salt is acidified to release the free carboxylic acid.
+
+frame|center|basic hydrolysis of an ester
+an important example of this reaction is the release of fatty acids from glycerol in triglyceride hydrolysis, as occurs during saponification.
+
+ hydrolysis of amide links 
+in other hydrolysis reactions, such as hydrolysis of an amide link into a carboxylic acid and an amine product or ammonia, only the carboxylic acid product has a hydroxyl group derived from the water. the amine product (or ammonia) gains the remaining hydrogen ion.  a more specific case of the hydrolysis of an amide link is hydrolyzing the peptide links of amino acids.
+
+ hydrolysis of cellulose (cellulolysis)
+
+cellulolytic is relating to or causing the hydrolysis of cellulose (i.e. cellulolytic bacteria, fungi or enzymes).
+
+the hydrolysis into glucose (i.e. of cellulose or starch) is called saccharification.
+
+ irreversibility of hydrolysis under physiological conditions 
+under physiological conditions (i.e. in dilute aqueous solution), a hydrolytic cleavage reaction, where the concentration of a metabolic precursor is low (on the order of 10-3 to 10-6 molar), is essentially thermodynamically irreversible. to give an example:
+
+a + h2o → x + y
+
+assuming that x is the final concentration of products, and that c is the initial concentration of a, and w = [h2o] = 55.5 molar, then x can be calculated with the equation:
+
+let kd×w = k:
+
+then   
+
+for a value of c = 0.001 molar, and k = 1 molar, x/c > 0.999. less than 0.1% of the original reactant would be present once the reaction is complete.
+
+this theme of physiological irreversibility of hydrolysis is used consistently in metabolic pathways, since many biological processes are driven by the cleavage of anhydrous pyrophosphate bonds.
+
+ 

@@ -1,0 +1,51 @@
+ use periods? 
+
+most books on christian history will use periods like these below (thou many of these are offten split in two as well.)
+ante-nicene church, 1–313 
+christian empire, 313–590 
+middle ages, 590–1517 
+the reformation, 1517–1648 
+reason & revivalism 1648–1789 
+modern age, 1789–present
+while every system of periodization has problems, these longer periods above have the difficulty of not leaving room to cover much depth. the only one written is the one on early christianity and it is also already over 100 kb (it is 144 kb and thus even longer than the history of the roman catholic church). 
+these articles would have other problems too-- like the fact that their start and end points will not be understud the same by different editors. and that some events will always over lap time periods. none the less these would be good articles to create in due time. that said, i also think it would be easier and better to make them from the christianity by centuries articles than making them into christianity by centuries articles. 
+
+of course most of the longer term events-- e.g. the crusades-- already have their own articles, but feel free to create suitable articles as you see fit by the larger time periods. --carlaude talk 02:32, 5 june 2009 (utc)
+
+hmmm... well, if it were up to me, i'd delete the christianity by centuries articles but nobody else seems to care at the moment so i won't push my position further.  wikipedia is not paper so there's no real harm in having the christianity by centuries articles even though i think they are ill-advised.  i personally think we should work with the periods you mentioned above and create those articles first.  --richard (talk) 16:12, 5 june 2009 (utc)
+
+along the lines of what i posted below (in conjunction with a comment above) ... 
+ante-nicene church and 1–313 christian empire 313–589 >> early history of christianity (and  or subordinate, the latter may be better, the early christianity and history of early christianity articles to this article) [bc, 1st, 2nd, 3rd, 4th, 5th, 6th]
+ early christianity [bc, 1st, 2nd, early-3rd]
+ history of early christianity [late-3rd, 4th, 5th, 6th ]
+middle ages, 590–1516 >> classical history of christianity [7th, 8th, 9th, 10th, 11th, 12th, 13th, 14th]
+the reformation, 1517–1647, reason & revivalism 1648–1789, modern age, 1789-1944 >> modern history of christianity [15th, 16th, 17th, 18th, 19th , early-20th] 
+ the reformation, 1517–1647, reason & revivalism 1648–1789 >> early modern history of christianity [15th, 16th, 17th] 
+ modern age, 1789-1944 >> late modern history of christianity [18th, 19th , early-20th] 
+late modern age, 1945–present >> contemporary history of christianity [late-20th, 21st]
+opinions? j. d. redding 01:13, 22 july 2009 (utc)
+
+well for one, to make "early christianity" and "history of early christianity" cover different periods is confusing, and for no reason i can see-- and of course they cover the same time period now. i have also never seen anyone group the reformation period with up to 1944. a break at mid 3rd-century also make very little sense. every author sees constantine as a major turning point.  what do you think, reddi, of the periods i wrote above. 02:22, 22 july 2009 (utc)
+
+ the contemporary, modern (early and late), "classical" [aka., medieval], and early [aka., ancient] are conventional historical timeframes overlaps. 
+ i just mention the 3rd century break to be used if needed [depending on the amount of information]. the break at 1945 is at the wwii end and cold war begin [borrowed from general history, not specifically from "'christian' history"; this is a general turning point] ... again all this is suggested as a convenience ... if a division isn't necessary, then don't use a division; also, if there is a better break point, use that ... 
+ the reformation ends the early modern period in general history; but specifically for "'christian' history" i would suggest that the "reason & revivalism" period would end 'early modern period'. though a division of early and late in a 'modern period' may not be necessary at this time ... it is only a suggestion if needed ... 
+ ultimately, the main timeframes are 'contemporary', 'modern', 'classical', and 'early' would allow editors to s. the secondary timeframe subdivisions can be ignored. now as to how i would map these unto your cited ones is:
+ante-nicene church, 1–313 >> early history
+christian empire, 313–590 >> early classical history
+middle ages, 590–1517 >> late classical history
+the reformation, 1517–1648 >> early modern history
+reason & revivalism 1648–1789 >> late modern history
+modern age, 1789–present >> contemporary history
+ but these don't fall within more general historical timeframes ... again, the reformation ends the early modern period in general history. marking 'post 1789' as 'contemporary' would be a stretch to me; contemporary should mean more within 50 to 75 years (around the fourth great awakening), not 200 to 250 years ago (around the first great awakening) ... j. d. redding 05:16, 22 july 2009 (utc)
+
+ s 
+
+s anyone? 
+
+splits could be: early history of christianity (1 life of jesus (6–4 bc to ad 29–36) to 3.8 monasticism); classical history of christianity (4 growing tensions between east and west to 12 church and the italian renaissance (1399–1599)); modern history of christianity (13 protestant reformation (1521–1579) to 17.2 restorationism); contemporary history of christianity (18 contemporary history (1848-present) to 20.4.2 ecumenism within protestantism).
+
+any opinions?
+j. d. redding 00:28, 22 july 2009 (utc)
+
+but note well that early christianity and history of early christianity both exsist-- and era-based subsets there of. 

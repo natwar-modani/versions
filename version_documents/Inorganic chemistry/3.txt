@@ -1,0 +1,16 @@
+inorganic chemistry is the branch of chemistry concerned with the properties and reactions of inorganic compounds. this includes all chemical compounds except the many which are based upon chains or rings of carbon atoms, which are termed organic compounds and are studied under the separate heading of organic chemistry. the distinction between the two disciplines is not absolute and there is much overlap, most importantly in the sub-discipline of organometallic chemistry.
+
+major branches of inorganic chemistry include
+ minerals, such as salt, asbestos, silicates,  ...
+ metals and their alloys, like iron, copper, aluminium, brass, bronze, ...
+ compounds involving non-metallic elements, like silicon, phosphorus, chlorine, oxygen, for example water
+  metal complexes
+
+commercially important inorganic substances include silicon chips, transistors, lcd screens, fiber optical cables and a great many catalysts.
+
+inorganic chemistry is based upon physical chemistry and forms the basis for mineralogy and materials chemistry. it often overlaps with geochemistry, analytical chemistry, environmental chemistry and organometallic chemistry. 
+
+organometallic chemistry combines aspects of organic chemistry with those of inorganic chemistry, and is formally defined as the study of compounds containing metal-carbon bonds, although many "organometallic compounds" contain no such bonds. among the simplest organometallic compounds are the metal carbonyls, in which carbon monoxide binds to a metal through the carbon. vitamin b12, whose active site is similar to that of haemoglobin, is a naturally-occurring, metabolically-important organometallic compound containing large organic components (corrin and protein) and a metal, cobalt, bonded to carbon.
+
+the range of inorganic chemistry includes both molecular compounds, which exist as discrete molecules, and crystals, whose structures are described by infinite lattices of regularly-ordered atoms and which are studied by crystallography and solid-state chemistry.
+

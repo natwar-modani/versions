@@ -1,0 +1,67 @@
+wikipedia, a project to produce a free encyclopedia that could be edited by anyone, was founded in january 2001, and currently includes over 450,000 articles.
+
+formulation of the idea
+
+wikipedia was founded as an offshoot of nupedia, a now-abandoned project to produce a free encyclopedia.  nupedia had an elaborate system of peer review and required highly qualified contributors, but progress on producing articles was very slow.  during 2000,  jimmy wales, founder of nupedia, and larry sanger, who wales had employed to work on the project, discussed various ways to supplement nupedia with a more open, complementary project.
+
+the impetus for the creation of wikipedia came from a dinner conversation between sanger and computer programmer ben kovitz, in san diego, california on the evening of january 2, 2001.  kovitz, who was a regular on "ward's wiki" (the portland pattern repository), explained the wiki concept to sanger.  sanger saw that a wiki would be an excellent format whereby a more open, less formal encyclopedia project could be pursued.  sanger easily persuaded wales, who had been introduced to the wiki concept previously, to set up a wiki for nupedia, and nupedia's first wiki went online on january 10.
+
+project beginnings
+
+there was considerable resistance on the part of nupedia's editors and reviewers to the idea of associating nupedia with a website in the wiki format, however, so the new project was given the name "wikipedia" and launched on its own domain, wikipedia.com, on january 15 (now humorously called "wikipedia day" by some users). the bandwidth and server (located in san diego) were donated by wales.  other current and past bomis employees who have done some work on the encyclopedia include tim shell, one of the co-founders of bomis and its current ceo, and programmers jason richey and toan vo.
+
+the project received large numbers of participants after being mentioned three times on the tech website slashdot — two minor mentions on march 5  and march 29 , 2001, and then a prominent pointer to a story on the community-edited technology and culture website kuro5hin on july 25 . between these relatively rapid influxes of traffic, there has been a steady stream of traffic from other sources, especially google, which alone sent hundreds of new visitors to the site every day.
+
+the project passed 1,000 articles around february 12, 2001, and 10,000 articles around september 7. in the first year of its existence, over 20,000 encyclopedia entries were created — a rate of over 1,500 articles per month. on august 30, 2002, the article count reached 40,000. the rate of growth has more or less steadily increased since the inception of the project, except for some software-induced slow-downs.
+
+international expansion
+
+the international expansion of the project also took place during this period. in may 2001, the first wave of non-english wikipedias were launched (in catalan, chinese, dutch, german, esperanto, french, hebrew, italian, japanese, portuguese, russian, spanish, and swedish, soon joined by arabic and hungarian , ). in september,  a further commitment to the multilingual provision of wikipedia was made. at the end of the year, when international statistics first began to be logged, afrikaans, norwegian, and serbocroatian versions were announced. 
+
+continuing growth
+until january 2002, sanger was employed by bomis as editor-in-chief of nupedia and the unofficial leader of wikipedia. funding ran out, however, and sanger resigned from both positions in march 2002.
+
+in february 2002, most participants of the spanish wikipedia broke away to establish the enciclopedia libre. 
+
+the project is occasionally visited by "vandals" who remove valid articles or post inappropriate content. while such vandalism is generally quickly reverted, the project's main page was, for a time, subjected to repeated vandalism. this led to the protection of the page so that it could only be changed by administrators.
+
+in august 2002, shortly after jimbo wales announced that he would never run commercial advertisements on wikipedia, the url of wikipedia was changed from wikipedia.com to wikipedia.org (see: .com and .org).
+
+in the same summer, policy and style issues were clarified with the creation of the manual of style along with a number of other policies and guidelines.
+
+in october 2002, derek ramsey ("ram-man") started to use a "bot", or program, to add a large number of articles about united states towns; these articles were automatically generated from u.s. census data. occasionally, similar bots had been used before for other topics. these articles were generally well received, but some users criticized them for their uniformity and generally machine-like writing style (for example, see this version of a town article).
+
+in december 2002, the sister project wiktionary was created; it aims to produce a dictionary and thesaurus of the words in all languages. it uses the same software as wikipedia.
+
+in january 2003, support for mathematical formulas in tex was added. the code was contributed by tomasz wegrzanowski.
+
+on january 22 2003, wikipedia was again slashdotted after having reached the 100,000 article milestone. two days later, the german language wikipedia, the largest non-english version, passed the 10,000 article mark.
+
+in 20 june 2003, the wikimedia foundation was founded. on the same day "wikiquote" was created. a month later, "wikibooks" was launched. 
+
+on october 28, 2003 the first "real" meeting of wikipedians happened in munich. many cities followed suit, and soon a number of regular wikipedian get-togethers were established around the world. several internet communities, including one on the popular blog website livejournal, have also sprung up since. 
+
+in january 2004, wikipedia passed the 200,000 article milestone in english and reached 450,000 articles for both english and non-english wikis. the next month, the combined article count of the english and non-english wikis reached 500,000.
+
+on may 29, 2004, all the various wikiprojects were updated to a new version of mediawiki, the software that runs the various wikiprojects.
+
+on june 3, 2004, the people's republic of china blocked the chinese wikipedia. a few days later, all language wikipedias were blocked. the ban was lifted on june 17.
+
+on july 7, 2004, the article count of the english wiki reached 300,000.
+
+on september 20, 2004, wikipedia reached one million articles  over 105 languages, and received a flurry of related attention in the press. the one millionth article was published in the hebrew language wikipedia, and discusses the flag of kazakhstan.
+
+on november 20, 2004, the article count of the english wiki reached 400,000.
+
+ access in the people's republic of china 
+
+though the people's republic of china has adopted a practice of blocking contentious internet sites, wikipedia sites have generally been fully accessible to users there. however, wikimedia sites have been blocked at least twice in its history, and the erratic and uncoordinated nature of these blocks reflect the procedure by which similar blocks are usually administered in china.
+
+the first and most significant block lasted between june 2 and june 21, 2004. it began when access to the chinese wikipedia from beijing was blocked on the 15th anniversary of the tiananmen square protests of 1989.
+
+possibly related to this, on may 31 an article from the idg news service was published , discussing the chinese wikipedia's treatment of the protests. the chinese wikipedia also has articles related to taiwanese independence, written by taiwanese contributors  and others. a few days after the initial block of chinese wikipedia, all wikimedia sites were blocked in mainland china. in response to the blocks, beijing contributors asked their regional isp to file official forms for lifting the block. all wikimedia sites were unblocked between june 17 and june 21, 2004.
+
+the second and less serious outage lasted between september 23 and september 27, 2004. during this 4-day period, access to wikipedia was erratic or unavailable to some users in mainland china — this block was not comprehensive and some users in mainland china were never affected. the exact reason for the block is a mystery, but it may have been linked with the closing down of ytht bbs, a popular peking university-based bbs that was shut down a few weeks earlier for hosting overtly radical political discussions; refugees from the bbs had arrived en masse on chinese wikipedia. chinese wikipedians once again prepared a written appeal to regional isp's, but the block was lifted before the appeal was actually sent out; the reasons of which are, once again, a mystery.
+
+the first block had an effect on the vitality of chinese wikipedia, which suffered sharp dips in various indicators such as the number of new users, the number of new articles, and the number of edits. as of september 2004 many of these stats are still not up to may 2004 levels.
+

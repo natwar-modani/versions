@@ -1,0 +1,24 @@
+hash may refer to:
+ number sign, #, also called "pound sign" in the usa
+ hashish, a psychoactive drug derived from the cannabis plant
+ hash bash, an annual event in ann arbor, michigan
+ hash (food), a coarse chunky mixture of beef and other things, e.g. corned beef hash; cf. hash brown
+ hash house harriers, a loosely-organized group of social organizations focused on running and camaraderie; also referred to as "hashing"
+ hash, inc., sellers of 3d character animation software since 1987
+
+hash function
+a hash function is a small digital "fingerprint" made from any kind of data. some types are:
+ cryptographic hash function, a hash function suitable for use in information security
+ hash table, a data structure associating keys with values using a hash function
+ associative array, an abstract data type often implemented as a hash table
+ geometric hashing, a method for efficiently finding geometric objects of the same or similar shape
+
+hash mark
+"hash mark" can mean:-
+ a hash mark in mathematics (sometimes called a tick mark) is a short line perpendicular to an axis in analytic geometry
+ hash marks on some sports playing fields
+ service stripes on some usa armed forces uniforms.
+
+ja:ハッシュ
+pl:hash
+ru:хеш

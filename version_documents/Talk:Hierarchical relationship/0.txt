@@ -1,0 +1,25 @@
+hi seb,
+
+re this
+
+generalizations: asymmetrical relationship
+
+specializations: none yet
+
+involved in: hierarchy
+
+primary domain: interdisciplinarity
+
+other potential examples: 
+
+i really wonder what use this sort of thing has in an encyclopedia.  i don't think it helps particularly.  i mean no offense, but my considered opinion is that we should stick with prose english sentences.  so, instead of writing "generalizations: asymmetrical relationship" we should write, "hierarchical relationships are asymmetrical relationships."  and if we do have the latter sort of sentence in the article, adding the above sort of guide creates more confusion than enlightenment.  i do not at all mean to cast aspersions on the project of creating a conceptual hierarchy a la wikiproject concepts.  but i am increasingly of the opinion that you should pursue it on a different wiki.  i am sure that jimbo wales would be delighted to set up a wiki for the project on wikicities.com.  will you please consider that? --lms
+
+i think of the list as a helpful navigational complement appended to the article. i have to quote you from wikiproject concepts/recap2: "wikipedia is also a completely open project that has thrived because people have felt free to contribute their knowledge in whatever format they felt comfortable [...] making participants feel comfortable contributing their knowledge is of overriding importance." this is the form in which i feel most comfortable to contribute my knowledge. but you (and everyone) are free to edit it, turn it into prose or scrap it altogether. --seb
+
+i stand by that remark of mine, and it is very relevant here; you're right to bring it up.  that sentiment is why i didn't just scrap it without consulting you first.  doing so would, i imagine, alienate you from the project, which i want to avoid.
+
+the list--or something like it--does have considerable inherent interest, in the same way that "ontology" as practiced by computer scientists has considerable inherent interest (for you and i at least).  that said, my opinion is that the list isn't particularly useful as a navigational complement.  the names you give for conceptual relations--generalizations, specializations, involved in, primary domain, and other examples--do not call any clear concepts to my mind.  there's a variety of things you could mean by any of those terms.  that in itself doesn't mean the list is useless; it does mean that you would have to expect users to learn your theory about how concepts are interrelated, or at least this jargon.  moreover, many thinking people would disagree with the theory, because that's just how people are (not necessarily because there's anything wrong with your theory).  consequently, what you might want people to regard as navigational links would very likely, in my opinion, be regarded as the application of your own idiosyncratic theory about how concepts are interrelated to otherwise unbiased articles.
+
+if, by contrast with all that, you were simply to add to the body of the article all of the information that you are trying to convey in your list of links, rendered instead in full prose english sentences, then probably no one would have grounds for complaint.  anyone who is adequately familiar with the subject matter would be able to assess whether the sentences are true or not and whether they shed light on the topic (as i am sure they do), and anyone who is competent enough to learn from what you've written will understand what you intended originally to convey by the list of links.
+
+feel free to disagree, of course.  it's possible that my analysis is off somehow. --lms

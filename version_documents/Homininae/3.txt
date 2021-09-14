@@ -1,0 +1,34 @@
+homininae is a subfamily of hominidae, which includes humans, gorillas and chimpanzees, and some extinct human relatives; it comprises all those hominids, such as australopithecus, that arose after the split from the other great apes.
+
+until 1980, the family hominidae contained only humans, with the great apes in the family pongidae. discoveries led to a revision of classification, with the great apes (now ponginae) and humans (homininae) united in hominidae. further discoveries indicated that gorillas and chimpanzees are more closely related to humans than they are to orangutans, hence their current placement in homininae. 
+
+frame|left|hominoid family tree
+
+the subfamily homininae can be further subdivided into the tribes gorillini (gorillas) and hominini (bonobos, chimpanzees and humans). the early late miocene nakalipithecus nakayamai, described in 2007, and perhaps also its contemporary ouranopithecus, are basal members of this clade, not assignable to either the gorilla or the chimpanzee-humans lineage. they suggest that the homininae tribes diverged not earlier than about 8 million years ago.
+
+a hominin is a member of the tribe hominini, a hominine is a member of the subfamily homininae, a hominid is a member of the family hominidae, and a hominoid is a member of the superfamily hominoidea.
+
+taxonomic classification
+
+subfamily homininae
+
+tribe gorillini
+genus gorilla
+western gorilla, (gorilla gorilla)
+western lowland gorilla, (gorilla gorilla gorilla)
+cross river gorilla, (gorilla gorilla diehli)
+eastern gorilla, (gorilla beringei)
+mountain gorilla, (gorilla beringei beringei)
+eastern lowland gorilla, (gorilla beringei graueri)
+tribe hominini
+genus pan (genus)
+common chimpanzee, (pan troglodytes)
+central chimpanzee, (pan troglodytes troglodytes)
+west african chimpanzee, (pan troglodytes verus)
+nigeria-cameroon chimpanzee, (pan troglodytes vellerosus)
+eastern chimpanzee, (pan troglodytes schweinfurthii)
+bonobo (pygmy chimpanzee), (pan paniscus)
+genus homo
+human, (homo sapiens)
+modern human, (homo sapiens sapiens)
+

@@ -1,0 +1,25 @@
+the haber process (also haber-bosch process) is the reaction of nitrogen and hydrogen to produce ammonia.
+
+the nitrogen and hydrogen are reacted over an iron catalyst under conditions of 200 atmospheres, 450°c:
+
+n2(g) + 3h2(g) ↔ 2nh3(g) + δh     ...(1)
+
+the process was first patented by fritz haber in 1908. in 1910 carl bosch, while working for chemical company basf, successfully commercialized the process and secured further patents. it was first used on an industrial scale by the germans during world war i: germany had previously imported saltpeter from chile, but the demand for munitions and the uncertainty of this supply in the war prompted the adoption of the process. the ammonia produced was oxidized for the production of nitric acid in the ostwald process, and the nitric acid for the production of various explosive nitro compounds used in munitions.  
+
+the nitrogen is obtained from the air, and the hydrogen is obtained from water and natural gas in steam reforming:
+
+ch4(g) + h2o(g) → co(g) + 3h2(g)     ...(2)
+
+equilibrium and the haber process
+the reaction of nitrogen and hydrogen (1) is reversible, meaning the reaction can proceed in either the forward or the reverse direction depending on conditions. the forward reaction is exothermic, meaning it produces heat and is favored at low temperatures. increasing the temperature tends to drive the reaction in the reverse direction, which is undesirable if the goal is to produce ammonia.  however, reducing the temperature reduces the rate of the reaction, which is also undesirable. therefore, an intermediate temperature high enough to allow the reaction to proceed at a reasonable rate, yet not so high as to drive the reaction in the reverse direction, is required.
+
+high pressures favour the forward  reaction because there are fewer molecules on the right side. so the only compromise in pressure is the economical situation trying to increase the pressure as much as possible.
+
+the catalyst has no effect on the position of equilibrium, however it does increase the reaction rate. this allows the process to be operated at lower temperatures, which as mentioned before favors the forward reaction.  the first haber-bosch reaction chambers used osmium and uranium catalysts. however, today a much less expensive iron catalyst is used almost exclusively.
+
+in industrial practice, the iron catalyst is prepared by exposing a mass of magnetite, an iron oxide, to the hot hydrogen feedstock. this reduces some of the magnetite to metallic iron, in the metallic iron, removing oxygen in the process. however, the catalyst maintains most of its bulk volume during the reduction, and so the result is a highly porous material whose large surface area aids its effectiveness as a catalyst. other minor components of the catalyst include calcium and aluminium oxides, which support the porous iron catalyst and help it maintain its surface area over time, and potassium, which increases the electron density of the catalyst and so improves its reactivity.
+
+the ammonia is formed as a gas but on cooling in the condensor liquefies at the high pressures used, and so is removed as a liquid. unreacted nitrogen and hydrogen is fed back in to the reaction.
+
+the haber process now produces 500 million tons of artificial fertilizer per year. 1% of the world's energy supply is consumed in the manufacturing of that fertilizer (science 297(1654), sep 2002). that fertilizer is responsible for sustaining 40% of the earth's population.
+

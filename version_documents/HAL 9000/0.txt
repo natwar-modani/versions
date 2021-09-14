@@ -1,0 +1,14 @@
+hal 9000 is a fictional character in the novel and film 2001 a space odyssey. he is the sentient on-board computer of the spaceship discovery: an artificial intelligence. hal is mostly seen only as his television camera "eyes" that are an omnipresent feature of the discovery. the voice of hal 9000 was performed by the actor douglas rain.
+
+warning: wikipedia contains spoilers
+
+in the film, hal is depicted as being capable not only of speech recognition, and natural language understanding but also lip reading. 
+
+after hal manufactures an onboard crisis, astronaut david bowman is forced to shut hal 9000's higher cognitive functions down, an experience equivalent to death for hal. hal's central core is depicted as a room full of brightly lit computer modules mounted in arrays from which they can be inserted or removed. bowman shuts down hal by removing modules from service one by one; as he does so, we witness hal's consciousness degrading until he is merely a computer.
+
+many people think the name was taken from ibm (because h precedes i, a precedes b and l precedes m alphabetically). arthur c. clarke denied such wordplay (even getting one of his characters to deny it in the sequel 2010: odyssey two) and says that the name actually means heuristically programmed algorithmic computer. many find this denial unconvincing. (note that the hal 9000 nameplate is modelled on similar nameplates for ibm computers).
+
+hal 9000 has at least one earthbound twin, sal 9000, used as a reference system for hal, which does not generate the predictions of failure of discovery's ae35 communication link.
+
+the hal computer may have been the inspiration for the hal/s computer language used to program the space shuttle's computers.
+

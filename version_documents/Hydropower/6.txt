@@ -1,0 +1,68 @@
+[[file:saintanthonyfalls.jpg|200px|thumb|right|saint anthony falls, united states; hydropower was used here to mill flour.]]
+hydropower or water power is power derived from the energy of falling water, which may be harnessed for useful purposes.  since ancient times, hydropower has been used for irrigation and the operation of various mechanical devices, such as watermills, sawmills, textile mills, dock cranes, and domestic lifts. 
+
+since the early 20th century, the term is used almost exclusively in conjunction with the modern development of hydro-electric power, which allowed use of distant energy sources.  another method used to transmit energy used a trompe, which produces compressed air from falling water. compressed air could then be piped to power other machinery at a distance from the waterfall.
+
+water's power is manifested in hydrology, by the forces of water on the riverbed and banks of a river.  when a river is in flood, it is at its most powerful, and moves the greatest amount of sediment. this higher force results in the removal of sediment and other material from the riverbed and banks of the river, locally causing erosion, transport and, with lower flow, sedimentation downstream.
+
+ history 
+early uses of waterpower date back to mesopotamia and ancient egypt, where irrigation has been used since the 6th millennium bc and water clocks had been used since the early 2nd millennium bc. other early examples of water power include the qanat system in ancient persia and the turpan water system in ancient china.
+ waterwheels, turbines, and mills 
+in india, water wheels and watermills were built; in imperial rome, water powered mills produced flour from grain, and were also used for sawing timber and stone; in china, watermills were widely used since the han dynasty.  in china and the rest of the far east, hydraulically operated "pot wheel" pumps raised water into irrigation canals.
+
+the power of a wave of water released from a tank was used for extraction of metal ores in a method known as hushing. the method was first used at the dolaucothi gold mine in wales from 75 ad onwards, but had been developed in spain at such mines as las medulas. hushing was also widely used in britain in the medieval and later periods to extract lead and tin ores. it later evolved into hydraulic mining when used during the california gold rush.
+
+at the beginning of the industrial revolution in britain, water was the main source of power for new inventions such as richard arkwright's water frame. although the use of water power gave way to steam power in many of the larger mills and factories, it was still used during the 18th and 19th centuries for many smaller operations, such as driving the bellows in small blast furnaces (e.g. the dyfi furnace) and gristmills, such as those built at saint anthony falls, which uses the 50-foot (15 m) drop in the mississippi river.
+
+in the 1830s, at the early peak in u.s. canal-building, hydropower provided the energy to transport barge traffic up and down steep hills using inclined plane railroads.  as railroads overtook canals for transportation, canal systems were modified and developed into hydropower systems; the history of lowell, massachusetts is a classic example of commercial development and industrialization, built upon the availability of water power.  
+
+technological advances had moved the open water wheel into an enclosed turbine. in 1848 james b. francis, while working as head engineer of  lowell's locks and canals company, improved on these designs to create a turbine with 90% efficiency. he applied scientific principles and testing methods to the problem of turbine design. his mathematical and graphical calculation methods allowed confident design of high efficiency turbines to exactly match a site's specific flow conditions.  the francis reaction turbine is still in wide use today. in the 1870s, deriving from uses in the california mining industry, lester allan pelton developed the high efficiency pelton wheel impulse turbine, which utilized hydropower from the high head streams characteristic of the mountainous california interior. 
+
+ hydraulic power-pipe networks 
+hydraulic power networks also developed, using pipes to carrying pressurized water and transmit mechanical power from the source to end users elsewhere locally; the power source was normally a head of water, which could also be assisted by a pump. these were extensive in victorian cities in the united kingdom. a hydraulic power network was also developed in geneva, switzerland. the world famous jet d'eau was originally designed as the over-pressure relief valve for the network.jet d'eau (water foutain) on geneva tourism
+
+ compressed air hydro 
+where there is a plentiful head of water it can be made to generate compressed air directly without moving parts. in these designs, a falling column of water is purposely mixed with air bubbles generated through turbulence at the high level intake. this is allowed to fall down a shaft into a subterranean, high-roofed chamber where the now-compressed air separates from the water and becomes trapped. the height of falling water column maintains compression of the air in the top of the chamber, while an outlet, submerged below the water level in the chamber allows water to flow back to the surface at a slightly lower level than the intake. a separate outlet in the roof of the chamber supplies the compressed air to the surface. a facility on this principal was built on the montreal river at ragged shutes near cobalt, ontario in 1910 and supplied 5,000 horsepower to nearby mines.
+
+ hydropower types 
+
+hydropower is used primarily to generate electricity. broad categories include:
+[[file:hydroelectric dam.svg|thumb|200px|right|a conventional dammed-hydro facility (hydroelectric dam) is the most common type of hydroelectric power generation.]]
+ conventional hydroelectric, referring to hydroelectric dams.
+ run-of-the-river hydroelectricity, which captures the kinetic energy in rivers or streams, without the use of dams.
+ small hydro projects are 10 megawatts or less and often have no artificial reservoirs.
+ micro hydro projects provide a few kilowatts to a few hundred kilowatts to isolated homes, villages, or small industries. 
+ pumped-storage hydroelectricity stores water pumped during periods of low demand to be released for generation when demand is high.
+
+ calculating the amount of available power 
+a hydropower resource can be evaluated by its available power. power is a function of the hydraulic head and rate of fluid flow. the head is the energy per unit weight (or unit mass) of water. the static head is proportional to the difference in height through which the water falls. dynamic head is related to the velocity of moving water. each unit of water can do an amount of work equal to its weight times the head. 
+
+the power available from falling water can be calculated from the flow rate and density of water, the height of fall, and the local acceleration due to gravity. 
+in si units, the power is:
+
+ hermann-josef wagner, jyotirmay mathur ,introduction to hydro energy systems: basics, technology and operation springer, 2011  isbn 3642207081 
+page 43 
+
+where
+ p is power in watts
+ η is the dimensionless efficiency of the turbine
+ ρ is the density of water in kilograms per cubic metre
+ q is the flow in cubic metres per second
+ g is the acceleration due to gravity
+ h is the height difference between inlet and outlet
+
+to illustrate, power is calculated for a turbine that is 85% efficient, with water at 62.25 pounds/cubic foot (998 kg/cubic metre) and a flow rate of 2800 cubic-feet/second (79.3 cubic-meters/second), gravity of 9.80 metres per second squared and with a net head of 480 ft (146.3 m). 
+ 
+in si units:
+ which gives 96.4 mw
+
+in english units, the density is given in pounds per cubic foot so acceleration due to gravity is inherent in the unit of weight. a conversion factor is required to change from foot lbs/second to kilowatts:
+ which gives 96.4 mw
+
+operators of hydroelectric plants will compare the total electrical energy produced with the theoretical potential energy of the water passing through the turbine to calculate efficiency. procedures and definitions for calculation of efficiency are given in test codes such as asme ptc 18 and iec 60041. field testing of turbines is used to validate the manufacturer's guaranteed efficiency. detailed calculation of the efficiency of a hydropower turbine will  account for the head lost due to flow friction in the power canal or penstock, rise in tail water level due to flow, the location of the plant and effect of varying gravity, the temperature and barometric pressure of the air, the density of the water at ambient temperature, and the altitudes above sea level of the forebay and tailbay. for precise calculations, errors due to rounding and the number of significant digits of constants must be considered. 
+
+some hydropower systems such as water wheels can draw power from the flow of a body of water without necessarily changing its height. in this case, the available power is the kinetic energy of the flowing water. over-shot water wheels can efficiently capture both types of energy.
+
+the water flow in a stream can vary widely from season to season. development of a hydropower site requires analysis of flow records, sometimes spanning decades, to assess the reliable annual energy supply. dams and reservoirs provide a more dependable source of power by smoothing seasonal changes in water flow. however reservoirs have significant environmental impact. the design of dams must also account for the worst-case, "probable maximum flood" that can be expected at the site. a computer model of the hydraulic basin and rainfall and snowfall records are used to predict the maximum flood.
+
+ 

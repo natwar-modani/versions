@@ -1,0 +1,45 @@
+in biology, histones are the chief proteins of chromatin. they act as spools around which dna winds and they play a role in gene regulation. histones are found in the nuclei of eukaryotic cells. bacteria do not have histones, but histones are found in certain archaea, namely euryarchaea.  these archaeal histones may well resemble the evolutionary precursors to the eukaryotic histones.
+
+classes
+six histone classes are known:
+h1 (sometimes called the linker histone or h5.)
+h2a
+h2b
+h3
+h4
+archaeal histones
+
+two each of the class h2a, h2b, h3 and h4 assemble to form one octameric nucleosome core particle by wrapping 146 base pairs of dna around the protein spool in 1.65 left-handed super-helical turn.  the linker histone h1 binds the nucleosome and the entry and exit sites of the dna, thus locking the dna into place and allowing the formation of higher order structure.  the most basic such formation is the 10 nm fiber or beads on a string conformation.  this involves the wrapping of dna around nucleosomes with approximately 50 base pairs of dna spaced between each nucleosome (also referred to as linker dna).  higher order structures include the 30 nm fiber (forming an irregular zigzag) and 100 nm fiber, these being the structures found in normal cells.  during meiosis, through the combination of nucleosome interactions with other proteins, the chromosome is assembled.  the assembled histones and dna is called chromatin.
+
+functions
+packing proteins
+histones act as spools around which dna winds.  this enables the compaction necessary to fit the large genomes of eukaryotes inside cell nuclei: the compacted molecule is 50,000 times shorter than an unpacked molecule.  
+
+gene regulation
+histones also act in epigenetic gene regulation. histones undergo posttranslational modifications which alter how tightly they bind to wrapped dna. in particular, methylation causes tighter binding, which down-regulates gene transcription; acetylation loosens binding to encourage transcription and translation.  (see histone methyltransferase, histone acetyltransferase)
+
+structure
+thumb|schematic representation of the assembly of the core histones into the nucleosome.
+
+the nucleosome core is formed of two h2a-h2b dimers and two h3-h4 dimers, forming two nearly symmetrical halves by tertiary structure (c2 symmetry; one macromolecule is the mirror image of the other).  the h2a-h2b and h3-h4 dimers themselves also show pseudodyad symmetry.
+
+the 4 'core' histones (h2a, h2b, h3 and h4) are relatively similar in structure and are highly conserved through evolution, all featuring a 'helix turn helix turn helix' motif (which allows the easy dimerisation).  they also share the feature of long 'tails' on one end of the amino acid structure - this being the location of post-transcriptional modification (see below).
+
+in all, histones make five types of interactions with dna:
+
+ helix-dipoles from alpha-helices in h2b, h3, and h4 cause a net positive charge to accumulate at the point of interaction with negatively charged phosphate groups on dna.
+ hydrogen bonds between the dna backbone and the amine group on the main chain of histone proteins.
+ nonpolar interactions between the histone and deoxyribose sugars on dna.
+ salt links and hydrogen bonds between side chains of basic amino acids (especially lysine and arginine) and phosphate oxygens on dna.
+ non-specific minor groove insertions of the h3 and h2b n-terminal tails into two minor grooves each on the dna molecule.
+
+the highly basic nature of histones, aside from facilitating dna-histone interactions, contributes to the water solubility of histones.
+
+histones are subject to posttranslational modification by enzymes primarily on their n-terminal tails, but also in their globular domains. such modifications include methylation, acetylation, phosphorylation, ubiquitination, and adp-ribosylation. this affects their function of gene regulation (see functions).
+
+in general, genes that are active have less bound histone, while inactive genes are highly associated with histones during interphase.  it also appears that the structure of histones have been evolutionarily conserved, as any deleterious mutations would be severely maladaptive.
+
+history
+histones were discovered in 1884 by albrecht kossel.  the word "histone" dates from the late 19th century and is from the german "histon", of uncertain origin: perhaps from greek histanai or from histos.
+until the early 1990s, histones were dismissed as merely packing material for nuclear dna. during the early 1990s, the regulatory functions of histones were discovered.
+

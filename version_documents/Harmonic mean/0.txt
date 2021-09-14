@@ -1,0 +1,5 @@
+the harmonic mean of the positive real numbers a1,...,an is defined to be
+h = n / ( 1/a1 + 1/a2 + ... + 1/an )
+the harmonic mean is never bigger than the geometric mean or the arithmetic mean (see generalized mean).
+
+in certain situations, the harmonic mean provides the correct notion of "average". for instance, if for half the distance of a trip you travel at 40 miles per hour and for the other half of the distance you travel at 60 miles per hour (i.e. less time), then your average speed for the trip is given by the harmonic mean of 40 and 60, which is 48. similarly, if in an electrical circuit you have two resistors connected in parallel, one with 40 ohms and the other with 60 ohms, then the average resistance is 48 ohms (i.e. if you replace each resistor by a 48 ohm resistor, the total resistance will stay the same).

@@ -1,0 +1,205 @@
+please note: these topics have been merged into health science.  updates should be added to that page instead of here.
+
+these should be the most basic topics in the field--topics about which we'd like to have articles soon.  please see the most basic encyclopedia article topics for general instructions on constructing this list.
+
+general topics
+health - 
+disease - 
+doctor - 
+physician - 
+surgeon - 
+surgery - 
+healing - 
+healer - 
+witch-doctor -
+hospital - 
+nurse -
+drug -
+operation -
+
+diagnostic methods
+physical examination - 
+medical history - 
+auscultation - 
+stethoscope - 
+percussion - 
+medical imaging - 
+x-ray - 
+medical ultrasonography -
+
+medical specialities by organ system:
+ cardiology 
+congenital heart disease
+ asd, vsd, aortic coarctation, tetralogy of fallot
+myocarditis
+rheumatic heart disease
+coronary heart disease
+cardiac arrhythmias
+
+ respiratory 
+pneumonia
+bronchitis
+tuberculosis
+asthma
+lung cancer
+
+ gastrointestinal 
+oesophagus
+heartburn
+reflux esophagitis
+barretts disease
+hiatus hernia
+cancer of oesophagus
+oesophageal pouch
+achalasia
+
+ stomach 
+gastric ulcer
+stomach cancer
+helicobacter pylori
+gerd
+mallory-weiss syndrome
+zollinger-ellison syndrome
+
+ small bowel 
+duodenal atresia ~ 
+giardiasis ~ 
+coeliac disease ~ 
+crohn's disease ~ 
+intestinal volvulus ~ 
+lymphoma ~ 
+meckel's diverticulum ~ 
+malabsorption ~ 
+
+ appendix 
+appendicitis
+carcinoid tumour
+
+ colon 
+infective colitis
+intestinal volvulus
+hirschprung disease
+ulcerative colitis
+cancer
+crohn's disease
+diverticulitis
+diarrhea
+ibs
+
+ liver 
+viral hepatitis
+nonviral hepatitis
+hepatocarcinoma
+metastatic tumor
+jaundice
+liver transplant
+
+ gallbladder 
+gallstones
+cholecytitis
+cancer of gallbladder
+
+ endocrine disease 
+
+ thyroid 
+thyroiditis
+ hashimoto thyroididtis, autoimmune thyroid disease
+hypothyroidism
+grave's disease
+thyroid cancer
+
+ parathyroid disease 
+hyperparathyroidism
+hypoparathyroidism
+
+ pituitary hormones 
+acromegaly
+prolactinoma
+pituitary tumours
+gigantism
+dwarfism
+
+ adrenal cortex 
+cushing's disease
+conn's syndrome
+adrenal failure
+
+ pancreas 
+pancreatitis
+diabetes
+carcinoma of pancreas
+cystic fibrosis and the pancreas
+
+ obstetrics and gynaecology 
+child birth
+cesarean section
+pre-eclampsia
+amniocentesis
+chorionic villus biopsy
+home birth
+premature labour
+miscarriage
+abortion
+abruption
+placenta praevia
+hydatiform mole
+
+ renal 
+pyelonephritis
+glomerulonephritis
+polycystic disease
+renal carcinoma
+renal failure
+renal dialysis
+test of renal function
+kidney stones
+
+ urology and andrology 
+
+ rheumatology 
+
+ neurology 
+cerebral palsy
+mental retardation
+
+ psychiatry 
+
+ dermatology 
+eczema
+contact dermatitis
+psoriasis
+lichen simplex chronicus
+seborrhoeic dermatitis
+ring worm
+tinea
+vitiligo
+baldness
+lichen planus
+viral warts
+impetigo
+seborrheic keratosis
+
+ oncology 
+
+ palliative care 
+
+ surgical specialisties 
+neurosurgery
+ear nose and throat
+ophthalmology
+head and neck.
+thoracic
+abdominal and colo-rectal
+orthopaedics
+trauma surgery
+plastic surgery
+
+ diagnostic specialities 
+radiology
+nuclear medicine
+anatomical pathology
+forensic pathology
+microbiology
+haematology
+biochemical pathology
+immunology

@@ -1,0 +1,43 @@
+communications in the republic of ireland, including postal services run by an post, are regulated to a large extent by the commission for communications regulation (comreg), the minister for communications, marine & natural resources has overall responsibility for national policy and regulation. much of ireland's communications infrastructure is modern and digital, however in several sectors there are competitive disadvantages to overcome due to the uncompetitive nature of the economy of ireland.
+
+broadcasting
+
+radio
+stations: am 9, fm 106, shortwave 0 (1998)
+radios: 2.55 million (1997)
+see also: list of irish radio stations
+
+television
+stations: 10 (plus 36 low-power repeaters) (1997)
+televisions: 1.47 million (1997)
+see also: list of irish television channels
+
+see also: radio telefís éireann and broadcasting commission of ireland. for a more detailed discussion of the broadcasting landscape in ireland, see media in ireland.
+
+internet
+internet service providers (isps): 14 (1999)
+country code (top-level domain): ie
+internet users: 1.26 million (2003) 
+see also: heanet, iedr, inex, itnet
+
+telephone
+
+telephone system
+domestic: digital system using cable and microwave radio relay
+international: satellite earth station - 1 intelsat (atlantic ocean)
+
+telephones - fixed
+lines: 2,046,000 (source: comreg, sept. 2005)
+ see also: eircom, bt ireland, smart telecom
+
+telephones - mobile
+lines: 3,831,000 (source: comreg, sept. 2005)
+ std codes for irish mobile phone operators::
+ 083  3 ireland umts 
+ 085 meteor gsm
+ 086 o2 ireland gsm, (umts - not yet launched)
+ 087 vodafone ireland gsm, umts
+ 088  eircell tacs (former network, closed july 2001)
+
+nb - due to the introduction of full-number portability, some phones may now operate on different networks to those on which their number was originally allocated, thus an 086 number may not necessarily be an o2 number, likewise a vodafone customer may have an 085 number if they were previously a meteor customer.
+

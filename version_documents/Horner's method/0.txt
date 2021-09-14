@@ -1,0 +1,21 @@
+in mathematics and computing, the horner scheme is an algorithm for the efficient evaluation of polynomial functions, and for dividing polynomials by linear polynomials. 
+
+given a number x and a polynomial p(t) = a0 + a1t + ... + ant n, the horner scheme computes the number
+p(x) = a0 + a1x + a2x2 + ... + an xn
+as well as a polynomial q(t) = b0 + b1t + ... + bn-1t n-1 such that
+p(t) = (t - x) · q(t) + p(x).
+the algorithm works as follows:
+
+ set i := n - 1
+ set bi := an
+ if i < 0, stop; the result p(x) is in b-1.
+ set i := i - 1
+ set bi := bi+1 * x + ai+1
+ go to step 3.
+
+this is the method of choice for evaluating polynomials; it is faster and more numerically stable than the "normal" method, which involves computing the powers of x and multiplying them with the coefficients. the horner scheme is often used to convert between different positional numeral systems (in which case x is the base of the number system, and the ai are the digits) and can also be used if x is a matrix, in which case the gain is even larger.
+
+there is another way to describe the horner scheme.  given the ai coefficients and the number x, first rewrite p with x factored out:
+p(x) = a0 + a1x + a2x2 + ... + an-1 xn-1 + an xn
+ = a0 + x(a1 + x(a2 + ... + x(an-1 + x(an)) ... ))
+then evaluate this expression in the obvious way, starting from the innermost parentheses and working out.  the value of the expression in the innermost parentheses is bn-1.  the value of the expression in the second-to-innermost parentheses is bn-2, and so on until the value of the contents of the outermost parentheses is b0.

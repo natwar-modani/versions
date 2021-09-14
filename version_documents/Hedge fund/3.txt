@@ -1,0 +1,27 @@
+the term hedge fund dates back to the first such fund founded by alfred winslow jones in 1949.  jones' innovation was to sell short some stocks while buying others, thus some of the market risk was  hedged.  while most of today's hedge funds still trade stocks both long and short, many do not trade stocks at all and the term hedge fund has come to mean any unregistered investment fund, often characterized by unconventional strategies (i.e., strategies other than investing long only in bonds, equities or money markets).
+
+in addition to selling short, jones used leverage (borrowed money to trade in addition to the capital provided by his investors), charged an incentive fee (a fee based on a portion of the clients profits as opposed to a fixed percentage of assets) and had a substantial portion of his net worth in his investment funds -- all characteristics common in today's hedge funds.
+
+fund strategies
+
+one common hedge strategy is to buy shares of a company that is in the process of a merger and acquisition. the stock of the company has an announced price that it will be worth on the date of the merger, so if the stock is currently under that value, its a safe investment to purchase it and wait. the risk is that the merger will not go through and the stock will be left at its current value.  frequently, the trader will also sell the stock of the acquiring company in addition to buying the stock of the target.
+
+most of the early hedge funds did just this. they became very popular as a way of seeing gains better than the investment grade bond market, while still having low risk.
+
+however the side effect of this popularity was to dramatically increase the interest in all of the non-standard investment strategies, and soon other funds were being set up with new strategies aimed primarily at high growth. although there is no hedging in these cases, the term is still used for these funds as well.
+
+hedge funds use alternative strategies such as selling short, arbitrage, trading options or derivatives, using leverage, investing in seemingly undervalued securities, trading commodity and fx contracts, and attempting to take advantage of the spread between current market price and the ultimate purchase price in situations such as mergers.  they can be extremely risky investments as illustrated by the example of long-term capital management.
+
+in the united states, investment companies registered with the securities and exchange commission are subject to strict limitations on the short-selling and use of leverage that are essential to many hedge fund strategies.  for this and other reasons, hedge funds elect to operate as unregistered investment companies.  as a result, interests in a hedge fund cannot be offered or advertised to the general public, and are limited to individuals who are both "accredited investors" (who have total incomes of over us$200,000 per year or a net worth of over us$1,000,000) and "qualified purchasers" (who own at least us$5,000,000 in qualified investments).  for the funds, the trade off is that they have fewer investors to sell to, but they have few government imposed restrictions on their investment strategies.  the presumption is, that hedge funds are pursuing more risky strategies, which may or may not be true depending on the fund, and that the ability to invest in these funds should be restricted to wealthier investors who are presumed to be more sophisticated and who
+have the financial reserves to absorb a possible loss.  
+
+a special type of hedge fund is a fund of funds, a fund which invests in other hedge funds rather than trading assets itself.  because u.s. funds of funds are specially registered with the securities and exchange commission, they can accept investments from individuals who are not accredited investors or qualified purchasers, and often have lower investment minimums (sometimes as low as $50,000).
+
+hedge fund secrecy
+
+a further typical characteristic of a hedge fund is secrecy.  being private, unregulated partnerships, hedge funds can negotiate directly with their clients as to the content and frequency of disclosure.  this is in contrast to a fully regulated mutual fund (or unit trust) which will typically have to meet regulatory requirements for disclosure.  in addition, in general hedge funds do not have to report their assets, clients or positions to any central regulatory authority.  
+
+a byproduct of this secrecy and the lack of regulation is that there are no official hedge fund statistics.  an industry consulting group, hfr (hfr.com), reported with suspicious precision that at the end of the second quarter 2003 there are 5660 hedge funds world wide managing $665 billion.  to put that in perspective, at the same time the us mutual fund sector held assets $6,818 billion (according to the investment company institute).
+
+the combination of secrecy and rich investors means that hedge funds are a target for criticism whenever markets move against some group's interests.  for example, hedge funds were widely blamed for the speculative run-up in the bond market that preceded the global bond crisis of 1994, although the major players in the bond spree were actually large commercial and investment banks.
+

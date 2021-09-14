@@ -1,0 +1,39 @@
+the following article is about the multinational corporation; intel is also an abbreviation for intelligence, used in reference to military intelligence and espionage.
+
+right|180px|intel logo
+intel corporation  is a us-based multinational corporation that is best known for designing and manufacturing microprocessors and specialized integrated circuits.  intel also makes networking cards, motherboard chipsets, components, and other devices. intel has advanced research projects in all aspects of semiconductor manufacturing, including mems.
+
+overview
+intel was founded in 1968 by gordon e. moore (a chemist and physicist) and robert noyce (a physicist).  its employee number four was andy grove (a chemical engineer), who ran the company through much of the 1980s and the high-growth 1990s.  it is grove who is now remembered as the company's key leader. intel by the end of the 1990s was one of the largest and most successful businesses in the world, though fierce competition within the semiconductor industry has since diminished its position somewhat.
+
+the company's products where random-access memory integrated circuits, and intel grew to be a leader in the fiercely competitive dram, sram, and rom markets throughout the 1970s.  while intel engineer ted hoff invented the first microprocessor, the intel 4004 in 1972, the microprocessor did not become the core of intel's business until the mid-1980s.
+
+from dram to microprocessors
+in 1983, at the dawn of the personal computer era, intel's profits came under increased pressure from japanese memory-chip manufacturers, and then-president andy grove drove the company into a focus on microprocessors. grove described this transition in the book only the paranoid survive.  a key element of his plan was the notion, then considered radical, of becoming the single-source for successors to the popular 8086 microprocessor.
+
+until then, manufacture of complex integrated circuits was not reliable enough for customers to depend on a single supplier, but grove began producing processors in three geographically-distinct factories, and ceased licensing the chip designs to competitors such as zilog and amd.  when the pc industry exploded in the late 1980s and 1990s, intel was the primary beneficiary.
+
+the rise of pc architecture
+during the 1990s, intel's intel architecture labs (ial) was responsible for many of the hardware innovations of the personal computer, including the pci bus, the universal serial bus (usb), and the now-dominant architecture for multi-processor servers.  ial's software efforts met with a more mixed fate; its video and graphics software was important in the development of software digital video, but later its efforts were largely overshadowed by competition from microsoft.  the competition between intel and microsoft was revealed in testimony at the microsoft anti-trust trial.
+
+competition and anti-trust
+intel's dominance in the x86 microprocessor market led to numerous charges of antitrust violations over the years, including ftc investigations in both the late 1980s and in 1999, and civil actions such as the 1997 suit by digital equipment corporation (dec) and a patent suit by intergraph.  intel's market dominance (at one time it controlled over 85% of the market for 32-bit pc microprocessors), combined with intel's own hardball legal tactics (such as its infamous 338 patent suit versus pc manufacturers) made it an attractive target for litigation, but few of the lawsuits ever amounted to anything.
+
+currently, the only major competitor to intel on the x86 processor market is advanced micro devices, with which intel has had full cross-licensing agreements since 1976: each partner can use the other's patented technological innovations without charge. some smaller competitors such as transmeta produce low-power processors for portable equipment.
+
+leadership
+robert noyce was intel's ceo at its founding in 1969, followed by co-founder gordon moore in 1975.  andy grove became the company's president in 1979 to which he added the ceo title in 1987 when moore became chairman.  in 1997 grove succeeded moore as chairman and craig barrett, already company president, took over.  barrett, in turn, will retire in 2005 and hand the reigns of the company over to paul otellini, who is also already the company president.  the changes will become effective may 18 2005.  the board of directors elected otellini, and barrett will replace grove as chairman of the board when he is replaced as ceo.  grove will step down as chairman, but will be retained as a special advisor.
+
+origin of the name
+
+at its founding, gordon moore and robert noyce wanted to name their new company 'moore noyce'. but the name didn't sound good in electronics--noise being associated with bad interference. so they decided to call their company integrated electronics or "intel" for short. however, intel was already trademarked by a hotel chain so they had to buy the rights for that name at the beginning.
+
+financial information
+intel is publicly traded at nasdaq with the symbol intc. its market capitalisation as of november 2004 is about $148 billion.
+
+intel corporation is a component of the gsti software index.
+
+diversity
+
+intel received a 100% rating on the first corporate equality index released by the human rights campaign in 2002. they have maintained this rating in 2003 and 2004. in addition, the company was named one of the 100 best companies for working mothers in 2004 by working mothers magazine.
+

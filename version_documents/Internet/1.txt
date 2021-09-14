@@ -1,0 +1,58 @@
+de:internet da:internet eo:interreto es:internet fr:internet ja:インターネット
+hr:internet ko:인터넷 nl:internet  pl:internet simple:internetsv:internet
+ru:интернет zh:%e4%ba%92%e8%81%94%e7%bd%91%e7%bb%9c
+
+in the general sense, an internet (with a lowercase "i"), a shortened form of the original inter-network, is a computer network that connects several other networks. as a proper noun, the internet is the publicly available world-wide, interconnected system of computers (plus the information and services they provide and their users) that uses the tcp/ip suite of protocols. thus, the largest internet in the world is called simply "the" internet. the art of connecting networks in this way is called internetworking.
+
+ the creation of the internet 
+
+the core networks forming the internet started out in 1969 as the arpanet devised by the united states department of defense advanced research projects agency (arpa).  on january 1, 1983, the arpanet changed its core networking protocol from ncp to the then-new tcp/ip, marking the start of the internet as we know it today.
+
+an important step in the development was the national science foundation's (nsf) building of a university backbone, the nsfnet, in 1986.
+important alien networks that have successfully been accommodated within the internet include usenet, fidonet, and bitnet.
+see history of the internet.
+
+during the 1990s, the internet successfully accommodated the majority of previously existing computer networks.  this growth is often attributed to the lack of central administration, which allows organic growth of the network, as well as the non-proprietary nature of the internet protocols, which encourages vendor interoperability and prevents one company from exerting control over the network.
+
+ today's internet 
+
+the internet is held together by bi- or multilateral commercial contracts (for example peering agreements) and by technical specifications or protocols that describe how to exchange data over the network.  these protocols are formed by discussion within the internet engineering task force (ietf) and its working groups, which are open to public participation and review.  these committees produce documents that are known as requests for comments (rfcs).  some rfcs are raised to the status of internet standard by the internet architecture board (iab).
+some of the most used protocols in the internet protocol suite are ip, tcp, udp, dns, ppp, slip, icmp, pop3, imap, smtp, http, https, ftp, ldap, and ssl.
+
+some of the popular services on the internet that make use of these protocols are e-mail, usenet newsgroups, ftp, the world wide web, gopher, ssh (which is growing in popularity as a secure replacement for telnet), wais, finger, irc, muds, and mushs.  of these, e-mail and the world wide web are clearly the most used, and many other services are built upon them, such as mailing lists and web logs. the internet makes it possible to provide real-time services such as web radio and webcasts that can be accessed from anywhere in the world.
+
+some other popular services of the internet were not created this way, but were originally based on proprietary systems.
+these include icq, aim, cddb, and gnutella.
+
+there have been many analyses of the internet and its structure.
+for example, it has been determined that the internet ip routing structure
+and hypertext links of the world wide web are examples of
+scale-free networks.
+
+ making a webpage/website 
+
+for more information on creating a webpage, see make a webpage.
+
+ internet culture 
+
+the internet has a large and growing number of users that have created a distinct culture, internet dynamics. see netiquette, internet friendship, trolls and trolling, flaming, cybersex, hacktivism or hacker culture, internet humor, internet slang, and internet art.
+
+the most used language for communications on the internet is english,
+due to the internet's origins, to its use commonly in software programming, to the poor capability of early computers to handle characters other than western alphabets.
+
+the net has grown enough in recent years, though, that sufficient native-language content for a worthwhile experience is available in most developed countries. however, some glitches such as mojibake still remain troublesome for internet users.
+
+ internet politics 
+
+the proliferation of the internet caused vast impacts in the society. instances include copyright issues, issues concerned with free speech such as pornography and hatred. in response to that situation, lately cyber laws have been created and enforced.
+many discussions have raged over the question of
+how states should interact with telecommunication tools including
+the internet.
+
+ internet access
+dial-up access
+broadband access
+
+public places to use the internet
+public places to use internet include libraries and internet cafes. nowadays there are also wifi-cafes, where a person can connect their notebook or pda using the cafe's wireless access to the internet.
+

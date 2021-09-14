@@ -1,0 +1,9 @@
+es:número imaginario ja:虚数単位
+pl:liczby urojone
+
+an imaginary number is a number whose square is negative. the term was coined by rené descartes in the seventeenth century and was meant to be derogatory: obviously such numbers don't exist. nowadays we find the imaginary numbers on the vertical axis of the complex number plane. every imaginary number can be written as  where  is a real number and  the imaginary unit with the property that
+ 
+(in electrical engineering and related fields, the imaginary unit is often written as  to avoid confusion with a changing current, traditionally denoted by .) every complex number can be written uniquely as a sum of a real number and an imaginary number.
+
+despite their name, imaginary numbers are just as real as real numbers; see complex number#definition on how they can be constructed.
+

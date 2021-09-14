@@ -1,0 +1,67 @@
+in the general sense, an internet (with a lowercase "i", a shortened form of the original inter-network) is a computer network that connects several networks. as a proper noun, the internet is the publicly available internationally interconnected system of computers (plus the information and services they provide to their users) that uses the tcp/ip suite of packet switching communications protocols. thus, the largest internet is called simply "the" internet. the art of connecting networks in this way is called internetworking.
+
+in popular parlance, internet often refers to the world wide web and electronic mail services operating on the internet.
+
+ the creation of the internet 
+main article: history of the internet
+
+the core networks forming the internet started out in 1969 as the arpanet devised by the united states department of defense advanced research projects agency (arpa). 
+
+some early research which contributed to arpanet included work on decentralised networks, queueing theory, and packet switching.
+
+on january 1, 1983, the arpanet changed its core networking protocols from ncp to tcp/ip, marking the start of the internet as we know it today.
+
+another important step in the development was the national science foundation's (nsf) building of a university backbone, the nsfnet, in 1986. important disparate networks that have successfully been accommodated within the internet include usenet, fidonet, and bitnet.
+
+during the 1990s, the internet successfully accommodated the majority of previously existing computer networks.  this growth is often attributed to the lack of central administration, which allows organic growth of the network, as well as the non-proprietary nature of the internet protocols, which encourages vendor interoperability and prevents one company from exerting control over the network.
+
+ today's internet 
+
+the internet is held together by bi- or multilateral commercial contracts (for example peering agreements) and by technical specifications or protocols that describe how to exchange data over the network.  these protocols are formed by discussion within the internet engineering task force (ietf) and its working groups, which are open to public participation and review.  these committees produce documents that are known as request for comments documents (rfcs).  some rfcs are raised to the status of internet standard by the internet architecture board (iab).
+
+some of the most used protocols in the internet protocol suite are ip, tcp, udp, dns, ppp, slip, icmp, pop3, imap, smtp, http, https, ssh, telnet, ftp, ldap, and ssl.
+
+some of the popular services on the internet that make use of these protocols are e-mail, usenet newsgroups, file sharing, the world wide web, gopher, session access, wais, finger, irc, muds, and mushs.  of these, e-mail and the world wide web are clearly the most used, and many other services are built upon them, such as mailing lists and web logs. the internet makes it possible to provide real-time services such as web radio and webcasts that can be accessed from anywhere in the world.
+
+some other popular services of the internet were not created this way, but were originally based on proprietary systems.
+these include irc, icq, aim, cddb, and gnutella.
+
+there have been many analyses of the internet and its structure.
+for example, it has been determined that the internet ip routing structure
+and hypertext links of the world wide web are examples of scale-free networks.
+
+similar to how the commercial internet providers connect via internet exchange points, research networks tend to interconnect into large subnetworks such as:
+geant
+internet2
+little gloriad
+janet
+
+ internet culture 
+
+the internet is also having a profound impact on knowledge and worldviews. through keyword-driven internet research, using search engines, like google, millions worldwide have easy, instant access to a vast amount and diversity of online information. compared to encyclopedias and traditional libraries, the internet represents a sudden and extreme decentralization of information and data.
+
+the most used language for communications on the internet is english, due to the internet's origins, to its use commonly in software programming, and to the poor capability of early computers to handle characters other than western alphabets.
+
+the net has grown enough in recent years, though, that sufficient native-language content for a worthwhile experience is available in most developed countries. however, some glitches such as mojibake still remain.
+
+see also:  internet dynamics, netiquette, internet friendship, trolls and trolling, flaming, cybersex, hacktivism or hacker culture, internet humor, internet slang, and internet art.
+
+ legal and moral issues 
+
+there is public concern about the internet stemming from some of the controversial material it contains.  copyright infringement, pornography and paedophilia, identity theft, and hate speech are available and difficult to regulate (see cyber law).  "sex" remains one of the most frequently searched terms on many internet search engines.  some of the concerns, which many argue are not rationally based, have even approached the level of moral panic, similar to the british one over video nasties in the 1980s.
+
+the internet has been cited as a factor in a number of deaths.  brandon vedas died after overdosing on a mixture of legal and illegal drugs while other irc chatters egged him on.  shawn woolley shot himself after his life was ruined by an addiction to everquest, according to his mother.  bernd-jurgen brandes was stabbed to death and eaten by armin meiwes after responding to an internet advertisement requesting a "well-built male prepared to be slaughtered and then consumed."
+
+ internet access
+common methods of home access include dial-up and broadband.
+
+public places to use internet include libraries and internet cafes, where computers with internet connection are available. there are also internet access points in public places like airport halls, sometimes just for brief use while standing. various terms are used, such as "public internet kiosk", "public access terminal", "web payphone".
+
+wi-fi provides wireless access to the internet.  hotspots providing such access include wifi-cafes, where one needs to bring one's own wireless-enabled devices such as a notebook or pda. these services may be free to all, free to customers only, or fee-based. a hotspot need not be limited to a confined location. whole campuses and parks have been enabled, even an entire downtown area.  grassroots efforts have led to wireless community networks.
+
+advantages of using one's own computer include more upload and download possibilities, using one's favorite browser and browser settings (the preferences menu may be disabled in a public computer), and integrating activities on internet and on one's own computer, using one's own programs and data. (using public computers one can use one's email box as storage area for data. for programs one may do the same, but the size of the mailbox and restrictions on the public computer limit the possibilities of running one's own programs.)
+
+countries with particularly good internet access include south korea, where 50% of the population has broadband access, sweden, and the united states. 
+
+links and references
+

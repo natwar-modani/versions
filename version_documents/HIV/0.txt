@@ -1,0 +1,22 @@
+hiv is an abbreviation for human immunodeficiency virus, and describes a number of different kinds of viruses which attack the human immune system and which have been shown to cause acquired immune deficiency syndrome.
+
+a small minority of scientists (the most prominent of them probably being kary mullis) claim that there is no sufficient evidence that hiv really causes aids, and that the world has been (deliberately) misled. most scientists disagree with this view.
+
+ pathogenesis 
+
+hiv causes disease by infecting cd4+ t cells. these are a subset of leukocytes, white blood cells, that normally co-ordinate the immune response to infection. by using cd4+ t cells to replicate itself, hiv spreads throughout the body and at the same time depletes the very cells that the body needs to fight the virus. once a hiv+ indivual's cd4+ t cells are below a certain threshold, they are prone to a range of diseases that the body can normally control. these opportunistic infections are usually the cause of death.
+
+ treatment 
+
+patients today are given a rather complex regime of drugs which attack hiv at various stages in its life cycle. these are known as antiretroviral drugs. they include:
+
+ protease inhibitors (pis) inhibit production of protease, an enzyme used directly by hiv, and so prevents virus replication.
+
+ reverse transcriptase inhibitorss (rtis) inhibit production of reverse transcriptase, an enzyme hiv needs to reproduce. lack of this enzyme prevents hiv from building rna and dna. they come in three forms:
+
+ non-nucleoside reverse transcriptase inhibitors (nnrtis)
+ nucleoside analog reverse transcriptase inhibitors (nartis)
+ nucleotide analog reverse transcriptase inhibitors (ntartis)
+
+there are many problems involved in establishing a course of treatment for hiv. each effective drug comes with side effects, often serious and sometimes life-threatening in themselves. common side effects include extreme nausea and diarrhea, liver damage and jaundice. any treatment requires regular blood tests to test for continued efficacy (in terms of t-cell count and viral load), and liver function.
+

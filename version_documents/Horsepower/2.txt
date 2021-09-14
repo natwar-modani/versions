@@ -1,0 +1,72 @@
+the horsepower (hp) is the name of several non-metric units of power. in scientific discourse the horsepower is rarely used due to the various definitions and the existence of an si unit for power, the watt (w). however, the idea of horsepower persists as a legacy term in many languages, particularly in the automotive industry for listing the maximum power of internal-combustion engines.
+
+the various types of horsepower are:
+
+ hp 
+according to the most common definition of horsepower, one horsepower is defined as exactly:
+
+ 1 hp = 745.69987158227022 w
+
+the horsepower was first used by james watt during a business venture where his steam engines substituted horses.  it was defined that a horse can lift 33,000 pounds with a speed of 1 foot per minute: 33,000 ft·lbf·min-1. this is roughly equivalent to lifting 147,000 newtons (the weight of a 15,000 kg mass) at a speed of 0.005 metre per second.
+
+ webcars! what is horsepower?
+
+ rac horsepower 
+this measure was instituted by the royal automobile club in britain and used to denote the power of early 20th century british cars. many cars hence had names such as "40/50hp", which indicated the rac figure followed by the true measured power.
+
+rac horsepower cannot be given as a proportion to metric power. instead, it is derived from dimensions of the engine and certain assumptions about engine efficiency. when invented, it gave a rough guide to its true power rating; as new engines were designed with ever-increasing efficiency, it was no longer a useful measure, but was kept in use by uk regulations which used the rating for tax purposes.
+
+where
+
+ d is the diameter (or bore) of the cylinder in inches
+ n is the number of cylinders
+
+ wolfhound: rac horsepower http://www.designchambers.com/wolfhound/wolfhoundrachp.htm
+
+ ps 
+this unit (german: pferdestärke = horse strength) is still commonly used in germany and central europe, although not a lawful unit any more. it was adopted throughout continental europe with designations equivalent to the english "horse power", but mathematically different from the british unit. it is defined by the physikalisch-technische bundesanstalt (ptb) in braunschweig as exactly:
+
+ 1 ps = 75 kp·m/s = 735.49875 w
+
+ pk 
+a dutch paardekracht equals the german pferdestärke hence
+ 1 pk = 735.49875 w
+
+ cv 
+a french unit for tax horsepower, short for chevaux vapeur ("steam horses").
+
+hence citro%ebn_2cv.
+
+in italy, spain and portugal, the equivalent to the german 'ps'.
+
+ ch 
+this is a french unit for automobile power. the symbol ch is short for chevaux ("horses"). some sources give it as 735.5 w, but it is generally used interchangeably with the german 'ps'.
+
+ bhp 
+brake horsepower was a term commonly used before the 1970s in the united states, and is still common in the united kingdom. it indicates the brake, the device for measuring the true power of the engine. stating power in 'bhp' gives some indication this is a true reading, rather than a calculated or predicted one. however, several manufacturers started to strip their engines of essential ancillaries for the purposes of getting a high horsepower figure to use in marketing the car.
+
+in the united states the term fell into disuse after the american society of automotive engineers (sae) recommended manufacturers use "hp (sae)" to indicate the power of the engine, given that particular car's complete engine installation.  this may also be stated as "sae net hp" or simply "net hp".  the british market seemed not to need the correction.
+
+ ihp 
+indicated horsepower is the theoretical power of a reciprocating engine assuming that it is completely efficient in converting the energy contained in the expanding gases in the cylinders.  it is calculated from the pressures developed in the cylinders, measured by a device called an engine indicator - hence indicated horsepower. it was the figure normally used for steam engines in the 19th century but is misleading because the mechanical efficiency an engine means that the actual power output may be only 70-90% of the indicated horsepower.
+
+ dbhp 
+
+drawbar horsepower is the power a railroad locomotive has available to haul a train.  this is a measured figure rather than a calculated one.  a special railroad car called a dynamometer car coupled behind the locomotive keeps a continuous record of the drawbar pull exerted, and the speed.  from these, the power generated can be calculated.  to determine the maximum power available, a controllable load is required; this is normally a second locomotive with its brakes applied, in addition to a static load.
+
+da:hestekraft
+de:pferdestärke
+et:hobujõud
+es:caballo de vapor
+fi:hevosvoima
+fr:cheval-vapeur
+it:cavallo vapore
+ja:馬力
+nl:paardenkracht
+no:hestekrefter
+pl:koń parowy
+sl:konjska moč
+sv:hästkraft
+zh:馬力
+ru:лошадиная сила
+

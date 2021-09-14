@@ -1,0 +1,34 @@
+thumb|right|diagram illustrating the typical layout of a hierarchical organization.
+a hierarchical organization is structured in such a way that every entity in the organization, except one, is subordinate to a single other entity.  this is the dominant mode of organization among large organizations; most corporations, governments, and organized religions are hierarchical organizations. 
+hierarchies denote a singular/group of power at the top, a number of assistants underneath and hundreds of servants beneath them.
+hierarchy originally meant "rule by priests", and it is from the organization of hierarchical churches such as the roman catholic and eastern orthodox churches that the name of this concept arises.  in these organizations, the pope or patriarch was the highest visible part of the hierarchy, with god as the nominal top of the hierarchy.
+
+the modern sense of the word came about as a result of the hierarchical way in which the roman catholic and eastern orthodox churches were organized.  it may be useful to visualize a pyramidal power structure, those nearest the top have more power than those nearest the bottom, and there being fewer people at the top then at the bottom. as a result, superiors in a hierarchy generally have higher status and command greater rewards than their subordinates.
+
+all governments and most companies have similar structures. traditionally, the monarch was the pinnacle of the state. in many countries, feudalism and manorialism provided a formal social structure that established hierarchical links at every level of society, with the monarch at the top. 
+
+in modern post-feudal states the nominal top of the hierarchy still remains the head of state, which may be a president or a constitutional monarch, although in many modern states the powers of the head of state are to one degree or another delegated among different bodies; commonly a senate, parliament or congress, which in turn often delegate the day-to-day running of the country to a prime minister. in many democracies, the people are considered to be the notional top of the hierarchy, over the head of state; in reality, the people's power is restricted to voting in elections.
+
+in business, the business owner traditionally occupied the pinnacle of the organization. in most modern large companies, there is now no longer a single dominant shareholder, and the collective power of the business owners is for most purposes delegated to a board of directors, which in turn delegates the day-to-day running of the company to a managing director or ceo. again, although the shareholders of the company are the nominal top of the hierarchy, in reality many companies are run at least in part as personal fiefdoms by their management; corporate governance rules are an attempt to mitigate this tendency.
+
+members of hierarchical organizational structures chiefly communicate with their immediate superior and with their immediate subordinates. structuring organizations in this way is useful partly because it can reduce the communication overhead by limiting information flow; this is also its major limitation.
+
+not all organizations have this structure.  the opposite extreme is described as flat organization" or "single-level".
+
+ studies of hierarchical organizations 
+the organizational development theorist elliott jacques identified a special role for hierarchy in his concept of requisite organization. 
+ 
+the iron law of oligarchy, introduced by robert michels, describes the inevitable tendency of hierarchical organizations to become oligarchic in their decision making.
+
+hierarchiology is the term coined by dr. laurence j. peter, originator of the peter principle described in his humorous book of the same name, to refer to the study of hierarchical organizations and the behavior of their members.
+
+the irg solution - hierarchical incompetence and how to overcome it argued that hierarchies were inherently incompetent, and were only able to function due to large amounts of informal lateral communication fostered by private informal networks.
+
+criticism and alternatives
+
+in the work of diverse theorists such as william james (1842-1910), michel foucault (1926-1984) and hayden white, important critiques of hierarchical epistemology are advanced. james famously asserts in his work "radical empiricism" that clear distinctions of type and category are a constant but unwritten goal of scientific reasoning, so that when they are discovered, success is declared. but if aspects of the world are organized differently, involving inherent and intractable ambiguities, then scientific questions are often considered unresolved. a hesitation to declare success upon the discovery of ambiguities leaves heterarchy at an artificial and subjective disadvantage in the scope of human knowledge. this bias is an artifact of an aesthetic or pedagogical preference for hierarchy, and not necessarily an expression of objective observation.
+
+hierarchies and hierarchical thinking has been criticized by many people, including susan mcclary and one political philosophy which is vehemently opposed to hierarchical organization: anarchism is generally opposed to hierarchical organization in any form of human relations. heterarchy is the most commonly-proposed alternative to hierarchy and this has been combined with responsible autonomy by gerard fairtlough in his work on triarchy theory.
+
+amidst constant innovation in information and communication technologies, hierarchical authority structures are giving way to greater decision-making latitude for individuals and more flexible definitions of job activities and this new style of work presents a challenge to existing organizational forms, with some research studies contrasting traditional organizational forms against groups that operate as online communities that are characterized by personal motivation and the satisfaction of making one's own decisionszhao, rosson, rosson (2007). the future of work: what does online community have to do with it? 40th annual hawaii international conference on system sciences (hicss'07).
+

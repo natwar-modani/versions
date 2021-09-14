@@ -1,0 +1,47 @@
+an indictment (), in the common law system, is a formal accusation that a person has committed a crime. in jurisdictions that maintain the concept of felonies, the most serious criminal offence is a felony; jurisdictions that lack the concept of felonies often use that of an indictable offence—an offence that requires an indictment.
+
+historically, in most common law jurisdictions, an indictment was handed up by a grand jury, which returned a "true bill" if it found cause to make the charge, or "no bill" if it did not find cause.  today, however, the grand jury has been abolished everywhere outside the united states.  
+
+ india 
+
+the criminal law in indiahttp://www.thehindu.com/news/national/police-cant-dodge-fir-if-cognisable-offence-is-disclosed/article5342930.ece is derived from the colonial-era british system and is codified in the criminal procedure code (crpc).  in india criminal offenses are divided into two broad categories.  cognisable offenses and non-cognisable offenses.  the police are empowered to start investigating a cognisable offense.  at that stage, the complaint is considered merely an accusation.  however, in both cognisable and non-cognisable offenses, the trial starts only with the "framing of charges" which is similar to the concept of indictment.  the trial court does not proceed with the trial if the evidence is insufficient to make out a charge.
+
+ united kingdom 
+
+ england and wales 
+in england and wales (except in private prosecutions by individuals) an indictment is issued by the public prosecutor (in most cases this will be the crown prosecution service) on behalf of the crown, i.e. the monarch, who is the nominal plaintiff in all public prosecutions under english law.
+
+this is why a public prosecution of a person whose surname is smith would be referred to in writing as "r v smith" (or alternatively as "regina v smith" or "rex v smith" depending on the gender of the sovereign reigning at the time of the case, regina and rex being latin for "queen" and "king" (and in either case may informally be pronounced as such) and when cited orally in court would be pronounced "the queen against smith" or "the king against smith" (again depending on the gender of the reigning sovereign)).
+
+all proceedings on indictment must be brought before the crown court.the senior courts act 1981, section 46(1) opsi by virtue of practice directions issued under section 75(1) of the supreme court act 1981, an indictment must be tried by a high court judge, a circuit judge or a recorder (which of these it is depends on the offence).
+
+as to the form of an indictment, see the indictments act 1915 and the indictment rules 1971 made thereunder.
+
+the indictment rules 1971 were revoked by the criminal procedure (amendment) rules 2007  (si 2007 no. 699)  (on the whole) incorporated into the criminal procedure rules 2010 (cpr 2012).
+the form and content and the service of an indictment are governed by  rule 14 of the cpr 2012.
+additional guidance is contained in the  consolidated criminal practice direction part iv.34.
+
+as to the preferring of a bill of indictment and the signing of an indictment, see section 2 of the administration of justice (miscellaneous provisions) act 1933 and the indictments (procedure) rules 1971 (s.i. 1971/2084) made thereunder, as amended and modified by the indictments (procedure) (amendment) rules 1983 (s.i. 1983/284), the indictments (procedure) (amendment) rules 1988 (s.i. 1988/1783), the indictments (procedure) (amendment) rules 1992 (s.i. 1992/284), the indictments (procedure) (amendment) rules 1997 (s.i. 1997/711), the indictments (procedure) (modification) rules 1998 (s.i. 1998/3045) and the indictments (procedure) (amendment) rules 2000 (s.i. 2000/3360).
+
+ northern ireland 
+see the indictments act (northern ireland) 1945.indictments act (northern ireland) 1945
+
+ scotland 
+in scotland, all of these cases brought in the high court of justiciary are brought in the name of the lord advocate and will be tried on indictment.  in the sheriff court where trials proceed using the solemn procedure they will also be tried on indictment and are brought in the name of the procurator fiscal.
+
+ united states 
+the fifth amendment to the constitution of the united states states in part: "no person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury, except in cases arising in the land or naval forces, or in the militia when in actual service in time of war or public danger".
+
+in many, but not all, united states jurisdictions that use grand juries, prosecutors often have a choice between seeking an indictment from a grand jury and filing a charging document directly with the court. such a document is usually called an information, accusation, or complaint, to distinguish it from a grand-jury indictment.  to protect the suspect's due-process rights in felony cases (where the suspect's interest in liberty is at stake), there is usually a preliminary hearing, at which a judge determines whether there was probable cause to arrest the suspect who is in custody.  if the judge finds such probable cause, he or she binds, or holds over, the suspect for trial.
+
+the substance of an indictment or other charging instrument is usually the same, regardless of the jurisdiction: it consists of a short and plain statement of where, when, and how the defendant allegedly committed the offense. each offense usually is set out in a separate count. indictments for complex crimes, particularly those involving conspiracy or numerous counts, may run to hundreds of pages. however in other cases an indictment for a crime as serious as murder, may consist of a single sheet of paper.
+
+indictable offenses are normally tried by jury, unless the accused waives the right to a jury trial. although the sixth amendment mandates the right to a jury trial in any criminal prosecution, the vast majority of criminal cases in the united states are resolved by the plea-bargaining process.
+
+ direct indictment 
+a direct indictment is one in which the case is sent directly to trial before a preliminary inquiry is completed or when the accused has been discharged by a preliminary inquiry. it is meant to be an extraordinary, rarely used power to ensure that those who should be brought to trial are in a timely manner or where an error of judgment is seen to have been made in the preliminary inquiry.
+
+ sealed indictment 
+an indictment can be sealed so that it stays non-public until it is unsealed. this can be done for a number of reasons. it may be unsealed, for example, once the named person is arrested or has been notified by police.
+
+ 

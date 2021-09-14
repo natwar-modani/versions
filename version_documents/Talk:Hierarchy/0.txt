@@ -1,0 +1,11 @@
+this sentence... every member is reachable from any other by following the relationship in either direction, but there is no way of coming back to a particular member by always following the relationship in the same direction.  makes no sense at all to me. does this mean that "any category node can be reached from any other category node"? 
+
+if so, then this is simply wrong - that's a property of a heterarchy or a neural network. a hierarchy is defined by each descendent having a single parent node (only!) and one or more descendents (or zero descendents at the leaf node level). any organisational structure where descendent nodes can have more than one parent is not a hierarchy, by simple definition. the wikipedia is definitely not hierarchical in its informational content, otherwise we would not have so many debates about subpages and categorisation. - mmgb
+
+i agree; it's a very badly written sentence.  i could speculate about its meaning, but i shouldn't have to. -- mike hardy
+
+i think the one parent per node idea is too narrow to satisfy all sensible definitions of "hierarchy". this may be how it is defined in, say, organizational theory. but computer scientists speak of "inheritence hierarchies" in which a node can have multiple "parents". actually, think about real family trees; it is arguably fruitful to view them as hierarchies, and everyone (i.e. every node) has exactly two parents.
+
+i think we should clarify, however, that some people use hierarchy for the one-parent case and heterarchy for the multi-parent case, if this is indeed true. if this is true, we need to clarify what people/fields use the terminology in this manner. it certainly isn't universal. --ryguasu
+
+the diagram on this page seems committed to the pov tenet that "science" is disjoint from "culture".  i believe this is untenable.  but i don't know how to edit the picture.  can someone essay this task?  michael hardy 01:19, 9 oct 2003 (utc)

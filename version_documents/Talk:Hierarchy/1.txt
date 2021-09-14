@@ -1,0 +1,37 @@
+why the good and bad points of hierarchy not mentioned
+
+this sentence... every member is reachable from any other by following the relationship in either direction, but there is no way of coming back to a particular member by always following the relationship in the same direction.  makes no sense at all to me. does this mean that "any category node can be reached from any other category node"? 
+
+if so, then this is simply wrong - that's a property of a heterarchy or a neural network. a hierarchy is defined by each descendent having a single parent node (only!) and one or more descendents (or zero descendents at the leaf node level). any organisational structure where descendent nodes can have more than one parent is not a hierarchy, by simple definition. the wikipedia is definitely not hierarchical in its informational content, otherwise we would not have so many debates about subpages and categorisation. - mmgb
+
+i agree; it's a very badly written sentence.  i could speculate about its meaning, but i shouldn't have to. -- mike hardy
+
+i think the one parent per node idea is too narrow to satisfy all sensible definitions of "hierarchy". this may be how it is defined in, say, organizational theory. but computer scientists speak of "inheritence hierarchies" in which a node can have multiple "parents". actually, think about real family trees; it is arguably fruitful to view them as hierarchies, and everyone (i.e. every node) has exactly two parents.
+
+i think we should clarify, however, that some people use hierarchy for the one-parent case and heterarchy for the multi-parent case, if this is indeed true. if this is true, we need to clarify what people/fields use the terminology in this manner. it certainly isn't universal. --ryguasu
+
+i think even the initial example is confusing, with two layered ranking hierarchies and one inherited subset relationship. i dropped by because it suggested this needed some copy editing, which is my craft and avocation, but much more is needed here... that introduction needs some serious restructuring. shanen 03:54, 16 mar 2005 (utc)
+
+offensive illustration
+
+the diagram on this page seems committed to the pov tenet that "science" is disjoint from "culture".  i believe this is untenable.  but i don't know how to edit the picture.  can someone essay this task?  michael hardy 01:19, 9 oct 2003 (utc)
+
+and it's been over a year since i posted this.  no one has replaced the illustration with a better one.  i've removed it. michael hardy 00:09, 23 jan 2005 (utc)
+
+i agree that the diagram wasn't perfect, but it (imperfectly) illustrated a concept in the article which had nothing to do with whether one subscribes to this perspective or not. you could have improved the diagram (while taking into account the articles which use (link to) the image); instead you just removed it, and even explicitly stated in the article that you didn't care to check whether this leads to problems with the text. this will sooner or later lead to serious pangs of conscience (subconscious or not), unless you draw for us a nice, inoffensive diagram, i can assure you. --glimz 07:12, jan 24, 2005 (utc)
+
+tell me what software to use to edit this picture and maybe i'll see if i can do something with it. michael hardy 20:10, 24 jan 2005 (utc)
+
+create a new :image:binary-tree-structure.png from scratch. i'd use xfig on linux; for windows — dunno actually, but any paint or diagram tool you try will be able to draw some squares and lines and most probably save as .png. have a look at wikipedia:graphics_tutorials if you wish. --glimz 04:37, jan 25, 2005 (utc)
+
+see: hierarchical organization, which i suggest should be merged with and redirected here. hyacinth 07:44, 17 jun 2004 (utc)
+
+ wikis 
+
+the wikipedia community is noteworthy for being not overtly hierarchically structured, as no contributor possesses inherently higher standing than another, excepting certain limited "admin" and "developer" powers restricted to a few.  however, some would counter that although there is no explicit hierarchy there are social norms which make contributions unequal, as some contributors have more influence because their edits command higher respect. 
+
+those who frequent wikis might label wikipedia's organization "wikiarchical".
+
+note that the content of the wikipedia (as opposed to the community) is also organized in a fashion that is not overtly hierarchival. for the most part, the relationship between the individual articles does not form any sort of structure.
+
+your joking, right? how about jimbo, the wikimedia board, the developers, beaurocrats, the arbitration commitee, the mediation commitee, admins, users, new users, anons, known sockpuppets and trolls, and hard banned users.... doesn't that sound like a clear hierarchy to you? also this ignores completely the general guideline to avoid self 

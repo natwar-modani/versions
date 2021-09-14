@@ -1,0 +1,12 @@
+hol can refer to any of the following:
+
+ house of lords - the upper house of the parliament of the united kingdom of great britain and northern ireland 
+ hol is an abbreviation for higher-order language, aka, high-level programming language, such as fortran, cobol, algol, pl/1, or snobol to distinguish such programming languages from assembly language.
+ hol is an abbreviation for higher-order logic, a branch of symbolic logic in which statements can be quantified over objects, predicates, predicates of predicates etc. 
+ there is a theorem prover called hol; see hol theorem prover.
+ hol is a municipality in the county of buskerud, norway.
+ the hall of light, an amiga games database .
+ the former ioc country-code for the netherlands.
+ the abbreviation for greek internet service provider "hellas on-line", which offers broadband and dial-up internet services.
+ the role-playing game hol (role-playing game) is often shorted as hol.
+

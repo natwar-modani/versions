@@ -1,0 +1,53 @@
+[[image:hkg41cover.jpg|thumb|250px|right|heckler & koch g41]]
+heckler & koch gmbh (h&k) (pronunciation see hkpro - how do you correctly pronounce "koch?") is a german weapons manufacturing company famous for various series of small firearms, notably the mp5 submachine gun, the mp7 personal defense weapon, usp series handguns, high-precision psg1 sniper rifle, and the g3 and g36 assault rifles. heckler & koch are known for the extreme precision, durability, reliability and accuracy of their firearms.  all firearms made by h&k are named by a prefix and the official designation, with postfixes used for variants.
+
+heckler & koch has a history of innovations in small arms, such as the use of polymers. most believe that austrian company glock were the first firearms manufacturer to use polymers in their pistols, however it was heckler & koch who actually claimed that title when they released the vp70 pistol in 1970.  heckler & koch also developed modern polygonal rifling, noted for its high accuracy and increased muzzle velocity and barrel life. not all of its technologically ambitious designs have resulted in successful products (for instance, the advanced but now abandoned g11 assault rifle). hk produces the whole range of small arms, from pistols to grenades and machine guns. in its extensive product range, hk has used most of the operating systems for small arms: blowback, short-recoil, roller-delayed blowback, gas-delayed blowback, and gas-operated. all of their firearm models have achieved reputations for excellent accuracy and reliability, however, their high price tag has somewhat offset their popularity in the civilian market.
+
+history
+hk was founded by edmund heckler, theodor koch, and alex seidel in 1949 from the remnants of mauser, and the company was registered in 1950. in the beginning, the company produced sewing machine parts and other fine mechanics, but this changed in 1956 when the company constructed a rifle for the bundeswehr (federal german army). in 1991 in the wake of the cancellation of the g41 and g11 rifles, h&k was bought by british aerospaces royal ordnance division. their major contribution to weaponry since then was the modification of the sa-80 rifle for the british army, clearing up a number of issues. in 2002 bae systems, as it was by now known, resold it to a german group (h&k beteiligungs-gmbh) that was created for this purpose.
+
+the company is located in oberndorf in the state of baden-württemberg, but also has a subsidiary in the united states. the company slogan is: "in a world of compromise, some don't".  the slogan emphasizes that hk aims to incorporate accuracy, reliability, and ergonomics into their designs without sacrificing one over the other.  because of this paradigm many fans feel that hk is the worlds premiere firearm manufacturer.  this idea is supported by the fact that heckler & koch provides firearms for many of the world's elite military and paramilitary units, like the special air service, u.s. navy seals, fbi hrt, the german ksk and gsg 9 and countless other counter terrorist and hostage rescue teams.
+
+hk has been contracted by the u.s. army to produce the kinetic energy subsystem (see: kinetic projectiles or kinetic energy penetrator) of the objective individual combat weapon, a planned replacement for the m16/m203 grenade launcher combination. oicw will fire both 5.56 mm bullets and 25 mm grenades. the kinetic component was also developed separately as the xm8, though both the oicw and xm8 are now indefinitely suspended.
+
+hk is also contracted to refurbish the sa80 range of weapons for the british army.
+
+recently, h&k developed an improved version of the united states issued m4 rifle, called the h&k 416. h&k replaced the impingement gas system used by the stoner design on the original m16 platform with a piston system. at this date, there is only rumors and speculation as to whether or not the rifle will be adopted by the us forces.
+
+hk primarily sells its pistols in the united states civilian firearms market. many of their civilian rifles that were briefly sold in the united states now command a high value on the secondary market. hk firearms are often seen as a status symbol among american gun owners due to their quality, scarcity, and high price tag.
+
+notable heckler & koch designs or families
+pistols: hk usp (variants:p8, p2000, mark 23), hk ucp, hk p7, vp70
+personal defense weapons: mp7, mp5k
+submachine guns: mp5, ump
+assault rifles: g3, g36, hk53, hk 416, hk 417
+sporting rifles: hk sl6, hk sl7, hk sl8, hk 630, hk 770, hk 940
+sniper rifles: hk msg-90, hk psg-1
+machine guns: hk21e, hk mg4
+grenade launchers: hk 69, hk 79, ag36, hk gmg 
+special weapons:
+hk g11: experimental assault rifle.
+hk g41: assault rifle meant to replace the hk g3; replaced by the hk g36.
+hk p11: underwater pistol.
+
+see also list of heckler & koch products
+
+short list of heckler & koch abbreviations
+(format: abbreviation = german text (english text))
+
+a = ausführung ("version") hkpro - definition of 'a' designation
+g = gewehr ("rifle")
+k = either kurz ("short") for pistols and submachine guns or karabiner ("carbine") for rifles and assault rifles.
+ag = either stands for anbau-gerät ("attached device") or anbaugranatwerfer ("attached grenade launcher")
+gmg = granatmaschinengewehr (grenade machine gun)
+gmw = granatmaschinenwerfer (automatic grenade launcher)
+mg = maschinengewehr ("machinegun")
+mp = maschinenpistole ("submachinegun")
+psg = präzisions-schützen-gewehr ("precision marksman's rifle")
+sd = schalldämpfer ("sound dampened", in the case of the mp5 having an integral silencer, in the case of the usp, an extended threaded barrel for attaching a silencer)
+sg = schützen-gewehr ("marksman's rifle") 
+ump = universal-maschinenpistole ("universal machine pistol")
+ucp = ultimate combat pistol
+usp = universal-selbstladepistole ("universal self-loading pistol")
+zf = zielfernrohr ("telescopic sight")
+

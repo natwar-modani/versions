@@ -1,0 +1,16 @@
+in greek mythology hyperion was a titan, the son of gaea and uranus and the father of helios.
+
+hyperion is a moon of saturn discovered by bond and lassell in 1848. it is the largest highly irregular (non-spherical) body in the solar system (proteus is quite a bit larger but is almost spherical). it seems likely that hyperion is a fragment of a larger body that was broken by a large impact in the distant past. the largest crater on its surface is approximately 120 kilometers in diameter and 10 kilometers deep. 
+
+like most of saturn's moons, hyperion's low density indicates that it is composed of water ice with only a small amount of rock. but unlike most of saturn's moons, hyperion has a low albedo (.2 - .3) indicating that it is covered by at least a thin layer of dark material. this may be material from phoebe (which is much darker) that got past iapetus. hyperion is redder than phoebe and closely matches the color of the dark material on iapetus.
+
+the voyager images and subsequent ground based photometry indicate that hyperion's rotation is chaotic, i.e. its axis of rotation wobbles so much that its orientation in space is completely unpredictable. hyperion is the only known body in the solar system that rotates chaotically but simulations seem to indicate that other irregular satellites may have done so in the past. hyperion is unique in that it is very irregularly shaped, has a highly eccentric orbit, and is near another large moon (titan). these factors combine to restrict the set of conditions under which stable rotation is possible. the 3:4 orbital resonance between titan and hyperion may also make chaotic rotation more likely.
+
+hyperion's odd rotation probably accounts for the fact that hyperion's surface is more or less uniform, in contrast to many of saturn's other moons which have distinctly different leading and trailing hemispheres.
+
+orbital radius:    1,481,100 km
+diameter: 286 km (410 x 260 x 220)
+mass:     1.77×1019 kg
+orbital period: 21.27661 days
+orbital inclination: 0.43 °
+density: 1.4 g/cm3

@@ -1,0 +1,37 @@
+holomorphic functions are the central object of study of complex analysis; they are functions defined on an open subset of the complex number plane c with values in c which are complex differentiable at every point. this is a much stronger condition than real differentiability and implies that the function is infinitely often differentiable and can be described by its taylor series. the term analytic function is used interchangeably with "holomorphic function", although note that the former term has several other meanings. a function that is holomorphic on the whole complex plane is called entire.
+
+ definition 
+
+if u is an open subset of c (see metric space for the definition of "open") and f : u -> c is a function, we say that f is complex differentiable at the point z0 of u if the limit
+                 f(z)-f(z0)
+   f'(z0) = lim  ---------- 
+            z→z0   z - z0
+exists.
+the limit here is taken over all sequences of complex numbers approaching z0, and for all such sequences the difference quotient has to approach the same number f '(z0).
+intuitively, if f is complex differentiable at z0 and we approach the point z0 from the direction r, then the images will approach the point f(z0) from the direction f '(z0) r, where the last product is the multiplication of complex numbers.
+this concept of differentiability shares several properties with real differentiability:
+it is linear and obeys the product, quotient and chain rules.
+if f is complex differentiable at every point z0 in u, we say that f is holomorphic on u.
+
+ examples 
+
+all polynomial functions with complex coefficients are holomorphic on c,
+and so are the trigonometric functions, their inverses, and the exponential function.
+(the trigonometric functions are in fact closely related to and can be defined via the exponential function using euler's formula).
+the logarithm function is holomorphic on the set { z : z is not a non-positive real number}.
+the square root function can be defined as 
+√ z = exp(1/2 ln(z))
+and is therefore holomorphic wherever the logarithm ln(z) is. the function 1/z is holomorphic on {z : z ≠ 0}.
+
+ properties 
+
+because complex differentiation is linear and obeys the product, quotient, and chain rules, sums, products and compositions of holomorphic functions are holomorphic, and the quotient of two holomorphic functions is holomorphic wherever the denominator is non-zero. 
+
+every holomorphic function is infinitely often complex differentiable at every point. it coincides with its own taylor series and the taylor series converges on every open disk that lies completely inside the domain u.
+
+if one identifies c with r2, then the holomorphic functions coincide with those functions of two real variables which solve the cauchy-riemann equations, a set of two partial differential equations.
+
+close to points with non-zero derivative, holomorphic functions are conformal in the sense that they preserve angles and the shape (but not size) of small figures.
+
+cauchy's integral formula states that every holomorphic function is inside a disk completely determined by its values on the disk's boundary.
+

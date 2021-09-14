@@ -1,0 +1,18 @@
+1724-1804
+
+was a german philosopher who spent most of his life in konigsberg (now kaliningrad).  he spent much of his youth as a solid but not spectacular student, living more off playing pool than his writings.  his revolutionary pieces were written very late in life after a long period of silence.
+
+though he adopted the idea of a critical philosophy he had the range and ambition of the great system builders, pursuing the idea of the critique through studies of metaphysics, ethics, and aesthetics.
+
+one famous citation "the starry heavens above me and the moral law within me", sums up his efforts: he wanted to explain in one systematic theory, those two areas or realms. isaac newton had developed a theory of physics that kant wanted to build his philosophy upon. this theory involved the assumpton of natural forces that humans cannot sense, but are used to explain movement of physical bodies.
+
+his most widely read and most influential book is the critique of pure reason (1781), which proceeds from a remarkably simple thought experiment. he said, try to imagine something that exists in no time and has no extent in space. the human mind cannot produce such an idea--time and space are fundamental categories of consciousness. nothing can be perceived except through these categories, and the limits of physics are the limits of the fundamental structure of the mind. this does two things, first it builds a case for a priori knowlege of some things (space and time) since the mind must possess these catagories in order to be able to parse the buzzing mass of sense data which presents itself to our consciousness.  secondly, it removes the actual world from the arena of human perception -- since everything we percieve is filtered through the catagories of space and time we can never really "know" the real world. 
+
+kant had wanted to discuss metaphysical systems but discovered "the scandal of philosophy"--you cannot decide what the proper terms for a metaphysical system are until you have defined the field, and you cannot define the field until you have defined the limit of the field of physics first. 'physics' in this sense means, roughly, the discussion of the perceptible world.
+
+in kant's grounding for the metaphysics of morals, he discusses further the dichotomy of human beings existing in the "world of sense" as well as the "world of understanding." this is where we find the categorical imperitive, for which kant is widely known. the categorical imperitive binds rational beings to duties simply because we "ought" to do them; as opposed to the hypothetical imperitives, which we comply with because they are conditional: if we want x, we do y to get it.  the categorical imperative states that one would accept one's actions if they were universally applied by all.
+
+kant, although highly criticzed, gave much insight into the world of ethics. 
+
+kant's influence can be seen in the works of many later philsophers, from karl marx to sartre.
+

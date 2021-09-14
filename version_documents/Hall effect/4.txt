@@ -1,0 +1,46 @@
+the hall effect refers to the potential difference (hall voltage) on opposite sides of a thin sheet of conducting or semiconducting material in the form of a 'hall bar' or a van der pauw element through which an electric current is flowing, created by a magnetic field applied perpendicular to the hall element. the ratio of the voltage created to the amount of current is known as the hall resistance, and is a characteristic of the material in the element. dr. edwin hall discovered this effect in 1879.
+
+analysis
+
+the hall effect comes about due to the nature of the current flow in the conductor. current consists of many small charge-carrying "particles" (typically electrons) which see a force due to the magnetic field. some of these charge elements end up forced to the sides of the conductors, where they create a pool of net charge. this is only notable in larger conductors where the separation between the two sides is large enough.
+
+one very important feature of the hall effect is that it differentiates between positive charges moving in one direction and negative charges moving in the opposite. the hall effect offered the first real proof that electric currents in metals are carried by moving electrons, not by protons. interestingly enough, the hall effect also showed that in some substances (especially semiconductors), it is more appropriate to think of the current as positive "holes" moving rather than negative electrons.
+
+right|150px
+by measuring the hall voltage across the element, one can determine the strength of the magnetic field applied. this can be expressed as vh = ib/(den)  where vh is the voltage across the width of the plate, i is the current across the plate length, b is the magnetic field, d is the depth of the plate, e is the electron charge, and n is the bulk density of the carrier electrons.
+
+so called hall effect sensors are readily available from a number of different manufacturers, and may be used in various sensors such as fluid flow sensors, power sensors, and pressure sensors.
+
+in the presence of large magnetic field strength and low temperature, one can observe the quantum hall effect, which is the quantization of the hall resistance.
+
+in ferromagnetic materials, the hall resistivity also shows an anomalous contribution, known as the anomalous hall effect, proportional to the magnetization of the material. although a well-recognized phenomenon, there is still debate about its origins.
+
+applications
+
+hall effect devices produce a very low signal level. to apply this requires amplification. while suitable for laboratory instruments, the vacuum tube amplifiers available in the first half of the 20th century were too expensive, power consuming, and unreliable for everyday applications. it was only with the development of the low cost integrated circuit that the hall effect sensor became suitable for mass application. many devices now sold as "hall effect sensors" are in fact a device containing both the sensor described above and a high gain integrated circuit (ic) amplifier in a single package. reed switch electrical motors using the hall effect ic is another application.
+
+advantages over other methods
+hall effect devices when appropriately packaged are immune to dust, dirt, mud, and water. these characteristics make hall effect devices superior for position sensing compared to alternative means such as optical and electromechanical sensing.
+thumb|right|250px|hall effect current sensor with internal integrated circuit amplifier. 8mm opening. zero current output voltage is midway between the supply voltages that maintain a  4 to 8 volt differential. non zero current response is proportional to the voltage supplied and is linear to 60 amperes for this particular (25 a) device
+the magnetic field may be that provided as a consequence of electrons flowing through a conductor. it is thus possible to create a non-contacting current sensor in which the conducting cable with current to be measured is threaded through a hole in the sensing device. the device has three terminals. across two of these is applied a sensor voltage and from the third is taken a voltage proportional to the current being sensed. this has several advantages; no resistance (a "shunt") need be inserted in the primary circuit and also, the voltage present on the line to be sensed is not transmitted to the sensor, a characteristic which enhances the safety of measuring equipment.
+
+the range of a given feed through sensor may be extended upward and downward by appropriate wiring. to extend the range to lower currents, multiple turns of the current-carrying wire may be made through the opening. to extend the range to higher currents a current divider may be used, with a portion of the current carried by a large wire flowing through a smaller parallel wire with the small wire passing through the sensor.
+
+split ring clamp-on sensor
+a variation on the ring sensor uses a split sensor which is clamped onto the line, rather than threading the line through the sensor, enabling the device to be included in test equipment not permanently installed in the device being tested. this also simplifies the permanent addition of current sensing to existing circuits as they need not be dismantled to perform the installation.
+
+analog multiplication
+the output is proportional to both the applied magnetic field and the applied sensor voltage. if the magnetic field is applied by a solenoid, the sensor output is proportional to product of the current through the solenoid and the sensor voltage. as most applications requiring computation are now performed by small (even tiny) digital computers, the remaining useful application is in power sensing, which combines current sensing with voltage sensing in a single hall effect device.
+
+power sensing
+by sensing the current provided to a load and using the device applied voltage as a sensor voltage it is possible to determine the power flowing through a device. this power is (for direct current devices) the product of the current and the voltage. with appropriate refinement the devices may be applied to alternating current applications where they are capable of reading the true power produced or consumed by a device.
+
+position and motion sensing
+applied to mechanical motion sensing and motion limit switches the hall effect device can offer enhanced reliability in extreme environments. as there are no moving parts involved within the sensor or magnet, there is a far greater useful life expected than from electromechanical switches. also, the sensor and magnet may be permanently and completely encapsulated in an appropriate material
+
+automotive ignition and fuel injection
+if the magnetic field is applied by a rotating magnet resembling a toothed gear then an output pulse will be generated each time a tooth passes the sensor. this is used in modern automotive primary distributor ignition systems, replacing the earlier "breaker" points (which were prone to wear and required periodic adjustment and replacement). similar sensor signals are used to control multi-port sequential fuel injection systems, where each cylinder's intake runner is fed fuel from an injector consisting of a spray valve regulated by a solenoid. (the sequences are timed to match the intake valve openings and the duration (under the control of a computer) determines the amount of fuel delivered.)
+
+wheel rotation sensing
+the sensing of wheel rotation is especially useful in anti-lock brake systems. the principles of such systems have been extended and refined to offer more than anti-skid functions, now providing extended vehicle "handling" enhancements.
+

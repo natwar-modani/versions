@@ -1,0 +1,11 @@
+what's meant by an "eager" variation?  i worked with functional languages for some amount of time and never heard the term. --robert merkel
+
+i'm pretty sure it means "without lazy evaluation".
+
+that's right -- the anome
+
+haskell is, as of 2002, the functional language on which the most research is being performed.
+
+do you have a reference for this statement ? --taw
+
+"haskell" can also refer to http://www.haskell.edu/ , so i'm not moving this page to haskell. --eloquence 16:55 jan 24, 2003 (utc)

@@ -1,0 +1,99 @@
+ 
+
+identity is not always preserved
+consider the map f:(z,.)--->(z,.) (z: set of integers , . : multiplication) between monoids given by f(x)=0. this is a homomorphism since f(x.y) = f(x).f(y) but identity is not preserved since f(1) = 0. the statement that identity is preservd seems wrong to me.
+--shahab 12:14, 1 september 2006 (utc)
+
+ok, but what does "morphism" mean at all???
+
+er, so homomorphisms are the only kind of morphisms?  if not, the redirect was incorrect. --lms
+
+from mathworld: "a general morphism is called a homomorphism" -- the anome
+
+mathworld is incorrect. some people use "homomorphism" and "morphism" interchangeably, as we do here, others use "homomorphism" for "morphisms of algebraic structures" (as opposed to analytic or topological structures). in the latter terminology, a continuous map would be considered a morphism, but not a homomorphism. --axelboldt
+
+i stand corrected - i come at this from a computer science/category theory angle. time to call out the specialists! -- the anome
+
+i wrote the redirect on the grounds that the article implied that what it was referring to was the general notion from category theory. (it said "the notion of morphism is studied abstractly in category theory.") i wanted an article called "morphism" to link to from other things that i am writing. (but was it bad form to have put a link to the redirect in "morphism" from the article "homomorphism" itself?) upon further consideration of the article, however, i realised that this was not true. the article is written in the language of concrete categories (those where objects are sets with some structure and morphisms are functions that preserve that structure), which isn't such a crime, but unfortunately many of the statements made don't apply to all concrete categories. in particular, the bit about the equivalence relation is very specific, from universal algebra. so i rewrote the article to specify that it applied only to universal algebra (adding some features and cleaning up some notation as well -- change back any notation change that you feel is horrid). then i wrote another article under the name "morphism" that holds generally, in any category, and using the more general language of abstract categories instead of concrete ones. i hope that it's clear now what the scopes of the 2 articles are, and that the distinction between the titles of the articles can be maintained. i'm fairly new here, so let me know if i screwed stuff up. (thank goodness for the logs!) -- toby bartels
+
+ other usage?? 
+
+n.b. some authors use the word homomorphism in a larger context than that of algebra. some take it to mean any kind of structure preserving map (such as continuous maps in topology), or even a more abstract kind of map—what we term a morphism—used in category theory. this article only treats the algebraic context. for more general usage see the morphism article.
+
+can you give specific examples? i have never (to my knowledge) encountered the term "homomorphism" outside of algebra. revolver 4 july 2005 22:54 (utc)
+
+ homomorphic 
+
+i was redirected from homomorphic to this homomorphism page. 
+it is not defined in the article when a group is homomorphic to another. 
+i have absolutely no definition (should it be, when there is a morphism from one the other?  there is always the trivial...)
+
+i guess it really is that trivial. at least we say two algebraic structures are "isomorphic" by definiton iff there is an isomorphism from one to the other (and vice versa of course).
+
+ incorrect picture 
+
+i've used this picture, and its explanation on serbian wikipedia, but i was told that it is incorrect.  
+
+it is not true that p ∩ n \ a is empty, it only contains only infinite homomorphisms, as that other case, m ∩ n \ a.
+
+for example, if g = z∞ = z + z + z + .... (as additive group) and operator shifts them one position to the left (the first element disappears), that endomorphism is epimorphism, but obviously isn't automorphism since it's not monomorphism. -- obradović goran  (talk 22:51, 19 march 2007 (utc)
+
+here you can find the version edited according to this comment. -- obradović goran  (talk 00:38, 20 march 2007 (utc)
+
+would anyone care to elaborate on what "infinite homomorphisms" are? 84.97.229.176 12:28, 1 may 2007 (utc)
+
+the ∞ symbol on that image denotes that homomorphisms which belong, say, to classes m and n, but not to a, exist only when the underlying set is infinite. "infinite-ness" is a property of the underlying set: it does not mean that the homomorphisms in question are "infinite". --dzordzm 21:43, 30 september 2007 (utc)
+
+ cosmetic comment 
+
+there is no word 'morphos' in greek, as stated in the beginning of the article. the correct word would be 'μορφή', i.e. 'morphi', which means 'shape'.
+pramcom 12:55, 12 june 2007 (utc)
+
+but morphi is modern greek pronunciation, inappropriate in this context. on homeomorphism they have morphē (a long ay at the end) -- this is the classical greek variant.
+--what 09:03, 9 september 2007 (utc)
+
+ incorrect definitions of special types of homomorphisms 
+
+the section homomorphism#types of homomorphisms presently starts as follows:
+
+ an isomorphism is a bijective homomorphism. two objects are said to be isomorphic if there is an isomorphism between them. isomorphic objects are completely indistinguishable as far as the structure in question is concerned.
+ an epimorphism is a surjective homomorphism.
+ a monomorphism (also sometimes called an extension) is an injective homomorphism.
+ an endomorphism is a homomorphism from an object to itself.
+ an automorphism is an endomorphism which is also an isomorphism.
+the above terms are used in an analogous fashion in category theory, however, the definitions in category theory are more subtle; see the article on morphism for more details.
+note that in the larger context of structure preserving maps, it is generally insufficient to define an isomorphism as a bijective morphism. one must also require that the inverse is a morphism of the same type. in the algebraic setting (at least within the context of universal algebra) this extra condition is automatically satisfied.
+
+the definitions are not in accordance with common usage, which is that the "more subtle" definitions in category theory are applied; see morphism#some specific morphisms. the following text partly desavouates the given definitions, by noting the category theoretical demand that the inverse of an isomorphism also be an isomorphism. there are similar troubles for other kinds of morphisms.
+
+here is an example of an epimorphism which is not surjective, in a universal algebra category (from saunders mac lane, categories for the working mathematician, exercise 4 in section i.5): the inclusion map
+
+is not only a monomorphism but also an epimorphism, but not an isomorphism, as a homomorphism in the category of unitary rings.
+
+the simplified approach given in the article thus does not hold in general even for universal algebra objects. it does however hold for the most commonly considered homomorphisms, i.e., the module homomorphisms. therefore, i think that the simplified characterisation should be retained, but as an important special case. i'll make a try at a rewriting in this fashion. joergenb (talk) 16:43, 15 november 2008 (utc)
+article is backwards
+section 5 on  "homomorphisms of relational structures" talks briefly about that without making the point that that's what homomorphisms are.  an algebraic structure is the special case of a relational structure in which every (n+1)-ary relation is an n-ary operation.  a homomorphism of algebraic structures is simply a homomorphism of relational structures in that special case.  a monotone function for example is a homomorphism of preordered sets defined as relational structures with a reflexive transitive binary relation.  a group homomorphism h: g → h is a function such that for every triple (x,y,z) satisfying xy = z in g, the triple (h(x),h(y),h(z)) satisfies the corresponding relation in h.
+
+even though i'm more an algebraist than a logician, i feel it's wrong to characterize homomorphisms as algebraic in nature.  they are essentially relational, and their applicability to algebra is purely a side effect of their applicability to relational structures.  --vaughan pratt (talk) 07:00, 7 september 2009 (utc)
+
+i am not so sure about this. homomorphisms of algebraic structures seem to be by far the most important application, and things like graph homomorphisms are still quite exotic to most people. also in the algebraic case several different notions (such as homomorphisms and strong homomorphisms) coincide, perhaps making this the right case to stress for didactic reasons. 
+that said, perhaps the general definition should be mentioned in the lead. hans adler 11:12, 7 september 2009 (utc)
+
+ basic examples suggestion 
+
+section basic examples starts:
+"the real numbers are a ring, having both addition and multiplication".
+
+this seems to be speaking a little loosely.  a ring comprises a set and a couple of operations (plus other requirements). thus it's surely not appropriate to claim that the real numbers are a ring. how about something more like:
+
+"the combination of the set of real numbers along with operations addition and multiplication qualifies as a ring."
+  gwideman (talk) 18:46, 12 december 2009 (utc)
+this seems to me to be quite unnecessary. by established convention expressions such as "the integers", "the real numbers", etc are used to refer to the algebraic structures in question, not just to the underlying sets of elements. if we were to replace every such use of these terms with more pedantically precise formulations as suggested then a good deal of mathematicla literature would become highly unreadable. besides, in this case there is no ambiguity, as the sentence goes on to say "having both addition and multiplication", making it clear what is meant even to someone unacquainted with the convention i have referred to. jamesbwatson (talk) 14:41, 14 december 2009 (utc)
+
+ f(x) = 3x does not map the naturals to themselves 
+this function maps the naturals onto a subset of the naturals, but it is not onto, or surjective, when it comes to the entire set of naturals.  for example, 7 would not be an element of the range.  is this an important enough issue to deal with?  i don't know, i just thought i'd bring it up.  —preceding unsigned comment added by 71.164.94.128 (talk) 20:38, 21 february 2010 (utc) 
+the function is not supposed to be onto. in fact, that the example is not surjective is a good thing, in that it avoids making a false impression that homomorphisms are onto.—emil j. 13:42, 22 february 2010 (utc)
+
+ choice of examples in "basic examples" section 
+
+the two examples provided illustrate only homorphisms that preserve the operator(s), the real-m2 homomorphism being a 1-1 bijective example that uses only a 1d subspace of the m2 set, and the complex-real example illustrating a many-one mapping.  what would help with immediate intuition is an example in which the operator is replaced (perhaps replacing the not-so-compact and not very helpful first example), e.g. where the mapping function f(x) = exp(x) (over either the reals or complex numbers, or even gx for a finite field), and which maps addition onto multiplication. quondum (talk) 16:37, 13 july 2011 (utc)

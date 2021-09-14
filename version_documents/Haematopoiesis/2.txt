@@ -1,0 +1,61 @@
+thumb|400px|simple diagram that shows the development of different blood cells from hematopoietic stem cell to mature cells
+
+haematopoiesis (from ancient greek: haima blood; poiesis to make) (or hematopoiesis in the united states; sometimes also haemopoiesis or hemopoiesis) is the formation of blood cellular components. all cellular blood components are derived from haematopoietic stem cells. in a healthy adult person, approximately 1011–1012 new blood cells are produced daily in order to maintain steady state levels in the peripheral circulation.
+
+ hematopoietic stem cells (hscs) 
+
+hematopoietic stem cells (hscs) reside in the marrow and have the unique ability to give rise to all of the different mature blood cell types. hscs are self renewing: when they proliferate, at least some of their daughter cells remain as hscs, so the pool of stem cells does not become depleted. the other daughters of hscs (myeloid and lymphoid progenitor cells), however can each commit to any of alternative differentiation pathways that lead to the production of one or more specific types of blood cells, but cannot self renew.
+
+lineages
+thumb|400px|comprehensive diagram that shows the development of different blood cells from hematopoietic stem cell to mature cells
+
+all blood cells are divided into three lineages. 
+ erythroid cells are the oxygen carrying red blood cells. both reticulocytes and erythrocytes are functional and are released into the blood. in fact, a reticulocyte count estimates the rate of erythropoiesis. 
+ lymphoid cells are the cornerstone of the adaptive immune system. they are derived from common lymphoid progenitors. the lymphoid lineage is primarily composed of t-cells and b-cells. (a type of white blood cells)
+ myeloid cells, which include granulocytes, megakaryocytes and macrophages and are derived from common myeloid progenitors, and are involved in such diverse roles as innate immunity, adaptive immunity, and blood clotting.
+
+granulopoiesis (or granulocytopoiesis) is hematopoiesis of granulocytes.
+
+locations
+in developing embryos, blood formation occurs in aggregates of blood cells in the yolk sac, called blood islands. as development progresses, blood formation occurs in the spleen, liver and lymph nodes. when bone marrow develops, it eventually assumes the task of forming most of the blood cells for the entire organism. however, maturation, activation, and some proliferation of lymphoid cells occurs in secondary lymphoid organs (spleen, thymus, and lymph nodes).  in children, hematopoiesis occurs in the marrow of the long bones such as the femur and tibia.  in adults, it occurs mainly in the pelvis, cranium, vertebrae, and sternum. 
+
+extramedullary 
+in some cases, the liver, thymus, and spleen may resume their haematopoietic function, if necessary. this is called extramedullary hematopoiesis. it may cause these organs to increase in size substantially.  semester 4 medical lectures at uppsala university 2008 by leif jansson
+
+other vertebrates
+in some vertebrates, hematopoiesis can occur wherever there is a loose stroma of connective tissue and slow blood supply, such as the gut, spleen, kidney or ovaries.
+
+maturation
+as a stem cell matures it undergoes changes in gene expression that limit the cell types that it can become and moves it closer to a specific cell type. these changes can often be tracked by monitoring the presence of proteins on the surface of the cell. each successive change moves the cell closer to the final cell type and further limits its potential to become a different cell type.  
+
+ determination 
+cell determination appears to be dictated by the location of differentiation.  for instance, the thymus provides an ideal environment for thymocytes to differentiate into a variety of different functional t cells.  for the stem cells and other undifferentiated blood cells in the bone marrow, the determination is generally explained by the determinism theory of hematopoiesis, saying that colony stimulating factors and other factors of the hematopoietic microenvironment determine the cells to follow a certain path of cell differentiation. this is the classical way of describing hematopoiesis. in fact, however, it is not really true. the ability of the bone marrow to regulate the quantity of different cell types to be produced is more accurately explained by a stochastic theory: undifferentiated blood cells are determined to specific cell types by randomness. the hematopoietic microenvironment avails some of the cells to survive and some, on the other hand, to perform apoptosis. by regulating this balance between different cell types, the bone marrow can alter the quantity of different cells to ultimately be produced.
+
+ haematopoietic growth factors 
+[[image:hematopoiesis (human) cytokines.jpg|thumb|500px|diagram including some of the important cytokines that determine which type of blood cell will be created.
+scf= stem cell factor
+tpo= thrombopoietin
+il= interleukin
+gm-csf= granulocyte macrophage-colony stimulating factor
+epo= erythropoietin
+m-csf= macrophage-colony stimulating factor
+g-csf= granulocyte-colony stimulating factor
+sdf-1= stromal cell-derived factor-1
+flt-3 ligand= fms-like tyrosine kinase 3 ligand
+tnf-a = tumor necrosis factor-alpha
+tgfβ = transforming growth factor beta
+]]
+red and white blood cell production is regulated with great precision in healthy humans, and the production of granulocytes is rapidly increased during infection. the proliferation and self-renewal of these cells depend on stem cell factor (scf).
+glycoprotein growth factors regulate the proliferation and maturation of the cells that enter the blood from the marrow, and cause cells in one or more committed cell lines to proliferate and mature.
+three more factors which stimulate the production of committed stem cells are called colony-stimulating factors (csfs) and include granulocyte-macrophage csf (gm-csf), granulocyte csf (g-csf) and macrophage csf (m-csf).
+these stimulate a lot of granulocyte formation. they are active on either progenitor cells or end product cells.
+
+erythropoietin is required for a myeloid progenitor cell to become an erythrocyte. molecular cell biology. lodish, harvey f. 5. ed. : - new york : w. h. freeman and co., 2003, 973 s. b ill. isbn 0-7167-4366-3 on the other hand, thrombopoietin makes myeloid progenitor cells differentiate to megakaryocytes (thrombocyte-forming cells).
+examples of cytokines and the blood cells they give rise to, is shown in the picture to the right.
+
+ transcription factors 
+growth factors initiate signal transduction pathways, altering transcription factors, that, in turn activate genes that determine the differentiation of blood cells.
+
+the early committed progenitors express low levels of transcription factors that may commit them to discrete cell lineages. which cell lineage is selected for differentiation may depend both on chance and on the external signals received by progenitor cells.
+several transcription factors have been isolated that regulate differentiation along the major cell lineages. for instance, pu.1 commits cells to the myeloid lineage whereas gata-1 has an essential role in erythropoietic and megakaryocytic differentiation.  the ikaros, aiolos and helios transcription factors play a major role in lymphoid development.
+

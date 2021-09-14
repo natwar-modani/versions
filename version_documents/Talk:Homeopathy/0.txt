@@ -1,0 +1,29 @@
+previous discussion archive
+previous discussions are archived here.
+talk:homeopathy/archive 1
+talk:homeopathy/archive 2
+
+edits of feb 6 2005 
+i've made a pass through this article attempting to correct some errors, copyedit and remove some cheap shots. no doubt i've managed to annoy everyone at all at once. :) i still think the article needs a lot more work. in particular the criticism of homeopathy seems very badly organized, strident and unnecessarily verbose. i may take another shot at it if i have the time. --lee hunter 20:03, 6 feb 2005 (utc)
+a further note. i just noticed the reading list at the end looks like another cheap shot in that these books aren't about homeopathy per se. i wouldn't mind a book which was critiquing homeopathy from any viewpoint, but listing booka about magical medicine and superstition is just a slippery way of commenting on the subject rather than being actually helpful and informative. --lee hunter 20:39, 6 feb 2005 (utc)
+
+still some missing info
+
+i must say i quite like the article as it is now, but i'm missing some points, some which have come up in previous discussions. 
+1) someone inquired how homeopathic remedies can be in the form of pills and ointments when they are prepared as liquid (with water). and how the 'memory' of water is related to that;
+2) (classical) homeopaths seem to stress very much that a remedy must be choosen that matches not only the symptoms of the patient, but also the personality type (pulsatilla, sulfur type etc.). there is no mention of that in the article, besides that hahnemann spent a lot of time talking to his patients. and there is a difference in that respect between classical homeopathy and otc homeopathic remedies;
+3) the 'memory' of water is mentioned, but afaik, there are also plenty remedies prepared with alcohol in stead of water. i'd like to see something about that in the article and the relation to the all important 'memory' of water.
+maybe someone could add information about these points to the article.
+
+reorganization
+
+i don’t have any big problems with the content or npov of this article, but i think the organization is a mess. it's obvious that it grew by bits and pieces, with opposing viewpoints taking their shots wherever they had an opportunity. the worst are the sections dealing with the controversy between homeopathy and mainstream science. i propose to reorganize the current content in the following outline. first a section the appeal of homeopathy to answer the question why its followers believe in homeopathy, without discussion of whether that makes sense. then a section the skeptical point of view, to answer the question of why skeptical scientists do not believe in it, that is, what is wrong with the reasoning of the proponents and what they haven't considered at all. it is probably necessary to then have a rebuttal section, where the response of the proponents to the new arguments of the skeptics is reported. to avoid pro and con ad infinitum, this third section would report the skeptics rebuttal of the rebuttal as well. there is probably a need for a final section on some selected scientific studies to make some specific comments, particularly on the meta-studies and the "challenges". i will start doing this as time permits. if anyone has helpful suggestions or helpful criticisms of the general idea, please discuss it here before i make too many changes. (after that we can clean up the organization of the rest of the article.) art carlson 09:01, 2005 feb 24 (utc)
+looks like a great start. here are some comments. i would like to see the 'challenges' heading removed with the james randi bit moved to the skeptics section as a secondary subhead. the 'zetectic' (or whatever it's called) challenge should be deleted. the original version of that bit was almost completely incoherent. i fixed it up a little but i still think it is too vague to be useful. the national council against health fraud section should be deleted or summarized. i don't think a long rant by an organization whose only purpose is to dump vitriol on anything outside of commercial mainstream medicine should be given that much space. --lee hunter 14:36, 24 feb 2005 (utc)
+
+agreed. done. by the way, i notice that the french version has a clean structure with a completely different organization. art carlson 16:16, 2005 feb 24 (utc)
+
+the recent edits seem definitely pov.  there are different ways to organize the material, but just looking at the recent edits i note two points:
+ what is the basis for the assertion that homeopathy's popularity declined because of "assimulation [sic] of some of the ideas by orthodox medicine"?  what ideas were assimilated?
+ the deprecation of the national council against health fraud is unjustified.  yes, that organization has a pov about homeopathy.  that doesn't mean that it shouldn't be cited as the source for information that came from its report.  the article cites sources that are obviously pro-homeopathy, too.  wikipedia's npov policy doesn't mean refusing to cite or link to pov sources.
+ with the skeptical material being moved further down in the article, the presentation is tilted.  i suggest that in the lead paragraph, after the statement that it was published in 1796, we add: "the scientific establishment rejects homeopathy as unproven."
+i haven't had a chance to look over this reorganization in detail, so there may be other problems that need to be addressed. jamesmlane 01:54, 9 mar 2005 (utc)

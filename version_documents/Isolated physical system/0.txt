@@ -1,0 +1,7 @@
+a physical system is said to be isolated if it does not interact with anything. isolated physical systems follow a number of conservation laws.
+
+as a concrete example, consider the following situation. suppose you are standing still on the perfectly icy (i.e., no friction) surface of a lake, some distance away from the land. in such a situation, for all practical purposes you are an isolated physical system (a frightening thing indeed!). among other consequences of this unfortunate predicament, your momentum (thus velocity) cannot change, whatever the actions you take: run, shake arms, etc. so physics says you will stay there forever.
+
+actually, this is only an approximation. a way out would be to throw your clothes away in one direction. then you will be propelled in the opposite direction. although the system comprising you and your clothes will globally remain at rest (i.e. its center of mass remains where you originally were), you will eventually reach the land. so you can escape. but not with all your clothes.
+
+truly isolated physical systems do not exist in reality (well, maybe; if they did, how would we know?) however the concept of an isolated system can serve as a useful model approximating many real-world situations.

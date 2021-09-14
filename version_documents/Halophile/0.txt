@@ -1,0 +1,8 @@
+halophiles are extremophiles that thrive in environments with very high concentrations of salt (at least 0.2 meters).  the name comes from greek for "salt-loving".
+
+of particular note are the extreme halophiles or halobacteria, a group of archaea, which require at least 2 meters of salt and are usually found in saturated solutions.  these are the primary inhabitants of salt lakes and inland seas, such as the dead sea, where they tint the sediments bright colors.
+
+among the adaptations that halophiles employ to survive in such environments are proteins designed to function in high ionic strength solution and maintaining high concentrations of inert solutes within their cytoplasm to reduce osmotic pressure. most are unable to survive outside their high-salt native environment.
+
+most are photosynthetic autotrophs. the photosynthesizers in this category are purple because instead of using chlorophyll to photosynthesize, they use a similar pigment called bacteriorhodopsin that uses all light except for purple light, making the cells appear purple. 
+

@@ -1,0 +1,38 @@
+de:immanuel kanteo:kantiopl:immanuel kant
+immanuel kant (1724 - 1804) was a german philosopher, generally regarded as the last major philosopher of the early modern period and, on anyone's account, one of history's most influential thinkers.  kant is most famous for his view--called transcendental idealism--that we bring innate forms and concepts to the raw experience of the world, which otherwise would be completely unknowable.  kant's philosophy of nature and human nature is one of the most important historical sources of the modern conceptual relativism that dominated the intellectual life of the 20th century--though it is likely that kant would reject relativism in most of its more radical modern forms.  kant is also well-known and very influential for his moral philosophy.
+
+image:kant.png
+immanuel kant
+
+life
+
+kant spent most of his life in königsberg (now kaliningrad).  he spent much of his youth as a solid but not spectacular student, living more off playing pool than his writings.  his revolutionary pieces were written very late in life after a long period of silence.
+
+kant's philosophy in general
+
+though he adopted the idea of a critical philosophy, the primary purpose of which was to "critique" or come to grips with the limitations of our mental capacities, kant was one of the greatest of system builders, pursuing the idea of the critique through studies of metaphysics, ethics, and aesthetics.
+
+one famous citation, "the starry heavens above me and the moral law within me", sums up his efforts: he wanted to explain in one systematic theory, those two areas or realms. isaac newton had developed a theory of physics that kant wanted to build his philosophy upon. this theory involved the assumpton of natural forces that humans cannot sense, but are used to explain movement of physical bodies.
+
+kant's metaphysics and epistemology
+
+kant's most widely read and most influential book is critique of pure reason (1781), which proceeds from a remarkably simple thought experiment. he said, try to imagine something that exists in no time and has no extent in space. the human mind cannot produce such an idea--time and space are fundamental forms of perception that exist as innate structures of the mind. nothing can be perceived except through these forms, and the limits of physics are the limits of the fundamental structure of the mind. on kant's view, therefore, there are something like innate ideas--a priori knowledge of some things (space and time)--since the mind must possess these catagories in order to be able to understand the buzzing mass of raw, uninterpreted sensory experience which presents itself to our consciousness.  secondly, it removes the actual world (which kant called the noumenal world, or noumena) from the arena of human perception--since everything we perceive is filtered through the forms of space and time we can never really "know" the real world. 
+
+kant had wanted to discuss metaphysical systems but discovered "the scandal of philosophy"--you cannot decide what the proper terms for a metaphysical system are until you have defined the field, and you cannot define the field until you have defined the limit of the field of physics first. 'physics' in this sense means, roughly, the discussion of the perceptible world.
+
+kant's moral philosophy
+
+kant develops his moral philosophy in three works:  fundamental principles of the metaphysic of morals (1785),  critique of practical reason (1788) and metaphysics of morals (1798).  under this heading kant is probably best known for his theory about a single, general moral obligation that explains all other moral obligations we have: the categorical imperative.  a categorical imperative, generally speaking, is an unconditional obligation, or an obligation that we have regardless of our will or desires.  a hypothetical imperative, by contrast, is a conditional obligation, one that we have only if we have some desire or other: if one wants x, one ought to do y.  
+
+our moral duties can be derived from the categorical imperative.  the categorical imperative can be formulated in three ways, which he believed to be roughly equivalent (although many commentators do not).  the first formulation (the formula of universal law) says: "act only in accordance with that maxim through which you can at the same time will that it become a universal law."  the second formulation (the formula of humanity) says: "act that you use humanity, whether in your own person or in the person of any other, always at the same time as an end, never merely as a means."  the third formulation (the formula of autonomy) is a synthesis of the previous two.  it says that we should so act that we may think of ourselves as legislating universal laws through our maxims.  we may think of ourselves as such autonomous legislators only insofar as we follow our own laws. (see categorical imperative.)
+
+the theory that we have universal duties, which hold despite one's subjective (and thus, merely hypothetical) imperatives that seek to fulfill one's own inclinations or happiness instead of these duties, is known as deontological ethics.  kant is often cited as the most important source of this strand of ethical theory (in particular, of the theory of conduct, also known as the theory of obligation).
+
+further reading
+
+the amount of literature on kant is ever-growing.  often, the best places to start are the introductions of his translated works.  modern translations usually suggest a variety of secondary literature, the purpose of which is both to explain and to interpret kant's philosophy.  for an example, see christine korsgaard's introduction to mary gregor's translation of the groundwork, which not only provides a concise overview of kant's moral philosophy, but also places his ethics within the framework of the larger critical system.
+
+one of the best pieces of secondary literature on kant's moral philosophy is a work by korsgaard called "creating the kingdom of ends".  in this collection of essays, korsgaard attempts to organize kant's ethics into a coherent interpretation that may respond adequately to the modern defenders of ethical systems contrary with kant's, such as aristotle's, hume's, and hegel's.
+
+another good starting point of investigation is john rawls' book of published lecture notes, titled "lectures on the history of moral philosophy".  the work is particularly useful in its investigation of kant's moral philosophy within the vicissitudes of ethical systems from hume to leibniz to hegel.  two other important scholars of kant are henry allison and onora o'neill.  both authors have written books about kant's moral philosophy.
+

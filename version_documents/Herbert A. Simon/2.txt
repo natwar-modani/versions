@@ -1,0 +1,34 @@
+herbert simon (june 15, 1916 - february 9, 2001) was a researcher in the fields of cognitive psychology, computer science, economics and philosophy 
+(sometimes described as a polymath). 
+
+he was awarded the acm's a.m. turing award along with allen newell in 1975 for making "basic contributions to artificial intelligence, the psychology of human cognition, and list processing." in 1978 he was awarded the bank of sweden prize in economic sciences in memory of alfred nobel "for his pioneering research into the decision-making process within economic organizations". he invented the terms bounded rationality and satisficing.
+
+he was born in milwaukee, wisconsin in 1916.  he received a bachelor's degree in 1936 from the university of chicago. after earning a ph.d. in political science from the university of chicago in 1942, he had positions at berkeley and the illinois institute of technology.  from 1949 until his death, simon served on the faculty of carnegie mellon university, pioneering the quantitative modeling of human behavior through research in a variety of fields.  
+
+simon was a pioneer in the field of artificial intelligence, creating with allen newell the logic theory machine (1956) and the general problem solver (gps) (1957) programs.  gps was possibly the first method of separating problem solving strategy from information about particular problems. both programs were developed using the information processing language (1956) developed by newell, cliff shaw and simon. 
+
+he was awarded the acm's a.m. turing award along with allen newell in 1975 for "in joint scientific efforts extending over twenty years, initially in collaboration with j. c. shaw at the rand corporation, and subsequentially with numerous faculty and student colleagues at carnegie-mellon university, they have made basic contributions to artificial intelligence, the psychology of human cognition, and list processing."
+
+while living in pittsburgh, pa, he advised the citizenry on various issues including the use of public funds to build stadiums and the method of raising tax revenue. simon emphasized the usefulness of the land tax, reflecting the early influence of henry george on his economic thought.
+
+selected bibliography
+models of man 1957
+models of discovery 1977
+models of thought 1979, 1989
+models of bounded rationality 1982
+models of my life 1991
+
+external link
+herbert simon's departmental web pages at carnegie mellon university as they were at the time of his death in 2001
+
+simon, herbert
+simon, herbert
+simon, herbert
+simon, herbert
+simon, herbert
+
+de:herbert simon
+et:herbert simon
+fr:herbert simon
+nl:herbert simon
+ja:ハーバート・サイモン

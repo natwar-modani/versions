@@ -1,0 +1,43 @@
+remark on a look at modern human origins reference:
+
+isn't there a better site available? i would like to see a site referenced which is more explicit about the various fossiles found. not just a list, but as well a tree diagram with time info. -- hjh
+
+another site is http://www.talkorigins.org/.  i'm not sure if it meets your requirements.  i think there's no general agreement at present on how to draw such a tree -- hagedis
+
+thanks. the site is nicely done and contains useful information. however it is not the thing i'm looking for. -- hjh
+
+i changed "dominant" to "among the most generalized."  if anything is "dominant," i think it is bacteria, not us!  but i take issue with the notion of "dominant," i suspect it is a species-centric term.  darwinian models of evolution lead away from hierarchies like "the great chain of being," which this echoes. -- sr
+
+i agree with you, but i don't know what "most generalized" means. and i think one intent of "dominant" was "top of all food chains". certainly we are the most powerful and advanced species by some measures, or the most intelligent. surely that should be made clear. --dmerrill
+
+ "most generalized" means adapted to the widest variety of environments; the relationship between the organism and its environment is a fundamental issue in darwinian models of evolution.  and as i said, darwinian approaches (which certainly are "dominant" today!) really are anti-hierarchical.  the notion of the "food chain" is itself a remnant of the 19th century victorian myth of the "great chain of being," and really anti-ecological (since ecology is a complex interactive and dynamic system that does not lend itself to linear models (except in very very local senses).  there is no scientific basis for saying one species is more "advanced" than another -- there are always differences, but any species that survives does so because it is adapted to its niche; there are many niches in which we cannot survive (i have even heard that a cockroach can survive a nuclear explosion; maybe they are more advanced than us?)  we are definitely not at the top of the food chain -- when we get sick (well, if it is because of a parasite, virus, or bacteria) we are being eaten.  i do not think there is an objective standard by which we can say we are the "most intelligent" -- intelligence is at best a species-specific concept (when we say that another species is very intelligent, we are really saying that its intelligence approximates our own); some people have even questioned whether there is a universal criteria for intelligence within our own species (see the section on race and intelligence in race).  are we the most powerful?  perhaps -- depending on how you measure it.  we certainly are destructive and have managed to kill a lot of other species off.  but i suspect that we will become extinct long before all other species become extinct.  in the meantime, although we have wrecked havoc with this planet, we are still pretty afraid of some of those critters "higher" up on the food chain, like the bubonic plague or even influenza.  so personally, i will wait and see before asserting that we are th most powerful. -- sr
+
+your term "most generalized" is not self-explanatory however. and i'm not even sure that we are adapted to the widest range of environments. how about the cockroaches, or soil bacteria? why not simply say "inhabits almost all landmasses on earth and has modified environments extensively"? --axelboldt
+
+good points, all. i tried to npov the text with your criticism in mind. removed "food chain" reference entirely, since as you point out it is really more of a "food cycle". we all get eaten sooner or later! --dmerrill
+
+ i put in a definition of "generalized" -- i hope it is clear and sensible.  i also appreciate dmerrill's modifications.  personally, i do not think there is a need for "in terms of population size or diversity of species, smaller and simpler animals such as bacteria and insects dominate the earth's species, however." -- although it certainly gives us something to think about.  my point really was to question the whole validity of the word "dominant."  i won't cut the sentence myself because i do not want to be too nit-picky.  personally i would rather excise the word dominant, perhaps pursue the thread in this section.  but if others believe that the word belongs in the article, i think it requires some discussion.  so i included a few more sentences.  i worry about npov issues either way, and hope others can improve upon this.  one good thing about my addition, i think, is that if provided an opportunity for more links, because it is in those other articles that a full discussion of "dominant" really belongs. -- sr
+
+i think one can make a good argument that pointing out the general belief that we are dominant (and i do think it is the, ahem, dominant belief among people) gives the opportunity to discuss the less homo-centric findings of science. you can't have one without the other. i think we can still improve the way it's all worded, though. --dmerrill
+
+ sure -- a point well-taken.  perhaps as others contribute we can eventually create a subsection within the article? -- sr
+
+i started a section along those lines, mentioning the general belief followed by scientific viewpoints. more scientific viewpoints need to be added. toolmaking is certainly an important one, so i added the bit i know about it. i'm not a biologist, so i can only do my best. please correct anything wrong. --dmerrill
+
+ i think your reorganization is great -- i just put some provisional section headings in.  my sense is that tool-use and language are closely related; one physical anthropologist has argued that they both express our capacity for symbolic thought, which is what distinguishes us from other animals.  if i can figure out a clear way to express this without being too partisan, i will work it in.  anyway, i like your recent revision very much. -- sr
+
+i also expanded the second half of the article to provide more detail.  i also think most anthropologists agree that although hominenes diverged from australopithecines, and neanderthals diverged from modern humans, h. habilus, erectus, and sapiens all form one lineage.  also, all three species used tools, not just h. sapiens.  i think this addition can be edited a bit to make it more elegant (also i need to fix some of the text) --sr
+
+i added a few comments about the whole question of "distinguishing characteristic: it's not a question normally asked about a species. (i suspect--and left this out because i'm not sure it's npov) that the distinguishing characteristic of h. sapiens is that we're the only species that asks that question.)
+
+also, those molecular genetic numbers seem low--i've seen 2% for human/chimp difference. anyone have a cite? vicki rosenzweig
+
+i got these numbers from a physical anthropology textbook that is over ten years old.  i can find the proper citation if you like, but the real point is that the figures might be out of date, given the nature of scientific research.  so if anyone has anything authoriative from the last five years, put them in!  sr
+
+another clarification i'd like to see about that figure is whether the difference is measured between the entire chromosomal sequences, or just the gene-encoding regions? non-coding regions tend to mutate faster than coding regions, since mutations there are usually neutral. bryan derksen
+
+i modified the section on physical traits with two ends in mind -- to replace the language of "distinguishing features" with "evolutionary trends," and to refine the list (e.g. adding canine reduction, making a point about brain structure).  also, i pointed out that height and weight are heavily influenced by environment and culture (which makes them pretty hard to use to "define" a species).  i also cut the word "designed" (e.g. bipedal locomotion was designed to permit tool-use) as the general tenor of the article is scientific rather than creationist.
+
+i also did some general tweaking to make the article read better.  sr
+
+unless somebody can give me a very good reason not to, i am going to move this article to simply human so that it conforms to our well established naming conventions on the use of english and simple titles of articles. homo sapiens can be introduced in the first line and then used throughout if need be. --maveric149

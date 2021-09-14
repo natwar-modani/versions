@@ -1,0 +1,91 @@
+<div style="float: right; margin-top: 0px; background-color: #white; border: 0px solid #black; padding-left: 40px; width:210px; clear: both;">
+<table border="1" cellpadding="2" cellspacing="0" align="right" width="200px">
+hmmwv fording a stream 
+<td colspan="2" cellspacing="0" cellpadding="2">general characteristics (m998)
+</tr> 
+manufacturer:am general
+length:15 ft
+width:7 ft
+height:6 ft, reducable to 4.5
+ground clearance:16 in
+mass:5200 to 5900 lbs
+speed:over 70 mph
+range:350 miles highway
+crew:2–4 men
+</table>
+</div>
+this article refers to the military hmmwv, not the civilian hummer sold by general motors
+
+the m998 high mobility multipurpose wheeled vehicle (hmmwv or humvee) is a highly durable military motor vehicle. it has largely supplanted the role formerly served by the jeep and other light trucks with the united states military, and is also used by a number of other countries and organizations.
+
+ features 
+there are at least 17 variants of the hmmwv in service with the united states armed forces. hmmwv serve as cargo/troop carriers, automatic weapons platforms, ambulances (four litter patients or eight ambulatory patients), m220 tow missile carriers, m119 howitzer prime movers, m-1097 avenger surface-to-air missile platforms, mrq-12 direct air support vehicles, s250 shelter carriers among many others. it is capable of fording 2.5 ft normally, or 5 ft with the deep-water fording kit installed.
+
+optional equipment includes a winch (maximum load capacity 6000 lb. (2700 kg)), and supplemental armor. the m1025 and m1043/m1044 armament carriers provide mounting and firing capabilities for the mk19 grenade launcher, the m2 machine gun, the m240g machine gun and m249 saw. the newly introduced m1114 "up-armored" hmmwv also features a similar weapons mount.
+
+ history 
+[[image:hmmwv-036.jpg|thumb|a hmmwv firing a tow missile]]
+
+in the 1970s, the united states army concluded that the militarized civilian trucks in use no longer satisfied their requirements. in 1977, lamborghini developed the cheetah model to attempt to meet army contract specifications. in 1979, the army drafted final specifications for a high mobility multipurpose wheeled vehicle, or hmmwv. in july of that year, am general began preliminary design work, and less than a year later, the first prototype, the m998, was in testing. 
+
+in june 1981, the army awarded am general a contract for development of several more prototype vehicles to be delivered to the u.s. government for another series of tests, and the company was later awarded the initial production contract for 55,000 hmmwvs to be delivered in 1985. hmmwvs first saw combat in the first gulf war.
+thumb|a us military humvee deployed in new orleans after hurricane katrina
+they have become the backbone of u.s. forces around the world. over 10,000 were used during operation iraqi freedom by u.s. forces as well as some other countries during the 2003 invasion of iraq.
+
+one us humvee was captured by the yugoslav army during the kosovo war and is currently on display in front of the military museum building on kalemegdan fortress park, belgrade.
+
+ usage in iraq and political implications 
+[[image:destroyed humvee.jpg|thumb|a destroyed humvee following an rpg attack]]
+thumb|humvee with bolt-on armor kit
+
+the hmmwv has proven very vulnerable to light infantry weapons as far back as the somalia intervention; in its defense, it was never designed to offer such protection. with the rise of asymmetric warfare and low-intensity conflicts, the hmmwv has found itself thrust into urban combat roles it was not originally intended for. although the large variety of hmmwv types is a testament to the vehicle's adaptability to changing mission conditions, it was never designed to be an armored personnel carrier (apc).
+
+as it is not an armored vehicle, hmmwvs are very vulnerable to rocket propelled grenades and offer the troops within little protection from small arms fire. although there are several armor kits available for the vehicle which afford it greater protection from small-arms fire, these were not provided in great numbers to american forces in iraq prior to the invasion. as a result of this, american soldiers and marines often improvise extra armor layers with scrap materials (also known as "hillbilly armor") to improve the safety of the hmmwv. while "hardening" or "up-armoring" their vehicles with sandbags, metal, and plywood does make the vehicles arguably safer, it also slows them down. it has also been argued that hardening simply creates more shrapnel when attacked with an rpg or improvised explosive device. this extra hardening further hampered the ability of the m998 and m1025 due to the addition of excess weight which overloaded the suspension and drivetrain components of these hmmwvs. performance issues due to the high center of gravity and extra weight of up-armoring kits increase the risk of sway and rollover. unlike similar-size civilian cargo and tow trucks, which typically have dual rear wheels to reduce sway, the hmmwv has single rear wheels. the independent rear suspension coupled with the body design may preclude "dually" fitment which is the standard for solid-axle trucks of that weight range.
+
+in response to the perceived vulnerability of hmmwvs operating in iraq, the u.s. department of defense contracted am general to make the m1114 uparmored hmmwv. the m1114 has been in limited production since 1996 and had seen limited use in the balkans before deployment to the middle east. this design has a larger, more powerful engine with a turbocharger, air conditioning and a strengthened suspension and boasts a fully armored passenger area protected by hardened steel and bullet-proof glass. with the increase in direct attacks and guerilla warfare in iraq am general has diverted the majority of its manufacturing power to producing these vehicles.
+
+in december 2004, secretary of defense donald rumsfeld came under criticism from u.s. soldiers and their families for not providing better equipped hmmwv . rumsfeld pointed out that, prior to the war, armor kits were produced only in small numbers per year. as the role of american forces in iraq changed from fighting the iraqi army to suppressing the guerrilla insurgency, armor kits were being manufactured as fast as additional production facilities could be brought online. armor aggravates the severe inherent performance limitations of 
+a light truck with independent suspension, but it does offer improved protection. other countries experienced in urban war such as russia and israel rely on tracked armored personnel carriers, but the wheeled hmmwv fits current anti-track sentiment among army senior leadership as exemplified by the stryker and other wheeled systems.
+
+replacement
+the us government is seeking a replacement for the am general truck, and the u.s. army's tank and automotive command is currently refereeing a prototype competition. navistar international and lockheed martin are participating, while am general has not been selected. the navistar entry is based on their international cxt line, and this truck has already been prototyped to replace the hmmwv for non-military use by the u.s. department of homeland security, department of defense, and border patrol.
+
+versions
+thumb| 
+thumb|humvee with a communications dish
+
+a partial listing of u.s. versions:
+m707 hmmwv 
+m966 hmmwv tow armored 
+m996 mini-ambulance, armored 
+m997 maxi-ambulance, armored 
+m998 cargo/troop 
+m998 hmmwv avenger 
+m1025 armament carrier, armored 
+m1026 armament carrier, armored w/w 
+m1035 soft-top ambulance 
+m1036 tow armored w/w 
+m1037 s-250 shelter carrier 
+m1038 cargo/troop carrier w/w 
+m1042 s-250 shelter carrier w/w 
+m1043 armament carrier, up-armored 
+m1044 armament carrier, up-armored w/w 
+m1045 tow up-armored armor 
+m1046 tow up-armored armor w/w 
+m1069 tractor for m119 105-mm gun 
+m1097 heavy 
+m1097 heavy hmmwv avenger 
+m1109 up-armored armament carrier 
+m1113 expanded capacity 
+m1114 up-armored armament carrier 
+m1116 up-armored hmmwv 
+m1123 heavy 
+m1121 tow armored 
+m1145 up-armored hmmwv
+
+civilian hmmwv's
+the hummer h1 is a civilian copy of the hmmwv.
+
+market value of the hmmwv
+new hmmwv (standard edition): ~us$56,400
+

@@ -1,0 +1,7 @@
+hmmm.  this is hardly neutral point of view.  the efficacy of psychotherapy is very much doubted by those who use behaviourism or cognitive psychology as the basis for their theraputic work, and freud himself gave up on hypnosis as a useful method for psychotherapy.  also, the articles claims for "success rates" is unsourced, and probably ignores the issues of the placebo effect, the possibility the patients would have gotten better without treatment, doesn't define "successful treatment", and doesn't compare the success rate with alternative treatment methods. --robert merkel
+
+hence, i removed this sentence from the main article:
+
+hypnotherapy is very successful with motivated clients that are mentally well (that is, they have a firm grip of reality), and with this specific group of clients, it often has a success rate of roughly 65-70%, according to some practitioners.  
+
+i should add that the article does contain quite a lot of useful information. --robert merkel

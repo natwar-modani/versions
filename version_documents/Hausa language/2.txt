@@ -1,0 +1,40 @@
+de:hausa
+fr:haoussa
+nl:hausa (volk)
+ja:ハウサ語
+pl:język hausa
+
+hausa is the chadic language with the largest number of speakers, spoken as a first language by about 24 million people, and as a second language by about 15 million more. 
+
+classification
+hausa belongs to the west chadic languages subgroup of the chadic languages group, which in turn is part of the afro-asiatic language family.
+
+geographic distribution
+native speakers of hausa are mostly to be found in the african country of niger and in the north of nigeria, but the language is widely used as a lingua franca(similar to wolof in senegal) in a much larger swathe of west africa, particularly amongst muslims. 
+
+official status
+hausa is an official language in the north of nigeria.
+
+dialects
+eastern hausa dialects include kano, katagum and hadejiya. western hausa dialects include sokoto, katsina, gobirawa, adarawa, kebbawa and zamfarawa. northern hausa dialects include arewa and arawa.
+
+derived languages
+barikanchi is a pidgin used in the military.
+
+sounds
+tones
+hausa is a tone language. each of its five vowels a,e,i,o and u may have low tone, high tone and falling tone.
+
+for representing tones the french accented vowels may be used:
+
+à è ì ò ù  (low tone)
+
+á é í ó ú   (high tone)
+
+â ê î ô û (falling tone)
+
+in general writing tone is often not marked. however it is needed for disambiguation in some cases.
+
+writing system
+hausa has had a written form for more than 200 years, at first with an arabic script, but this has largely been superseded by a latin alphabet which was introduced at the beginning of the 20th century. there are three additional consonants which are added to the roman alphabet: ɓ, ɗ and ƙ. 
+

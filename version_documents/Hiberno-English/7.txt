@@ -1,0 +1,110 @@
+hiberno-english is the form of the english language used in ireland. also called anglo-irish or irish english.
+
+the basis for the type of english spoken in ireland is said to be a mixture of the language of shakespeare and the irish of the gaelic earls, as modern irish english does bear the marks of two major historical events. first we have the various types of english and scots that were brought to ireland during the english and scottish colonisation in the sixteenth and seventeenth centuries. secondly there is an early hybrid jargon which arose as a result of the contact between the irish and english languages. the linguistic interference of the irish language on the english spoken in ireland is most clearly seen in those areas where irish is still spoken as a mother tongue or where it has survived until recently. however, this merging is minimal (but still absolutely in evidence) in dublin where cultural influences (news media, music, television) from the us and the uk have been more readily assimilated, due to exposure in the modern age. 
+
+the standard spelling and grammar are the same as british english, but especially in the spoken language, there are some unique characteristics, due to the influence of irish on pronunciation.
+
+ grammar derived from irish 
+
+like other celtic languages, irish has no words for "yes" and "no", instead the verb in a question is repeated in an answer.  people in rural ireland have a tendency to use this pattern of avoiding "yes" or "no" when speaking english:
+ "are you finished debugging that software?"  "i am."
+ "is your mobile charged?" "it is."
+
+irish verbs have two present tenses, one indicating what is occurring at this instant and another used for continuous actions. for example, 'you are now' is tá tú anois (literally 'are you now'), but 'you are every day' is bíonn tú gach lá (literally 'be you each day').
+
+rural irish speakers of english use a "does be/do be" (or "bes", although less frequently) construction to indicate this latter continuous present:
+ "he do(es) be coding every day."
+ "they do be talking on their mobiles a lot."
+ "they bes doing a lot of work at school." (rare)
+
+irish has no pluperfect tense: instead the idiom for "i had done x when i did y" is "i was after doing x when i did y."  this can most commonly be heard used by dubliners.
+ "why did you hit him?" "he was after insulting me."
+in hiberno-english this construction is nowadays often used for the perfect tense as well as the pluperfect:
+ "i'm after rebooting the computer."
+alternatively, hiberno-english can follow the syntax of the irish perfect :
+ "i have the computer rebooted."
+
+mirroring the irish language and almost every other european language, the plural 'you' is distinguished from the singular, normally by using the otherwise archaic english word 'ye' (the word 'yous' also occurs, but primarily only in dublin dialect - an example of the dublin accent moving away from standard hiberno-english. it's also very common in belfast.):
+ "did ye all go to see it?"
+
+in rural areas the reflexive version of pronouns is often used for emphasis or to refer indirectly to a particular person, etc., according to context: 
+ "was it all of ye or just yourself?"
+ "'tis herself that's coming now." is í féin atá ag teacht anois.
+- where 'herself' might, for example, be the boss or the woman of the house. note also the indirectness of this construction relative to, e.g. 'she's coming now' and the use of "'tis" rather than the more standard contraction "it's".
+
+it is also common to end sentences with 'no?' or 'yeah?'
+
+ "he's not coming today, no?" níl sé ag teacht inniú, nach bhfuil?
+ "the bank's closed now, yeah?" tá an banc dúnta anois, an bhfuil?
+
+irish english also always uses the "light l" sound, and the pronunciation of the letter 'h' as 'haitch' is standard.
+
+when describing something, rural hiberno-english speakers may describe this as something that is 'in it', which can also be translated into english as 'so it is', or for comical effect 'that it be'.
+
+ the day that is in it. an lá atá ann.
+ that's john, so it is. is seán é, atá ann.
+
+it ought to be noted that this construction is generally limited to the northern half of the country. the isn't just limited to the verb 'to be': it's also used with 'to have' when used as an auxiliary, and with other verbs the verb 'to do' is used. this is most commonly used for intensification.
+
+ this wintel box suck, so it does.
+ i've finished debugging, so i have.
+
+a person or place may be described as being 'where it's at', as this is the translation of the verb to have: 
+
+ that's where it's at. sin é an ait atá sé aige.
+
+similarly, somebody who can speak a language, 'has' a language - a very rural construction.
+
+ she doesn't have irish. níl gaeilge aici.
+
+another idiom is this thing or that thing described as 'this man here' or 'that man there', which also features in newfoundland english in canada. 
+
+this man here. an fear seo.
+that man there. an fear sin.
+
+the reported clause is also often preserved in its direct form, e.g. 'john asked me to buy a loaf of bread' becomes 'john asked me would i buy a loaf of bread'.
+
+ preservation of older english usage 
+
+in old-fashioned usage, "it is" can be freely abbreviated "'tis", even as a standalone sentence.  this also allows the double abbreviation "'tisn't", for "it is not".
+
+the word "ye" or "yous", otherwise archaic, is still used in place of "you" for the second person plural.
+ 
+the verb "mitch" is common in ireland indicating playing truant from school.  this word appears in shakespeare, but is seldom heard these days in british english, although pockets of usage persist in some areas (notably south wales, devon, and cornwall).
+
+"mathematics" (and maybe other -ics words?) is, in old-fashioned usage, treated as a plural noun, taking a plural verb and substituted with a plural pronoun.
+ my son thinks mathematics are interesting, and he's good at them.
+not a single person in ireland would use the above phrase, opting for the abbreviation "maths" and treating it as a singluar noun.
+ my son thinks maths is interesting, and he's good at it.
+
+for influence from scotland see ulster scots.
+
+turns of phrase
+
+"am not" is abbreviated amn't, by the uneducated, by analogy with "isn't" and "aren't".  ["aren't i" is considered to be perfectly grammatical in ireland, however.] this can be used as a tag question:
+ i'm making a mistake, amn't i?
+or as an alternative to "i'm not":
+ i amn't joking.
+and the double negative is also used:
+ i'm not late, amn't i not?
+
+reduplication is not an especially common feature of irish; nevertheless in rendering irish phrases into english it is occasionally used:
+ ar bith corresponds to english at all, so the stronger ar chor ar bith gives rise to the form at all at all
+i've no money at all at all.
+ ar eagla go... (lit. on fear that) means in case ....  the variant ar eagla na heagla, (lit on fear of fear) implies the circumstances are more unlikely.  the corresponding hiberno-english phrases are to be sure and to be sure to be sure.  in this context, these are not, as might be thought, disjuncts meaning 'certainly'; they could better be translated in case and just in case.  nowadays normally spoken with conscious levity.
+ i brought some cash in case i saw a bargain, and my credit card 'to be sure to be sure'.
+
+casual conversation in many parts of ireland includes a variety of colourful turns of phrase. some examples:
+
+yer man (your man) and yer wan (your one) are used in referring to an individual known by the party being addressed, but not being referred to by name. the phrases are an unusual sort of half-translation of a parallel irish-language phrase, "mo dhuine" (literally 'my person'). the nearest equivalents in colloquial english usage would be "whatsisname" and "whatsername".
+
+a soft day – referring to a rainy day with that particular soft drizzle, and an overcast sky, but yet relatively bright. this is a translation of the irish "lá bog".
+
+fecking is a mild abusive equivalent in force to "bleeding" or "darned."  it is not a parallel of the english word "fucking", despite their similarity, and is generally less offensive.  "feck" is the corresponding expletive. the noun "fecker" is slightly stronger but not vulgar.  these terms were lately introduced to britain by father ted. in old dubliner slang, "to feck' is also slang for "to steal", as in the phrase, "we went to the orchard and fecked some apples."
+
+yoke is typically used in place of the word "thing", for instance "gimme that yoke there". it's also used as an insult: "you're some yoke".
+
+there are many terms for having consumed a drop too much drink, many are used elsewhere, but the irish tendency is to attempt to find the most descriptive adjective yet on each occasion. some examples: "scuttered", "locked", "langered", "mouldy" (pron. mowldy as in "fowl"), "polluted", "flootered", "plastered", "bolloxed", "well out of it", "wankered", "fucked", "binned", "gee-eyed", "buckled", "steaming", "messy", "sloppy", "wasted". (phrases in italics are more "colourful")
+
+some turns of phrase are more localised and their meaning may not be widespread throughout the country, while others are more transient and fall out of use after a number of years.
+

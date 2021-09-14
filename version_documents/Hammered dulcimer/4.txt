@@ -1,0 +1,45 @@
+the hammered dulcimer is a stringed musical instrument with the strings stretched over a trapezoidal sounding board. typically, the hammered dulcimer is set on a stand, at an angle, before the musician, who holds small mallet hammers in each hand to strike the strings (cf. appalachian dulcimer). the graeco-roman dulcimer (sweet song) derives from the latin dulcis (sweet) and the greek melos (song). the dulcimer, in which the strings are beaten with small hammers, originated from the psaltery, in which the strings are plucked. 
+various types of hammered dulcimers are traditionally played in iraq, india, iran, southwest asia, china, and parts of southeast asia, central europe (hungary, romania, slovakia, poland, czech republic, switzerland (particularly appenzell), austria and bavaria), the balkans, eastern europe (ukraine and belarus) and scandinavia. the instrument is also played in the united kingdom (wales, east anglia, northumbria) and the u.s., where its traditional use in folk music saw a notable revival in the late 20th century.groce, nancy, the hammered dulcimer in america. washington, dc: smithsonian, 1983. page 72-73.
+
+strings and tuning
+thumb|left|major scale pattern on a diatonic hammered dulcimer tuned in 5ths.
+thumb|left|the salzburger hackbrett, a form of chromatic dulcimer.
+[[file:psalterion 001.jpg|thumb|right|upright|a woman playing a psalterion. ancient greek red-figured pelike from anzi, apulia, circa 320–310 bce.]]
+
+[[file:hasht-behesht palace santur.jpg|thumb|right|upright|woman playing the sanṭūr, a type of dulcimer, in a painting from the hasht-behesht palace in isfahan iran, 1669]]
+
+the hammered dulcimer comes in various sizes, identified by the number of strings that cross each of the bridges. a 15/14, for example, has two bridges (treble and bass) and spans three octaves. the strings of a hammered dulcimer are usually found in pairs, two strings for each note (though some instruments have three or four strings per note). each set of strings is tuned in unison and is called a course. as with a piano, the purpose of using multiple strings per course is to make the instrument louder, although as the courses are rarely in perfect unison, a chorus effect usually results like a mandolin. a hammered dulcimer, like an autoharp, harp, or piano, requires a tuning wrench for tuning, since the dulcimer's strings are wound around tuning pins with square heads. (ordinarily, 5 mm "zither pins" are used, similar to, but smaller in diameter than piano tuning pins, which come in various sizes ranging upwards from "1/0" or 7 mm.)
+
+the strings of the hammered dulcimer are often tuned diatonically, according to a circle of fifths pattern.   typically, the lowest note (often a g or d) is found on the lower right-hand corner of the instrument, just to the left of the right-hand (bass) bridge. as a player strikes the courses above in sequence, they ascend the diatonic scale based on the g or d. with this tuning, the scale is broken into two tetrachords, or groups of four notes. for example, on an instrument with d as the lowest note, the d major scale is played starting in the lower-right corner and ascending the bass bridge: d – e – f – g. this is the lower tetrachord of the d major scale. at this point the player returns to the bottom of the instrument and shifts to the treble bridge to play the higher tetrachord: a – b – c – d.
+
+this shift to the adjacent bridge is required because the bass bridge's fourth string g is the start of the lower tetrachord of the g scale. if the player ascends the first eight strings of the bass bridge, they will encounter a flatted seventh (c natural in this case), because this note is drawn from the g tetrachord. this d major scale with a flatted seventh is the mixolydian mode in d.
+
+the pattern continues to the top of the instrument and to the left-hand side of the treble bridge. moving from the left side of the bass bridge to the right side of the treble bridge is analogous to moving from the right side of the treble bridge to the left side of the treble bridge.
+
+this diatonically-based tuning results in most, but not all, notes of the chromatic scale being available. to fill in the gaps, many modern dulcimer builders include extra short bridges at the top and bottom of the soundboard, where extra strings are tuned to some or all of the missing pitches. such instruments are often called "chromatic dulcimers" as opposed to the more traditional "diatonic dulcimers".
+
+the tetrachord markers found on the bridges of most hammered dulcimers in the anglosphere were introduced by the american player and maker sam rizzetta in the 1960s.
+
+in the alps there are also chromatic dulcimers with crossed strings, which are in a whole tone distance in every row. this chromatic salzburger hackbrett was developed in the mid 1930s from the diatonic hammered dulcimer by tobi reizer and his son along with franz peyer and heinrich bandzauner. in the postwar period it was one of the instruments taught in state-sponsored music schools.gifford, paul m., the hammered dulcimer: a history, lanham, maryland: scarecrow press, 2001. page 81.
+
+hammered dulcimers of non-european descent may have other tuning patterns, and builders of european-style dulcimers sometimes experiment with alternate tuning patterns.
+
+hammers
+thumb|upright|left|hammers in motion
+the instrument is referred to as hammered in reference to the small mallets (referred to as hammers) that players use to strike the strings. hammers are usually made of wood (most likely hard woods such as maple, cherry, padauk, oak, walnut, or any other hard wood), but can also be made from any material, including metal and plastic. in the western hemisphere, hammers are usually stiff, but in asia, flexible hammers are often used. the head of the hammer can be left bare for a sharp attack sound, or can be covered with adhesive tape, leather, or fabric for a softer sound. 
+two-sided hammers are also available. the heads of two sided hammers are usually oval or round. most of the time, one side is left as bare wood while the other side may be covered in leather or a softer material such as piano felt.
+
+several traditional players have used hammers that differ substantially from those in common use today. paul van arsdale (b. 1920), a player from upstate new york, uses flexible hammers made from hacksaw blades, with leather-covered wooden blocks attached to the ends (these are modeled after the hammers used by his grandfather, jesse martin). the irish player john rea (1915–1983) used hammers made of thick steel wire, wound with wool. he made these himself from old bicycle spokes. billy bennington (1900–1986), a player from norfolk in england, used cane hammers bound with wool.
+
+hammered dulcimers, psalteries, pianos and harpsichords
+thumb|a piano
+the hammered dulcimer was extensively used during the middle ages in england, france, italy, germany, holland and spain. although it had a distinctive name in each country, it was everywhere regarded as a kind of psalterium. the importance of the method of setting the strings in vibration by means of hammers, and its bearing on the acoustics of the instrument, were recognized only when the invention of the pianoforte had become a matter of history. it was then perceived that the psalterium in which the strings were plucked, and the dulcimer in which they were struck, when provided with keyboards, gave rise to two distinct families of instruments, differing essentially in tone quality, in technique and in capabilities: the evolution of the psalterium stopped at the harpsichord, that of the dulcimer gave us the pianoforte.
+
+hammered dulcimers around the world
+
+thumb|tuning of a hammered dulcimer (southeastern slovenia)
+versions of the hammered dulcimer are used throughout the world. in eastern europe, a larger descendant of the hammered dulcimer called the cimbalom is played and has been used by a number of classical composers, including zoltán kodály, igor stravinsky and pierre boulez, and more recently, in a different musical context, by blue man group. the khim is the name of both the thai and the khmer hammered dulcimer.
+
+the santur or santoor is a type of hammered dulcimer that originated in mesopotamia and is found in iran, iraq and india.
+
+ 

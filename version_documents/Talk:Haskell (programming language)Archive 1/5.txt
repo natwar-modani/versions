@@ -1,0 +1,54 @@
+what's meant by an "eager" variation?  i worked with functional languages for some amount of time and never heard the term. --robert merkel
+
+i'm pretty sure it means "without lazy evaluation".
+
+that's right -- the anome
+
+haskell is, as of 2002, the functional language on which the most research is being performed.
+
+do you have a reference for this statement ? --taw
+
+"haskell" can also refer to http://www.haskell.edu/ , so i'm not moving this page to haskell. --eloquence 16:55 jan 24, 2003 (utc)
+
+not sure about the new version of the fibonacci sequence example — it's longer than the first one and harder to read imho (although it is clever, i admit). any comments on this? cadr
+
+which one? -- taku 16:14, apr 6, 2004 (utc)
+
+ the one using zipwith -- cadr
+
+i see this change:
+fibs = 0 : 1 : (zipwith (+) fibs (tail fibs))
+to
+fibs@(_:rest) = 0 : 1 : (zipwith (+) fibs rest)
+
+-- taku 16:36, apr 6, 2004 (utc)
+
+yes, that's the one i meant, thanks. -- cadr
+
+i got the idea: can we present both versions on the article and discuss how they work. to be honest, i don't know how the second one works and i want to know why you said it's a clever way. the readers might be facinated by the fact haskell is so cool. -- taku 16:52, apr 6, 2004 (utc)
+should we do that then? there's a whole bunch of example code in the article but no explanation of what it's doing, or what it results in. for example, the fibs line above results in an infinite (lazy) list of fibonacci numbers, something that i think would be interesting to point out. also, we might consider using this version (which i prefer):
+ fib@(_:tfib) = 1 : 1 : [ (a+b) | (a,b) <- zip fib tfib ]
+it demonstrates list comprehension, simple use of the zip function from the prelude, and is achingly elegant imo!
+
+should this article mention hindley-milner type inference and the monomorphism restriction? or is this too detailed information to be included into a encyclopedic article? -- tobias bergemann 08:30, 2004 nov 16 (utc)
+
+why the deletion of the 'extensions' section on hugs98 for .net?  i can't immediately see why it'd be problematic.  (and there no rationale provided.) alai 19:36, 19 jan 2005 (utc)
+
+literate mode
+
+on the literate programming page, someone mentioned haskell as a language that "makes full use of literate programming".  as pointed out in the talk page there, that is not how i remember haskell, but i'd appreciate if someone could clarify things there.  -- ar 17:08, 2005 feb 7 (utc)
+ i can't check at the moment, but i seem to recall the ghc docs mentioning literate programming. i think it has a facility for that as well as its c-related stuff. -- 195.137.47.14 00:36, 23 july 2005 (utc)
+
+ the revised haskell 98 standard document, "haskell 98 language and libraries: the revised report" (2002) contains a section on literate programming. quoting from section 9.4 literate comments:
+
+ the "literate comment" convention, first developed by richard bird and philip wadler for orwell, and inspired in turn by donald knuth's "literate programming", is an alternative style for encoding haskell source code. the literate style encourages comments by making them the default. a line in which ">" is the first character is treated as part of the program; all other lines are comment.
+
+ [...]
+
+ by convention, the style of comment is indicated by the file extension, with ".hs" indicating a usual haskell file and ".lhs" indicating a literate haskell file.
+
+ i don't know if this section was already part of the original haskell 98 standard.  i am not sure if and how this should be incorporated into the haskell entry. -- tobias bergemann 07:55, 23 july 2005 (utc)
+
+  the '.' in the above is the '.' from lambda calculus, a core part of functional programming.
+
+not at all, as far as i know, and not according to our article on lambda calculus. in lambda calculus, '.' is used as a syntactic element in lambda abstractions. in haskell (prelude), f . g =  \ x -> f (g x), that is function composition like the "circle operator" in mathematical analysis.

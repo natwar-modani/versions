@@ -1,0 +1,43 @@
+hematite, also spelled as haematite, is the mineral form of iron(iii) oxide (fe2o3), one of several iron oxides. hematite crystallizes in the rhombohedral system, and it has the same crystal structure as ilmenite and corundum. hematite and ilmenite form a complete solid solution at temperatures above 950°c.
+
+hematite is a mineral, colored black to steel or silver-gray, brown to reddish brown, or red. it is mined as the main ore of iron. varieties include kidney ore, martite (pseudomorphs after magnetite), iron rose and specularite (specular hematite). while the forms of hematite vary, they all have a rust-red streak. hematite is harder than pure iron, but much more brittle. maghemite is a hematite- and magnetite-related oxide mineral.
+
+huge deposits of hematite are found in banded iron formations. grey hematite is typically found in places where there has been standing water or mineral hot springs, such as those in yellowstone national park in the united states. the mineral can precipitate out of water and collect in layers at the bottom of a lake, spring, or other standing water. hematite can also occur without water, however, usually as the result of volcanic activity.
+
+clay-sized hematite crystals can also occur as a secondary mineral formed by weathering processes in soil, and along with other iron oxides or oxyhydroxides such as goethite, is responsible for the red color of many tropical, ancient, or otherwise highly weathered soils.
+
+etymology and history
+
+thumb|left|hematite in a scanning electron microscope, magnification 100x
+[[image:michiganbif.jpg|thumb|close-up of hematitic banded iron formation specimen from upper michigan. scale bar is 5.0 mm.]]
+[[file:cylinder seal antelope louvre am1639.jpg|thumb|right|cypro-minoan cylinder seal (left) made from hematite with corresponding impression (right), approximately 14th century bc]]
+
+the name hematite is derived from the greek word for blood αἷμα aima because hematite can be red, as in rouge, a powdered form of hematite. the color of hematite lends it well in use as a pigment. the english name of the stone is derived from middle french: hématite pierre, which was imported from latin: lapis hæmatites, which originated from ancient greek: αἱματίτης λίθος (haimatitēs lithos, “blood-red stone”).
+
+ochre is a clay that is colored by varying amounts of hematite, varying between 20% and 70%. red ochre contains unhydrated hematite, whereas yellow ochre contains hydrated hematite (fe2o3 • h2o). the principal use of ochre is for tinting with a permanent color.
+
+the red chalk winning of this mineral was one of the earliest in history of mankind. the powdery mineral was first used 164,000 years ago by the pinnacle-point man obviously for social differentiation.researchers find earliest evidence for modern human behavior in south africa hematite residues are also found in old graveyards from 80,000 years ago. near rydno in poland and lovas in hungary, palaeolitic red chalk mines have been found that are from 5000 bc, belonging to the linear pottery culture at the upper rhine.
+
+rich deposits of hematite have been found on the island of elba that have been mined till the time of the etruscans.
+
+jewelry
+thumb|hematite carving, 5 cm (2 in) long.
+hematite's popularity in jewelry was at its highest in europe during the victorian era, and has since seen a strong resurgence in north america, especially in the western united states. certain types of hematite or iron oxide rich clay, especially armenian bole has been used in gilding. hematite is also used in art such as intaglio engraved gems. hematine is a synthetic material sold as magnetic hematite.magnetic hematite on mindat
+
+magnetism
+thumb|left|crystal structure of hematite
+
+hematite is an antiferromagnetic material below the morin transition at 250 k, and a canted antiferromagnet or weakly ferromagnetic above the morin transition and below its néel temperature at 948 k, above which it is paramagnetic.
+
+the magnetic structure of a-hematite was the subject of considerable discussion and debate in the 1950s because it appeared to be ferromagnetic with a curie temperature of around 1000 k, but with an extremely tiny moment (0.002 µb). adding to the surprise was a transition with a decrease in temperature at around 260 k to a phase with no net magnetic moment. it was shown that the system is essentially antiferromagnetic but that the low symmetry of the cation sites allows spin–orbit coupling to cause canting of the moments when they are in the plane perpendicular to the c axis. the disappearance of the moment with a decrease in temperature at 260 k is caused by a change in the anisotropy which causes the moments to align along the c axis. in this configuration, spin canting does not reduce the energy.
+
+hematite is part of a complex solid solution oxyhydroxide system having various degrees of water, hydroxyl group, and vacancy substitutions that affect the mineral's magnetic and crystal chemical properties. two other end-members are referred to as protohematite and hydrohematite.
+
+iron from mine tailings
+hematite is present in the waste tailings of iron mines.  a recently developed process, magnetation, uses huge magnets to glean waste hematite from old mine tailings in minnesota's vast mesabi range iron district.the next iron rush, fortune magazine, may 25, 2009, pp. 86-90
+
+discovery on mars
+[[image:07-ml-3-soil-mosaic-b019r1 br.jpg|thumb|image mosaic from the mars exploration rover microscopic imager shows hematite spherules partly embedded in rock at the opportunity landing site. (scale: image is approximately 5 cm (2 in) across)]]
+
+the spectral signature of hematite was seen on the planet mars by the infrared spectrometer on the nasa mars global surveyor ("mgs") and 2001 mars odyssey spacecraft in orbit around mars.nasa mgs tes press release, may 27, 1998 "mars global surveyor tes instrument identification of hematite on mars",  available here the mineral was seen in abundance at two sitesbandfield, j.l., global mineral distributions on mars, j. geophys res., 107, 2002.  see: mars global data sets: hematite abundance  on the planet, the terra meridiani site, near the martian equator at 0° longitude, and the second site aram chaos near the valles marineris. several other sites also showed hematite, e.g., aureum chaos.t. d. glotch, d. rogers, and p. r. christensen, a newly discovered hematite-rich unit in aureum chaos: comparison of hematite and associated units with those in aram chaos, lunar and planetary science conference xxxvi, 2005  because terrestrial hematite is typically a mineral formed in aqueous environments, or by aqueous alteration, this detection was scientifically interesting enough that the second of the two mars exploration rovers was targeted to a site in the terra meridiani region designated meridiani planum.  in-situ investigations by the opportunity rover showed a significant amount of hematite, much of it in the form of small spherules that were informally named "blueberries" by the science team.  analysis indicates that these spherules are apparently concretions formed from a water solution.
+

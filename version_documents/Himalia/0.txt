@@ -1,0 +1,9 @@
+himalia (pronounced "hih mal yuh") is a moon of jupiter. it was discovered by charles dillon perrine at the lick observatory in 1904 and is named after a nymph who bore three sons of zeus.
+
+orbital radius:    11,480,000 km
+
+diameter: 186 km
+
+mass:     9.56*1018 kg
+
+orbital inclination: 28°

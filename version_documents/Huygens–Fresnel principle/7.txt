@@ -1,0 +1,33 @@
+[[image:refraction - huygens-fresnel principle.svg|thumb|300px|right|wave refraction in the manner of huygens]] 
+
+thumb|300px|rieght|wave diffraction in the manner of huygens and fresnel
+
+the huygens–fresnel principle (named after dutch physicist christiaan huygens and french physicist augustin-jean fresnel) is a method of analysis applied to problems of wave propagation both in the far-field limit and in near-field diffraction. 
+
+huygenschr. huygens, traitė de la lumiere (completed in 1678, published in leyden in 1690) proposed that every point on which a luminous disturbance falls may be considered to be the centre of a new secondary spherical wave, and the sum of these secondary waves determines the form of the wavefront at any subsequent time. he assumed that the secondary waves travelled only in the forward direction, even though there was no logical reason to assume this. he was able to provide a qualitative explanation of linear and spherical wave propagation, and to derive the laws of reflection and refraction using this principle.os heavens and rw ditchburn, insight into optics, 1987, wiley & sons, chichester isbn 0 471 92769 4  his theory does not, however,  explain diffraction effects. 
+
+fresnel a. fresnel, ann chim et phys, (2), 1 (1816), oeuvres, vol.1, 89, 129  showed that huygen's principle, together with his own principle of interference could explain both the rectilinear propagation of light, and also deviations from rectilinear propagation which occur when light encounters edges, apertures and screens – effects commonly referred to as diffraction. his model included additional assumptions about the phase and amplitude of the secondary waves, and also an arbitrary inclination factor.  these assumptions had no physical foundations but led to predictions which agreed with many experimental observations, including the arago spot.
+
+poisson was a member of the french academy which reviewed fresnel's work.max born and emil wolf, principles of optics, 1999, cambridge university press isbn-13 978-0-521-64222-4   he used fresnel's theory to predict that a bright spot will appear in the centre of the shadow of a small disc and deduced from this that the theory was incorrect.  however, arago, another member of the committee, performed the experiment and showed that the prediction was correct.  this was one of the investigations which led to the victory of the wave theory of light over the then predominant corpuscular theory.
+
+the huygens–fresnel principle provides a good basis for understanding and predicting the wave propagation of light.  however, this articlehuygens' principle provides an interesting discussion of the limitations of the principle and also of different scientists' views as to whether it is an accurate representation of reality or whether "huygens' principle actually does give the right answer but for the wrong reasons". 
+
+a simple example of the operation of the principle can be seen when two rooms are connected by an open doorway and a sound is produced in a remote corner of one of them. a person in the other room will hear the sound as if it originated at the doorway. as far as the second room is concerned, the vibrating air in the doorway is the source of the sound. 
+
+mathematical expression of the principle
+
+thumb|300px|right|geometric arrangement for fresnel's calculation consider the case of a point source located at a point p0, vibrating with a complex amplitude u0, producing a spherical wave with wavelength λ, wavenumber k = 2π/λ.  the amplitude of the primary wave at the point q located at a distance r0 from p is given by
+
+since the amplitude decreases in inverse proportion to the distance travelled, and the phase changes as k times the distance travelled.
+
+using huygen's theory, and the principle of superposition of waves, the amplitude at a further point p is found by summing the contributions from each point on the sphere of radius r0.  in order to get agreement with experimental results, fresnel found that the individual contributions from the secondary waves on the sphere had to be multiplied by a constant, i/λ, and by an additional inclination factor, k(χ).  the first assumption means that the secondary waves oscillate at a quarter of a cycle out of phase with respect to the primary wave, and that the amplitude of the secondary waves are in a ratio of 1:λ to the primary wave. he also assumed that k(χ) had a maximum value when χ=0, and was equal to zero when χ = π/2. the amplitude at p is then given by:
+
+where s describes the surface of the sphere, and s is the distance between q and p. 
+ 
+fresnel used a zone construction method to find approximate values of k for the different zones, which enabled him to make predictions which were in agreement with experimental results.
+
+the various assumptions made by fresnel emerge automatically in kirchhoff's diffraction formula, to which the huygens–fresnel principle can be considered to be an approximation. kirchoff gives the following epxression for k(χ):
+
+this incorporates the quarter cycle phase shift and the reduced amplitude; k has a maximum value at χ = 0 as in the huygens–fresnel principle; however, k is not equal to zero at χ = π/2.
+
+ 

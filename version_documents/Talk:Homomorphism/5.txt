@@ -1,0 +1,51 @@
+ 
+
+identity is not always preserved
+consider the map f:(z,.)--->(z,.) (z: set of integers , . : multiplication) between monoids given by f(x)=0. this is a homomorphism since f(x.y) = f(x).f(y) but identity is not preserved since f(1) = 0. the statement that identity is preservd seems wrong to me.
+--shahab 12:14, 1 september 2006 (utc)
+
+ok, but what does "morphism" mean at all???
+
+er, so homomorphisms are the only kind of morphisms?  if not, the redirect was incorrect. --lms
+
+from mathworld: "a general morphism is called a homomorphism" -- the anome
+
+mathworld is incorrect. some people use "homomorphism" and "morphism" interchangeably, as we do here, others use "homomorphism" for "morphisms of algebraic structures" (as opposed to analytic or topological structures). in the latter terminology, a continuous map would be considered a morphism, but not a homomorphism. --axelboldt
+
+i stand corrected - i come at this from a computer science/category theory angle. time to call out the specialists! -- the anome
+
+i wrote the redirect on the grounds that the article implied that what it was referring to was the general notion from category theory. (it said "the notion of morphism is studied abstractly in category theory.") i wanted an article called "morphism" to link to from other things that i am writing. (but was it bad form to have put a link to the redirect in "morphism" from the article "homomorphism" itself?) upon further consideration of the article, however, i realised that this was not true. the article is written in the language of concrete categories (those where objects are sets with some structure and morphisms are functions that preserve that structure), which isn't such a crime, but unfortunately many of the statements made don't apply to all concrete categories. in particular, the bit about the equivalence relation is very specific, from universal algebra. so i rewrote the article to specify that it applied only to universal algebra (adding some features and cleaning up some notation as well -- change back any notation change that you feel is horrid). then i wrote another article under the name "morphism" that holds generally, in any category, and using the more general language of abstract categories instead of concrete ones. i hope that it's clear now what the scopes of the 2 articles are, and that the distinction between the titles of the articles can be maintained. i'm fairly new here, so let me know if i screwed stuff up. (thank goodness for the logs!) -- toby bartels
+
+ other usage?? 
+
+n.b. some authors use the word homomorphism in a larger context than that of algebra. some take it to mean any kind of structure preserving map (such as continuous maps in topology), or even a more abstract kind of map—what we term a morphism—used in category theory. this article only treats the algebraic context. for more general usage see the morphism article.
+
+can you give specific examples? i have never (to my knowledge) encountered the term "homomorphism" outside of algebra. revolver 4 july 2005 22:54 (utc)
+
+ homomorphic 
+
+i was redirected from homomorphic to this homomorphism page
+it is not defined in the article when a group is homomorphic to another
+i have absolutely no definition (should it be, when there is a morphism from one the other?  there is always the trivial...)
+
+ incorrect picture 
+
+i've used this picture, and its explanation on serbian wikipedia, but i was told that it is incorrect.  
+
+it is not true that p ∩ n \ a is empty, it only contains only infinite homomorphisms, as that other case, m ∩ n \ a.
+
+for example, if g = z∞ = z + z + z + .... (as additive group) and operator shifts them one position to the left (the first element disappears), that endomorphism is epimorphism, but obviously isn't automorphism since it's not monomorphism. -- obradović goran  (talk 22:51, 19 march 2007 (utc)
+
+here you can find the version edited according to this comment. -- obradović goran  (talk 00:38, 20 march 2007 (utc)
+
+would anyone care to elaborate on what "infinite homomorphisms" are? 84.97.229.176 12:28, 1 may 2007 (utc)
+
+the ∞ symbol on that image denotes that homomorphisms which belong, say, to classes m and n, but not to a, exist only when the underlying set is infinite. "infinite-ness" is a property of the underlying set: it does not mean that the homomorphisms in question are "infinite". --dzordzm 21:43, 30 september 2007 (utc)
+
+ cosmetic comment 
+
+there is no word 'morphos' in greek, as stated in the beginning of the article. the correct word would be 'μορφή', i.e. 'morphi', which means 'shape'.
+pramcom 12:55, 12 june 2007 (utc)
+
+but morphi is modern greek pronunciation, inappropriate in this context. on homeomorphism they have morphē (a long ay at the end) -- this is the classical greek variant.
+--what 09:03, 9 september 2007 (utc)

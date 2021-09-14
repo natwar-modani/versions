@@ -1,0 +1,64 @@
+astronomy is probably the oldest of the natural sciences, dating back to antiquity. in the early part of its history, astronomy involved only the observation and predictions of the motions of the objects in the sky that could be seen with the naked eye. 
+
+greeks made some important contributions to astronomy, but the progress almost stopped during the middle ages, except for the work of some arabic astronomers. the renaissance came to astronomy with the work of copernicus, who proposed a heliocentric system. his work was defended, expanded upon and corrected by the likes of galileo galilei and kepler. the latter of these was the first to provide a system which described correctly the details of the motion of the planets with the sun at the center. he didn't understand the reasons behind the laws he wrote down, however, and it was left to newton's invention of celestial dynamics and his law of gravitation, the final explanation of the motions of the planets. astrophysics was only possible once it was understood that the elements that made up the "celestial objects" were the same that made up the earth, and that the same laws of physics applied. stars were found much later to be far away objects, and with the advent of spectroscopy it was proved that they were similar to our own sun, but with a range of temperatures, masses and sizes. the existence of our galaxy, the milky way, as a separate group of stars was only proven in the 20th century, along with the existence of "external" galaxies, and soon after, the expansion of the universe seen in the recession of most galaxies from us. cosmology, a discipline that has a large intersection with astronomy, made huge advances during the 20th century, with the model of the hot big bang heavily supported by the evidence provided by astronomy and physics, such as the cosmic microwave background radiation ,hubble's law and cosmological abundances of elements. 
+
+see also: aristarchus, aristotle, celestial sphere, copernicus, eratosthenes, geocentric model, heliocentric model, johannes kepler, ptolemy, thales, tycho brahe
+
+ early history 
+early cultures identifed celestial objects with gods and spirits. these objects were somewhat predictable and their movements were related to other phenomena such as rain, drought, winter, and summer. it is understandable that the first astronomers were often priests, and their predictions of natural events through observations as a demonstration of divine power. remains of ancient constructions, with probable religious purposes, usually have astronomical alineations, stonehenge being the most famous.
+
+the ancients were able to differentiate between the stars and the planets, as the planets move an appreciable amount during only a short time, whereas the stars remain relatively fixed over centuries. the word planet come from the greek for 'wanderer'.
+
+calendars of the world have usually been set by the sun and moon (measuring the day, month and year), and were of importance to [[agriculture|agricultural societies, in which the harvest depended on planting at the correct time of year. the most common modern calendar is based on the roman calendar, which divided the year into twelve months of alternating thirty and thirty-one days apiece.  various roman emperors altered the calendar subsequently. julius caesar instigated calendar reform and created the leap year.
+
+ mesopotamia 
+
+ sumer 
+ chaldea, babylonia 
+
+ mesoamerica 
+
+ maya 
+
+ south and east asia 
+
+ indus valley civilization 
+ china 
+
+ ancient greece 
+
+greek philosophers thought of several models to explain the movements of stars, planets, the sun and the moon. eratosthenes, using the angles of shadows created at widely-separated regions, calculated the curvature of the earth, and thus its size. hipparchus made a number of important contributions, including the first measurement of precession and the compilation of the first star catalog. ptolemy later referred to this work in his important almagest, which had a lasting effect on astronomy up to the renaissance.
+
+ middle ages 
+
+during the middle ages, astronomy, as most of the sciences, didn't advance much in europe, and many important works could have been forgotten but for the work of scholars of the arabic world. however, astronomy remained a part of the academic curriculum. priests in distant parishes needed elementary astronomical knowledge for calculating the exact date of the easter. the arabic world under islam had become higly cultured, and many important works of knowledge from ancient greece were translated into arabic, used and stored in libraries throughout the area. new works were also written, and even the name of algebra tells us about its origin. in astronomy, arab scholars also left a legacy, that is easily seen in the names still used for most of the brilliant stars in the sky (see, e.g. ursa major)
+
+meanwhile in europe, the model from the greeks most remembered through the middle ages was the geocentric model, in which the earth was in the center of the universe, with the sun, moon and planets each occupying its own concentric sphere. stars used the outermost one.
+
+ the copernican revolution 
+
+copernicus proposed a heliocentric system, in which the sun was in the center. the model had some flaws, and did not predict the positions of the planets better that the old ptolemaic system (the version of the geocentric model that was most accepted), but had its supporters. two of the most famous supporters were johannes kepler and galileo galilei.
+
+kepler, using precise naked-eye observations made by tycho brahe, discovered the three laws of planetary movement that carry his name (though he published them mixed with some other not-so-correct ideas, and didn't give them the importance that we do).
+
+galileo was not the first one to use the telescope to observe the sky, although he after constructing a 20x refractor telescope he discovered the moons of jupiter and introduced sunspots to europe, he is perhaps most famous for his problems with the catholic church (though the real history is more complex than usually believed). galileo's greatest contribution to knowledge was not in astronomy, but in dynamics, where he studied the motion of objects, but his effort in popularizing the copernican model was very significant.
+
+ physics marries astronomy (a longlasting and happy union) 
+
+isaac newton was the first scientist to marry physics with astronomy, discovering that the same force that causes objects to fall on earth, causes the motion of planets and the moon. using his law of gravity, the laws of kepler are explained, and the heliocentric system gained a sound physical basis. newton also found out that the white light from the sun can be decomposed into its component colors; this fact is crucial for most of the 20th-century research.
+
+ modern astronomy 
+at the end of the 19th century it was discovered that, when
+decomposing the light from the sun, multitude of spectral lines were observed (regions where there was less or no light). experiments with hot gases showed that the same lines could be observed in the spectra of gases, specific lines corresponding to unique elements. it was proved that the chemical elements found in the sun (chiefly hydrogen and helium) were also found on earth.
+
+during the 20th century spectrometry (the study of these lines) advanced, especially because of the advent of quantum physics, that was necessary to understand the observations.
+
+ cosmology and the expansion of the universe 
+
+most of our current knowledge was gained during the 20th century. with the help of the use of photography, fainter objects were observed. our sun was found to be part of a galaxy made by more than 1010 stars, and the existence of other galaxies, one of the matters of the great debate was settled by edwin hubble, who identified the andromeda nebula as a different galaxy, and many others at large distances and receding, moving away from our galaxy.
+
+ new windows into the cosmos open 
+
+the 20th century was an exciting time for astronomy, with
+each advance in instrumentation leading to a new breakthrough in the understanding of the universe.
+

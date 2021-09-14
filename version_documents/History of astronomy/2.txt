@@ -1,0 +1,86 @@
+astronomy is probably the oldest of the natural sciences, dating back to antiquity, with its origins in the religious practices of pre-history: vestiges of these are still found in astrology, a discipline long interwoven with astronomy, and not completely separate from it until about 1750‑1800 in the western world. early astronomy involved observing and predicting the motions of visible celestial objects, especially stars and planets. an example of this early astronomy might involve a study of the relationships between the "apparent height" of the noon sun, with respect to the changing patterns of nighttime stars. eventually astrological charts were drawn up by cultures around the world using the raw, astronomical data collected. 
+
+[[image:galileo.arp.300pix.jpg|frame|galileo galilei (1564-1642) crafted his own telescope and discovered that our moon had craters, that jupiter had moons, that the sun had spots, and that venus had phases like our moon. galileo claimed these observations were comprehensible only within the copernican system, in which the planets revolved around the sun and not the earth, as was commonly believed then.]]
+
+ancient astronomers were able to differentiate between stars and planets; as stars remain relatively fixed over the centuries, while planets will move an appreciable amount during a comparatively short time.
+
+ancient history
+
+early cultures identifed celestial objects with gods and spirits. they related these objects (and their movements) to phenomena such as rain, drought, seasons, and tides. it is generally believed that the first "professional" astronomers were priests (magi), and that their understanding of the "heavens" was seen as "divine", hence astronomy's ancient connection to what is now called astrology. ancient constructions with astronomical alineations (such as stonehenge) probably fulfilled both astronomical and religious functions.  
+
+calendars of the world have usually been set by the sun and moon (measuring the day, month and year), and were of importance to agricultural societies, in which the harvest depended on planting at the correct time of year. the most common modern calendar is based on the roman calendar, which divided the year into twelve months of alternating thirty and thirty-one days apiece.  various roman emperors altered the calendar subsequently. julius caesar instigated calendar reform and created the leap year.
+
+india
+
+there are astronomical references of chronological significance in the vedas. some vedic notices mark the beginning of the year and that of the vernal equinox in orion; this was the case around 4500 bc. fire altars, with astronomical basis, have been found in the third millennium cities of india. the texts that describe their designs are conservatively dated to the first millennium bc, but their contents appear to be much older. 
+
+yajnavalkya (perhaps 1800 bc) advanced a 95-year cycle to synchronize the motions of the sun and the moon.
+
+a text on vedic astrology that has been dated to 1350 bc, was written by lagadha.
+
+in 500 ad, aryabhata presented a mathematical system that took the earth to spin on its axis and considered the motions of the planets with respect to the sun.
+
+brahmagupta (598-668) was the head of the astronomical observatory at ujjain and during his tenure there wrote a text on astronomy, the brahmasphutasiddhanta in 628.
+
+bhaskara (1114-1185) was the head of the astronomical observatory at ujjain, continuing the mathematical tradition of brahmagupta. he wrote the siddhantasiromani which consists of two parts: goladhyaya (sphere) and grahaganita (mathematics of the planets).
+
+the other important names of astronomers from india are madhava and nilakantha.
+
+mesopotamia
+
+sumer
+chaldea, babylonia
+
+mesoamerica
+
+maya civilization
+
+the maya calculated the solar year to somewhat greater accuracy than the gregorian calendar. they made detailed tables for calculating phases of the moon and the movements of venus for centuries in the past or future. astronomy and the measurement of time were vitally important components of mayan religion.
+
+east asia
+
+china
+
+ancient greece
+
+greek philosophers thought of several models to explain the movements of stars, planets, the sun and the moon. eratosthenes, using the angles of shadows created at widely-separated regions, estimated the circumference of the earth with great accuracy. hipparchus made a number of important contributions, including the first measurement of precession and the compilation of the first star catalog. ptolemy later referred to this work in his important almagest, which had a lasting effect on astronomy up to the renaissance.
+
+middle ages
+
+greeks made some important contributions to astronomy, but the progress was mostly stagnant in medieval europe, while it flourished in the arab world and priests in distant parishes needed elementary astronomical knowledge for calculating the exact date of the easter. the arabic world under islam had become higly cultured, and many important works of knowledge from ancient greece were translated into arabic, used and stored in libraries throughout the area. the late 9th century islamic astronomer al-farghani wrote extensively on the motion of celestial bodies. his work was translated into latin in the 12th century. 
+
+in the late 10th century, a huge observatory was built near tehran, iran, by the astronomer al-khujandi who observed a series of meridian transits of the sun, which allowed him to calculate the obliquity of the ecliptic, also known as the tilt of the earth's axis relative to the sun. in persia, omar khayyám compiled many tables and performed a reformation of the calendar that was more accurate than the julian and came close to the gregorian. an amazing feat was his calculation of the year to be 365.24219858156 days long, which is accurate to the 6th decimal place.
+
+meanwhile in europe, astronomy was one of the seven core subjects of any studium generale (now known as "universities"). the model from the greeks most remembered through the middle ages was the geocentric model, in which the earth was in the center of the universe, with the sun, moon and planets each occupying its own concentric sphere. stars used the outermost one.
+
+ the copernican revolution 
+
+the renaissance came to astronomy with the work of copernicus, who proposed a heliocentric system. his work was defended, expanded upon and corrected by the likes of galileo galilei and johannes kepler.
+
+kepler, using precise naked-eye observations made by tycho brahe, discovered the three laws of planetary movement that carry his name (though he published them mixed with some other not-so-correct ideas, and didn't give them the importance that we do).
+
+galileo was among the first to use a telescope to observe the sky, and after constructing a 20x refractor telescope he discovered the 4 moons of jupiter in 1610. this was the first observation of satelites orbiting another planet. this along with galileo noting that venus exhibited a full set of phases was seen as incompatible with the church's favoured model of the earth at the center of the universe and led to much controversy.
+
+ physics marries astronomy 
+
+isaac newton was the first scientist to marry physics with astronomy, discovering that the same force that causes objects to fall on earth, causes the motion of planets and the moon. using his law of gravity, the laws of kepler are explained, and the heliocentric system gained a sound physical basis, celestial mechanics was invented. newton also found out that the white light from the sun can be decomposed into its component colors; this fact is crucial for most of the 20th-century research.
+
+ modern astronomy 
+
+at the end of the 19th century it was discovered that, when decomposing the light from the sun, multitude of spectral lines were observed (regions where there was less or no light). experiments with hot gases showed that the same lines could be observed in the spectra of gases, specific lines corresponding to unique elements. it was proved that the chemical elements found in the sun (chiefly hydrogen and helium) were also found on earth.
+during the 20th century spectrometry (the study of these lines) advanced, especially because of the advent of quantum physics, that was necessary to understand the observations.
+
+although in previous centuries noted astronomers were exclusively male, at the turn of the 20th century women began to play a role in the great discoveries.  in this period prior to modern computers, women at the united states naval observatory (usno), harvard university, and other astronomy research institutions often served as human "computers," whom performed the tedious calculations while scientists performed research requiring more background knowledge.    (it is worth noting that the word for modern electronic computers comes from this use of humans, as the "-er" ending typically refers to humans performing a task, while "-or" refers to machines.)  many of the discoveries in this period were originally noted by the women "computers" and reported to their supervisors.  for example, henrietta swan leavitt discovered the cepheid variable star period-luminosity relation, annie jump cannon organized the stellar spectral types according to stellar temperature, and maria mitchell was the first person to discover a comet using a telescope.  (see  for more women astronomers.)  some of these women received little or no recognition during their lives due to their lower professional standing in the field of astronomy.  and although their discoveries are taught in classrooms around the world, few students of astronomy can attribute the works to their authors.
+
+ cosmology and the expansion of the universe 
+
+most of our current knowledge was gained during the 20th century. with the help of the use of photography, fainter objects were observed. our sun was found to be part of a galaxy made by more than 1010 stars. the existence of other galaxies, one of the matters of the great debate, was settled by edwin hubble, who identified the andromeda nebula as a different galaxy, and many others at large distances and receding, moving away from our galaxy.
+
+cosmology, a discipline that has a large intersection with astronomy, made huge advances during the 20th century, with the model of the hot big bang heavily supported by the evidence provided by astronomy and physics, such as the cosmic microwave background radiation, hubble's law and cosmological abundances of elements.
+
+ new windows into the cosmos open 
+
+late in the 19th century, scientists began discovering forms of light which were insible to the naked eye: x-rays, gamma rays, radio waves, microwaves, ultraviolet radiation, and infrared radiation. this had a major impact on astronomy. stars were found much later to be far away objects, and with the advent of spectroscopy it was proved that they were similar to our own sun, but with a range of temperatures, masses and sizes. the existence of our galaxy, the milky way, as a separate group of stars was only proven in the 20th century, along with the existence of "external" galaxies, and soon after, the expansion of the universe seen in the recession of most galaxies from us.
+
+the 20th century was an exciting time for astronomy, with each advance in instrumentation leading to a new breakthrough in the understanding of the universe.
+

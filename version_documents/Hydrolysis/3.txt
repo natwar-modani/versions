@@ -1,0 +1,83 @@
+hydrolysis is a chemical reaction during which one or more water molecules are split into hydrogen and hydroxide ions which may go on to participate in further reactions.compendium of chemical terminology, hydrolysis, accessed 2007-01-23.compendium of chemical terminology, solvolysis, accessed 2007-01-23. it is the type of reaction that is used to break down certain polymers, especially those made by step-growth polymerization. such polymer degradation is usually catalysed by either acid i.e concentrated sulphuric acid [h2s04] or alkali i.e. sodium hydroxide [naoh] attack, often increasing with their strength or ph. 
+
+hydrolysis is distinct from hydration, where hydrated molecule does not "lyse" (break into two new compounds). it should not be confused with hydrogenolysis, a reaction of hydrogen.
+
+types
+
+in organic chemistry, considered as the reverse or opposite of condensation, a reaction in which two molecular fragments are joined for each water molecule produced. as hydrolysis may be a reversible reaction, condensation and hydrolysis can take place at the same time, with the position of equilibrium determining the amount of each product. a typical example is the hydrolysis of an ester to an acid and an alcohol.
+
+r1co2r2 + h2o  r1co2h + r2oh
+
+in inorganic chemistry, the word is often applied to solutions of salts and the reactions by which they are converted to new ionic species or to precipitates (oxides, hydroxides, or salts). the addition of a molecule of water to a chemical compound, without forming any other products is usually known as hydration, rather than hydrolysis.
+
+in biochemistry, hydrolysis is considered the reverse or opposite of dehydration synthesis. in hydrolysis, a water molecule (h2o), is added, whereas in dehydration synthesis, a molecule of water is removed.
+
+in electrochemistry, hydrolysis can also refer to the electrolysis of water.  in hydrolysis, a voltage is applied across an aqueous medium, which produces a current and breaks the water into its constituents, hydrogen and oxygen.
+
+in organic chemistry, a development announced in 2008 provided a method of splitting water atoms using photocatalysis.  an enzyme which contains atoms of oxygen and of the metal manganese is encased in diarylphosphinate ligands.  when a ligand is released due to a beam of light, the catalyst carries out water hydrolysis.chemical & engineering news vol. 86 no. 35, 1 sept. 2008, "manganese photocatalyst splits water", p. 44
+
+in polymer chemistry, hydrolysis of polymers can occur during high-temperature processing such as injection moulding leading to chain degradation and loss of product integrity. polymers most at risk include pet, polycarbonate, nylon and other polymers made by step-growth polymerization. such materials must be dried prior to moulding.
+
+also golden showers
+
+ hydrolysis of amide links 
+
+in the hydrolysis of an amide link into a carboxylic acid and an amine or ammonia, the carboxylic acid has a hydroxyl group derived from a water molecule and the amine (or ammonia) gains the hydrogen ion.
+ 
+image:amide hydrolysis.png
+
+a specific case of the hydrolysis of an amide link is the hydrolysis of peptides to smaller fragments or amino acids. 
+
+many polyamide polymers such as nylon 6,6 are attacked and hydrolysed in the presence of strong acids. such attack leads to depolymerization and nylon products fail by fracturing when exposed to even small amounts of acid. other polymers made by step-growth polymerization are susceptible to similar polymer degradation reactions. the problem is known as stress corrosion cracking.
+
+ hydrolysis of polysaccharides 
+thumb|sucrose. the glycoside bond is represented by the central oxygen atom which holds the two monosaccharide units together
+in polysaccharides, monosaccharide molecules are linked together by a glycosidic bond. this bond can be cleaved by hydrolysis to yield monosaccharides. the best known disaccharide is sucrose (table sugar). hydrolysis of sucrose yields glucose and fructose. there are many enzymes which speed up the hydrolysis of polysaccharides. invertase is used industrially to hydrolyze sucrose to so-called invert sugar. invertase is an example of a glycoside hydrolase (glucosidase). lactase is essential for digestive hydrolysis of lactose in milk. deficiency of the enzyme in humans causes lactose intolerance. β-amylase catalyzes the conversion of starch to maltose. malt made from barley is used as a source of β-amylase to break down starch into a form that can be used by yeast to produce beer. the hydrolysis of cellulose into glucose, known as saccharification, is catalyzed by cellulase. animals such as cows (ruminants) are able to digest cellulose because of the presence of symbiotic bacteria which produce cellulases.
+
+ irreversibility of hydrolysis under physiological conditions 
+
+under physiological conditions (i.e. in dilute aqueous solution), a hydrolytic cleavage reaction, where the concentration of a metabolic precursor is low (on the order of 10-3 to 10-6 molar), is essentially thermodynamically irreversible. to give an example:
+
+ a + h2o → x + y
+
+ 
+
+assuming that x is the final concentration of products, and that c is the initial concentration of a, and w = [h2o] = 55.5 molar, then x can be calculated with the equation:
+
+ 
+
+let kd×w = k:
+
+then 
+
+for a value of c = 0.001 molar, and k = 1 molar, x/c > 0.999. less than 0.1% of the original reactant would be present once the reaction is complete.
+
+this theme of physiological irreversibility of hydrolysis is used consistently in metabolic pathways, since many biological processes are driven by the cleavage of anhydrous pyrophosphate bonds.
+
+ hydrolysis of metal aqua ions 
+
+metal ions are lewis acids, and in aqueous solution they form aqua ions, of the general formula m(h2o)nm+. 
+burgess, j. metal ions in solution, (1978) ellis horwood, new york 
+
+the aqua ions are hydrolyzed, to a greater or lesser extent. the first hydrolysis step is given generically as
+
+ m(h2o)nm+ + h2o  m(h2o)n-1(oh)(m-1)+ + h3o+
+
+thus the aqua ion is behaving as an acid in terms of brønsted-lowry acid-base theory. this is easily explained by considering the inductive effect of the positively charged metal ion, which weakens the o-h bond of an attached water molecule, making the liberation of a proton relatively easy. 
+
+the dissociation constant, pka, for this reaction is more or less linearly related to the charge-to-size ratio of the metal ion.baes, c.f.; mesmer, r.e. the hydrolysis of cations, (1976),wiley, new york  ions with low charges, such as na+ are very weak acids with almost imperceptible hydrolysis. large divalent ions such as ca2+, zn2+, sn2+ and pb2+ have a pka of 6 or more and would not normally be classed as acids, but small divalent ions such as be2+ are extensively hydrolyzed. trivalent ions like al3+ and fe3+ are weak acids whose pka is comparable to that of acetic acid. solutions of salts such as becl2 or al(no3)3 in water are noticeably acidic; the hydrolysis can be suppressed by adding an acid such as nitric acid, making the solution more acidic. 
+
+hydrolysis may proceed beyond the first step, often with the formation of polynuclear species. 
+ some "exotic" species such as sn3(oh)42+  p384 are well characterized. hydrolysis tends to increase as ph rises leading, in many cases, to the precipitation of an hydroxide such as al(oh)3 or alo(oh). these substances, the major constituents of bauxite, are known as laterites  and are formed by leaching from rocks of most of the ions other than aluminium and iron and subsequent hydrolysis of the remaining aluminium and iron.
+
+ions with a formal charge of four are extensively hydrolyzed and salts of zr4+, for example,  can only be obtained from strongly acidic solutions. with oxidation states five and higher the concentration of the aqua ion in solution is negligible. in effect the aqua ion is a strong acid. for example, aqueous solutions of cr(vi) contain cro42-. 
+
+cr(h2o)6+ → cro42- + 2 h2o + 8 h+
+
+note that reactions such as
+
+ 2 cro42- + h2o  cr2o72- + 2 oh-
+
+are formally hydrolysis reactions as water molecules are split up yielding hydroxide ions. such reactions are common among polyoxometalates.
+
+ 

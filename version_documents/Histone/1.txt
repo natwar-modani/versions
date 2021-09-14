@@ -1,0 +1,51 @@
+ca:histona
+de:histon
+es:histona
+ja:ヒストン
+
+in biology, histones are the chief proteins of chromatin. they act as spools around which dna winds and they play a role in gene regulation.
+
+location
+histones are found in the nuclei of eukaryotic cells. bacteria do not have histones. however, the dna of the genus thermoplasma (in the domain archaea) is surrounded by a highly basic dna-binding protein which strongly resembles the eukaryotic histones.
+
+classes
+five histone classes are known:
+h1 (sometimes called h5.)
+h2a
+h2b
+h3
+h4
+
+two each of class h2a, h2b, h3 and h4 assemble to form one nucleosome, together with dna. h1 is needed for histone-dna-complexes to form a 30-nm fiber, which packs the dna even more tightly.
+
+functions
+they act as spools around which dna winds and they play a role in gene regulation.
+
+dna compaction
+histones act as spools for dna. this enables the compaction necessary to fit the large genomes of eukaryotes inside cell nuclei.
+
+gene regulation
+histones act in gene regulation. histones can undergo posttranslational modifications. these modifications can play a role in gene regulation in an epigenetic manner.
+
+regulation occurs at the tata box.
+
+structure
+proteins rich in lysine and arginine.
+
+histones are subject to posttranslational modification by enzymes primarily on their n-terminal tails, but also in their globular domains. such modifications include methylation, acetylation, phosphorylation, ubiquitination, and adp-ribosylation. this effects their function of gene regulation (see functions).
+
+details
+in general, genes that are active have less bound histone, while inactive genes are highly associated with histones during interphase.
+
+histones are water-soluble.
+
+histones have been evolutionarily conserved.
+
+history
+discovered in 1884 by albrecht kossel.
+
+until the early 1990's, histones were dismissed as merely packing material for nuclear dna. during the early 1990's, the regulatory functions of histones were discovered.
+
+etymology
+late 19th century. from german histon , of uncertain origin: perhaps from greek histanai  or from histos  
+
