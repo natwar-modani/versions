@@ -1,0 +1,70 @@
+a hydrogen atom is an atom of the element hydrogen. it is composed of a single negatively charged electron, moving around the positively charged proton which is the nucleus of the hydrogen atom. the electron is bound to the proton by the coulomb force.
+
+the hydrogen atom has special significance in quantum mechanics as a simple physical system for which an exact solution to the schrödinger equation exists, from which the experimentally observed frequencies and intensities of the hydrogen spectral lines can be calculated. 
+
+in 1913, niels bohr had deduced the spectral frequencies of the hydrogen atom making several assumptions (see the bohr model). the results of bohr for the frequencies and underlying energy values are confirmed by the full quantum-mechanical analysis which uses the schrödinger equation, as was shown in 1925/26. the full analysis goes further, because it also yields the shape of the electron's wave function ("orbital") for the different possible quantum-mechanical states. this allows to determine the intensity of spectral lines (which correspond to transitions between these states), among other things. in addition, the full analysis is applicable also to more complicated atoms with more than one electron, as well as molecules etc. however, in all of these cases approximations have to be made and computer calculations are usually necessary.
+
+ solution of schrödinger equation: overview of results 
+
+the solution of the schrödinger equation for the hydrogen atom uses the fact that the coulomb potential produced by the nucleus is isotropic (it only depends on the distance to the nucleus). although the resulting energy eigenfunctions (the "orbitals") are not necessarily isotropic themselves, their dependence on the angular coordinates follows completely generally from this isotropy of the underlying potential: the states are not only eigenstates of the hamiltonian, but also eigenstates of the angular momentum operator. this corresponds to the fact that angular momentum is conserved in the motion of the electron around the nucleus. therefore, the energy eigenstates may be classified by two angular momentum quantum numbers, l and m (integer numbers). the "angular momentum" quantum number l = 0, 1, 2, ... determines the magnitude of the angular momentum. the "magnetic" quantum number m = −l, .. , +l 
+determines the projection of the angular momentum on the (arbitrarily chosen) z-axis.
+
+in addition, the radial dependence of the wave functions has to be found. it is only here that the details of the 1/r coulomb potential enter (leading to laguerre polynomials in r). this leads to a third quantum number, the "main" quantum number n = 1, 2, 3, ... 
+note that the angular momentum quantum number can run only up to n − 1, i.e. l = 0, 1, ..., n − 1.
+
+due to angular momentum conservation, states of the same l but different m have the same energy (this holds for all problems with rotational symmetry). in addition, for the hydrogen atom, the states of the same n are also degenerate (i.e. they have the same energy); but this is a specialty and it is no longer true for more complicated atoms which have an (effective) potential differing from the form 1/r (due to the presence of the inner electrons shielding the nucleus potential). 
+
+taking into account the spin of the electron adds a last quantum number, the projection of the electrons spin along the z axis, which can take on two values. therefore, any eigenstate of the electron in the hydrogen atom is described fully by four quantum numbers. according to the usual rules of quantum mechanics, the actual state of the electron may be any superposition of these states. this explains also why the choice of z-axis for the quantization of angular momentum is immaterial: an orbital of given l and m' obtained for another preferred axis z' can always be represented as a suitable superposition of the various states of different m (but same l) that have been obtained for z.
+
+ mathematical summary of eigenstates of hydrogen atom 
+
+the eigenstates are:
+
+where:
+  and a0 is the bohr radius.
+  are the associated laguerre polynomials from degree nr.
+  is a spherical harmony.
+
+the eigenvalues are:
+ for angular momentum operator:
+ 
+ 
+ for the hamiltonian:
+ 
+where
+  and α is the fine structure constant and in hydrogen atom z=1.
+
+ picture of hydrogen orbitals 
+
+the picture below shows the first few hydrogen atom orbitals (energy eigenfunctions). these are cross-sections of the probability density that are color-coded (black=zero density, white=highest density). the angular momentum quantum number l is denoted in each column, using the usual spectroscopic letter code ("s" means l = 0; "p": l = 1; "d": l = 2). the main quantum number n (= 1, 2, 3, ...) is marked to the right of each row. for all pictures the magnetic quantum number m has been set to 0, and the cross-sectional plane is the xz-plane (z is the vertical axis). the probability density in threedimensional space is obtained by rotating the one shown here around the z-axis.
+
+image:hatomorbitals.png
+
+the "ground state", i.e. the state of lowest energy, in which the electron is usually found, is the first one, the "1s" state (n = 1, l = 0).
+
+click here to view an image with more orbitals (up to higher numbers n and l).
+
+note the number of black lines that occur in each but the first orbital. these are "nodal lines" (which are actually  nodal surfaces in three dimensions). their total number is always equal to n − 1.
+
+ features going beyond the schrödinger solution 
+
+there are several important effects that are neglected by the schrödinger equation and which are responsible for certain small but measurable deviations of the real spectral lines from the predicted ones:
+
+ although the speed of the electron is only 1/100th of the speed of light, this leads to small relativistic effects, in particular an effective increase in mass of the electron (depending on velocity).
+ the spin of the electron has a magnetic moment attached to it. even when there is no external magnetic field, within the inertial frame of the moving electron the electric field of the nucleus partly acts like a magnetic field. this is also an effect of special relativity, and it leads to the so-called "spin-orbit coupling", i.e. an influence of the electron's orbital motion around the nucleus onto its spin.
+
+both of these features (and more) are incorporated in the relativistic dirac equation, whose predictions come still closer to experiment. it can still be solved exactly for the hydrogen atom. the resulting states now must be classified by the total angular momentum number j (arising through the coupling between electron spin and orbital angular momentum). states of the same j and the same n are still degenerate.
+
+ there are always vacuum fluctuations of the electromagnetic field, according to quantum mechanics. this means in particular that the electron undergoes a kind of "jitter" motion. as a consequence, the degeneracy between states of the same j but different l is lifted. this has been demonstrated in the famous lamb-rutherford experiment and was the starting point for the development of the theory of quantum electrodynamics (which is able to deal with these vacuum fluctuations and employs the famous feynman diagrams for approximations using perturbation theory).
+
+for these developments, it was essential that the solution of the dirac equation for the hydrogen atom could be worked out exactly, such that any experimentally observed deviation had to be taken seriously as a signal of failure of the theory.
+
+<tr>
+<td width = 30% align = center>
+<td width = 40% align = center>isotopes of hydrogen
+<td width = 30% align = center>hydrogen-2
+<tr>
+<td width = 30% align = center>produced from:see proton emission
+<td width = 40% align = center>decay chain
+<td width = 30% align = center>does not decay
+

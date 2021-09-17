@@ -1,0 +1,25 @@
+thumb|right|200px|hotol
+hotol, for horizontal take-off and landing, was a british air-breathing space shuttle effort by rolls royce and british aerospace. 
+
+designed as a single-stage-to-orbit (ssto) reusable winged launch vehicle, it was to be fitted with a unique air-breathing engine, the rb545 called the swallow, to be developed by rolls royce. the engine was technically a liquid hydrogen/liquid oxygen design, but dramatically reduces the amount of oxidizer needed to be carried on board by utilising atmospheric oxygen as the spacecraft climbed through the lower atmosphere.
+
+since propellant typically represents the majority of the takeoff weight of a rocket, hotol was to be considerably smaller than normal pure-rocket designs, roughly the size of a medium-haul airliner such as the mcdonnell douglas dc-9/md-80. however, comparison with a rocket vehicle using similar construction techniques failed to show much advantage, and funding for the vehicle ceased.
+
+vehicle description
+hotol would have been 63 metres long, 12.8 metres high, 7 metres in diameter and with a wingspan of 28.3 metres. the unmanned craft was intended to put a payload of around 7 to 8 tonnes in orbit, at 300 km altitude. it was intended to take off from a runway, mounted on the back of a large rocket-boosted trolley that would help get the craft up to "working speed". the engine was intended to switch from jet propulsion to pure rocket propulsion at 26–32 km high, by which time the craft would be travelling at mach 5 to 7. after reaching orbit, hotol was intended to re-enter the atmosphere and glide down to land on a conventional runway (approx 1,500 metres minimum). hotol was designed for automatic, unmanned flights, although later stages would reintroduce a pilot. the internal landing gear would have been too small to carry the weight of the fully fueled rocket, so emergency landings would have required the fuel to be dumped.flight international 1st march 1986
+
+development programme
+development began with government funding in 1982. the design team was a joint effort between rolls-royce and british aerospace led by john scott-scott and dr bob parkinson. around the same time, the x-30 scramjet programme was announced in america.
+
+problems found during development
+during development, it was found that the comparatively heavy rear-mounted engine moved the center of mass of the vehicle rearwards. this meant that the vehicle had to be designed to push the center of drag as far rearward as possible to ensure stability over the entire flight regime. redesign of the vehicle to do this cost a significant proportion of the payload, and made the economics unclear. in particular, some of the analysis seemed to indicate that similar technology applied to a pure rocket approach would give at least as good performance at lower cost.
+
+programme shutdown
+in  1988 the government withdrew further funding, the project was approaching the end of its design phase but the plans were still speculative and dogged with aerodynamic problems and operational disadvantages.
+
+follow on programmes
+a cheaper redesign, interim hotol or hotol 2, to be launched from the back of a modified antonov an-225 transport aircraft, was offered by bae in 1991 but that too was rejected. interim hotol was to have dispensed with an air-breathing engine cycle and was designed to use more conventional lox and liquid hydrogen.
+
+in 1989 hotol co-creator alan bond formed reaction engines limited which has since been working on the reaction engines skylon vehicle intended to solve the problems of hotol. in november 2012, rel conducted tests on an engine under the eye of the european space agency and declared the tests a success and a major technical obstacle had been removed.http://www.bbc.co.uk/news/science-environment-20510112
+
+ 

@@ -1,0 +1,52 @@
+ 
+
+ 50px|archivearchives 
+ feb 2005 – mar 2005
+ mar 2005 – apr 2005
+ apr 2005 – may 2005
+ may 2005 – dec 2005
+ jan 2006 – nov 2006
+ nov 2006 – nov 2007
+ nov 2007 – nov 2008
+
+ science in china 
+
+in the last 24 hours there have been a series of reverts, back and forth about this version, mostly pertaining to science in china.  first, please note and follow the three revert rule.  second, it may be helpful to discuss the version here to come to some kind of consensus.  what is it about the new version people dislike, and what was wrong with the older version?  best, -teadrinker (talk) 19:55, 21 december 2008 (utc)
+
+the main problem is that the new additions seem like mostly unsourced or.  --tsourkpk (talk) 16:02, 22 december 2008 (utc)
+there is at least one mispelling by the anon; the text which the anon is hitting was formed by needham's monumental work science and civilization in china which asks  needham's grand question: why didn't scientific method arise in china? apparently one reason is that the age of discovery in china ran out of cash. the voyages of zheng he were not followed up, whereas the voyages from europe 'hit the jackpot'. needham, for example, faults the lack of knowledge of the laws of mechanics which were still in the process of formation in the west. there was no scientific revolution. needham, by the way, was a sinophile. china has caught up in science, it is fairly clear; for example, nobel laureate c. n. yang, in a public lecture, has stated that everything he needed to learn in physics, he learned in his chinese university schooling. what yang needed and got in the u.s. was what are the current problems which need to be solved?. --ancheta wis (talk) 16:28, 22 december 2008 (utc)
+
+you are welcome to correct my mispelling, but the work i wrote is certainly sourced.  needham's "grand question" can be answered simply that the scientific did arise in china, which can be easily supported if you look at historical facts.  one of the problems of historians like needham that study the history of a people whose language they do not understand is that they suffer from a severe impairment in accessing historical records.  historical records are written in a language that is not easily grasped by even a person fluent in a language, so much more one who does not even have that.  unfortunately, translations often lose the essence of the meaning of a text, and many terms are of course not translatable.  
+
+with this in mind, there was no european scientific revolution until modern times because of important historical factors, but science definitely existed in china since ancient times.  the critical steps of hypothesis, experimentation, observation, and theorization all existed in china at least since the han dynasty when the world's first paper was invented.  please refer to these sources: http://www.ipl.org/div/subject/browse/hum60.60.60/.  
+
+the insertion that the ancient chinese philosophical framework prevented them from practicing science is pure rubbish when you consider the facts.  confucius, one of the greatest philosophical influences on ancient chinese thought, taught in the analects that ultimately finding "the way" consisted in "the investigation of things".  this investigation was interpreted to be the highest endeavor of man, and it may be one of the factors behind the flourishing of universities and scientific learning in china when europe at the same time was immersed in religious mysticism and superstition.  —preceding unsigned comment added by 99.255.176.84 (talk) 19:28, 22 december 2008 (utc) 
+here is a citation which directly contradicts 99.255.176.84's claim: see page 467 of h. floris cohen, the scientific revolution: a historiographical inquiry, 1994, chicago, chicago university press.
+in-line citations are definitely in order here. it is unfortunate that the literature of the ipl site you list above refers to concepts which have little credibility in our current time. if you look at the theory of the chinese seismometer from 124 ce, it refers to dragons etc. we have been trained to disregard those concepts.
+some bridge articles to translate those concepts to more palatable terms are probably in order. when newton framed the mechanistic view of the world he moved world civilization away from the unobservables, while still keeping the work of the ancients, such as apollonius, archimedes, etc. their work survives in the current edifice called science. but not dragons. what the article needs is concrete scientific advances, their citations, and perhaps some sub-articles. the current list of chinese discoveries is very much in this vein; perhaps you might wish to summarize some items from this list to buttress your pov.
+i would not be so quick to denigrate needham; he spent a lifetime studying science and civilization in china, and his research has been extended. 
+here is a link to a biography of needham the man who loved china by simon winchester (2008)
+ 
+there is a difference between technology and science. the four great inventions are technology. if you want a starting point for science, thales' speculation on the nature of matter is considered by some to be the beginning of science. now i am not an expert on the corresponding chinese literature, but where are the citations for the analog of thales? i am aware that air or qi is very important to chinese civilization, to the extent that a mother will blow on a child's hurt to soothe it, but where is the chinese literature that speaks to the phases of qi, in a similar way as thales' phases of water? 
+needham identified wu wei (going with the grain of nature) as the highest form of action in chinese thought. reference: p. 474  of h.f.cohen 
+you may wish to consider the observations of the 1054 supernova in the crab nebula. chinese, arab, and even possibly native american astronomers observed and recorded it. (for the native american petroglyphs see page 23  malvin ruderman (1986) "old and new neutron stars", highlights of modern astrophysics isbn 0-471-82421-6 )  does this say that science was ongoing in pre-columbian america? no. in order for science to flourish, there needs to be a critical mass of thinkers, a scientific community which is observing, hypothesizing, experimenting, commenting. there needs to be an awareness that science is important enough to fund and support, whether individually, or by a larger society of supporters. that is what i was trying to emphasize when i wrote of the failure of the voyages of zheng he. --ancheta wis (talk) 01:12, 26 december 2008 (utc)
+
+ hajj and science 
+
+ in addition, there was the hajj, which facilitated scholarly collaboration by bringing together people and new ideas from all over the muslim world.
+
+citation need, no?  faro0485 (talk) 15:59, 24 december 2008 (utc)
+
+it sounds reasonable and intuitive, just relying on common sense.  i don't see why you would need a citation for something like this - that would be like needing a citation for saying apples are red.  —preceding unsigned comment added by 99.255.176.84 (talk) 20:43, 24 december 2008 (utc) 
+
+reasonable and intuitive it may be/ or not. however, if a bit of text is questioned, then a citation should be provided to back up that intuition. vsmith (talk) 23:32, 24 december 2008 (utc)
+
+if its reasonable and intuitive enough that means that it doesn't need a citation.  furthermore, if you aren't going to participate in the discussion on science in china then don't edit my work out because then it is just vandalism.  what i wrote is sourced and if you want to dispute it you can join the discussion instead of unreasonably vandalizing my work.  —preceding unsigned comment added by 99.255.176.84 (talk) 03:11, 25 december 2008 (utc) 
+
+i suggest we remove that mention on "hajj and science collaboration" faro0485 (talk) 00:48, 27 april 2009 (utc)
+
+:image:meccanismo_di_antikytera.jpg  
+
+hello! 
+
+this bot has detected that this page contains an image, :image:meccanismo_di_antikytera.jpg, in a raster format. a replacement is available as a scalable vector graphic (svg) at :file:antikythera_mechanism.svg. if the replacement image is suitable please edit the article to use the vector version. scalable vector graphics should be used in preference to raster for images that can easily represented in a vector graphic format. if this bot is in error, you may leave a bug report at its talk page thanks svnagbot1 (talk) 10:20, 26 april 2009 (utc)

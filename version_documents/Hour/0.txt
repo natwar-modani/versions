@@ -1,0 +1,22 @@
+nl:uur
+
+in modern usage, an hour is defined as a unit of time 60 minutes, or 3600 seconds in length. it is approximately 1/24 of a median day.
+
+earlier definitions of the hour:
+ one twelfth of the time from sunrise to sunset. as a consequence, hours on summer days are longer than on winter days. romans and greeks used this definition and divided the night into three or four night watches. later, the night (i. e., the time between sunset and sunrise) was also divided into twelve hours. when a clock showed these hours, its speed had to be changed every morning and evening, for example by changing the length of its pendulum.
+ one twenty-fourth of the apparent solar day (between one noon and the next, or between one sunset and the next). as a consequence, hours vary a little, as the length of an apparent solar day varies throughout the year. when a clock showed these hours, it had to be adjusted a few times in a month.
+ one twenty-fourth of the mean solar day. see mean sun for more information on the difference to the apparent solar day. when an exact clock showed these hours, it had te be adjusted virtually never. however, as earth rotation slows down, this definition has been abandoned. see utc.
+
+ counting hours 
+
+every definition of the hour came with its own starting point for counting the hours. the largest differences to today's counting are found in antiquity, when the first hour started at sunrise and the 12th hour ended at sunset, and in the italian time.
+the following counting was introduced in intaly during the 14th century. it lasted until mid-18th century, in some regions until mid-19th century.
+
+the hours are counted 1-24, the first hour starting at sunset, or 30 minutes after sunset (depending on local custom).
+so, for example, in december, the sun rises at 14 h 46 '; in june, it rises already at 7 h 51 ' (at lugano).
+this manner of measuring time has the advantage that everyone can easily read the clock to see how much time he will have to finish his daywork without artificial light.
+also, sunset is a much more conspicuous point in time than noon or midnight; setting a clock to italian time is much easier than setting it to mean solar time.
+many old sundials still witness this bygone time.
+
+there are probably 12 hours because there are approximately 12 lunar months in a solar year.  symmetries of this sort are common in ancient units of measurement.
+

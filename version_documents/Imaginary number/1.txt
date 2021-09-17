@@ -1,0 +1,17 @@
+es:número imaginario fr:nombre imaginaire pur ja:虚数単位
+nl:imaginair getal pl:liczby urojone de:imaginäre zahl
+
+in mathematics, an imaginary number is a number whose square is negative. the term was coined by rené descartes in the seventeenth century and was meant to be derogatory: obviously such numbers don't exist. nowadays we find the imaginary numbers on the vertical axis of the complex number plane. every imaginary number can be written as  where  is a real number and  the imaginary unit with the property that
+
+ 
+
+one way of viewing imaginary numbers is to consider a standard number line, positively increasing in magnitude to the right, and negatively increasing in magnitude to the left.  at zero on this x axis, draw a y axis; 'positive' imaginary numbers then increase in magnitude upwards, and 'negative' imaginary numbers increase in magnitude downwards.
+
+imaginary numbers are critically important in particle physics, where eigenvalues are generally expressed in terms of them.
+
+see the definition of complex numbers on how they can be constructed.
+
+(in electrical engineering and related fields, the imaginary unit is often written as j to avoid confusion with a changing current, traditionally denoted by i.) every complex number can be written uniquely as a sum of a real number and an imaginary number (its imaginary part).
+
+despite their name, imaginary numbers are just as "real" as real numbers (or just about as real as a number, which is an abstract concept, can be). imaginary numbers have concrete applications in a variety of sciences and related areas such as electromagnetism, quantum mechanics, and cartography. 
+

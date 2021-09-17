@@ -1,0 +1,14 @@
+i think there's a bug in the final line of the 
+python program. should it not be 
+called with the first element of the array, 1
+instead of with 0?
+
+is it for some reason impractical to implement a quaternary heapsort? --anonymous idiot, 2002 december 17, 10:13 pm
+
+to my mind o(n log n) is not approximately linear for large n,
+but i suppose it depends on your viewpoint. there are sort methods which are linear - e.g pigeon hole sort for a densely populated set of integers, and these
+could be expected to run significantly faster.
+
+however, both heapsort and quicksort are, for most practical purposes, amongst the
+fastest sorts. note that scrambling the elements before doing a quicksort is often
+more effective - as often the elements are almost in order, in which case quicksort is known to be slow. this does not apply to heapsort.

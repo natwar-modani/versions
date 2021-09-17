@@ -1,0 +1,13 @@
+the asymmetrical relationship is a relationship structure that defines a hierarchy. this can be for instance an authority relationship, a parent-child relationship, a containment relationship, or a part-to-whole relationship.
+
+the relationship conventionally has a direction that is labelled as upward and goes from a member labelled as immediate subordinate to another which is its immediate superior.
+
+generalizations: asymmetrical relationship
+
+specializations: none yet
+
+involved in: hierarchy
+
+primary domain: interdisciplinarity
+
+other potential examples: 

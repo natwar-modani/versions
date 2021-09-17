@@ -1,0 +1,26 @@
+hawaiian is the ancestral language of the indigenous people of the hawaiian islands, the hawaiians, a polynesian people.  hawaiian, along with english, is an official language of the state of hawai‘i. it is notable for having a small phoneme inventory (see hawaiian alphabet, below), like many of its polynesian cousins.  especially notable is the fact that it  originally did not distinguish between /t/ and /k/; few languages do not make that distinction. a /t/ pronunciation of this phoneme was common at the kaua‘i end of the island chain, and a /k/ pronunciation at the big island/island of hawaii end. 
+
+hawai‘ian is a member of the austronesian language family, related to sāmoan, māori, fijian, and other languages spoken throughout polynesia, and more distantly to some southeast asian and indian ocean languages.
+
+hawaiian is an endangered language. on most of the islands, hawaiian has been displaced by english and is no longer used as the daily language of communication.  an exception is ni‘ihau which still uses hawaiian in daily communications, because it is a privately owned island and visitation by outsiders is strictly controlled.  for a variety of reasons starting around 1900, the number of first-language speakers of hawaiian diminished from 37,000 to 1,000; half of these remaining are now in their seventies or eighties (see ethnologue report below for citations).
+
+efforts by native hawaiians to revive their ancestral language have increased in recent decades. hawaiian language "immersion" schools are now open to children whose families want to retain (or reintroduce) hawaiian language back into the next generation.  the local npr station features a short segment titled "hawaiian word of the day".
+
+those learning hawaiian as a second language, without native hawaiian speakers as constant models, have a tendency to pronounce hawaiian words as spelled, with english values for the letters, and to use english word order in sentences. there is also a certain tension between those who would revive a purist hawaiian, as spoken in the early 19th century, and those who grew up speaking a colloquial hawaiian shaped by more than one hundred years of contact with english and pidgin. 
+
+hawaiian pidgin (also known as hawaiian creole) is a local form of english with borrowings from hawaiian and asian languages (predominantly japanese and chinese introduced by immigrants hired to work at sugar and pineapple plantations.
+
+the iso language code for hawaiian is haw.
+
+see also: languages in the united states
+
+hawai‘ian alphabet
+
+the hawaiian alphabet, called ka pī‘āpā  hawai‘i in hawaiian, is a variety of the latin alphabet created in the 19th century and used to write the hawaiian language. until u.s. missionaries to hawai‘i created a written form, the language was only spoken. it consists of 12 letters and a symbol, making it one of the shortest alphabets in the world (rotokas alphabet has one letter fewer; the pirahã language, two fewer). its inventory consists of the consonants /p/, /k/, /‘/ or /'/ (glottal stop or ‘okina), /m/, /n/, /w/ (sometimes rendered as /v/), /l/, /h/, and the vowels /a/, /e/, /i/, /o/, /u/.  the macron, called a kahakō in hawaiian, used with vowels, both extends a vowel sound and indicates a stressed syllable; it does notchange the vowel sound.
+
+the ‘okina is officially written as an opening single quote ‘ with the unicode value &#x2018;, which appears either as a left-leaning quote or a quote with greater thickness at the bottom than at the top) or alternatively written as /ʻ/ with the unicode value &#x02bb; (which although always having the correct appearance is not supported in some fonts/browsers).
+
+for examples of use of the ‘okina consider the word "hawaii", in its proper form appearing as hawai‘i, or "oahu", which is o‘ahu. we see from these hawaiian spellings, that the words are actually pronounced (using ipa): /ha.ˈvai.ʔi/ and /o.ˈʔahu/, with a glottal stop where the ‘okina is written.
+
+there are 162 possible syllables in hawaiian, the fewest of any language.
+

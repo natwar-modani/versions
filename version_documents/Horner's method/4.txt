@@ -1,0 +1,136 @@
+in numerical analysis, the horner scheme or horner algorithm, named after william george horner, is an algorithm for the efficient evaluation of polynomials in monomial form. horner's method describes a manual process by which one may approximate the roots of a polynomial equation. the horner scheme can also be viewed as a fast algorithm for dividing a polynomial by a linear polynomial with ruffini's rule.
+
+description of the algorithm
+
+given the polynomial
+
+where  are real numbers,
+we wish to evaluate the polynomial at a specific value of , say .
+
+to accomplish this, we define a new sequence of constants as follows:
+{|
+|
+|-
+|
+|
+|
+|-
+|
+|
+|
+|-
+|
+|align="center"|
+|
+|-
+|
+|
+|
+|}
+then  is the value of .
+
+to see why this works, note that the polynomial can be written in the form
+
+thus, by iteratively substituting the  into the expression,
+{|
+|
+|-
+|
+|
+|
+|-
+|
+|
+|
+|-
+|
+|align="center"|
+|
+|-
+|
+|
+|
+|-
+|
+|
+|
+|}
+
+examples
+evaluate  for .  by repeatedly factoring out ,  may be rewritten as .  we use a synthetic diagram to organize these calculations and make the process faster. 
+  |                
+
+  3 |   2    -6     2    -1
+    |         6     0     6    
+    |----------------------
+        2     0     2     5
+
+the entries in the third row are the sum of those in the first two. each entry in the second row is the product of the x-value (3 in this example) with the third-row entry immediately to the left. the entries in the first row are the coefficients of the polynomial to be evaluated. the answer is 5.
+
+as a consequence of the polynomial remainder theorem, the entries in the third row are the coefficients of the second-degree polynomial that is the quotient of f1/(x-3). the remainder is 5. this makes horner's method useful for polynomial long division. 
+
+divide  by :
+
+  2 |   1    -6    11    -6
+    |         2    -8     6    
+    |----------------------
+        1    -4     3     0
+
+the quotient is .
+
+let  and . divide  by  using horner's scheme. 
+
+   2 |  4    -6    0    3   |   -5
+ ---------------------------|------
+   1 |        2   -2   -1   |    1
+     |                      |  
+     |----------------------|-------
+        2    -2    -1   1   |   -4    
+
+the third row is the sum of the first two rows, divided by 2. each entry in the second row is the product of 1 with the third-row entry to the left. the answer is 
+
+floating point multiplication and division
+horner's method is a fast, code-efficient method for multiplication and division of binary numbers on a microcontroller with no math coprocessor.  one of the binary numbers to be multiplied is represented as a trivial polynomial, where, (using the above notation):  ai = 1, and x = 2.  then, x (or x to some power) is repeatedly factored out.  in this binary numeral system (base 2), x = 2, so powers of 2 are repeatedly factored out.
+
+example
+for example, to find the product of two numbers, (0.15625) and "m":
+
+method
+to find the product of two binary numbers, "d" and "m".
+1. a register holding the intermediate result is initialized to (d).
+2. begin in (m) with the least significant (rightmost) non-zero bit,
+2b. count (to the left) the number of bit positions to the next most significant non-zero bit.  if there are no more-significant bits, then take the value of the current bit position.
+2c. using that value, perform a right-shift operation by that number of bits on the register holding the intermediate result
+3. if all the non-zero bits were counted, then the intermediate result register now holds the final result.  otherwise, add (d) to the intermediate result, and continue in step #2 with the next most significant bit in (m).
+
+derivation
+in general, for a binary number with bit values: () the product is:
+
+at this stage in the algorithm, it is required that terms with zero-valued coefficients are dropped, so that only binary coefficients equal to one are counted, thus the problem of multiplication or division by zero is not an issue, despite this implication in the factored equation:
+
+the denominators all equal one (or the term is absent), so this reduces to:
+
+or equivalently (as consistent with the "method" described above):
+
+in binary (base 2) math, multiplication by a power of 2 is merely an register shift operation.  thus, multiplying by 2 is calculated in base-2 by a right arithmetic shift.  the factor (2-1) is a right arithmetic shift, a (0) results in no operation (since 20 = 1, is the multiplicative identity element), and a (21) results in a left arithmetic shift.
+the multiplication product can now be quickly calculated using only arithmetic shift operations, addition and subtraction.  
+
+the method is particularly fast on processors supporting a single-instruction shift-and-addition-accumulate.  compared to a c floating-point library, horner's method sacrifices some accuracy, however it is nominally 13 times faster (16 times faster when the "canonical signed digit" (csd) form is used), and uses only 20% of the code space.  (kripasagar 62)
+ kripasagar, march 2008, "efficient micro mathematics", circuit cellar, p.62, issue 212 
+
+application
+
+the horner scheme is often used to convert between different positional numeral systems — in which case x is the base of the number system, and the ai coefficients are the digits of the base-x representation of a given number — and can also be used if x is a matrix, in which case the gain in computational efficiency is even greater.
+
+efficiency
+
+evaluation using the monomial form of a degree-n polynomial requires at most n additions and (n2 + n)/2 multiplications, if powers are calculated by repeated multiplication and each monomial is evaluated individually.  (this can be reduced to n additions and 2n + 1 multiplications by evaluating the powers of x iteratively.)  if numerical data are represented in terms of digits (or bits), then the naive algorithm also entails storing approximately 2n times the number of bits of x (the evaluated polynomial has approximate magnitude xn, and one must also store xn itself).  by contrast, horner's scheme requires only n additions and n multiplications, and its storage requirements are only n times the number of bits of x. alternatively, horner's scheme can be computed with n fused multiply-adds.
+
+it has been shown that the horner scheme is optimal, in the sense that any algorithm to evaluate an arbitrary polynomial must use at least as many operations. that the number of additions required is minimal was shown by alexander ostrowski in 1954; that the number of multiplications is minimal by victor pan, in 1966. when x is a matrix, the horner scheme is not optimal.
+
+this assumes that the polynomial is evaluated in monomial form and no preconditioning of the representation is allowed, which makes sense if the polynomial is evaluated only once. however, if preconditioning is allowed and the polynomial is to be evaluated many times, then faster algorithms are possible. they involve a transformation of the representation of the polynomial. in general, a degree-n polynomial can be evaluated using only  multiplications and n additions (see knuth: the art of computer programming, vol.2).
+
+history
+
+even though the algorithm is named after william george horner, who described it in 1819, the method was already known to isaac newton in 1669, and even earlier to the chinese mathematician ch'in chiu-shao in mathematical treatise in nine sections in the 13th century.
+

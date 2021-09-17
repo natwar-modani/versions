@@ -1,0 +1,25 @@
+--mion 21:04, 4 september 2006 (utc)
+
+ relativistic effects of electron 
+
+the discussion of the speed of the electron stated that it "moved" at 1/100 the speed of light.  my research shows that it's 1/10, and doesn't apply to the innermost shell.  the primer i linked to includes the math.  —då‚ugosz
+the speed of the electron is not a precisely definable quantity in a given energy state. however, the low-energy states have v/c on the order of the fine structure constant, which is closer in order of magnitude to 1/100 than 1/10.--76.81.164.27 05:59, 13 april 2007 (utc)
+
+ wave function 
+
+although the wave function may be correct for a particular definition of the generalized laguerre polynomials, the expression in the article (before my edit) was not if we use the definition in the laguerre polynomials. i think we should be coherent with the other articles, so i have changed the expression for the wave function to use those polynomials. 
+
+(i'm new at editing wikipedia, so if i haven't done anything properly, i would like you to tell me, please. thank you).
+
+ga on hold failed
+some minor things to adjust before the ga is awarded :
+ needs just a bit more references.
+ the mathematical summary of eigenstates of hydrogen atom section is really tough to understand by itself, it needs more text surrounding it. lincher 15:48, 23 june 2006 (utc)
+nothing was changed, the article will be failed. lincher 13:44, 2 july 2006 (utc)
+
+ wavefunction formula with (n+l)!^3 
+
+the wavefuction formulas on hydrogen atom and hydrogen-like atom were recently changed ( and , respectively) to have (n+l)!^3 instead of (n+l)!. i have come across several instances with the (n+l)^3 form (e.g. ); this also seems to contain the (n+l)!^3 version, but the generalized laguerre polynomials have subscripts of n+l, instead of n-l-1 as they are in wikipedia's articles.  i am guessing that maybe separate definitions of generalized laguerre polynomials are being used, as suggested by a comment above by user:john c pi (cf. this edit)? this page has the (n+l)! version (i am assuming the use of (n+1)! is a typo) with laguerre subscript of n-l-1. i tried a quick check in my head for n = 2, l = 1; based on eq. 33 and 36 at , it seems that the use of (n+l)! with the n-l-1 degree generalized laguerre would give the (presumably) correct result provided here, whereas the n+l degree version would result in a polynomial in r of at least degree 3. (also, the use of (n+l)!^3 instead of (n+l)! would seem to give a different constant muliplier than provided in the previous link.) i am going to revert the changes based on my limited investigation into this issue...if anyone is able to confirm the validity of my assessment or clarify the seemingly contradictory results that i found, that would be great.--gregrm 20:39, 29 january 2007 (utc)
+
+yes, this is true. the problem is that different sources use different definitions for laguerre polynomials, and we expect wikipedia to be consistent. in fact, when i studied the quantum physics subject (i'm a student of physics), it was very confusing that the two professors we had used different definitions! anyway, the reversion you did is correct if we want to be consistent with the definitions in the generalized laguerre polynomials article. 
+i don't remember which recognised books use which definition, and which is more widespread, since my 

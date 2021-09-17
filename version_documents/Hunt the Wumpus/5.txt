@@ -1,0 +1,32 @@
+hunt the wumpus is an early computer game, based on a simple hide and seek format featuring a mysterious monster (the wumpus) that lurks deep inside a network of rooms.  it was originally a text-based game written in basic.  it has since been ported to various programming languages and platforms including graphical versions.
+
+ about the game 
+rules of the game
+[[image:dodecahedron.png|right|150px|thumb|the shape of the labyrinth of the hunt the wumpus game.]]
+the original text-based version of hunt the wumpus uses a command line text interface. a player of the game enters commands to move through the rooms or to shoot "crooked arrows" along a tunnel into one of the adjoining rooms. there are twenty rooms, each connecting to three others, arranged like either the vertices of a dodecahedron or the faces of an icosahedron. hazards include bottomless pits, super bats (which drop the player in a random location, a feature duplicated in later, commercially published adventure games, such as zork i, valley of the minotaur, and adventure), and the wumpus itself. the wumpus is described as having sucker feet (to escape the bottomless pits) and being too heavy for a super bat to lift. when the player has deduced from hints which chamber the wumpus is in without entering the chamber, he fires an arrow into the wumpus's chamber to kill it. the player wins the game if he kills the wumpus. however, firing the arrow into the wrong chamber startles the wumpus, which may cause it to move to an adjacent room. the player loses if he is in the same room as the wumpus (which then eats him) or a bottomless pit.
+
+history of the game
+originally written by gregory yob in basic while attending the dartmouth campus of the university of massachusetts and noticed on mainframes at least by 1972, hunt the wumpus was first published in the people's computer companythe people's computer company, founded in october 1971, was a small non-profit group of independent educators who met in a small storefront on menalto rd. in menlo park, california during the 1970s.  the first issue of their journal, people's computer company, was published in october 1972. journal in 1973, again in 1975 in creative computing, and finally in 1979 in the book more basic computer games. out of frustration with all the grid-based hunting games he had seen, such as snark, mugwump, and hurkle, yob decided to create a map-based game. yob injected adversarial humor into the computer's hints, prefiguring the "voice" of the infocom narrator.hunt the wumpus (1972?) later versions of the game offered more hazards and other cave layouts. an implementation of hunt the wumpus was typically included with mbasic, microsoft's basic interpreter for cp/m and one of the company's first products. hunt the wumpus was adapted as an early game for the commodore pet entitled twonky, which was distributed in the late 1970s with cursor magazine. a version of the game can still be found as part of the bsdgames package on modern bsd operating systems, where it is known as "wump."
+
+later versions of the game
+the 1980 port of the game for the ti-99/4a differs quite a bit from the original while retaining the same concept. it is a graphical rather than text-based game, and uses a regular grid equivalent to a torus rather than an icosahedron. in this version, the wumpus is depicted as a large red head with a pair of legs growing out of its sides. 
+
+in 2009, wumpus became available for iphone. in this game, the wumpus is furry and purple with big eyes and a penchant for eating the naturalists attempting to tranquilize it for study.hunt the wumpus - ti-99/4a screenshots - mobygames
+
+ hunt the wumpus in other games 
+the card game magic: the gathering has featured several "wumpus" cards. the wumpus seen on magic cards is a beast with a characteristically-shaped head, jaw and mane. mercadian masques featured hunted wumpus (reprinted in several core sets, including 10th edition), as well as thrashing wumpus. planar chaos, a set concentrating on new takes on popular cards, contained shivan wumpus.
+
+the wumpus is also found in the open source game nethack and the game m.u.l.e, with capture of the wumpus in the latter game leading to an in-game cash prize for the player.wumpus - wikihack, the nethack wikinethack gazetteer: ranger questnethack experience values spoilerm.u.l.e. for commodore 64 - mobygames
+
+the wumpus is mentioned in the "thy dungeonman" games in homestarrunner.com.
+it is also mentioned in the october 18, 2000 cartoon at userfriendly.org.
+
+the wumpus gets his revenge on wumpus hunters in the audio-only game be the wumpus.
+
+a zone in kingdom of loathing was introduced in june of 2009 which features an icosahedral map and the goal of which is to find the wumpus and defeat it in combat.kingdom of loathing wiki
+
+wumpus is the inspiration behind and project name of nicholas the traveler, an evermoving character in guild wars.
+
+ notes 
+
+ 

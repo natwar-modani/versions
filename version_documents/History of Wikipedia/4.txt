@@ -1,0 +1,57 @@
+the history of wikipedia began in a conversation between two old internet friends, larry sanger, editor-in-chief of nupedia, and ben kovitz, a computer programmer and polymath, on the evening of january 2, 2001, in san diego, california.
+
+formulation of the idea
+
+for months prior to this discussion, sanger and his boss, jimmy wales, president and ceo of bomis, inc., had been discussing various ways to supplement nupedia with a more open, complementary project. kovitz was a regular on the portland pattern repository ("ward's wiki"). when kovitz explained the basic wiki concept to sanger over dinner, sanger immediately saw that a wiki would be an excellent format whereby a more open, less formal encyclopedia project could be pursued.
+
+project beginnings
+
+sanger easily persuaded wales to set up a wiki for nupedia, and nupedia's first wiki went online on january 10. there was considerable resistance on the part of nupedia's editors and reviewers to the idea of associating nupedia with a website in the wiki format, however, so the new project was given the name "wikipedia" and launched on its own domain, wikipedia.com, on january 15 (now humorously called "wikipedia day" by some wikipedians). the bandwidth and server (located in san diego) were donated by wales.
+
+the project received large numbers of participants after being mentioned, three times, on the tech website slashdot — two minor mentions on march 5 and march 30, 2001, and then a prominent pointer to a story on the community-edited technology and culture website kuro5hin on july 26. between these relatively rapid influxes of traffic, there has been a steady stream of traffic from other sources, especially google, which alone sent hundreds of new visitors to the site every day.
+
+the project passed 1,000 articles around february 12, 2001, and 10,000 articles around september 7. in the first year of its existence, over 20,000 encyclopedia entries were created — a rate of over 1,500 articles per month. on august 30, 2002, the article count reached 40,000. the rate of growth has more or less steadily increased since the inception of the project, except for some software-induced slow-downs.
+
+international expansion
+
+the international expansion of the project also took place during this period. in may, 2001, the first wave of non-english wikipedias were launched (in catalan, chinese, dutch, german, esperanto, french, hebrew, italian, japanese, portuguese, russian, spanish, and swedish, soon joined by arabic and hungarian , ). in september,  a further commitment to the multilingual provision of wikipedia was made. at the end of the year, when international statistics first began to be logged, afrikaans, norwegian, and serbocroatian versions were announced. 
+
+continuing growth
+
+until january 2002, sanger was employed by bomis as editor-in-chief of nupedia and the unofficial leader of wikipedia. funding ran out, however, and sanger resigned from both positions in march 2002.
+
+in february 2002, most participants of the spanish wikipedia broke away to establish the enciclopedia libre. 
+
+the project is occasionally visited by "vandals" who remove valid articles or post inappropriate content. while such vandalism is generally quickly reverted, the project's main page was, for a time, subjected to repeated vandalism. this led to the protection of the page so that it could only be changed by administrators.
+
+in august 2002, shortly after jimbo wales announced that he would never run commercial advertisements on wikipedia, the url of wikipedia was changed from wikipedia.com to wikipedia.org.
+
+in the same summer, policy and style issues were clarified with the creation of the manual of style along with a number of other policies and guidelines.
+
+in october 2002, derek ramsey ("ram-man") started to use a "bot", or program, to add a large number of articles about u.s. towns; these articles were automatically generated from census data. occasionally, similar bots had been used before for other topics.
+
+in december 2002, the sister project wiktionary was created; it aims to produce a dictionary and thesaurus of the words in all languages. it runs on the same server as wikipedia and uses the same software.
+
+in january 2003, support for mathematical formulas in tex was added. the code was contributed by tomasz wegrzanowski.
+
+on january 22 2003, wikipedia was again slashdotted after having reached the 100,000 article milestone. two days later, the german language wikipedia, the largest non-english version, passed the 10,000 article mark.
+
+in june 2003, "wikiquote" was created. a month later, "wikibooks" was launched. 
+
+in january 2004, wikipedia passed the 200,000 article milestone in english and reached 450,000 articles for both english and non-english wikis.
+
+in february 2004, the combined article count of the english and non-english wikis reached 500,000.
+
+on may 29, 2004, all the various wikiprojects were updated to a new version of mediawiki, the software that runs the various wikiprojects.
+
+on june 3, 2004, the people's republic of china blocked the chinese wikipedia.  a few days later, all language wikipedias were blocked. the ban was lifted on june 17.
+
+on july 7, 2004, the article count of the english wiki reached 300,000.
+
+related
+
+ see japanese wikipedia for the history of the japanese edition of wikipedia.
+ see wikipedia#software and hardware for a brief history of the software.
+ see camelcase and wikipedia for an aspect of the old wikipedia software.
+
+ 

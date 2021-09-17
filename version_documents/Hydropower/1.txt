@@ -1,0 +1,11 @@
+de:wasserkraft
+nl:waterkracht
+sv:vattenkraft
+
+hydropower harnesses the energy of moving or falling water. this is usually in the form of hydroelectricity from a dam, but it can be used directly as a mechanical force. the term refers to a number of systems in which flowing water drives a water turbine or waterwheel.
+
+prior to the widespread availability of commercial electricity, hydropower was widely used for milling, textile manufacture, and the operation of sawmills. in the 1830s, at the height of the canal-building era, hydropower was used to transport barge traffic up and down steep hills using the technology of inclined plane railroads.
+
+hydropower can be far less expensive than fossil fuel or nuclear energy.  areas with abundant hydropower attract industry with low cost electricity.  increased environmental concerns have begun to outweigh cheap electricity in some countries.
+
+ 

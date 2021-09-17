@@ -1,0 +1,56 @@
+railways:
+total:
+62,915 km (12,307 km electrified; 12,617 km double track)
+broad gauge:
+40,620 km 1.676-m gauge
+narrow gauge:
+18,501 km 1.000-m gauge; 3,794 km 0.762-m and 0.610-m gauge (1998 est.)
+
+cities with underground railway systems: calcutta, chennai, delhi
+<p>highways:
+total:
+3,319,644 km
+paved:
+1,517,077 km
+unpaved:
+1,802,567 km (1996 est.)
+<p>waterways:
+16,180 km; 3,631 km navigable by large vessels
+<p>pipelines:
+crude oil 3,005 km; petroleum products 2,687 km; natural gas 1,700 km (1995)
+<p>ports and harbors:
+calcutta, chennai (madras), cochin, jawaharal nehru, kandla, mumbai (bombay), vishakhapatnam
+<p>merchant marine:
+total:
+321 ships (1,000 grt or over) totaling 6,647,268 grt/11,074,025 dwt
+ships by type:
+bulk 124, cargo 69, chemical tanker 14, combination bulk 1, combination ore/oil 4, container 15, liquified gas 10, passenger/cargo 5, petroleum tanker 75, short-sea passenger 2, specialized tanker 2 (1999 est.)
+<p>airports:
+346 (1999 est.)
+<p>airports - with paved runways:
+total:
+238
+over 3,047 m:
+12
+2,438 to 3,047 m:
+49
+1,524 to 2,437 m:
+84
+914 to 1,523 m:
+74
+under 914 m:
+19 (1999 est.)
+<p>airports - with unpaved runways:
+total:
+108
+2,438 to 3,047 m:
+2
+1,524 to 2,437 m:
+4
+914 to 1,523 m:
+47
+under 914 m:
+55 (1999 est.)
+<p>heliports:
+16 (1999 est.)
+

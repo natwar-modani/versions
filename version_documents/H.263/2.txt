@@ -1,0 +1,19 @@
+h.263 is a video codec designed by the itu-t as a low-bitrate encoding solution for videoconferencing.  it was first designed to be utilized in h.324 based systems (pstn and other circuit-switched network videoconferencing and videotelephony), but has since found use in h.323 (rtp/ip-based videoconferencing), h.320 (isdn-based videoconferencing), rtsp (streaming media) and sip (internet conferencing) solutions as well.
+
+h.263 was developed as an evolutionary improvement based on experience from h.261, the previous itu-t standard for video compression, and the mpeg-1 and mpeg-2 standards.  its first version was completed in 1995 and provided a suitable replacement for h.261 at all bitrates.  it was further enhanced in projects known as h.263v2 (a.k.a. h.263+ or h.263 1998) and h.263v3 (a.k.a. h.263++ or h.263 2000).
+
+the next enhanced codec developed by the itu-t (in partnership with mpeg) after h.263 is the h.264 standard, also known as avc and mpeg-4 part 10.  as h.264 provides a significant improvement in capability beyond h.263, the h.263 standard is now considered primarily a legacy design (although this is a recent development).  most new videoconferencing products now include h.264 as well as h.263 and h.261 capabilities.
+
+for more information on h.263, see the following sources:
+external link
+  ietf avt working group - group that reviews codec packetizations for rtp
+   rtp payload format for h.263 video streams (rfc 2190)
+  rtp payload format for the 1998 version of itu-t rec. h.263 video (h.263+) (rfc 2429)
+  find h.263 specification on itu website
+  intel's h.263 codec installer for windows
+ i263 video codec
+ h.263 specifications
+ h.263 implementation in vic (source code available)
+ video demystified - book which includes info about h.263
+ list of h.261-h.263 resources
+

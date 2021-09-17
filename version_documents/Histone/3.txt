@@ -1,0 +1,29 @@
+in biology, histones are the chief proteins of chromatin. they act as spools around which dna winds and they play a role in gene regulation.
+histones are found in the nuclei of eukaryotic cells. bacteria do not have histones, but histones are found in certain archaea, namely euryarchaea.  these archaeal histones may well resemble the evolutionary precursors to the eukaryotic histones.
+
+classes
+six histone classes are known:
+h1 (sometimes called the linker histone or h5.)
+h2a
+h2b
+h3
+h4
+archaeal histones
+
+two each of the class h2a, h2b, h3 and h4 assemble to form one octameric nucleosome by wrapping 146 base pairs of dna around the protein spool in nearly two turns.  the linker histone h1 binds the nucleosome and the entry and exit sites of the dna, thus locking the dna into place and allowing the formation of higher order stuctures of dna topology.  the most basic such formation is the 10 nm fiber or beads on a string conformation.  this involves the wrapping of dna around nucleosomes with approximately 50 base pairs of dna spaced between each nucleosome.  higher order stuctures include the 30 nm fiber and 100 nm fiber, until finally through the combination of nucleosome interactions with other proteins, the chromosome is assembled.
+
+functions
+histones act as spools around which dna winds and they play a role in gene regulation.
+this enables the compaction necessary to fit the large genomes of eukaryotes inside cell nuclei.
+histones act in gene regulation. histones can undergo posttranslational modifications. these modifications can play a role in gene regulation in an epigenetic manner.  regulation occurs at the tata box.
+
+structure
+histones are rich in lysine and arginine and are water-soluble.
+histones are subject to posttranslational modification by enzymes primarily on their n-terminal tails, but also in their globular domains. such modifications include methylation, acetylation, phosphorylation, ubiquitination, and adp-ribosylation. this affects their function of gene regulation (see functions).
+
+in general, genes that are active have less bound histone, while inactive genes are highly associated with histones during interphase.  it also appears that the structure of histones have been evolutionarily conserved, as any deleterious mutations would be severely maladaptive.
+
+history
+histones were discovered in 1884 by albrecht kossel.  the word "histone" dates from the late 19th century and is from the german "histon", of uncertain origin: perhaps from greek histanai or from histos.
+until the early 1990s, histones were dismissed as merely packing material for nuclear dna. during the early 1990s, the regulatory functions of histones were discovered.
+

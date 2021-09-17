@@ -1,0 +1,70 @@
+homeostasis or homoeostasis is the property of an open system, especially living organisms, to regulate its internal environment so as to maintain a stable condition, by means of multiple dynamic equilibrium adjustments controlled by interrelated regulation mechanisms. 
+
+the term was coined in 1932 by walter cannon from two greek words (to remain the same).
+
+ overview 
+the term is most often used in the sense of biological homeostasis.  homeo- similar or same. stasis- standing or stopping.
+multicellular organisms require a homeostatic internal environment, in order to live; many environmentalists believe this principle also applies to the external environment.
+many ecological, biological, and social systems are homeostatic. they oppose change to maintain equilibrium. if the system does not succeed in reestablishing its balance, it may ultimately lead the system to stop functioning.
+
+complex systems, such as a human body, must have homeostasis to maintain stability and to survive. these systems do not only have to endure to survive; they must adapt themselves and evolve to modifications of the environment.
+
+ properties of homeostasis 
+homeostatic systems show several properties:
+they are ultrastable;
+their whole organization, internal, structural, and functional, contributes to the maintenance of equilibrium
+they are unpredictable (the resulting effect of a precise action often has the opposite effect to what was expected).
+main examples of homeostasis in mammals are as follows:
+the regulation of the amounts of water and minerals in the body. this is known as osmoregulation. this happens in the kidneys.
+the removal of metabolic waste. this is known as excretion. this is done by the excretory organs such as the kidneys and lungs. 
+the regulation of body temperature. this is mainly done by the skin.
+the regulation of blood glucose level. this is mainly done by the liver and the insulin secreted by the pancreas.
+
+ mechanisms of homeostasis: feedback 
+main article: feedback
+
+when a change of variable occurs, there are two main types of feedback to which  the system reacts:
+negative feedback is a reaction in which the system responds in such a way as to reverse the direction of change.  since this tends to keep things constant, it allows the maintenance of homeostasis.  for instance, when the concentration of carbon dioxide in the human body increases, the lungs are signalled to increase their activity and expel more carbon dioxide. thermoregulation is another example of negative feedback. when body temp rises (or falls), receptors in the skin and the hypothalamus sense a change, triggering a command from the brain, which in turn effects the correct response, this case being body temp decreases.
+in positive feedback, the response is to amplify the change in the variable.  this has a de-stabilizing effect, so does not result in homeostasis.  positive feedback is less common in naturally occurring systems than negative feedback, but it has its applications.  for example, in nerves, a threshold electric potential triggers the generation of a much larger action potential.  (see also leverage points.) blood clotting and events in childbirth are other types of positive feedback.
+
+ ecological homeostasis 
+
+in the gaia hypothesis, james lovelock stated that the entire mass of living matter on earth (or any planet with life) functions as a vast organism that actively modifies its planet to produce the environment that suits its needs. in this view, the entire planet maintains homeostasis. whether this sort of system is present on earth is still open to debate. however, some relatively simple homeostatic mechanisms are generally accepted. for example, when atmospheric carbon dioxide levels rise, plants are able to grow better and thus remove more carbon dioxide from the atmosphere. when sunlight is plentiful and atmospheric temperature climbs, the phytoplankton of the ocean surface waters thrive and produce more dimethyl sulfide, dms. the dms molecules act as cloud condensation nuclei which produce more clouds and thus increase the atmospheric albedo and lower the temperature of the atmosphere.
+
+ biological homeostasis 
+
+homeostasis is one of the fundamental characteristics of living things.  it is the maintenance of the internal environment within tolerable limits.
+
+the internal environment of a living organism's body features body fluids in multicellular animals.  the body fluids include blood plasma, tissue fluid and intracellular fluid.  the maintenance of a steady state in these fluids is essential to living things as the lack of it harms the genetic material.
+
+with regard to any parameter, an organism may be a conformer or a regulator.  regulators try to maintain the parameter at a constant level, regardless of what is happening in its environment.  conformers allow the environment to determine the parameter.  for instance, endothermic animals maintain a constant body temperature, while ectothermic animals exhibit wide variation in body temperature.
+
+this is not to say that conformers may not have behavioral adaptations that allow them to exert some control over the parameter in question.  for instance, reptiles often sit on sun-heated rocks in the morning to raise their body temperatures.
+
+an advantage of homeostatic regulation is that it allows the organism to function more effectively.  for instance, ectotherms tend to become sluggish at low temperatures, whereas endotherms are as active as always.  on the other hand, regulation requires energy.  one reason snakes are able to eat just once a week is that they use much less energy for maintaining homeostasis.
+
+ homeostasis in the human body 
+all sorts of factors affect the suitability of the human body fluids to sustain life; these include properties like temperature, salinity, and acidity, and the concentrations of nutrients such as glucose, various ions, oxygen, and wastes, such as carbon dioxide and urea.  since these properties affect the chemical reactions that keep bodies alive, there are built-in physiological mechanisms to maintain them at desirable levels.
+
+however, it should be noted that homeostasis is not the reason for these ongoing unconscious adjustments. homeostasis should be thought of as a general characterization of many normal processes in concert, not their proximal cause per se. moreover, there are numerous biological phenomena which do not conform to this model, such as anabolism.
+
+ other fields 
+the term has come to be used in other fields, as well.
+
+an actuary may refer to "risk homeostasis", where (for example) people who have anti-lock brakes have no better safety record than those without anti-lock brakes, because they unconsciously compensate for the safer vehicle via less-safe driving habits.
+
+sociologists and psychologists may refer to "stress homeostasis", the tendency of a population or an individual to stay at a certain level of stress, often generating artificial stresses if the "natural" level of stress is not enough.
+
+examples
+thermoregulation:
+the skeletal muscles can shiver to produce heat if the body temperature is too low.
+non-shivering thermogenesis involves the decomposition of fat to produce heat.
+sweating cools the body with the use of evaporation.
+chemical regulation
+the pancreas produces insulin and glucagon to control blood-sugar concentration.
+the lungs take in oxygen and give off carbon dioxide.
+the kidneys remove urea, and adjust the concentrations of water and a wide variety of ions.
+
+most of these organs are controlled by hormones secreted from the pituitary gland, which in turn is directed by the hypothalamus.
+
+ 

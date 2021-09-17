@@ -1,0 +1,127 @@
+the hungarian language is a finno-ugric language spoken in hungary and in adjacent areas of romania, slovakia, ukraine, serbia, croatia, austria, slovenia (all territories lost after world war i). the hungarian name for the language is magyar.
+
+there are about 14.5 million speakers, of whom 10 million live in hungary.
+
+hungarian (magyar)spoken in:hungary and 10 other countriesregion: --total speakers:14.5 millionranking:66geneticclassification:uralic
+ finno-ugric
+  ugric
+   hungarianofficial statusofficial language of:hungary, slovenia, vojvodinaregulated by: --language codesiso 639-1huiso 639-2hunsilhng
+
+classification
+hungarian is generally believed to be a member of the ugric languages, a sub-group of the finno-ugric language family, which in turn is a branch of the uralic languages. 
+
+there are various alternative theories about the origins of hungarian language, but these are dismissed by most linguists owing to a lack of evidence:
+
+ hungarian has been claimed to be closely related to hunnish, since hungarian legends and histories show close ties between the two peoples, and both the huns and the modern day hunnish (maybe székely) people lived in hungary. however, the link with hunnish is uncertain, like some other, even less probable theories (e.g. deriving hungarian from the likewise agglutining sumerian language).
+ for a long time the theory of finno-ugric origin and the idea hungarian is kindred with some turkish languages, were rival ("ugric-turkish war" from 1869). despite the official academic attitude, only linguistics has declared the victory of the  finno-ugrists in this dispute.  this is because of linguistic evidence supporting the standing-point of hungarian's finno-ugric origin.  serious evidence in a lot of other sciences (genetics, archeology) clash the finno-ugric origin.
+
+geographic distribution
+hungarian is spoken in the following countries:
+
+countryspeakershungary10,298,820romania(mainly transylvania) 1,700,000 - 3,000,000(x)slovakia597,400serbia and montenegro293,000ukraine187,000israel70,000sweden35,000austria22,000croatia16,500slovenia9,240
+
+(x) of which, according to the 2002 census, 1,450,000 speak it as mother tongue.
+
+hungarian is also spoken in australia, canada, and the usa.
+
+source:ethnologue
+
+official status
+hungarian is the official language of hungary, and thus an official language of the eu.
+
+dialects
+the dialects of hungarian identified by ethnologue are: alföld, west danube, danube-tisza, king's pass hungarian, northeast hungarian, northwest hungarian, szekely and west hungarian.
+
+ phonology 
+
+there are some sounds which do not exist in english, such as /ɟ/.
+
+for a complete table of the pronunciation of the hungarian alphabet, see this article in the hungarian wikipedia (in hungarian, but the table is obvious), which transliterates hungarian letters into ipa and x-sampa characters.
+
+for example the pronunciation of "magyarország" (hungary) is /mɑɟɑrorsaːg/, stress on first syllable.
+
+grammar
+the order of words in a sentence is determined not by syntactic roles, but rather by pragmatic - i.e., discourse-driven - factors. words can be compound (as in german) and derived (with suffixes).
+
+the passive voice is almost extinct, but can be found in old literary texts.
+
+many grammatical and syntactic functions, elements and constructions are based on suffixes. the mark for the plural of a noun is a suffixed -k, preceded by a vowel if the word ends in a consonant. usually, vowels are inserted between the word and its suffix to prevent a buildup of consonants (and hence to prevent unpronouncable words).
+
+hungarian has many different cases (esetek). most common are the nominative case, accusative case and dative case; some express location (inside: inessive case, on the surface: superessive case, nearby: adessive case); some express placement (from inside: elative case, from the surface: delative case, from nearby: ablative case, to inside: illative case, to the surface: sublative case, to nearby: allative case); some express other relations (terminative case, essive-formal case, instrumental-comitative case, translative case, causal-final case). there are further cases of restricted use (locative case, essive-modal case, distributive case, distributive-temporal case, sociative case). for examples of some of these cases, refer to the article on the finnish language.
+
+the infinitive of verbs is the radical suffixed by -ni.
+
+ verbs 
+as a beginning of a more complete vocabulary (szókincs), an extract for the verb "to be" in hungarian, lenni.
+
+forms are presented in this order:
+
+i, you, he/she/it, we, you, they
+
+én, te, ő, mi, ti, ők
+
+the polite form of thou is either ön or maga: ön is official and distancing, maga is personal and even intimate. (there are some older forms for you, like kend, which is still used in rural areas.)
+(as you probably noticed, hungarian does not have gender-specific pronouns.)
+
+ indicative mood 
+presenttense: vagyok, vagy, van, vagyunk, vagytok, vannak
+
+pasttense: voltam, voltál, volt, voltunk, voltatok, voltak
+
+futuretense: leszek, leszel, lesz, leszünk, lesztek, lesznek
+
+ conditional mood 
+presenttense: lennék, lennél, lenne, lennénk, lennétek, lennének
+
+imperativetense: legyek, legyél (or légy), legyen, legyünk, legyetek, legyenek
+
+ lexicon 
+
+the lexicon of hungarian contains many words borrowed from various turkic languages, including turkish, as well as several hundred loans from german and slavic languages, but has retained its ugric originality. 
+
+the basic vocabulary shares many basic words with finnish and estonian (e.g., the numbers egy ~ yksi ~ üks, kettő ~ kaksi ~ kaks, három ~ kolme ~ kolm, négy ~ nelj&auml ~ neli; víz ~ vesi "water"; kéz ~ käsi "hand"; vér ~ veri "blood"; fej ~ pä&auml ~ pea "head", etc.), so linguists classify both as finno-ugric languages, a subgroup of the uralic language family.
+
+writing system
+
+hungarian is written using a variant of the latin alphabet, and has a phonemic orthography, i.e. pronunciation can generally be predicted from the written language. in addition to the standard letters of the latin alphabet, hungarian uses several additional letters.  these include letters with acute accents (á,é,í,ó,ú) which represent long vowels, the diaereses ö and ü and their long counterparts ő (unicode ő and ő) and ű (unicode ű and ű). sometimes ô or õ is used for ő and û for ű, due to the limitations of the latin-1 / iso-8859-1 codepage. hungarian can be properly represented with the latin-2 / iso-8859-2 codepage, but this codepage is not always available. (hungarian is the only language using the ő and ű codes.) of course, unicode includes the glyphs, and they therefore can be used on the internet.
+
+additionally, the letter pairs <ny>, <ty>, and <gy> represent the palatal consonants /ñ/, /tj/, and /dj/ (like the "dy" sound in british "duke" or american "would you").
+hungarian uses <s> for /s/ and <sz> for /s/, which is the reverse of polish. <zs> is /z/ and <cs> is /ts/. all these digraphs are considered single letters.  <ly> is also a "single letter digraph", but is pronounced like <j> (english <y>), and mostly appears in old words. more exotic letters are <dz> and <dzs> /dz/. they are hard to find even in a longer text. two examples are madzag; edzeni (rope; to train) and dzsungel (jungle).
+
+all r's are trilled, like the spanish "perro".
+
+hungarian distinguishes between long and short vowels, where the long vowels are written with accents, and between long consonants and short consonants, where the long consonants are written double. the digraphs, when doubled, become trigraphs: <sz>+<sz>=<ssz>. usually a trigraph is a double digraph, but there are a few exceptions: tizennyolc "eighteen" is tizen + nyolc. there are doubling minimal pairs: tizenegyedik (eleventh) vs. tizennegyedik (fourteenth).
+
+primary stress is always on the first syllable of a word.  there is sometimes secondary stress on other syllables, especially when two words have been combined (like "viszontlátásra" (see you later) pronounced "vees-ohnt-lah-tahsh-raw").
+
+while it seems unusual to english speakers at first, once one learns the new orthography and pronunciations, hungarian is nearly totally phonemically written.
+
+examples
+there is a hungarian wikipedia at hu.wikipedia.org.
+
+hungarian (person, language): magyar ['madyar]
+hello: szia ['sia] (informal) (sounds almost exactly like american "see ya") but you only say this to people that you know well. when you address a stranger you use the more formal "good day": jó napot (kivánok) (yonahpot)
+good-bye: viszontlátásra (formal) (see above), viszlát [vislat] (semi informal)
+please: kérem (szépen)  [kayrrem saypen] (this literally means "i ask (it) well".  see next for a more common form of the polite request)
+i would like ____, please: szeretnék ____ [seh-reht-neyk] (this example illustrates the use of the conditional tense, as a common form of a polite request) 
+sorry: bocsánat [bochanat]
+thank you: köszönöm [kys-yn-ym] (pout your lips for a kiss and say "uh")
+that/this: az [az] ez [ez]
+how much?: mennyi? ['mennyee]
+how much does it cost?: mennyibe kerül? ['mennyee-be keh-rool]
+yes: igen ['igen]
+no: nem [nem]
+i don't understand: nem értem ['nem 'ayrtem]
+i don't know: nem tudom [nem 'too-dohm]
+where's the bathroom?: hol van a vécé? ['hole van a 'vay-tsay], more polite (and word-to-word) version hol van a mosdó? ['hole van a 'mosh-daw];
+generic toast: egészségedre! [this is tough.  say it like this: egg-ayss-shay-ged-rreh]
+juice: gyümölcslé [dyu-mulch-lay]
+water: víz [veez]
+wine: bor [bohr]
+beer: sör [shuhr]
+milk: tej [tay]
+do you speak english?: beszél angolul?  ['bes-ayl 'ahn-go-lool?]
+i love you: szeretlek ['seretlek]
+help!: segítség! [sheg-eet-shayg]
+
+ 

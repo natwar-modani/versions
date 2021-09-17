@@ -1,0 +1,28 @@
+ founding date 
+
+the infobox and the templates say 1358 (unsourced), but the article text says 1356. — henry chianski (talk) 21:52, 12 september 2017 (utc)
+
+ external links modified 
+
+hello fellow wikipedians,
+
+i have just modified 13 external links on hanseatic league. please take a moment to review my edit. if you have any questions, or need the bot to ignore the links, or the page altogether, please visit this simple faq for additional information. i made the following changes:
+added archive https://web.archive.org/web/20090219225411/http://eurojournals.com/ejss_7_2_02.pdf to http://www.eurojournals.com/ejss_7_2_02.pdf
+added archive https://web.archive.org/web/20110724110839/http://histarch.univie.ac.at/fileadmin/user_upload/ag_histarch/pdf-dateien/mehler/mehler_2009_jona.pdf to http://histarch.univie.ac.at/fileadmin/user_upload/ag_histarch/pdf-dateien/mehler/mehler_2009_jona.pdf
+added archive https://web.archive.org/web/20110724110900/http://histarch.univie.ac.at/fileadmin/user_upload/ag_histarch/pdf-dateien/mehler/mehler_2011a.pdf to http://histarch.univie.ac.at/fileadmin/user_upload/ag_histarch/pdf-dateien/mehler/mehler_2011a.pdf
+added archive https://web.archive.org/web/20140727145003/http://histarch.univie.ac.at/dr-natascha-mehler-ma/projects/hansa-the-hanseatic-expansion-in-the-north-atlantic/ to http://histarch.univie.ac.at/dr-natascha-mehler-ma/projects/hansa-the-hanseatic-expansion-in-the-north-atlantic/
+added archive https://web.archive.org/web/20110812021945/http://aberdeencivicsociety.org.uk/whats-new/the-old-burghs-of-aberdeen/ to http://aberdeencivicsociety.org.uk/whats-new/the-old-burghs-of-aberdeen/
+added archive https://web.archive.org/web/20110724111015/http://histarch.univie.ac.at/fileadmin/user_upload/ag_histarch/pdf-dateien/mehler/gardiner_mehler_2010.pdf to http://histarch.univie.ac.at/fileadmin/user_upload/ag_histarch/pdf-dateien/mehler/gardiner_mehler_2010.pdf
+added archive http://arquivo.pt/wayback/20160524004631/http%3a//diggy.ruc.dk%3a8080/retrieve/9181/license.txt to http://diggy.ruc.dk:8080/retrieve/9181/license.txt
+added archive https://web.archive.org/web/20110926211853/http://www.bank.lv/en/money/collector-coin-koknese to http://www.bank.lv/en/money/collector-coin-koknese
+added archive https://web.archive.org/web/20110724111055/http://histarch.univie.ac.at/dr-natascha-mehler-ma/projekte/oitis-the-operation-of-international-trade-in-iceland-and-shetland-ca-1400-1700/ to http://histarch.univie.ac.at/dr-natascha-mehler-ma/projekte/oitis-the-operation-of-international-trade-in-iceland-and-shetland-ca-1400-1700/
+added archive https://web.archive.org/web/20160113112709/http://repositorio-cientifico.uatlantica.pt/jspui/bitstream/10884/615/1/repc%20-%20comunica%c3%a7%c3%a3o%20%c2%abo%20estabelecimento%20dos%20mercadores-banqueiros%20alem%c3%a3es%c2%bb.pdf to http://repositorio-cientifico.uatlantica.pt/jspui/bitstream/10884/615/1/repc%20-%20comunica%c3%a7%c3%a3o%20%c2%abo%20estabelecimento%20dos%20mercadores-banqueiros%20alem%c3%a3es%c2%bb.pdf
+added archive https://web.archive.org/web/20100817192442/http://www.hanse.org/en/the_hansa to http://www.hanse.org/en/the_hansa/
+added archive https://web.archive.org/web/20100513014127/http://www.west-norfolk.gov.uk/default.aspx?page=24618 to http://www.west-norfolk.gov.uk/default.aspx?page=24618
+added archive https://web.archive.org/web/20070930185346/http://www.gresham.ac.uk/event.asp?pageid=45&eventid=596 to http://www.gresham.ac.uk/event.asp?pageid=45&eventid=596
+
+when you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the urls.
+
+cheers.—internetarchivebot (report bug) 18:53, 29 october 2017 (utc)
+
+ 

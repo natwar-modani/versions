@@ -1,0 +1,50 @@
+international trade is the exchange of goods and services across international boundaries or territories. in most countries, it represents a significant share of gdp. while international trade has been present throughout much of history (see silk road, amber road), its economic, social, and political importance has been on the rise in recent centuries. industrialization, advanced transportation, globalization, multinational corporations, and outsourcing are all having a major impact. increasing international trade is the  primary meaning of "globalization".
+
+international trade is also a branch of economics, which, together with international finance, forms the larger branch of international economics. 
+international trade theory
+several different models have been proposed to predict patterns of trade and to analyze the effects of trade policies such as tariffs.
+ricardian model
+the ricardian model focuses on comparative advantage and is perhaps the most important concept in international trade theory.  in a ricardian model, countries specialize in producing what they produce best. unlike other models, the ricardian framework predicts that countries will fully specialize instead of producing a broad array of goods. also, the ricardian model does not directly consider factor endowments, such as the relative amounts of labor and capital within a country.
+
+heckscher-ohlin model
+the heckscher-ohlin model was produced as an alternative to the ricardian model of basic comparative advantage. despite its greater complexity it did not prove much more accurate in its predictions. however from a theoretical point of view it did provide an elegant solution by incorporating the neoclassical price mechanism into international trade theory.
+
+the theory argues that the pattern of international trade is determined by differences in factor endowments. it predicts that countries will export those goods that make intensive use of locally abundant factors and will import goods that make intensive use of factors that are locally scarce. empirical problems with the h-o model, known as the leontief paradox, were exposed in empirical tests by wassily leontief who found that the united states tended to export labor intensive goods despite having a capital abundance.
+
+specific factors
+in this model, labour mobility between industries is possible while capital is immobile between industries in the short-run.  the specific factors name refers to the given that in the short-run specific factors of production, such as physical capital, are not easily transferable between industries.  the theory suggests that if there is an increase in the price of a good, the owners of the factor of production specific to that good will profit in real terms.  additionally, owners of opposing specific factors of production (i.e. labour and capital) are likely to have opposing agendas when lobbying for controls over immigration of labour.  conversely, both owners of capital and labour profit in real terms from an increase in the capital endowment.   this model is ideal for particular industries. this model is ideal for
+understanding income distribution but
+awkward for discussing the pattern of trade.
+
+gravity model
+the gravity model of trade presents a more empirical analysis of trading patterns rather than the more theoretical models discussed above.  the gravity model, in its basic form, predicts trade based on the distance between countries and the interaction of the countries' economic sizes.  the model mimics the newtonian law of gravity which also considers distance and physical size between two objects.  the model has been proven to be empirically strong through econometric analysis.  other factors such as income level, diplomatic relationships between countries, and trade policies are also included in expanded versions of the model.
+
+regulation of international trade
+
+traditionally trade was regulated through bilateral treaties between two nations.  for centuries under the belief in mercantilism most nations had high tariffs and many restrictions on international trade.  in the 19th century, especially in britain, a belief in free trade became paramount and this view has dominated thinking among western nations for most of the time since then. in the years since the second world war multilateral treaties like the gatt and world trade organization have attempted to create a globally regulated trade structure.
+
+free trade is usually most strongly supported by the most economically powerful nations in the world, though they often engage in selective protectionism for those industries which are politically important domestically, such as the protective tariffs applied to agriculture and textiles by the united states and europe.  the netherlands and the united kingdom were both strong advocates of free trade when they were economically dominant, today the united states, the united kingdom, australia and japan are its greatest proponents. however, many other countries (such as india, china and russia) are increasingly becoming advocates of free trade as they become more economically powerful themselves.  as tariff levels fall there is also an increasing willingness to negotiate non tariff measures, including foreign direct investment, procurement and trade facilitation. the latter looks at the transaction cost associated with meeting trade and customs procedures.
+
+traditionally agricultural interests are usually in favour of free trade while manufacturing sectors often support protectionism.  this has changed somewhat in recent years, however. in fact, agricultural lobbies, particularly in the united states, europe and japan, are chiefly responsible for particular rules in the major international trade treaties which allow for more protectionist measures in agriculture than for most other goods and services.
+
+during recessions there is often strong domestic pressure to increase tariffs to protect domestic industries.  this occurred around the world during the great depression leading to a collapse in world trade that many believe seriously deepened the depression.
+
+the regulation of international trade is done through the world trade organization at the global level, and through several other regional arrangements such as mercosur in south america, nafta between the united states, canada and mexico, and the european union between 27 independent states. the 2005 buenos aires talks on the planned establishment of the free trade area of the americas (ftaa) failed largely due to opposition from the populations of latin american nations.  similar agreements such as the mai (multilateral agreement on investment) have also failed in recent years.
+
+ risks in international trade 
+the risks that exist in international trade can be divided into two major groups:
+
+ economic risks 
+risk of insolvency of the buyer,
+risk of protracted default - the failure of the buyer to pay the amount due within six months after the due date
+risk of non-acceptance
+surrendering economic sovereignty
+
+ political risks 
+risk of cancellation or non-renewal of export or import licences
+war risks
+risk of expropriation or confiscation of the importer's company
+risk of the imposition of an import ban after the shipment of the goods
+transfer risk - imposition of exchange controls by the importer's country or foreign currency shortages
+surrendering political sovereignty
+

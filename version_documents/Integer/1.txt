@@ -1,0 +1,61 @@
+the integers consist of the positive natural numbers (1, 2, 3, …), their negatives  (−1, −2, −3, ...) and the number zero. like the natural numbers, the integers form a countably infinite set. the set of all integers is usually denoted in mathematics by a boldface z (or blackboard bold, ), which stands for zahlen (german for "numbers"). 
+
+the term rational integer is used, in algebraic number theory, to distinguish these 'ordinary' integers, in the rational numbers, from other concepts such as the gaussian integers.
+
+ algebraic properties 
+like the natural numbers, z is closed under the operations of addition and multiplication, that is, the sum and product of any two integers is an integer.  however, with the inclusion of the negative natural numbers, and, importantly, zero, z (unlike the natural numbers) is also closed under subtraction. z is not closed under the operation of division, since the quotient of two integers (e.g., 1 divided by 2), need not be an integer.
+
+the following lists some of the basic properties of addition and multiplication for any integers a, b and c.
+   addition  multiplication closure:  a + b   is an integer  a × b    is an integer associativity:  a + (b + c)  =  (a + b) + c  a × (b × c)  =  (a × b) × c commutativity:  a + b  =  b + a  a × b  =  b × a existence of an identity element:  a + 0  =  a  a × 1  =  a existence of inverse elements:  a + (−a)  =  0  distributivity:  a × (b + c)  =  (a × b) + (a × c) no zero divisors:   if ab = 0, then either a = 0 or b = 0
+
+in the language of abstract algebra, the first five properties listed above for addition say that z under addition is an abelian group. as a group under addition, z is a cyclic group, since every nonzero integer can be written as a finite sum 1 + 1 + ... 1 or (−1) + (−1) + ... + (−1).  in fact, z under addition is the only infinite cyclic group, in the sense that any infinite cyclic group is isomorphic to z. 
+
+the first four properties listed above for multiplication say that z under multiplication is a commutative monoid. however, note that not every integer has a multiplicative inverse; e.g. there is no integer x such that 2x = 1, because the left hand side is even, while the right hand side is odd. this means that z under multiplication is not a group.
+
+all the properties from the above table, except for the last, taken together say that z together with addition and multiplication is a commutative ring with unity. adding the last property says that z is an integral domain. in fact, z provides the motivation for defining such a structures.
+
+the lack of multiplicative inverses, which is equivalent to the fact that z is not closed under division, means that z is not a field. the smallest field containing the integers is the field of rational numbers. this process can be mimicked to form the field of fractions of any integral domain.
+
+although ordinary division is not defined on z, it does possess an important property called the division algorithm: that is, given two integers a and b with b ≠ 0, there exist unique integers q and r such that a = q × b + r and 0 ≤ r < |b|, where |b| denotes the absolute value of b. the integer q is called the quotient and r is called the remainder, resulting from division of a by b. this is the basis for the euclidean algorithm for computing greatest common divisors.
+
+again, in the language of abstract algebra, the above says that z is a euclidean domain. this implies that z is a principal ideal domain and any positive integer can be written as the products of primes in an essentially unique way.  this is the fundamental theorem of arithmetic.
+
+order-theoretic properties 
+z is a totally ordered set without upper or lower bound.  the ordering of z is given by
+ ... < −2 < −1 < 0 < 1 < 2 < ...
+an integer is positive if it is greater than zero and negative if it is less than zero.  zero is defined as neither negative nor positive. 
+
+the ordering of integers is compatible with the algebraic operations in the following way:
+ if a < b and c < d, then a + c < b + d
+ if a < b and 0 < c, then ac < bc.  (from this fact, one can show that if c < 0, then ac > bc.)
+
+it follows that z together with the above ordering is an ordered ring.
+
+construction
+the integers can be constructed from the set of natural numbers by defining them to be the set of equivalence classes of pairs of natural numbers  under the equivalence relation
+ if  
+
+addition and multiplication of integers are defined as follows: 
+
+where  denotes the equivalence class of 
+
+typically,  is denoted by
+
+where
+
+this notation recovers the familiar representation of the integers as  
+
+some examples are:
+
+integers in computing
+
+an integer (sometimes known as an "int", from the name of a datatype in the c programming language) is often a primitive datatype in computer languages.  however, integer datatypes can only represent a subset of all integers, since practical computers are of finite capacity.  also, in the common two's complement representation, the inherent definition of sign (mathematics) distinguishes between "negative" and "non-negative" rather than "negative, positive, and 0".  (it is, however, certainly possible for a computer to determine whether an integer value is truly positive.)
+
+variable-length representations of integers, such as bignums, can store any integer that fits in the computers memory.  other integer datatypes are implemented with a fixed size, usually a number of bits which is a power of 2 (4, 8, 16, etc.) or a memorable number of decimal digits (e.g., 9 or 10).  
+
+in contrast, theoretical models of digital computers, such as turing machines, typically do have infinite (but only countable) capacity.
+
+quotation
+
+god invented the integers, all else is the work of man. kronecker
+

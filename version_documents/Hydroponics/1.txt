@@ -1,0 +1,40 @@
+fr:hydroponie
+
+hydroponics is the growing of plants without soil. a variety of techniques exist. 
+
+it was realised by researchers into plant metabolism that plants took in their nutrients as simple inorganic ions, and that soil, while a source for such nutrients, was not essential. while a plant's nutrients come from the soil, the only nutrients a plant can successfully absorb are those that dissolve into the plant's water supply. when the required nutrients are introduced into a plant's water supply artificially, soil is no longer required for the plant to thrive.
+
+the first example such researcher was a john woodward of england, who, in 1699, grew plants in water to which he had added various soils, demonstrating that earth contained various substances which the plants needed besides water. in the mid-19th century, the german plant physiologists sachs and knop grew plants in simple solutions of inorganic salts.
+
+in 1929, professor gericke of the university of california, los angeles demonstrated that plants could be grown soil-free all the way to maturity, growing tomato plants in water to a quite remarkable size. by analogy with the ancient greek term for agriculture, geoponics, the science of cultivating the earth, gericke coined the name hydroponics for the culture of plants in water (from the greek hydros, water, and ponos, labour).
+
+ techniques 
+there are a variety of techniques employed in hydroponics. some, while dispensing with soil, use relatively inert material as a physical support for the plant roots. other techniques dispense altogether with any growing medium, delivering nutrient solution directly to the roots, by a variety of methods.
+
+ passive hydroponics 
+the simplest method: the plant is planted in a container (pot or bag) of growing medium, and the container stands in a tray of nutrient solution. the medium generally has large air spaces, allowing ample oxygen to the roots, and capillary action delivers water and nutrients to the roots. a variety of materials can be used for the medium: vermiculite, perlite, clay granules, rockwool, gravel. newer media that are becoming popular are coir fibre, and cocoa bean shells. this needs the least maintenance of all hydroponic methods, requiring only topup and occasional replacement of the nutrient solution. this is commonly employed for large display plants in public buildings: in europe a system using small clay granules is marketed for growing houseplants.
+
+ flood and drain (or ebb and flow) 
+
+in its simplest form, there is a tray above a reservoir of nutrient solution. the tray is either filled with growing medium (clay granules being the most common) and planted directly, or pots of medium stand in the tray. at regular intervals, a simple timer causes a pump to fill the upper tray with nutrient, after which the nutrient drains back down into the reservoir. this keeps the medium regularly flushed with nutrient and air.
+
+ drip feeding 
+
+similar to flood and drain in its physical setup, except the pump delivers a continuous trickle of nutrient onto the medium.
+
+ raft cultivation 
+
+sometimes used for lettuces: sheets of expanded polystyrene have holes drilled through them, and young plants are placed in the holes with the roots hanging down. the sheet then floats in a shallow tank of nutrient solution. the tank is kept aerated by an air pump to ensure the roots have adequate oxygen. 
+
+ nutrient film technique (nft) 
+
+in this method, the plants grow through light-proof plastic films placed over shallow, gently sloping channels. a steady flow of nutrients is maintained along the channel, and the roots grow into dense mats, with a thin film of nutrient passing over them (hence the name of the technique). 
+a downside of the technique is that it has very little buffering against interruptions in the flow e.g. power outages, but overall, it is probably one of the more productive techniques.
+
+ aeroponics 
+the roots are within an enclosed plastic duct, and are kept constantly misted with nutrient.
+
+present and future
+with pest problems reduced, and nutrients constantly fed to the roots, productivity in hydroponics is high, plant growth being limited by the low levels of carbon dioxide in the atmosphere, or limited light. to increase yield further, some sealed greenhouses inject carbon  dioxide into their environment to help growth, or or add lights to lengthen the day, control vegetative growth etc. 
+
+hydroponics can be used to grow plants anywhere, from antarctica (where salad vegetables are grown in the 6 month nights) to a coal mine. when vegetables are grown in future space missions, it is likely to be by hydroponic methods. the fact that plants can be grown almost anywhere, with no natural light by using hydroponics and lighting has not escaped the notice of clandestine marijuana growers, and a large amount of hydroponics equipment appears to be in use for this purpose.  (in the uk, theft of high intensity grow lamps from commercial vegetable growers is a chronic problem)

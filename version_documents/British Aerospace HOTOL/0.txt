@@ -1,0 +1,7 @@
+hotol (horizontal take-off and landing) was an unrealised british space shuttle proposal.
+
+designed as a single-stage-to-orbit (ssto) reusable winged launch vehicle, it was to be fitted with a unique liquid air cycle engine (lace), designed by rolls royce.  the engine would burn an air-hydrogen mix or liquid oxygen depending on where in its mission profile the craft was.  the unmanned craft was intended to put a payload of around seven tonnes in orbit.
+
+hotol would have been 63 metres long, 7 metres in diameter and with a wingspan of 28 metres.  it was intended to take off from a runway.  the engine was intended to switch from jet propulsion to pure rocket propulsion at 26-32 km high, by which time the craft would be travelling at mach 5 to 7.  after reaching orbit, hotol was intended to re-enter the atmosphere and glide down to land on a conventional runway. 
+
+development began with government funding in 1985(?). the design team was a joint effort between rolls-royce and british aerospace led by john scott and dr bob parkinson.  in  1988 the conservative government withdrew further funding, the project was approaching the end of its design phase but the plans were still speculative and dogged with aerodynamic problems and operational disadvantages.  a cheaper redesign, interim hotol or hotol 2, to be launched from the back of an antonov an-225 transport aircraft, was offered by bae in 1991 but that too was rejected.

@@ -1,0 +1,13 @@
+gorilla
+pan (chimpanzees)
+homo (humans)
+paranthropus
+australopithecus (australopithecines)
+sahelanthropus
+ardipithecus
+kenyanthropus
+
+homininae is a subfamily of hominidae, including homo sapiens and some extinct relatives, as well as the gorillas and the chimpanzees. it comprises all those hominids, such as australopithecus, that arose after the split from the other great apes (of which orangutans are the only surviving group).
+
+originally the family hominidae contained only humans, with the other apes in the family pongidae. but it was discovered that the great apes are more closely related to humans than they are to gibbons. this led to a revision of classification, with the great apes (now ponginae) and humans (homininae) united in hominidae. but further discoveries indicated that gorillas and chimpanzees are more closely related to humans than they are to orangutans, hence their current placement in homininae.
+

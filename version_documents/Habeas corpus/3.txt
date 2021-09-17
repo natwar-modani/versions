@@ -1,0 +1,64 @@
+in english common law habeas corpus refers to a variety of writs by which courts order the presence of persons in court or determine the lawful authority of the state to imprison persons.  in common law jurisdictions, the term is conventionally taken to mean only one of these writs, the habeas corpus ad subjiciendum, a prerogative writ (judicial mandate) to a prison official ordering that an inmate be brought to the court so it can be determined whether or not that person is imprisoned lawfully and whether or not he should be released from custody.
+
+in most civil law jurisdictions, comparable provisions exist, but they are generally not called "habeas corpus."
+
+writs of habeas corpus
+a habeas corpus petition is a petition filed with a court by a person who objects to his own or another's detention or imprisonment. the petition must show that the court ordering the detention or imprisonment made a legal or factual error. habeas corpus petitions are usually filed by persons serving prison sentences. in family law, a parent who has been denied custody of his child by a trial court may file a habeas corpus petition. also, a party may file a habeas corpus petition if a judge declares it in contempt of court and jails or threatens to jail it. 
+
+known as the "great writ", the writ of habeas corpus could be used not only in criminal cases, but in cases of imprisonment for private debt. in many jurisdictions today the writ can also be issued against private individuals.
+
+the words habeas corpus ad subjiciendum are latin for "you (shall) have/hold the body to be subjected to (examination)", and are taken from the opening words of the writ in medieval times. other habeas corpus writs also existed, e.g. habeas corpus ad testificandum, for the production of a prisoner to give evidence in court.
+
+the right of habeas corpus has long been celebrated as the most efficient safeguard of the liberty of the subject (viz. by dicey, who wrote that the habeas corpus acts "declare no principle and define no rights, but they are for practical purposes worth a hundred constitutional articles guaranteeing individual liberty"), and the institution has been incorporated into the laws of several countries that do not follow the common law system. however, in most countries the right of habeas corpus can be suspended in time of national emergency.
+
+ habeas corpus in england 
+
+blackstone cites the first recorded usage of habeas corpus in 1305, in the reign of king edward i. however, other writs were issued with the same effect as early as the 12th century. 
+
+the procedure for the issuing of writs of habeas corpus was first codified by the habeas corpus act 1679, following judicial rulings which had restricted the effectiveness of the writ. a previous act had been passed in 1640 to overturn a ruling that the command of the king was a sufficient answer to a petition of habeas corpus.
+
+then as now, the writ of habeas corpus was issued by a superior court in the name of the king, and commanded the addressee (a lower court, sheriff, or private subject) to produce the prisoner before the king's courts of law. petitions could be made by the prisoner himself or by a third party on his behalf, and as a result of the habeas corpus acts could be made regardless of whether the court was in session, by presenting the petition to a judge.
+
+since the 18th century the writ has also been used in cases of unlawful detention by private individuals, most famously in somersett's case (1771), where the negro slave somersett was freed with lord mansfield's declaration that "the air of england has long been too pure for a slave,
+and every man is free who breathes it".
+
+although the form of the writ of habeas corpus requires that the prisoner be brought to the court in order for the legality of the imprisonment to be examined, modern practice is to have a hearing with both parties present on whether the writ should issue, rather than issuing the writ and waiting for the return of the writ by the addressee before the legality of the detention is examined. the prisoner can then be released or bailed by order of the court without having to be produced before it.
+
+the right of habeas corpus has been suspended or restricted several times during english history, most recently during the second world war.  in parts of the country, or for certain classes of resident, habeas corpus has been suspended more recently, however.  the british government's 2004-2005 passage of the prevention of terrorism bill through the house of commons brought a great deal of criticism, much of which suggesting that the bill threatened habeas corpus.
+
+ habeas corpus in the united states 
+
+this procedure, part of english common law, was considered important enough to be specifically mentioned in the u.s. constitution, which says, "the privilege of the writ of habeas corpus shall not be suspended, unless when in cases of rebellion or invasion the public safety may require it." (article one, section nine). 
+
+the "constitutional" writ of habeas corpus, which was originally understood to apply to the actions of the executive branch of the federal government, and not to the states, should be distinguished from what can be called "statutory" habeas corpus.  congress granted all federal courts jurisdiction under title 28, section 2254 of the united states code to issue writs of habeas corpus to release state prisoners from custody.  a similar provision, 28 u.s.c., section 2255, provides analogous relief to federal prisoners.
+
+these two statutory provisions govern the grant of habeas corpus relief by the federal courts after a prisoner is convicted and his direct appeals (in either state or federal court, depending on which jurisdiction has convicted the prisoner) have been completed.  decisions by the rehnquist supreme court and the anti-terrorism and effective death penalty act of 1996 have limited its use, especially in capital cases.
+
+ suspension of habeas corpus during the american civil war 
+
+habeas corpus was suspended on april 27, 1861 during the american civil war by president lincoln in parts of midwestern states, including southern indiana. he did so in response to demands by generals to set up military courts to rein in "copperheads" or peace democrats, and those in the union who supported the confederate cause. his action was challenged in court and overturned by the u.s. circuit court in maryland (led by supreme court chief justice roger b. taney) in ex parte merryman, 17 f. cas. 144 (c.c.d. md. 1861). lincoln ignored taney's order. it must also be noted that after secession from the union, jefferson davis also suspended the habeas corpus and imposed martial law in the confederacy. this was in part to maintain order and spur industrial growth in the south to compensate for what it had lost when it seceded.
+
+in 1864, lambdin milligan and four others were accused of planning to steal union weapons and invade union prisoner-of-war camps and were sentenced to hang by a military court. however, their execution was not set until may 1865, so they were able to argue the case after the civil war. it was decided in the supreme court case ex parte milligan 71 u.s. 2 1866 that the suspension was unconstitutional because civilian courts were still operating, and the constitution (according to the court) provided for suspension of habeas corpus only if these courts are actually forced closed.  this was one of the key supreme court cases of the american civil war, which dealt primarily with wartime civil liberties and martial law.
+
+civil war-era habeas corpus decisions have attracted renewed scrutiny since the beginning of the war on terror, recently rechristened as the "global struggle against violent extremism," in light of the second bush administration's assertion of presidential authority to designate even u.s. citizens as enemy unlawful combatants and hold them indefinitely, without criminal charges or access to counsel.
+
+habeas corpus writs
+ habeas corpus ad deliberandum et recipiendum
+ habeas corpus ad faciendum et repipiendum, a.k.a. habeas corpus cum causa
+ habeas corpus ad prosequendum
+ habeas corpus ad respondendum
+ habeas corpus ad satisfaciendum
+ habeas corpus ad subjiciendum
+ habeas corpus ad testificandum
+
+historical background
+ a.h. carpenter. "habeas corpus in the colonies." the american historical review.  vol. 8., no. 1 (october 1902), pages 18-27.  
+ louis fisher. 2003. nazi saboteurs on trial: a military tribunal and american law.  university press of kansas.  isbn 0700612386. 
+ michael dobbs. 2004. saboteurs: the nazi raid on america. vintage. isbn 1400030420. 
+ peter irons. 1999. a people's history of the supreme court. viking. isbn 0670870064. political context for ex parte milligan explained on pp. 186-189.  
+ helen a. nutting. "the most wholesome law--the habeas corpus act of 1679." the american historical review.  vol. 65., no. 3 (april 1960), pages 527-543.
+
+external link
+lectlaw.com
+
+ 

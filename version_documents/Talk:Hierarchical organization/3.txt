@@ -1,0 +1,24 @@
+ opening heading 
+this is interesting, but it ignores the long history of the term 'hierarchy' in favor of contemporary business.  'boss'?  not even a sense of context for that word? --michaeltinkle
+
+"hierarchial organization, as a concept, is opposed by just one political ideology, namely anarchism." -- i don't believe this: anarchism is usually defined as opposition to the
+concept of government, not hierarchical organisations in general. --
+"libertarian socialists see themselves as dedicated to opposing all forms of authority, coercion and social hierarchy. in this they include not only coercion by the state, but also by businesses, schools, religous institutions and at times even the family as well."  - - from wikipedia on libertarian socialism, which is the oldest, most widespread, form of anarchism. you must be refering to anarcho-capitalism.
+
+ requested move 
+<div class="boilerplate" style="background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;">
+the following discussion is an archived discussion of a requested move. please do not modify it. subsequent comments should be made in a new section on the talk page. no further edits should be made to this section. 
+
+the result of the move request was: no consensus, page not moved  ronhjones  (talk) 23:28, 27 june 2010 (utc)
+
+:organizational hierarchy →  — common name, and less confusing: this article is about a kind of organizational structure, not a variety of hierarchy. relisted. arbitrarily0 (talk) 23:04, 14 june 2010 (utc)
+pnm (talk) 01:04, 3 june 2010 (utc)
+ comment: the reverse move was done in 2009 to avoid confusion with hierarchy. now it's causing confusion with organizational structure instead. a not to be confused with hatnote directing to hierarchy is a better alternative. --pnm (talk) 01:04, 3 june 2010 (utc)
+ comment: found the discussion from that move: talk:hierarchy#scattered_info_and_possible_merges --pnm (talk) 01:16, 3 june 2010 (utc)
+the above discussion is preserved as an archive of a requested move.  please do not modify it. subsequent comments should be made in a new section on this talk page. no further edits should be made to this section.</div>
+
+ relist requested move 
+
+organizational hierarchy →  — a hierarchical organization is an organizational structure, where every entity, except one, is subordinate to a single other entity. the old title is a synonym for organizational structure, which is confusing. --pnm (talk) 23:50, 27 november 2010 (utc)
+comment: i think i might be able to articulate this more clearly. the most common context for this topic is within organizational design. in this context, this type of organization is called a hierarchical organization. and, in that context, the term orgranizational hierarchy is used as a synonym for organizational structure.
+if the most common context for this topic were systems theory, perhaps organizational hierarchy would be more appropriate, to contrast it with other kinds of hierarchy''. --pnm (talk) 01:13, 7 december 2010 (utc)

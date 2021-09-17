@@ -1,0 +1,37 @@
+the hendecasyllable is a line of eleven syllables, used in ancient greek and latin quantitative verse as well as in medieval and modern european poetry.
+
+in quantitative verse
+
+the classical hendecasyllable is a quantitative meter used in ancient greece in aeolic verse and in scolia, and later by the roman poet catullus. each line has eleven syllables; hence the name, which comes from the greek word for eleven. finch, annie. a poet's craft. ann arbor: university of michigan press, 2012, p. 410   the heart of the line is the choriamb (- u u -). the pattern (also known as the phalaecian) is as follows (using "-" for a long syllable, "u" for a short and "x" for an "anceps" or variable syllable):
+
+ x x  - u u -  u - u - -     
+ (where x x is either - u or - -  or u -)
+
+another form of hendecasyllabic verse is the "sapphic" (so named for its use in the sapphic stanza), with the pattern:
+
+ - x -  x  - u u -  u - -   
+
+"the hendecasyllabic offers the opportunity to maintain the basic sapphic rhythm for a long period, building up momentum." finch, annie. a poet's craft. ann arbor: university of michigan press, 2012, p. 410  
+
+of the polymetric poems of catullus, forty-three are hendecasyllabic. the metre has been imitated in english, notably by alfred tennyson and swinburne and robert frost, cf. "for once then something." contemporary american poets annie finch ("lucid waking") and patricia smith ("the reemergence of the noose") have published recent examples.  poets wanting to capture the hendecasyllabic rhythm in english have simply transposed the pattern into its accentual-syllabic equivalent: /u|/u|/uu/u|/u|, or trochee/trochee/dactyl/trochee/trochee, so that the long/short pattern becomes a stress/unstress pattern. tennyson, however, maintained the quantitative features of the metre:
+
+o you chorus of indolent reviewers,
+irresponsible, indolent reviewers,
+look, i come to the test, a tiny poem
+all composed in a metre of catullus...
+("hendecasyllabics")
+
+for an example, see catullus 1.
+
+in italian poetry
+the hendecasyllable (in italian endecasillabo) is also used in italian poetry. in this form, its defining feature is a constant stress on the tenth syllable, so that the number of syllables in the verse may vary, equaling eleven in the usual case where the final word is stressed on the penultimate syllable.  the verse also has a stress preceding the caesura, on either the fourth or sixth syllable.
+
+the most usual stress schemes for the italian hendecasyllable are stresses on sixth and tenth syllables (for example, "nel mezzo del cammin di nostra vita," dante alighieri, first line of the divine comedy), and on the fourth, seventh and tenth syllables ("un incalzar di cavalli accorrenti," ugo foscolo, dei sepolcri).
+
+most classical italian poems are composed of hendecasyllables; for example, the major works by dante, francesco petrarca, ludovico ariosto, and torquato tasso. they differ greatly in the rhyme system (from terza rima to ottava, from sonnet to canzone. in later poems, since 1800, hendecasyllables are often used without a strict system, with few or no rhymes at all. examples can be found in giacomo leopardi's canti. the effect of "endecasillabi sciolti" (loose hendecasyllables) is similar to english blank verse.
+
+it has a role in italian poetry, and a formal structure, comparable to the iambic pentameter in english or the alexandrine in french.
+
+in english poetry
+the term "hendecasyllable" is sometimes used in english poetry to describe  a line of iambic pentameter with an extra short syllable at the end, as in the first line of john keats's endymion: "a thing of beauty is a joy for ever."
+

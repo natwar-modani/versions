@@ -1,0 +1,16 @@
+h.263 is a video codec designed by the itu-t as a low-bitrate encoding solution for videoconferencing.  it was first designed to be utilized in h.323 based systems, but now is finding use in rtsp (streaming media) and sip (internet conferencing) solutions as well.
+
+h.263 was based on h.261, the previous itu-t standard for video compression, and provides a suitable replacement for it at all bitrates.  it has been superseded by h.263v2 (a.k.a. h.263+ or h.263 1998).
+
+for more information on h.263, see the following sources:
+  h.263 video coding comparison
+  ietf avt working group - group that reviews codec packetizations for rtp
+   rtp payload format for h.263 video streams (rfc 2190)
+  rtp payload format for the 1998 version of itu-t rec. h.263 video (h.263+) (rfc 2429)
+  find h.263 specification on itu website
+  intel's h.263 codec installer for windows
+ h.263 specifications
+ h.263 implementation in vic (source code available)
+ sourceforge project to create h.263 codec
+ video demystified - book which includes info about h.263
+

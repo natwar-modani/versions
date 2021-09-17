@@ -1,0 +1,35 @@
+a handheld game console is a completely autonomous video game console in that controls, screen and audio outputs are built-into the unit. the game boy, released in 1989 by nintendo, popularized the handheld console.  they are usually not considered consoles, but instead considered handhelds.
+
+a handheld game console should meet the following standards:
+it is a fully integrated unit, with a video display and audio output (speakers and/or headphone jacks.)  as such, systems like the sega mega jet, which do not have an integral display, do not qualify.
+the system has its own internal power (either removable batteries, or a rechargable battery pack).  external power may be an option, however.
+the system is not dedicated, meaning that different titles may be loaded into it.
+
+the following is a list of some handhelds, past, present, and future.
+
+ atari lynx (1989)
+ cybiko (around 1998)
+ nintendo game boy (1989)
+ nintendo game boy advance (1999)
+ nintendo game boy advance sp (2003)
+ nintendo game boy color (1997)
+ nintendo ds (2004) (dual-screen)
+ nintendo virtual boy (semi-portable)
+ game park gp32 (2001)
+ milton bradley microvision
+ nec turbo express
+ nokia n-gage
+ sony playstaion portable (psp) (2004 tenatively)
+ snk neo geo pocket (1996)
+ snk neo geo pocket color (1999)
+ pokémon mini
+ sega game gear (1991)
+ sega genesis nomad (1995)
+ supervision
+ swan crystal
+ tiger game.com (1997)
+ turbografx-16 turboexpress
+ vectrex
+ wonderswan (1999)
+ wonderswan color (2000)
+

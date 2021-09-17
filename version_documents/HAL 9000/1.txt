@@ -1,0 +1,34 @@
+hal 9000 is a fictional character in the space odyssey series, the first being the novel and film 2001 a space odyssey, written by arthur c clarke. hal is an artificial intelligence, the sentient on-board computer of the spaceship discovery. hal is usually represented only as his television camera "eyes" that are an omnipresent feature of the discovery spaceship. the voice of hal 9000 was performed by the actor douglas rain. hal became operational on january 12, 1997 (1992 in the movie) at the h.a.l. laboratory in urbana, illinois, and was created by dr. chandra. in the 2001 film, hal is depicted as being capable not only of speech recognition and natural language understanding, but also lip reading. 
+
+hal's history
+
+hal in 2001: a space odyssey
+in 2001: a space odyssey, after hal appears to be mistaken about a fault in the spacecraft.  astronaut david bowman and frank poole consider shutting down the hal 9000.  they believe that hal cannot hear them, but are unaware
+that hal is capable of lip reading.  faced with the prospect of disconnection, hal proceeds to kill frank poole while he is repairing the ship as well as the other members of the crew who are in suspended animation.  realizing what has occurred, astronaut david bowman then shuts the machine down. hal's central core is depicted as a room full of brightly lit computer modules mounted in arrays from which they can be inserted or removed. bowman shuts down hal by removing modules from service one by one; as he does so, we witness hal's consciousness degrading.
+
+the book differs from the movie in a number of details.  first, the book explains far more explicitly the causes of hal's behavior.  secondly, in the movie, hal shuts bowman out of the craft after bowman attempts to retrieve poole's body.  in the book, bowman stays within the ship and is forced to shut down hal after the airlocks to the ship are opened by hal.
+
+hal in 2010: odyssey two
+in the sequel 2010: odyssey two, hal is restarted by his creator, dr. chandra, who arrived on the soviet spaceship alexei leonov, and who discovers that hal's crisis was caused by programming contradiction. in the end, hal is left behind on discovery, near soon-to-be-destroyed jupiter, while leonov heads back to earth. the crew are worried that the computer will have the same neuroses on discovering that hal will be abandoned yet again, and install a hardware failsafe, secreted from dr. chandra (which he eventually discovers and disconnects). all is well, in the end, but bowman speaks with hal, giving him a special mission. as the leonov leaves jupiter, hal begins broadcasting the message "all these worlds are yours except europa. attempt no landings there" repeatedly until the new star, which earth eventually dubs lucifer (bringer of light) destroys discovery entirely.
+
+hal in 3001: the final odyssey
+in 3001: the final odyssey, the final book in the series, it is revealed that hal and dave bowman were stored in the jupiter monolith's computational matrix. eventually, they help frank poole infect the monolith with a computer virus; as the  primitive life in jupiter's clouds were sacrificed to make the sun to warm europa, it is feared that humanity would be sacrificed for the new life at europa.
+
+sal 9000
+hal 9000 has at least one earthbound twin, sal 9000, used as a reference system for hal, which does not generate the predictions of failure of discovery's ae35 communication link.
+
+in the book, it is mentioned that another ground based
+hal machine undergoes the same psychosis that hal does.
+
+hal wordplay
+many people believe the name was taken from ibm (because h precedes i, a precedes b, and l precedes m alphabetically). arthur c. clarke denied such wordplay (even having one of his characters deny it in the sequel 2010: odyssey two), saying that the name actually means heuristically programmed algorithmic computer. many find this denial unconvincing. (note that the hal 9000 nameplate is modelled on similar nameplates for ibm mainframe computers).
+
+it should be pointed out that most visual designs in any movie based on a book are designed by individuals other than the author.  the physical similarities may have been intentional, but more likely reflected an idea of what people expected a large computer to look like.
+
+also, in computer terms, hal is short for hardware abstraction layer.  in this case, hal refers to a programming layer.  the hal allows programmers to write programs that interface with computer hardware on an abstract level instead of at a detailed technical level.  this way programs can be written in more general terms when it comes to hardware interfaces.
+
+trivia
+the hal computer may have been the inspiration for the hal/s computer language used to program the nasa space shuttle's computers.
+
+hal 9000 was inducted into the robot hall of fame in 2003.
+

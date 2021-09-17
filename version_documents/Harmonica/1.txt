@@ -1,0 +1,181 @@
+a harmonica is a free-reed musical wind instrument (also
+known among other things as a mouth organ, french harp or
+"mississippi saxophone"), having multiple, variably-tuned brass
+or bronze reeds, each secured at one end over an airway slot of like
+dimension into which it can freely vibrate, thus repeatedly
+interrupting an airstream to produce sound; and
+
+unlike most free-reed instruments (e.g., reed organs, accordions
+and melodicas), the mouth harmonica lacks a keyboard. instead,
+lips and tongue are used to select one or a few of the several holes
+arranged usually linearly on a mouthpiece.  each hole communicates
+with but one, two or a few reeds.  because a reed mounted above slot
+is made to vibrate more easily by air from above, reeds accessed by a
+mouthpiece hole often may be selected further by choice of breath
+direction (blowing, drawing).
+
+some harmonicas also include a button-actuated slide that, when
+depressed, further redirects the air.
+
+the harmonica is commonly used in blues and folk music, but
+also in jazz and rock and roll and pop music.
+
+see pan pipes.
+
+1. parts of the harmonica
+
+the harmonica consists of a "comb" made of wood or plastic which
+creates the holes into which a player blows or draws to make distinct
+tones.  the metallic blow and draw reedplates are screwed onto either side of
+the comb.  over the reedplates, there is a metal or plastic cover
+which projects the sound out of the open back.  chromatic harmonicas
+also have a button-activated slide.
+
+ 1. harmonica types 
+
+ the diatonic harmonica.  
+
+the diatonic harmonica is most likely what you think of when you think
+of a "harmonica."  it has ten holes which offer the player 19 notes
+(10 holes times a draw and a blow for each hole minus one repeated
+note) in a three octave range. the standard diatonic harmonica is
+designed to allow a player to play chords and melody in a single key.
+because they are only designed to be played in a single key at a time,
+diatonic harmonicas are available in all keys.  here is a standard
+diatonic harmonica's layout in the key of c:
+
+        1 2 3 4 5 6 7 8 9 10 
+        ------------------- 
+ blow: |c|e|g|c|e|g|c|e|g|c| 
+ draw: |d|g|b|d|f|a|b|d|f|a| 
+        -------------------
+
+note that there is only one full major scale available on the
+harmonica, between holes 4 and 7.  the lower holes are designed around
+the tonic (c major) and dominant (g major) chords, allowing a player
+to play chords underneath a melody by blocking or unblocking the lower
+holes with her tongue.
+
+in addition to the 19 notes readily available on the harmonica,
+players can play other notes by adjusting their embouchure and forcing
+the reed to resonate at a different pitch.  this technique is
+typically called "bending" and allows to a player all the notes on the
+scale as well as pitches in between.  "bending" creates the glissandos
+characteristic of much blues and country harmonica playing.  the
+physics of bending are quite complex, but amount to this: a player can
+bend a note down toward the pitch of the lower-tuned reed in that
+hole.  in other words, on holes 1 through 6, the draw notes can be
+bent and on holes 7 through 10 the blow notes can be bent.
+
+another technique was developed in the 1970s that allows players
+to force a reed to vibrate faster, resulting in a higher pitch.  this
+technique is called overblowing or overdrawing and is much
+less frequently used.  for the few who master this technique, the
+diatonic harmonica can  function as a fully chromatic instrument.
+
+ the chromatic harmonica 
+
+the chromatic harmonica has a button-operated slide that allows the
+player to change the pitch of any given hole.  this means that each
+hole has 4 pitches rather than 2.  the slide typically shifts the
+pitch of any given note by a half step.  the note layout on a
+chromatic is traditionally the same as the note layout on holes 4-7 of
+the diatonic harmonica, and is repeated over its length.  chromatic
+harmonicas are usually 12 or 16 holes long.
+
+because it is a fully chromatic instrument, the chromatic harmonica is
+the instrument of choice in jazz and classical music.  in traditional
+harmonica bands, the chromatic harmonica plays the lead part.
+
+ the bass harmonica 
+
+lengthy description at: http://www.bassharp.com/bh_101.htm
+
+ the chord harmonica 
+
+ the echo harmonica 
+
+ toy harmonicas 
+
+ 2. history and related instruments 
+
+the unrelated glass harmonica is a musical instrument formed of a nested set of graduated glass cups mounted sideways on an axle and partially immersed in water, and played by touching the rotating cups with wetted fingers, causing them to vibrate.
+
+ 3. free-reed physics 
+
+ 4. harmonica community 
+
+there is an active harmonica community on the internet and in real
+life, with conferences, cruises and everything.  spah (society for the
+preservation and advancement of the harmonica) is one society with a
+particularly amusing acronym.  see http://members.aol.com/harmonica a harmonica list-serv is hosted at
+http://www.garply.com/harp-l/ with searchable archives.
+
+ 5. some famous harmonica players 
+
+harmonica bands
+the harmonicats
+borrah minevitch harmonica rascals
+
+blues
+little walter
+jimmy reed
+sonny boy williamson i
+sonny boy williamson ii
+sonny terry
+james cotton
+junior wells
+carey bell
+charlie musselwhite
+paul butterfield
+kim wilson
+mark hummell
+delbert mcclinton
+william clarke
+george harmonica smith
+james harman
+rod piazza
+paul delay
+rick estrin
+mark wenner
+gary primich
+peter madcat ruth
+curtis salgado
+corky siegel
+john mayall
+billy branch
+tom ball
+
+rock
+bob dylan
+mick jagger
+john lennon
+lee oskar
+john b sebastian of lovin' spoonful
+huey lewis
+
+r&b
+stevie wonder
+
+country
+charlie mccoy
+kirk jellyroll johnson
+buddy greene
+mickey raphael
+terry mcmillan
+phil pt gazell
+
+jazz
+jean "toots" thielemans
+max geldray of the goon show.
+les thompson
+william galison
+ron kalina
+howard levy
+don les
+
+classical
+larry adler
+john sebastian
+tommy reilly
+robert bonfiglio

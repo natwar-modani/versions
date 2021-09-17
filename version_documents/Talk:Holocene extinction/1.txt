@@ -1,0 +1,59 @@
+should that list be sticking to genera (rather than specific species)?
+also - is that "39 genera of mammalian megafauna" accurate?  or is this number possibly just for north america?
+
+also, why are we including only mammals?  the teratorn birds appeared to be holocene extinction victims also, even if they're also described in extinct birds.
+
+copied from extinction event:
+
+some people claim that we are living in the middle of another, man-made extinction event right now.  however, humanity's effects are trivia compared with the extinction events shown in the fossil record.
+
+is that a fact?  i've seen estimates on damage that are comparable to the smaller or intermediate sized mass extinctions, if nothing like the boundaries that end the mesozoic and palaeozoic eras.
+
+if those are the same estimates that i've seen -- that something like 50,000 species a year are dying out -- they are not particularly reliable.  the ones i've seen have all been created by organizations like the sierra club and people like al gore and paul ehrlich who have large, flaming political agenda that such figures are constructed to support.  over the past 500 years, almost 90 per cent of the forest along the atlantic coast of brazil has been cleared. however, no one has found a single known species that could be declared extinct. according to the "mass extinction" figures, about half the known species in that brazilian forest should have been lost.
+
+but if you can cite figures commonly accepted by paleontologists -- figures that, say, appeared in a peer-reviewed journal -- feel free to enter them!  --the epopt
+
+do a search for something like "current mass extinction" in google, and you will find a great number of hits, including articles in nature and science.  it looks to me like the mass extinction view is closer to a consensus than to a minority of politically motivated views.  at the very least there is enough here to remove the sentence from the article, which i'm doing.
+
+this is obviously a controversial topic -- there is nothing like "consensus" in the scientific community -- and i am strongly on the side that says calling what's happening at present an "extinction event" to be listed with the permian-triassic extinction event is like calling a domestic quarrel a genocidal holocaust.  it's bad, and should be stopped, but blowing it out of proportion is ludicrous.  i will fully support and cooperate with presenting both sides of this issue, but please don't try to make it sound like "everyone (who is a true scientist) knows that we're murdering mother gaia."
+
+i said that it would be more accurate to say it is a consensus (why quotation marks?) then to pretend the data uncontroversially indicated the converse, as was done, not that it would be entirely accurate.  we have had entire families of organisms (not mammals, things like molluscs) mostly depopulated over large areas if not actually rendered extinct, but i'm not interested in debating the point.  simply note that i never said we should make it sound anything like your terrible strawman, i simply said the partisan statement should be removed.
+
+point taken.  i am over-sensitive on this point, and i apologize for my stridency.
+
+can someone clarify what the rate of extinction needs to be in order to be comparable to something like the permian-triassic extinction event? that event, according to the article, lasted on the order of 900,000 years (give or take 600,000 years), with some 70-85% of species dying out. assuming there were something like 10 million (wild guess!) species at the time, this is an extinction rate of between 4 and 29 species a year, on average. this seems so low that it would barely be detectable if you were in the middle of it. --zundark, 2001 nov 29
+
+your wild guess is right on the money.  about one million species of animals have been described. (86% are insects, including about 300,000 species of beetles.)  some biologists estimate that up to 50 million more remain to be discovered.  most estimates put the number of plant species at somewhere between 10 million and 30 million, with tentative consensus around 14 million. i have no idea how many more plants they think have not been found yet.  so your point is very well-made -- if humanity continues its current rate of eliminating species for another million years or so, we will be as bad as whatever clobbered earth at the end of the permian.
+
+though this is a case of the apparent support for one side being rather more destructive of the argument than helpful :) a million years at our current pace...wow, i'd never have guessed. i plan on filing this away in my cranium for future (currently vague) use. probably "want to know how bad the permian extinction was" not "we humans aren't so bad", though.
+
+i removed 
+ the dodo
+ the great auk
+from the list of holocene extinction victims only because they are already included under extinct birds.
+
+so far as extinction of megafauna is concerned, the climate change hypothesis is becoming less and less tenable as time goes by. it's not too difficult to make a reasonable case for climate change as the primary factor if you look at any particular instance, but looked at as a whole, it doesn't make sense. 
+
+ almost all the american megafauna went extinct about 13,000 years ago, three others survived perhaps a couple of thousand years longer.
+ the australian megafauna, on the other hand, didn't survive anything like that long: there are still nagging issues with claimed exceptions here and there (as there always are in issues of this kind) but the weight of evidence decisively favours an extinction date of ~ 50,000 years ago.
+ new zealand megafauna, on the other hand, survived right up until ~ 400 years ago.
+ the giant birds of mauritius also survived all the warmings and the coolings, only to perish within historical times.
+
+and so on.
+
+i am not suggesting that climate change be ignored as a factor (far from it: it still has many proponents), nor that it has not been an enormously significant factor in many things, simply advocating that the entry on this question more accurately reflect the current state of knowledge. tannin
+
+from wikipedia:pages needing attention - "holocene extinction event - more species are needed, and some help with npov" - unsigned, undated comment - probably ignorable. martin
+
+it does need work, and is on my to-do list - alongside 14,978 other things, at last count - but the pov problems were pretty much dealt with three or four months back. it's a bit wish-washy now, but broadly ok. 
+
+btw, martin, don't let my reverting you on this one pov warning put you off - i think your working through the old notices and lists is a really, really useful thing. there is no harm in being bold when (as is your habit) you are happy to accept the odd disagreement in good spirit. better, for a job like that one, to just go ahead and make some wholesale decisions on the theory that 90% of them will be right, and someone else will pick up on the 10% of retail errors and deal with them appropriately. tannin 13:15 may 12, 2003 (utc)
+
+ thanks tannin - always nice to have some positive feedback :) martin
+
+evidence exists for a large, possibly multiple meteor or comet strike at 7640bce, with a smaller one at 3150bce. the evidence include stratigraphic studies of tektites, dendrochronology, and ice cores containing nitrates caused by extreme heating of air. this evidence is consistent with the dates of formation of a number of salt flats and lakes still extant in dry areas of n. america and asia, suggesting that the strikes may have occurred in oceans, causing multiple-kilometer-high waves that penetrated deeply into continents. incursions of salt, sand and oceanic fossils in this period were classically explained by "depression" of continents by the weight of pleistocene ice, but these explanations are inconsistent with countervailing observations of a 30-120m rise of ocean levels at the same time. can someone come up with a suitable title where we can put this? it's connection with the holocene extinction event is minimal. wetman 07:00, 5 apr 2004 (utc)
+
+here is a link that explains one of these "references": 
+tollmann, alexander and edith, terra nova 6, pp. 209-217, 1994:" "giant comet launched noah's ark"
+
+terra nova is a perfectly respectable peer-reviewed european academic journal of geology. see www.blackwell-synergy.com.  just because its not popular to believe in the noah's flood doesn't make it false.  stodgy 

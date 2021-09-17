@@ -1,0 +1,38 @@
+ hymenoptera is one of the larger orders of insects, comprising the sawflies, wasps, bees, and ants. the name refers to the membranous wings of the insects, and is derived from the ancient greek ὑμήν (humen): membrane and πτερόν (pteron): wing. the hindwings are connected to the forewings by a series of hooks called hamuli.
+
+females typically have a special ovipositor for inserting eggs into hosts or otherwise inaccessible places.  the ovipositor is often modified into a stinger. the young develop through complete metamorphosis — that is, they have a worm-like larval stage and an inactive pupal stage before they mature (see holometabolism).
+
+ evolution 
+hymenoptera originated in the triassic, the oldest fossils belonging to the family xyelidae. social hymenopterans appeared during the cretaceous. the evolution of this group has been intensively studied by a. rasnitsyn, m. s. engel, g. dlussky, and others.
+
+anatomy
+hymenoptera are medium to large insects, usually with two pairs of wings. their mouthparts are adapted for chewing, with well-developed mandibles. many species have further developed the mouthparts into a lengthy proboscis, with which they can drink liquids, such as nectar. they have large compound eyes, and typically three ocelli.
+
+the forward margin of the hindwing bears a number of hooked bristles, or "hamuli", which lock onto the forewing, keeping them held together. the smaller species may have only two or three hamuli on each side, but the largest wasps may have a considerable number, keeping the wings gripped together especially tightly. hymenopteran wings have relatively few veins compared with many other insects, especially in the smaller species.
+
+in the more primitive hymenoptera, the ovipositor is bladelike, and adapted for slicing plant tissues. in the majority, however, it is modified for piercing, and, in some cases, is several times the length of the body. in some species, the ovipositor has become modified as a stinger, and the eggs are laid from the base of the structure, rather than from the tip, which is used only to inject venom. the stinger is typically used to immobilise prey, but in some wasps and bees may be used in defence.
+
+the larvae of the more primitive hymenoptera resemble caterpillars in appearance, and like them, typically feed on leaves. they have large chewing mandibles, three thoracic limbs, and, in most cases, a number of abdominal prolegs. unlike caterpillars, however, the prolegs have no grasping spines, and the antennae are reduced to mere stubs.
+
+the larvae of other hymenoptera, however, more closely resemble maggots, and are adapted to life in a protected environment. this may be the body of a host organism, or a cell in a nest, where the adults will care for the larva. such larvae have soft bodies with no limbs. they are also unable to defecate until they reach adulthood, presumably to avoid contaminating their environment, having an incomplete digestive tract.
+
+ sex determination 
+
+among the hymenopterans, sex is determined by the number of chromosomes an individual possesses. fertilized eggs get two sets of chromosomes (one from each parent's respective gametes), and so develop into diploid females, while unfertilized eggs only contain one set (from the mother), and so develop into haploid males; the act of fertilization is under the voluntary control of the egg-laying female.  this phenomenon is called haplodiploidy.  
+
+note, however, that the actual genetic mechanisms of haplodiploid sex determination may be more complex than simple chromosome number.  in many hymenoptera, sex is actually determined by a single gene locus with many alleles.  in these species, haploids are male and diploids heterozygous at the sex locus are female, but occasionally a diploid will be homozygous at the sex locus and develop as a male instead.  this is especially likely to occur in an individual whose parents were siblings or other close relatives.  diploid males are known to be produced by inbreeding in many ant, bee and wasp species.
+
+one consequence of haplodiploidy is that females on average actually have more genes in common with their sisters than they do with their own daughters.  because of this, cooperation among kindred females may be unusually advantageous, and has been hypothesized to contribute to the multiple origins of eusociality within this order.
+
+diet
+different species of hymenoptera show a wide range of feeding habits. the most primitive forms are typically herbivorous, feeding on leaves or pine needles. stinging wasps are predators, and will provision their larvae with immobilised prey, while bees feed on nectar and pollen. 
+
+a number of species are parasitoid as larvae. the adults inject the eggs into a paralysed host, which they begin to consume after hatching. some species are even hyperparasitoid, with the host itself being another parasitoid insect. habits intermediate between those of the herbivorous and parasitoid forms are shown in some hymenopterans, which inhabit the galls or nests of other insects, stealing their food, and eventually killing and eating the occupant.
+
+ classification 
+ symphyta 
+the suborder symphyta includes the sawflies, horntails, and parasitic wood wasps. the group may be paraphyletic, as it has been suggested that the family orussidae may be the group from which the apocrita arose. they have an unconstricted junction between the thorax and abdomen, and the larvae of free-living forms are herbivorous, have legs, prolegs (on every segment, unlike lepidoptera (butterflies and moths)), and ocelli.
+
+ apocrita 
+the wasps, bees, and ants together make up the suborder apocrita, characterized by a constriction between the first and second abdominal segments called a wasp-waist (petiole), also involving the fusion of the first abdominal segment to the thorax. also, the larvae of all apocrita do not have legs, prolegs, or ocelli.
+

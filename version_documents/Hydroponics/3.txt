@@ -1,0 +1,89 @@
+hydroponics is the growing of plants without soil. a variety of techniques exist. 
+
+researchers of plant metabolism have discovered that plants absorb nutrients as simple ions in water. in natural conditions, soil acts as a nutrient reservoir but the soil itself is not essential to plant growth. when the nutrients in the soil dissolve in water, plant roots are able to absorb them. when the required nutrients are introduced into a plant's water supply artificially, soil is no longer required for the plant to thrive.  almost any plant will grow with hydroponics, but some will do better than others.  it is also very easy to do; the activity is often undertaken by very young children with such plants as watercress.
+
+ uses 
+
+hydroponics is useful to us in two main ways. first, it provides a more controlled environment for plant growth than soil thereby removing many unknowns from experiments. second, many plant species produce more product in less time and sometimes of higher quality, which under certain economic and environmental conditions, makes hydroponics growing more profitable to the farmer.  with hydroponics there are no soil-borne diseases, weeds to pull, or soil to till, and plants can be placed incredibly close to one another.  this allows a large amount of food to be produced in very space-constrained places. hydroponics is also very water efficient as it is practiced using containers or closed loop systems that recirculate the water and requires only a small fraction of the water used in traditional farming. 
+
+these qualities combine to make hydroponics useful wherever people wish to grow plants in a non-traditional manner. science fiction writers have long speculated that hydroponics would allow space stations or spaceships to grow their own food (see e.g. generation ships). the same qualities make hydroponics ideal for those who wish to grow plants with maximum control over conditions, maximum density, and low risk of detection; as a result, many marijuana growers use hydroponics, to escape notice by the police and to produce the finest quality product.
+
+ history 
+
+the first researcher of hydroponics was john woodward of england, who, in 1699, grew plants in water to which he had added various soils.  this demonstrated that the earth contained various substances which the plants needed besides water. in the mid-19th century, the german plant physiologists sachs and knop grew plants in simple solutions of inorganic salts.
+
+in 1929, professor gericke of the university of california, davis demonstrated that plants could be grown soil-free all the way to maturity, growing tomato plants in water to a quite remarkable size. by analogy with the ancient greek term for agriculture, geoponics, the science of cultivating the earth, gericke coined the name hydroponics for the culture of plants in water (from the greek hydros, water, and ponos, labour).
+
+ techniques 
+there are a variety of techniques employed in hydroponics. some, while dispensing with soil, use relatively inert material as a physical support for the plant roots. other techniques dispense altogether with any growing medium, delivering nutrient solution directly to the roots by a variety of methods.
+
+ passive hydroponics 
+the simplest method: the plant is planted in a container (pot or bag) of growing medium, and the container stands in a tray of nutrient solution. the medium generally has large air spaces, allowing ample oxygen to the roots, while capillary action delivers water and nutrients to the roots. a variety of materials can be used for the medium: vermiculite, perlite, clay granules, rockwool, gravel. some newer media that are becoming popular are coir fibre, and cocoa bean shells. this needs the least maintenance of all hydroponic methods, requiring only topup and occasional replacement of the nutrient solution.this keeps the medium regularly flushed with nutrient and air. it is important in passive hydroponics to wash out system from time to time to remove salt build up. this may be checked with a ppm meter, a good average reading would be about 1500 ppm. lettuce is happy with about 800 ppm and tomatoes to 3000 ppm but both will grow reasonably well on 1500 ppm. it is important to keep the ph reading at about 6.3 to enable nutrient uptake. data are available for the optimum settings for most plants. this is commonly employed for large display plants in public buildings: in europe a system using small clay granules is marketed for growing houseplants.
+
+image from hydroponicsonline.com
+
+ flood and drain (or ebb and flow) 
+
+in its simplest form, there is a tray above a reservoir of nutrient solution. the tray is either filled with growing medium (clay granules being the most common) and planted directly, or pots of medium stand in the tray. at regular intervals, a simple timer causes a pump to fill the upper tray with nutrient, after which the nutrient drains back down into the reservoir. this keeps the medium regularly flushed with nutrient and air.  
+
+example image from hydroponicsonline.com
+
+=== deep water culture example(dwc) ===
+
+ drip feeding 
+
+similar to flood and drain in its physical setup, except the pump delivers a continuous trickle of nutrients, water, and oxygen onto the medium.  the emitters are commonly set to run 5 to 10 minutes every hour.
+
+example image from hydroponicsonline.com
+
+plants roots are suspended in a tank of nutrient solution which is kept aerated by the use of standard aquarium pumps and air stones, which deliver oxygen to the roots and to prevent algae growth.
+
+ raft cultivation 
+
+a variant of dwc sometimes used for lettuces: sheets of expanded polystyrene have holes drilled through them, and young plants are placed in the holes with the roots hanging down. the sheet then floats in a shallow tank of nutrient solution. 
+
+ nutrient film technique (nft) 
+
+in this method, the plants grow through light-proof plastic films placed over shallow, gently sloping channels. a steady flow of nutrients is maintained along the channel, and the roots grow into dense mats, with a thin film of nutrient passing over them (hence the name of the technique). 
+a downside of the technique is that it has very little buffering against interruptions in the flow e.g. power outages, but overall, it is probably one of the more productive techniques.
+
+example image from hydroponicsonline.com
+
+ aeroponics 
+a class of hydroponics where the roots of a plant are suspended in a mist or fog of nutrient rich solution.  traditional aeroponic techniques use pumps and misters more commonly found in micro-irrigation systems, whereas state-of-the-art techniques employ ultrasonic nubilizers which render the nutrient solution into an extremely fine fog.
+
+ media 
+one of the most obvious decisions a hydroponicist has to make is which medium they should use. different media are appropriate for different growing techniques.
+
+clay pebbles
+also known as 'hydroton', these small round baked spheres of clay are inert and are extremely suitable for any hydroponic system where all the nutrients are carefully controlled in the water. clay pebbles can be reused, provided they are cleaned thoroughly in-between crops.  baked clay pebbles are highly porous, yet irregularly shaped to create an ideal balance of oxygen and nutrient solution.
+
+rockwool
+rockwool gets its name from its physical properties: it is, in fact, pieces of basalt rock that have been spun out to form a lightweight, porous, wooly substrate. this 'wool' is then compressed into blocks. before use, rockwool must be soaked in ph 5-6 water with a cf of 12 (cf stands for 'conductivity factor', which is, put simply, the amount of nutrient in the water. if you do not have a cf meter, just follow the formula on the back of the packet and you will be fine) for a few minutes. the rockwool should then be removed and squeezed slightly to remove approximately 10 per cent of its water. rockwool can be bought in 'cuttings cubes', cubes that are good for inserting cuttings into, 'transplantation cubes', which are for inserting cuttings cubes into and then placing into a larger system, as large slabs, or as very small 1cm cubes, which are used in place of clay pebbles or some other medium. these tiny cubes are known as 'cellmax', but are still rockwool. note that fibres of rockwool can break off and lodge in a user's lungs, causing irritation, so care must be taken.
+
+rockwool exhibits a behavior called 'conditioning' in which it gradually absorbs phosphorus.  new rockwool usually has a ph around 7.4 - 7.6.  the absorbed phosphorus is available to plants, but is removed from the nutrient solution.  over time as the phosphorus builds up, the rockwool becomes 'conditioned' and absorbs progressively smaller quantities of phosphorus until it becomes saturated.  this process is beneficial to flowering plants because the rockwool serves as a storage for the large quantities of phosphorus needed during flowering.  providing large amounts in the nutrient solution could cause nutrient burn and excessively low ph, which in turn would lock out other nutrients.
+
+coco coir
+coco is a compressed medium created from the husks of coconuts. these are ph balanced, so need only to be soaked in water before use. some coco blocks are 'unbuffered', and so need to be soaked in buffering solution. coco coir comes also in bags and in slabs.
+
+perlite
+perlite is a volcanic rock that has been superheated into, very lightweight, expanded glass pebbles.  it is used loose or in plastic sleeves immersed in the water.  it is also used in potting soil mixes to decrease soil density.
+
+ commercial 
+due to rising awareness of chemicals and other contaminants in the food supply, people are looking for more wholesome and safer alternatives.  fortunately, hydroponics is the exact fit for the consumer’s new requirements.
+
+some commercial installations use no pesticides or herbicides, preferring integrated pest management techniques.  there is often a price premium willingly paid by consumers for produce which is labeled "organic".  this means that lawyers and lobbyists are paid to establish rules and laws determining exactly who can charge consumers more and which produce can be legally sold with the label "organic". some states in the usa require soil as an "sine qua non" to obtain organic certification. there are also overlapping and somewhat contradictory rules established by the federal government. so some food grown with hydroponics can be certified organic.  in fact, they are the cleanest plants possible because there is no environment variable and the dirt in the food supply is extremely limited.  hydroponics also saves an incredible amount of water; it uses as little as 1/20 the amount as a regular farm to produce the same amount of food.  the water table can be impacted by the water use and run-off of chemicals from farms, but hydroponics may minimize impact as well as having the advantage that water use and water returns are easier to measure.  this can save the farmer money by allowing reduced water use and the ability to measure consequences to the land around a farm. this can help keep government lawyers from running your farm.
+
+the environment in a hydroponics greenhouse is tightly controlled for maximum efficiency and this new mindset is called soil-less/controlled environment agriculture (s/cea).  with this growers can make ultra-premium foods anywhere in the world, regardless of temperature and growing seasons.  growers monitor the temperature, humidity, and ph level constantly.  in an era of farm globalization where each successive year thousands of farms are closed down worldwide due to excess capacity, only the most efficient farms will be passed down to generations in the 22nd century.
+
+ problems with hydroponics 
+although hydroponics is useful and an expanding area of agriculture, it is not without problems. on large scale commercial operations computers can be used to help control the different factors, making hydroponics more complex and thus more expensive.  however, the added benefit of computer controlled growing environments is that manual intervention is kept to a minimum.  there are experimental computer systems which allow every aspect of the growing environment to be monitored remotely, via the internet.
+
+luckily, hydroponics is not nearly as difficult when done on a small scale. hydroponic systems may be as complicated or a simple as the gardener's abilities and needs dictate.  often more advanced systems will produce more abundant or higher quality crops.  however even the simplest hydroponic system can yield incredible results when compared to their soil counterparts.
+
+ present and future 
+with pest problems reduced, and nutrients constantly fed to the roots, productivity in hydroponics is high, plant growth being limited by the low levels of carbon dioxide in the atmosphere, or limited light. to increase yield further, some sealed greenhouses inject carbon dioxide into their environment to help growth (co2 enrichment), or add lights to lengthen the day, control vegetative growth etc. 
+
+hydroponics can be used to grow plants anywhere, from antarctica (where salad vegetables are grown in the 6 month nights) to a coal mine. when vegetables are grown in future space missions, it is likely to be by hydroponics methods. the fact that plants can be grown almost anywhere, with no natural light by using hydroponics and lighting has not escaped the notice of clandestine marijuana growers, and a large amount of hydroponics equipment appears to be in use for this purpose.  in the uk, theft of high intensity grow lamps from commercial vegetable growers is a chronic problem.  however, this trend is being reduced by the increaced availability of hydro / organic grow stores which can supply the otherwise unavailable specialist equipment.  wide availability and low cost of equipment in the u.s. makes theft from greenhouses a rare event.  with the passage of medical marijuana laws and decriminalization of marijuana cultivation and use in several us states, the indoor cultivation of marijuana is becoming much more mainstream.
+
+ 

@@ -1,0 +1,15 @@
+de:heliopause es:heliopausa fr:héliopause nl:heliopauze
+
+in astronomy, the heliopause is the boundary where our sun's solar wind is stopped by the interstellar medium.
+
+the solar wind blows a "bubble" in the interstellar medium (the rarefied hydrogen and helium gas that permeates the galaxy). the outer border of this "bubble" is where the solar wind's strength is no longer great enough to push back the interstellar medium. this is known as the heliopause, and is often considered to be the outer border of the solar system.
+
+inside the heliopause is a boundary called the "termination shock" where supersonic solar wind particles are slowed to subsonic speeds by the interstellar medium. the layer between the termination shock and the heliopause is known as the heliosheath.
+
+the distance to the heliopause is not precisely known.  it is probably much smaller on the side of the solar system facing the orbital motion through the galaxy.  it may also vary depending on the current velocity of the solar wind and the local density of the interstellar medium.  it is known to lie far outside the orbit of pluto. the current mission of the voyager 1 and 2 spacecraft is to find and study the termination shock, heliosheath, and heliopause.
+
+when particles emitted by the sun bump into the interstellar ones, they slow down while releasing energy (warming up). many particles accumulate in and around the heliopause, highly energised by their negative acceleration, creating a shockwave.
+
+an alternative definition is that the heliopause is the magnetopause between the solar system's magnetosphere and the galaxy's plasma currents.
+
+ 

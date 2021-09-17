@@ -1,0 +1,98 @@
+the history of science as the acquisition of knowledge of the natural world dates back to prehistory, but the modern form of science is a relatively recent development in human culture.  natural philosophy was the rationalist, usually deductive, approach of many civilizations.  the scientific method is the largely inductive, empiricist approach developed from the scientific revolution. 
+
+prehistoric times
+
+although, by definition, no writing records were made in prehistoric time, we can get some insight as to how the world, and its mechanisms, was understood or interpreted by prehistoric man by direct and indirect evidence. direct evidence includes cave paintings that were found in spain and france, and some other artistic works, for example the venus of willendorf. despite the relative lack of direct evidence of knowledge owned by prehistoric man, the surviving technologies of prehistory may also be used to conject as to the understanding of the world in that era.
+
+survival was the first order of business; even today, with the great tsunami of 2004, andaman islanders remembered the advice of their forebears, took to the high ground, and survived the tsunami, as their ancestors have since time immemorial. these peoples recounted this knowledge to the crews of the rescue aircraft who were hovering over the andaman islands, after the aircraft were attacked by their arrows.
+
+in the past, after the problem of survival was solved for groups of people, human beings could then devote their attention to their world, including the sky, the sun, the moon, and the stars. the inherent regularities of the behavior of these astronomical bodies allowed human beings to collect and record the apparent positions of these bodies in the sky.
+
+thus human beings have sought knowledge in the past, and today still seek scientific laws which they can depend on.
+
+ancient civilizations
+mesopotamia
+[[image:sumerianclaytablet,palm-sized422bce.jpg|right|thumb|200px|sumerian clay tablet 422 bce, field museum of natural history,chicago. actual size.]]
+
+from their beginnings in sumer (now iraq) around 3500 bce the mesopotamian peoples began to attempt to record the world in extremely thorough quantitative and numerical data to whatever extent control allowed, seemingly without the desire or ability to reduce such information to scientific laws (of which none exist). an example of this practice is notable in their use of an unformulated version of pythagoras' law as early as the 18th century bce.
+
+a science which lent itself to this form of recording and study was astronomy. in fact, even today the astronomical cycles identified by mesopotamian scientists are still widely used in western calendars: the solar year, the lunar month, the seven-day week,  through the vigorous noting of the motions of the stars, planets, and the moon scribes left thousands of clay tablets. with collected data the motion of celestial bodies was able to be predicted in the short term. astronomy and astrology were considered to be the same thing, a fact proven by the practice of this science in babylonia by priests. indeed, rather than following the modern trend towards rational science, moving away from  superstition and belief; the mesopotamian astrology conversely became more astrology-based later in the civilisation - studying the stars in terms of horoscopes and omens.
+
+china
+indic
+the observatories of india and persia were buildings to facilitate observation with the naked eye, much like the stone circles of europe. eventually they were miniaturized into the diptychs and astrolabes in use by the greeks.
+
+india
+
+there are astronomical references of chronological significance in the vedas. some vedic notices mark the beginning of the year and that of the vernal equinox in orion; this was the case around 4500 bc. fire altars, with astronomical basis, have been found in the third millennium cities of india. the texts that describe their designs are conservatively dated to the first millennium bc, but their contents appear to be much older. 
+
+yajnavalkya (perhaps 1800 bc) advanced a 95-year cycle to synchronize the motions of the sun and the moon.
+
+egyptian
+geometry was concrete, a necessary outgrowth of surveying to preserve the layout and ownership of farmland, which was flooded annually by the nile river. the 3,4,5 right triangle and other rules of thumb served to represent rectilinear structures, and the post and lintel architecture of egypt.  
+
+but the wheel did not arrive here until invaders brought the chariot to a land well-served by the river. other simple machines like the ramp and the lever were also in use here.
+
+græco-roman
+[[image:aristotle.jpg|thumb|right|aristotle (sculpture)]]
+the systematic search for natural laws can be said to start with hellenic civilization, which reached its zenith two millennia ago and which served as the intellectual background for western civilization up to the time of the scientific revolution.
+
+eratosthenes measured the size of the earth, using a method which required him to know geometry well enough to realize that the earth was a sphere.
+
+astronomers like hipparchus built upon the measurements of the chaldean astronomers before him, to measure the precession of the earth. hipparchus is said to have recorded the first star map when he observed a nova, and wished to preserve astronomical record of the stars, so that other novas could be discovered.
+
+science before medieval times
+china
+[[image:armillarysphere1.jpg|thumb|right|200px|chinese armillary sphere]]
+a "guest star", the supernova of july 4th 1054, was recorded by chinese astronomers at the time when this was not considered a noteworthy event in europe
+
+middle east and persia
+india
+europe
+rest of the world
+
+science in the medieval age
+[[image:vitruvian.jpg|right|thumb|180px|leonardo da vinci's vitruvian man, an example of the blend of art and science during the renaissance]]
+
+ medieval europe 
+
+ islamic world 
+see also: islamic science
+
+after the spread of islam in the 7th and 8th centuries, a period of islamic scholarship lasted until the 14th century.  this scholarship was aided by several factors.  first was access to greek and roman texts from the byzantine empire along with hindu sources of learning.  another major aid was the hajj.  this annual pilgramage to mecca facilitated scholorly colaboration by bringing together people and new ideas from all over the islamic world.
+
+the concepts of citation and peer review were developed during this period. notable contributions include works by averroës, al-khwarizmi, ibn al-haitham, and al-razi.
+
+ china 
+
+ renaissance in europe 
+
+the scientific revolution
+main article: scientific revolution
+[[image:godfreykneller-isaacnewton-1689.jpg|thumb|right|isaac newton]]
+the birth of modern science in europe began in a period of great upheaval. events such as the protestant reformation, the discovery of the americas by christopher columbus, fall of constantinople, and the spanish inquisition caused both social and political changes to occur throughout europe.  these changes and new discoveries created an environment willing to question  scientific doctrine in much the same way that martin luther and john calvin questioned religious doctrine. 
+
+the works of ptolemy (astronomy), galen (medicine), and aristotle (physics) were also found to not always match everyday observations.  an example of this is an arrow flying through the air after leaving a bow contradicts with aristotle's assertion that the natural state of all objects is at rest.
+
+the willingness to question previously held truths and search for new answers resulted in a period of great scientific advancement known as the scientific revolution.  this period is often believed to have started in the 17th century and ended with publication of the philosophiae naturalis principia mathematica in 1687 by isaac newton (dates disputed).
+
+significant scientific advances were made in during this time by persons such as nicolaus copernicus, galileo galilei, christiaan huygens, johannes kepler, isaac newton, and blaise pascal.  philisophical developments by francis bacon, sir thomas browne, rené descartes, and thomas hobbes also had influence on the thinking of the time.  besides the individual discoveries and contributions, basic development of the scientific method occured during this time.  this new way of thinking emphasises experimentation and reason over traditional considerations.
+
+modern science
+[[image:einstein patentoffice.jpg|thumb|right|albert einstein in 1905]]
+
+physics
+main article: history of physics
+
+chemistry
+main article: history of chemistry
+mathematics
+main article: history of mathematics
+medicine
+main article: history of medicine
+
+biology
+main article: history of biology
+
+social sciences
+

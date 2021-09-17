@@ -1,0 +1,1 @@
+a video codec for low-bitrate video compression.  designed to supersede h.263, it advances h.263 by adding several annexes which substantially improve encoding efficiency.  see h.263 page for more details.

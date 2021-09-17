@@ -1,0 +1,20 @@
+[[image:dew 2.jpg|thumb|dew drop on a hydrophobic leaf surface]]
+thumb|water drops on the hydrophobic surface of grass
+
+in chemistry, hydrophobicity (from the combining form of water in attic greek hydro- and for fear phobos)  refers to the physical property of a molecule (known as a hydrophobe) that is repelled from a mass of water aryeh ben-na'im hydrophobic interaction plenum press, new york (isbn 0-306-40222-x). 
+
+hydrophobic molecules tend to be non-polar and thus prefer other neutral molecules and nonpolar solvents. hydrophobic molecules in water often cluster together forming micelles. water on hydrophobic surfaces will exhibit a high contact angle.
+
+examples of hydrophobic molecules include the alkanes, oils, fats, and greasy substances in general. hydrophobic materials are used for oil removal from water, the management of oil spills, and chemical separation processes to remove non-polar from polar compounds.
+
+hydrophobic is often used interchangeably with "lipophilic". however, the two terms are not synonymous. while hydrophobic substances are usually lipophilic, there are exceptions — the silicones, for instance.
+
+ chemical background 
+
+according to thermodynamics, matter seeks to be in a low-energy state, and bonding reduces chemical energy. water is electrically polarized, and is able to form hydrogen bonds internally, which gives it many of its unique physical properties. but, since hydrophobes are not electrically polarized, and because they are unable to form hydrogen bonds, water repels hydrophobes, in favour of bonding with itself. it is this effect that causes the hydrophobic interaction — which in itself is incorrectly named as the energetic force comes from the hydrophilic molecules.goss, k. u. and r. p. schwarzenbach (2003): "rules of thumb for assessing equilibrium partitioning of organic compounds: successes and pitfalls." journal of chemical education 80(4): 450-455. link to abstract thus the two immiscible phases (hydrophilic vs. hydrophobic) will change so that their corresponding interfacial area will be minimal. this effect can be visualized in the phenomenon called phase separation.
+
+ superhydrophobicity 
+
+superhydrophobic materials have surfaces that are extremely difficult to wet with water contact angles in excess of 150°. many of these very hydrophobic materials found in nature rely on cassie's law and are biphasic on the submicrometer level with one component air. the lotus effect is based on this principle. an example of a biomimetic superhydrophobic material in nanotechnology is nanopin film. in one study uv-driven reversible switching of a roselike vanadium oxide film between superhydrophobicity and superhydrophilicityho sun lim, donghoon kwak, dong yun lee, seung goo lee, and kilwon cho j. am. chem. soc.; 2007; 129(14) pp 4128 - 4129; (communication)  a vanadium pentoxide surface is presented that can switch reversibly between superhydrophobicity and superhydrophilicity under the influence of uv radiation. according to the study any surface can be modified to this effect by application of a suspension of rose-like v2o5 particles for instance with an inkjet printer. once again hydrophobicity is induced by interlaminar air pockets (separated by 2.1 nm distances). the uv effect is also explained. uv light creates electron-hole pairs, with the holes reacting with lattice oxygen creating surface oxygen vacancies while the electrons reduce v5+ to v3+. the oxygen vacancies are met by water and this water absorbency by the vanadium surface makes it hydrophilic. by extended storage in the dark, water is replaced by oxygen and hydrophilicity is once again lost.
+
+ 

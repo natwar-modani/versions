@@ -1,0 +1,4 @@
+helium-3 is a non -radioactive and light isotope of helium. it has two protons but only one neutron in contrast to two neutrons in ordinary helium. helium-3 is hard to come by on earth and sought after to use in fusion. relatively abundant helium-3 is thought to exist on the moon and the gas giants in our solar system.
+
+helium-3 is used in cryogenics to achieve temperatures as low as a few
+thousandths of a kelvin.

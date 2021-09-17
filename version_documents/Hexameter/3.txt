@@ -1,0 +1,25 @@
+hexameter is a metrical line of verses consisting of six feet. it was the standard epic metre in classical greek and latin literature, such as in the iliad, odyssey and aeneid. its use in other genres of composition include horace's satires, ovid's metamorphoses, and the hymns of orpheus. according to greek mythology, hexameter was invented by the god hermes.
+__toc__
+ classical hexameter 
+in classical hexameter, the six feet follow these rules:
+ a foot can be made up of two long syllables (– –), a spondee; or a long and two short syllables, a dactyl (– υ υ). 
+ the first four feet can contain either one of them.  
+ the fifth is almost always a dactyl, and last must be a spondee.
+
+a short syllable (υ) is a syllable with a short vowel and no consonant at the end. a long syllable (–) is a syllable that either has a long vowel, one or more consonants at the end (or a long consonant), or both. spaces between words are not counted in syllabification, so for instance "cat" is a long syllable in isolation, but "cat attack" would be syllabified as short-short-long: "ca", "ta", "tack" (υ υ –).
+
+variations of the sequence from line to line, as well as the use of caesura (logical full stops within the line) are essential in avoiding what may otherwise be a monotonous sing-song effect.
+
+ application
+although the rules seem simple, it is hard to use classical hexameter in english, because english is a stress-timed language that condenses vowels and consonants between stressed syllables, while hexameter relies on the regular timing of the phonetic sounds. languages having the latter properties (i.e., languages that are not stress-timed) include ancient greek, latin, lithuanian and hungarian.
+
+while the above classical hexameter has never enjoyed much popularity in english, where the standard metre is iambic pentameter, english poems have frequently been written in iambic hexameter. there are numerous examples from the 16th century and a few from the 17th; the most prominent of these is michael drayton's poly-olbion (1612) in couplets of iambic hexameter. an example from drayton (marking the feet):
+nor a | ny o | ther wold | like cot | swold e | ver sped,
+so rich | and fair | a vale | in for | tuning | to wed.
+
+in the 17th century the iambic hexameter, also called alexandrine, was used as a substitution in the heroic couplet, and as one of the types of permissible lines in lyrical stanzas and the pindaric odes of cowley and dryden.
+
+several attempts were made in the 19th century to naturalise the dactylic hexameter to english, by henry wadsworth longfellow, arthur hugh clough and others, none of them particularly successful. gerard manley hopkins wrote many of his poems in six-foot iambic and sprung rhythm lines. in the 20th century a loose ballad-like six-foot line with a strong medial pause was used by william butler yeats. the iambic six-foot line has also been used occasionally, and an accentual six-foot line has been used by translators from the latin and many poets.
+
+in the late 18th century the hexameter was adapted to the lithuanian language by kristijonas donelaitis. his poem "metai" (the seasons) is considered the most successful hexameter text in lithuanian as yet.
+

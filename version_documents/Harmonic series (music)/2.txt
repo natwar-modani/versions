@@ -1,0 +1,51 @@
+pl:szereg harmoniczny (muzyka)
+this article is about the harmonic series in music theory. see harmonic series (mathematics) for the related mathematical concept.
+
+pitched musical instruments are usually based on some sort of harmonic oscillator, for example a string or a column of air, which can oscillate at a number of frequencies. the integer multiples of the lowest frequency make up the harmonic series.
+
+ description of the harmonic series 
+the lowest of these frequencies is called the fundamental or first partial. this is the note created from the vibration of the full string length (the first transverse vibrational mode) of a stringed instrument or from air compression waves vibrating through the whole length of a woodwind instrument (the first longitudinal vibrational mode). all of the other frequencies in the harmonic series are integer multiples of the fundamental. the difference in terms of frequency (measured in hertz (hz)) is the same between all partials, but the ear responds in a logarithmic fashion, so the higher partials sound 'closer' together. put another way: since the harmonic series is an arithmetic series (1f, 2f, 3f, 4f...), and the octave, or octave series, is a geometric series (f, 2×f, 4×f, 8×f...), this causes the overtone series to divide the octave into increasingly smaller parts as it ascends.
+
+the second partial is twice the frequency of the fundamental, which makes it an octave higher.  the third harmonic partial, at three times the frequency of the fundamental, is a perfect fifth above the second harmonic. similarly, the fourth harmonic partial is four times the frequency of the fundamental; it is a perfect fourth above the third partial (two octaves above the fundamental). note that double the partial number means double the frequency, which in turn means the 'pitch' is an octave higher. for example, the 6th partial is an octave higher than the 3rd partial.
+
+after that the harmonics come thick and fast, getting closer and closer together. some harmonics correspond very nearly to named pitches of the equal tempered scale; others, for example the 7th harmonic, are significantly off from the equal tempered tones.  if you have a player capable of reading vorbis files (for example winamp 3), you can listen to  a'' (110 hz) and 15 partials by clicking here.
+
+for a fundamental of c', the first 16 harmonics are:
+
+frame|right|an illustration of the harmonic series as musical notation.  not all the notes are exactly in tune; see text for more details.
+
+ 1st c'
+ 2nd c
+ 3rd g
+ 4th c
+ 5th e (this, and the following odd-numbered partials are "out of tune" in terms of equal temperament)
+ 6th g
+ 7th b-flat
+ 8th c'
+ 9th d'
+ 10th e'
+ 11th f'-sharp
+ 12th g'
+ 13th a' (but out of tune)
+ 14th b'-flat
+ 15th b' natural
+ 16th c'' 
+ 17th c-sharp'' but out of tune
+
+since many instruments, and the fundamental intervals of western harmony, are based on the harmonic series, many scale tuning systems (e.g. just intonation) attempt to build the musical scale largely or entirely on the frequencies of the harmonic series.  however, in modern equal temperament, many notes in the harmonic series are off pitch as indicated above.
+
+ timbre of musical instruments 
+most instruments produce a number of frequencies in addition to the fundamental of the tone that is sounding.  the amplitude and placement of different partials determine the timbre of different instruments.  formants determine some of the character of the instrument, but the harmonic vibrations are probably the most important effect.  for example, close ended reed instruments (e.g. the clarinet, which is considered closed at the reed end) sound only odd numbered harmonics, giving each individual note a purer timbre than a stringed or brass instrument.  it is the strength of higher harmonics in brass instruments that gives them their "brassy", rich, slightly dissonant timbre.
+
+the placement of partials can also affect the perceived fundamental pitch. not all musical instruments have partials that exactly match the harmonic partials as described here. the partials of piano, and other, strings are increasingly sharper than perfect harmonics because the strings are stiff, leading to nonlinear, inharmonic effects.  see piano acoustics.
+
+ register and special effects of musical instruments 
+many instruments are designed to allow higher harmonics to be picked out while damping the normal fundamental, thus making the instrument sound higher.  for example, on most woodwind instruments (clarinet, saxophone, oboe, bassoon, etc.), there is an octave key or register key which opens a small hole in the tube, prompting the instrument to oscillate at a higher harmonic partial and giving a higher octave of the instrument.  generally, flautists can access higher harmonics even without a register key simply by blowing harder and thereby forcing the air column to prefer the second vibrational mode; this is also evident when blowing over the lips of bottles.
+
+on brass instruments, the small number of keys only allows a small chromatic range to be played off of any given harmonic, so it is necessary for the musician to play many harmonics to get the full range of the instrument.  the different harmonics are accessed by increasing the vibration of the lips against the mouthpiece, essentially by tightening the embouchure and blowing the air faster.  a brass instrument with no valves (e.g. military bugle) plays only the notes of the harmonic series, making it ideal for bugle calls and little else.
+
+for cylindrical bore brass (e.g. trumpet, trombone), the second harmonic is the lowest playable note. note that the fundamental is technically playable on a trumpet or trombone, but not in context, as it is extremely difficult to play.  on a conical bore brass instrument (e.g. flugelhorn, french horn, tuba) the fundamental is available, but is a somewhat special note called a "pedal tone" or "pedal note" and is rarely called for in written music.  this is probably because the valving system of a brass instrument usually only allows the lowering of the pitch to a tritone below the open sounding pitch, which means that there are five notes above the fundamental that cannot be played.
+
+on a stringed instrument, it is possible to damp the fundamental and thus sound at a higher frequency by using a special fingering technique.  by lightly touching the string directly at its midpoint, the musician forces the string to vibrate in its second transverse mode, sounding an octave above the normal note.  this is not so useful as the same note could be sounded by pushing the string all the way to the fingerboard at this point.  however, the light touch fingering can be applied at 1/3, 1/4, etc. of the string length to access higher and higher harmonics (the practical limit for this depends on the total length of the string, thus on the size of the instrument).  simply pressing the string to the fingerboard at these positions would not yield the same note as the harmonic.
+
+ 

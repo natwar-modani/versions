@@ -1,0 +1,48 @@
+heavy water is dideuterium oxide, 
+or d2o or 2h2o. 
+it is chemically the same as normal water, 
+h2o, but the hydrogen atoms are 
+of the heavy isotope deuterium, 
+in which the nucleus 
+contains a neutron in addition to the 
+proton found in the nucleus of any hydrogen atom.
+semiheavy water, hdo, also exists. gilbert newton lewis isolated the first sample of pure heavy water in 1933.
+
+ uses 
+
+ nuclear magnetic resonance 
+
+deuterium oxide is used in nuclear magnetic resonance (nmr) spectroscopy when the solvent of interest is water and the nuclide of interest is hydrogen. this is because the signal from the water solvent would swamp any signal from the molecule of interest.  deuterium has a different magnetic moment than hydrogen and therefore does not contribute (significantly) to the nmr signal at the hydrogen resonance frequency.
+
+ neutron moderator 
+
+heavy water is used in certain types of nuclear reactors where it acts as a neutron moderator to slow down neutrons so that they can react with the uranium in the reactor.  
+the candu reactor uses this design. light water also acts as a moderator but because light water absorbs neutrons, reactors using light water must use enriched uranium rather than natural uranium, otherwise criticality is impossible.  
+
+because heavy water reactors can use natural uranium, it is of concern in efforts to prevent nuclear proliferation. a nation with a sufficiently powerful heavy water reactor can use it to turn uranium into bomb-usable plutonium without requiring enrichment facilities. heavy water reactors have been used for this purpose by india, israel, pakistan and north korea. north korea also possesses graphite-moderated reactors, as used by the united states, the united kingdom, the ussr and france for their bomb programs (in fact it was stated in british parliament that one of these had been built to the declassified blueprints for calder hall). a major part of the negotiations involving north korean nuclear reactors have been to attempt to shut down all of these reactors. 
+
+due to its usefulness in nuclear weapons programs, heavy water is subject to government control in several countries. (in australia, the nuclear non-proliferation (safeguards) act 1987).
+
+ neutrino detector 
+
+the sudbury neutrino observatory (sno) in sudbury, ontario uses 1000 tonnes of heavy water on loan from atomic energy of canada limited. the neutrino detector is 6800 feet underground in an old mine to shield it from cosmic rays. sno detects the cherenkov radiation as neutrinos pass through the heavy water.
+
+ health threat 
+
+heavy water is not considered toxic but can displace light water and kill a person by depriving the body of enough light hydrogen to be effective. this can be thought of as a similar to inhalation of pure nitrogen, the primary component of air.
+
+experiments with mice have shown that the main effect of the slightly different reaction rate is to inhibit mitosis, causing progressive damage of tissues that need rapid regeneration.  after several days of ingesting only heavy water, the body fluids contain about 50% heavy water, and at this point symptoms begin owing to the decrease in cell division rates of rapidly dividing tissues, such as hair roots and stomach linings. aggressive cancers might also go into remission,  but the effect is not predicted to be great enough to make this  a useful therapy.
+
+poisoning is doubtful except in unusual industrial and scientific situations. it depends on the patient taking only heavy water. an intake of, say, 25% heavy water in ordinary water would not be predicted to produce symptoms. so it is not so much that heavy water is damaging to health, but rather that it is not a proper subsitute for light water, which is necessary for life.
+
+ production 
+on earth, semiheavy water, hdo, occurs naturally in regular water at a proportion of roughly one part in 3,200.  it may be separated from regular water by distillation or electrolysis and also by various chemical exchange processes which exploit the differing affinities of deuterium and hydrogen for various compounds. in each case the slight difference in molecular weight produces a slight difference in the speed at which the reaction proceeds. once hdo becomes a significant fraction of the water, heavy water will become more prevalant as well as water molecules trade hydrogen atoms very frequently. to produce pure heavy water by distillation or electrolysis requires a large cascade of stills or electrolysis chambers, and consumes large amounts of power, so the chemical methods are generally preferred.   
+
+ norway 
+
+in 1934, norsk hydro built the first commercial heavy water plant with a capacity of 12 tonnes per year at vemork. during world war ii, the allies decided to destroy the plant and its heavy water in order to inhibit the german development of nuclear weapons. in late 1942, a raid by british paratroopers failed when the gliders crashed. all the raiders were killed in the crash or shot by the germans. in february 1943, a group of 12 norwegian infiltrators, trained in britain by the special operations executive and dropped by parachute into norway, managed to disrupt production for two months by dynamiting the facilities. on november 16, 1943, the allied air forces dropped over 400 bombs on the site.
+
+the allied air raid prompted the german government to move all available heavy water to germany for safekeeping. however, on february 20 1944, a norwegian partisan was able to sink the ferry carrying the heavy water across lake tinnsjoe at the cost of 14 norwegian civilians.
+
+the story was used for a 1965 hollywood movie, the heroes of telemark, starring kirk douglas.
+

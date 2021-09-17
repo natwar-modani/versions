@@ -1,0 +1,29 @@
+an organization of things (members or nodes) according to an asymmetrical relationship  which connects subordinates to superiors. every member is reachable from any other by following the relationship in either direction, but there is no way of coming back to a particular member by always following the relationship in the same direction. a hierarchy can thus be represented as a connected directed acyclic graph.
+
+hierarchies appear almost everywhere. most human organizations, such as businesses, churches, armies and political movements are structured hierarchically; commonly a superior is called a boss and has more power than his subordinates. in object-oriented programming, classes are organized hierarchically; the relationship between two related classes is called inheritance. in biology, organisms are commonly described as an assembly of parts (organs) which are themselves assemblies of yet smaller parts, and so on. in physics, the standard model decomposes bodies down to their smallest particle components.
+
+(the wikipedia community is remarkable for not being hierarchically structured, as no contributor possesses inherently higher standing than another (as of yet).) (as of october/november 2001, a non-anarchist stance for the wikipedia project has been clarified by the wikipedia administration. see larry sanger/is wikipedia an experiment in anarchy.)
+
+the concept of hierarchy qualifies as interdisciplinary.
+
+text below to be prosified
+
+generalizations: structure
+
+specializations:
+
+ purpose: hierarchical organization
+
+ structure: hierarchical tree structure, rooted hierarchy
+
+ nature of the hierarchical relationship: part-whole hierarchy, containment hierarchy, inheritance hierarchy, responsibility hierarchy, control hierarchy
+
+other potential examples:
+
+ linguistics: chomsky hierarchy
+
+ psychology: maslow hierarchy of needs
+
+ genealogy: genealogy tree
+
+/talk

@@ -1,0 +1,28 @@
+the hacker ethic is a set of concepts, beliefs and morals that was silently agreed upon by the tx-0 hackers of the massachusetts institute of technology. from 1958-59 these early hackers included peter samson, alan kotok, jack dennis and bob saunders. the term “hacker ethic” was first used in steven levy’s hackers: heroes of the computer revolution (1984). levy claims that: “surely everyone can benefit from a world that is based on the hacker ethic.” (levy, 1984. p.33) 
+
+the following is a summary of the principles. 
+
+•	access to computers — and anything which might teach you something about the way the world works — should be unlimited and total. always yield to the hands-on imperative!: through taking technologies apart, hackers learn critical information which they use to create new things. hackers yearn to fix things such as traffic lights which irritate them because they provide unnecessary delays. hackers are against rules set by bureaucracies which prevent them improving machines. (levy, 1984. p.27) 
+
+•	all information should be free: levy writes: “if you do not have access to the information that you need to improve things, how can you fix them? a free exchange of information particularly when the information was in the form of a computer program, allowed for greater overall creativity.” (levy, 1984. p.27)
+
+•	mistrust authority — promote decentralization: hackers see bureaucracies, particularly ibm, as dangerous. this was because they withhold information that prevents the hackers from reaching their potential. the hackers favour a system where nobody was gives orders and they could follow their own interests. (levy, 1984. p.28)
+
+•	hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position: to be a hacker the only requisite is that you prove yourself at the console of a computer. (levy, 1984. p. 30)
+
+•	you can create art and beauty on a computer: the art and beauty was not just about the output but also the input. the hackers see the code of the program that creates music more beautiful than the music itself. (levy, 1984. p.30)
+
+•	computers can change your life for the better: computers had given the hackers focus and made their lives adventurous. levy also says that “if everyone could interact with computers with the same innocent, productive, creative impulse that hackers did, the hacker ethic might spread through society like a benevolent ripple and computers would indeed change the world for the better.”(levy, 1984. p.33) 
+
+in 2001 pekka himanen wrote the hacker ethic and the spirit of the information age in which he proposes the hacker ethic as an alternative to the industrialist-capitalist protestant work ethic. 
+
+himanen identified the hacker ethic as:
+
+•	an enthusiastic and passionate attitude to work.
+
+•	a wish to reach one’s full potential and realise oneself. 
+
+•	a wish to share one’s skills with others.  
+
+(himanen, 2001. p.3) 
+

@@ -1,0 +1,31 @@
+a hemicellulose (also known as polyose) is a heteropolymer (matrix polysaccharide), such as arabinoxylans, present along with cellulose in almost all plant cell walls.scheller hv, ulvskov p., hemicelluloses. // annu rev plant biol. 2010;61:263-89. doi: 10.1146/annurev-arplant-042809-112315. while cellulose is crystalline, strong, and resistant to hydrolysis, hemicellulose has a random, amorphous structure with little strength. it is easily hydrolyzed by dilute acid or base as well as a myriad of hemicellulase enzymes.
+
+thumb|most common molecular motif of hemicellulose
+
+composition
+hemicelluloses include xylan, glucuronoxylan, arabinoxylan, glucomannan, and xyloglucan.
+
+these polysaccharides contain many different sugar monomers. in contrast, cellulose contains only anhydrous glucose. for instance, besides glucose, sugar monomers in hemicellulose can include xylose, mannose, galactose, rhamnose, and arabinose. hemicelluloses contain most of the d-pentose sugars, and occasionally small amounts of l-sugars as well.  xylose is in most cases the sugar monomer present in the largest amount, although in softwoods mannose can be the most abundant sugar. not only regular sugars can be found in hemicellulose, but also their acidified form, for instance glucuronic acid and galacturonic acid can be present. hemicellulose is often associated with cellulose, but it has different composition.
+
+structural comparison to cellulose
+unlike cellulose, hemicellulose (also a polysaccharide) consists of shorter chains – 500–3,000 sugar units as opposed to 7,000–15,000 glucose molecules per polymer, as seen in cellulose. in addition, hemicellulose is a branched polymer, while cellulose is unbranched.
+
+native structure
+thumb|section of a cell wall; hemicellulose in green
+hemicelluloses are embedded in the cell walls of plants, sometimes in chains that form a 'ground' – they bind with pectin to cellulose to form a network of cross-linked fibres.
+
+ biosynthesis 
+hemicelluloses are synthesised from sugar nucleotides in the cell's golgi apparatus. two models explain their synthesis: 1) a '2 component model' where modification occurs at two transmembrane proteins, and 2) a '1 component model' where modification occurs only at one transmembrane protein. after synthesis, hemicelluloses are transported to the plasma membrane via golgi vesicles.
+
+applications
+as percent content of hemicellulose increases in animal feed, the voluntary feed intake decreases.
+
+hemicellulose is represented by the difference between neutral detergent fiber (ndf) and acid detergent fiber (adf).
+
+functions
+microfibrils are cross-linked together by hemicellulose homopolymers.  lignins assist and strengthen the attachment of hemicelluloses to microfibrils.
+
+from trees
+
+hemicellulose found in hardwood trees is predominantly xylan with some glucomannan, while in softwoods it is mainly rich in galactoglucomannan and contains only a small amount of xylan. the average molecular weight is lower than that of cellulose at  less than 30,000, as opposed to the 100,000 average molecular weight reported for cellulose.
+

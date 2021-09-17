@@ -1,0 +1,26 @@
+the hausdorff dimension (also: hausdorff-besicovitch dimension, capacity dimension and fractal dimension), introduced by felix hausdorff, gives a way to accurately measure the dimension of complicated sets such as fractals. the hausdorff dimension agrees with the ordinary (topological) dimension on "well-behaved sets", but it is applicable to many more sets and is not always a natural number. the hausdorff dimension should not be confused with the (similar) box-counting dimension.
+
+suppose (x,d) is a metric space.  we define a family of metric outer measures on x using the method ii construction of outer measures due to munroe.  this is described in the article outer measure. let c be the class of all subsets of x; for each positive real number s, let ps be the function a → diam(a)s on c. hausdorff outer measure of dimension s, denoted hs is the outer measure corresponding to the function ps on c.
+
+thus for any subset e of x
+
+where the infimum is taken over sequences {ai}i which cover e by sets each with diameter ≤ &delta. then 
+
+the value hs(e) can be described directly as the infimum of all h > 0 such that for all δ > 0, e can be covered by countably many closed sets of diameter ≤ δ and the sum of the s-th powers of these diameters is less than or equal to h.
+
+theorem. hs is a metric outer measure.  thus all borel subsets of x are measurable and hs is a countably additive measure on the borel algebra.
+
+the function s → hs(e) is non-increasing.
+in fact, it turns out that for all values of s, except possibly one  hs(e) is either 0 or ∞. we say e has positive finite hausdorff dimension iff there is a real number 0<d< ∞ such that if s < d then hs(e) = ∞ and if s > d, then hs(e) = 0. if
+hs(e)=0 for all positive s, then e has hausdorff dimension 0.  finally, if hs(e)=∞ for all positive s, then e has hausdorff dimension ∞ 
+
+the hausdorff dimension is a well-defined extended real number for any set e and we always have 0 ≤ d(e) ≤ ∞.
+
+ examples 
+
+ the euclidean space rn has hausdorff dimension n.
+ the circle s1 has hausdorff dimension 1.
+ countable sets have hausdorff dimension 0.
+ fractals are defined to be sets whose hausdorff dimension strictly exceeds the topological dimension. for example, the cantor set (a zerodimensional topological space) is a union of two copies of itself, each copy shrunk by a factor 1/3; this fact can be used to prove that its hausdorff dimension is ln(2)/ln(3) (see natural logarithm). the sierpinski triangle is a union of three copies of itself, each copy shrunk by a factor of 1/2; this yields a hausdorff dimension of ln(3)/ln(2).
+
+ 

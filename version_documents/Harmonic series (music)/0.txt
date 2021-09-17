@@ -1,0 +1,43 @@
+pl:szereg harmoniczny (muzyka)
+this article is about the harmonic series in music theory. see harmonic series (mathematics) for the related mathematical concept.
+ 
+
+pitched musical instruments are usually based on some sort of harmonic oscillator, for example a string or a column of air, which can oscillate at a number of frequencies. the integer multiples of the lowest frequency make up the harmonic series.
+
+the lowest of these frequencies is called the fundamental or first harmonic. this is the note you get when with normal bowing of a stringed instrument or from the lowest octave of a woodwind instrument. all of the other frequencies in the harmonic series are integer multiples of the fundamental.
+
+the second harmonic (or first overtone) is twice the frequency of the fundamental, which makes it an octave higher. on most wind instruments, for example the saxophone, oboe, or bassoon, there is an octave key which opens a small hole in the tube, prompting the instrument to oscillate at the second harmonic and giving the second octave of the instrument. on brass instruments, the second harmonic is the lowest playable note. the fundamental is called a pedal note or pedal tone and can be faked.
+
+the third harmonic (or second overtone), at three times the frequency of the fundamental, is a fifth above the second harmonic. similarly, the fourth harmonic is four times the frequency of the fundamental; it is a fourth above the third harmonic (two octaves above the fundamental). note that double the harmonic number means double the frequency, which in turn means the pitch is an octave higher. for example, the 6th harmonic g is an octave higher than the 3rd harmonic g. 
+
+after that the harmonics come thick and fast, getting closer and closer together. some harmonics correspond exactly to named pitches; others, for example the 7th harmonic, lie between the semitones.
+
+for example, given a fundamental of c', the first 16 harmonics are:
+
+ 1st c'
+ 2nd c
+ 3rd g
+ 4th c
+ 5th e
+ 6th g
+ 7th b-sesquiflat
+ 8th c'
+ 9th d'
+ 10th e'
+ 11th f'-semisharp
+ 12th g'
+ 13th a'-semiflat (but out of tune)
+ 14th b'-sesquiflat
+ 15th b' natural
+ 16th c'' 
+ 17th c-sharp'' but out of tune
+
+image:hseries.png
+an illustration of the harmonic series above, as musical notation. not all the "wrong" notes are marked as such - see text for more details.
+
+if you have a player capable of reading vorbis files (for example winamp 3), you can listen to  a'' (110 hz) and 15 harmonics by clicking here.
+
+"western" harmony, especially the major chord, is often justified as being based in the lower pitches of the overtone series, dissonance then being conflict between higher harmonics. this is questionable however, since "western" harmony is currently based on twelve equal divisions of the octave, which thus places all intervals out of tune with respect to the lower overtones, except the octave which remains 2:1.
+
+the amplitude and placement of different overtones determine the timbre of different instruments, and the seperate trajectories of the overtones two instruments playing in unison is what allows one to perceive them as separate. not all musical instruments have overtones that exactly match the harmonics as described here. the overtones of piano, and other, strings are increasingly sharper than harmonics because the strings are stiff, leading to nonlinear, inharmonic effects.
+

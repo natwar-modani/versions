@@ -1,0 +1,22 @@
+human infectious diseases grouped by causative agent and alphabetically arranged.
+
+ viral infectious diseases 
+
+aids – aids related complex – chickenpox (varicella) – common cold – cytomegalovirus infection – colorado tick fever – dengue fever – ebola hemorrhagic fever – hand, foot and mouth disease – hepatitis – herpes simplex – herpes zoster – hpv – influenza (flu) – lassa fever – measles – marburg hemorrhagic fever – infectious mononucleosis – mumps – norovirus – poliomyelitis – progressive multifocal leukencephalopathy – rabies – rubella – sars – smallpox (variola) – viral encephalitis – viral gastroenteritis – viral meningitis – viral pneumonia – west nile disease – yellow fever
+
+ bacterial infectious diseases 
+
+anthrax – bacterial meningitis – botulism – brucellosis – campylobacteriosis – cat scratch disease – cholera – diphtheria – epidemic typhus –  gonorrhea –   impetigo– legionellosis – leprosy (hansen's disease) – leptospirosis – listeriosis – lyme disease – melioidosis – rheumatic fever;mrsa infection – nocardiosis – pertussis (whooping cough) – plague – pneumococcal pneumonia – psittacosis – q fever – rocky mountain spotted fever (rmsf) – salmonellosis – scarlet fever – shigellosis – syphilis – tetanus – trachoma – tuberculosis – tularemia – typhoid fever – typhus– urinary tract infections
+
+ parasitic infectious diseases 
+
+african trypanosomiasis – amebiasis – ascariasis – babesiosis – chagas disease – clonorchiasis – cryptosporidiosis – cysticercosis – diphyllobothriasis – dracunculiasis – echinococcosis – enterobiasis – fascioliasis – fasciolopsiasis – filariasis – free-living amebic infection – giardiasis – gnathostomiasis – hymenolepiasis – isosporiasis – kala-azar – leishmaniasis – malaria – metagonimiasis – myiasis – onchocerciasis  – pediculosis – pinworm infection – scabies – schistosomiasis – taeniasis – toxocariasis – toxoplasmosis – trichinellosis – trichinosis – trichuriasis – trichomoniasis – trypanosomiasis
+
+ fungal infectious diseases 
+
+aspergillosis – blastomycosis – candidiasis –  coccidioidomycosis – cryptococcosis – histoplasmosis – tinea pedis
+
+ prion infectious diseases 
+
+transmissible spongiform encephalopathy – bovine spongiform encephalopathy – creutzfeldt-jakob disease – kuru–fatal familial insomnia–alpers syndrome –
+

@@ -1,0 +1,87 @@
+the horsepower (hp) is the name of several non-metric units of power. in scientific discourse the horsepower is rarely used due to the various definitions and the existence of an si unit for power, the watt (w). however, the idea of horsepower persists as a legacy term in many languages, particularly in the automotive industry for listing the maximum power of internal-combustion engines.
+
+the various types of horsepower are:
+
+ horsepower (hp) 
+according to the most common definition of horsepower, one horsepower is defined as exactly:
+
+ 1 hp = 745.69987158227022 w
+
+a common memory aid is based on the fact that christopher columbus first sailed to the americas in 1492. the memory aid states that 1 hp = 1/2 columbus or 746 w.
+ in fourteen hundred and ninety-two
+ columbus sailed the ocean blue.
+ divide that son-of-a-bitch by two
+ and that's how many watts there are in a horsepower.
+
+the horsepower was first used by james watt during a business venture where his steam engines substituted horses.  it was defined that a horse can lift 33,000 pounds force  with a speed of 1 foot per minute: 33,000 ft·lbf·min-1.  this is sometimes called a mechanical horsepower to distinguish it from the other definitions of horsepower below.
+
+ brake horsepower (bhp) 
+brake horsepower was a term commonly used before the 1970s in the united states, and is still common in the united kingdom. it indicates the brake, the device for measuring the true power of the engine. stating power in 'bhp' gives some indication this is a true reading, rather than a calculated or predicted one. however, several manufacturers started to strip their engines of essential ancillaries for the purposes of getting a high horsepower figure to use in marketing the car.
+
+ hp (sae)
+
+in the united states the term fell into disuse after the american society of automotive engineers (sae) recommended manufacturers use "hp (sae)" to indicate the power of the engine, given that particular car's complete engine installation.  this may also be stated as "sae net hp" or simply "net hp".  the british market seemed not to need the correction.
+
+ indicated horsepower (ihp) 
+indicated horsepower is the theoretical power of a reciprocating engine assuming that it is completely efficient in converting the energy contained in the expanding gases in the cylinders.  it is calculated from the pressures developed in the cylinders, measured by a device called an engine indicator - hence indicated horsepower. it was the figure normally used for steam engines in the 19th century but is misleading because the mechanical efficiency an engine means that the actual power output may be only 70-90% of the indicated horsepower.
+
+ drawbar horsepower (dbhp) 
+
+drawbar horsepower is the power a railroad locomotive has available to haul a train.  this is a measured figure rather than a calculated one.  a special railroad car called a dynamometer car coupled behind the locomotive keeps a continuous record of the drawbar pull exerted, and the speed.  from these, the power generated can be calculated.  to determine the maximum power available, a controllable load is required; this is normally a second locomotive with its brakes applied, in addition to a static load.
+
+ rac horsepower 
+this measure was instituted by the royal automobile club in britain and used to denote the power of early 20th century british cars. many cars hence had names such as "40/50hp", which indicated the rac figure followed by the true measured power.
+
+rac horsepower cannot be given as a proportion to metric power. instead, it is derived from dimensions of the engine and certain assumptions about engine efficiency. when invented, it gave a rough guide to its true power rating; as new engines were designed with ever-increasing efficiency, it was no longer a useful measure, but was kept in use by uk regulations which used the rating for tax purposes.
+
+where
+
+ d is the diameter (or bore) of the cylinder in inches
+ n is the number of cylinders
+
+this is equal to the displacement in cubic inches divided by 10π then divided again by the stroke in inches. 
+
+ metric horsepower 
+
+ ps 
+this unit (german: pferdestärke = horse strength) is no longer a lawful unit, but is still commonly used in europe, south america and japan, especially by the automotive industry. it was adopted throughout continental europe with designations equivalent to the english "horse power", but mathematically different from the british unit. it is defined by the physikalisch-technische bundesanstalt (ptb) in braunschweig as exactly:
+
+ 1 ps = 75 kp·m/s = 735.49875 w = 1.013869665424 hp (sae)
+
+the ps was adopted by the deutsches institut für normung (din), and subsequently, by the automotive industry throughout most of europe. in 1992, this unit was rendered obsolete by eec derictives, where it was replaced by the kw as the official power measuring unit, but in situations where hp was used for commercial and advertising purposes, it continued to be used, as customers are not familiar with the usage of kw for combustion engines.
+
+ pk 
+a dutch paardekracht equals the german pferdestärke hence
+ 1 pk = 735.49875 w
+
+ cv 
+often the french name for the pferdestärke.  also a french unit for tax horsepower, short for chevaux vapeur ("steam horses"), hence citro%ebn 2cv.
+
+in italy, spain and portugal, 'cv' is the equivalent to the german 'ps'.
+
+ ch 
+this is a french unit for automobile power. the symbol ch is short for chevaux ("horses"). some sources give it as 735.5 w, but it is generally used interchangeably with the german 'ps'.
+
+ boiler horsepower 
+
+a boiler horsepower is used for boilers in power plants.  it is equal to 33,475 btu/h (9.8095 kw).
+
+ electrical horsepower
+
+the electrical horsepower is used by the electrical industry for electric motors and is defined to be exactly 746 watts.
+
+history of the term "horsepower"
+the term "horsepower" was invented by james watt to help market his improved steam engine.   he had previously agreed to take royalties of one third of the savings in coal from the older newcomen steam engines.  this royalty scheme did not work with customers who did not have existing steam engines but used horses instead.  watt determined that a horse could turn a mill wheel 144 times in an hour (or 2.4 times a minute).  the wheel was 12 feet in radius, thus in a minute the horse travelled 2.4 × 2π × 12 feet.  watt judged that the horse could pull with a force of 180 pounds (just assuming that the measurements of mass were equivalent to measurements of force in pounds-force, which were not well-defined units at the time).  so:
+
+this was rounded to an even 33,000 ft·lbf/min.
+
+others recount that watt determined that a pony could lift an average 220 pounds 100 feet (30 m) per minute over a four-hour working shift.  watt then judged a horse was 50% more powerful than a pony and thus arrived at the 33,000 ft·lbf/min figure.  regardless, comparison to a horse proved to be an enduring marketing tool.
+
+conversion of historical definition to watts
+the historical value of 33,000 ft·lbf/min may be converted to the si unit of watts by using the following conversion of units factors:
+1 ft = 0.3048 m
+ 1 lbf = gn·(1 lb) = (9.80665 m/s2)(1 lb)(0.45359237 kg/lb) = 4.44822 kg·m/s2 = 4.44822 n
+60 seconds = 1 minute
+
+and the watt is defined as  so the historical figure of 33,000 ft·lbf/min converts exactly to the modern definition.
+

@@ -1,0 +1,19 @@
+hunt the wumpus is an early computer game, based on a simple hide-and-seek format featuring a mysterious monster (the wumpus) that lurks deep inside a network of rooms. 
+
+ about the game  
+using a command line text interface, a player of hunt the wumpus enters commands to move through the rooms, or shoot arrows along crooked paths through several adjoining rooms. there are twenty rooms, each connecting to three others, arranged like the vertices of a dodecahedron (or the faces of an icosahedron). hazards include bottomless pits, super bats (which drop the player in a random location) and the wumpus itself. when the player has deduced from hints which chamber the wumpus is in without entering it, he fires an arrow into the wumpus' chamber to slay it. however, firing the arrow into the wrong chamber startles the wumpus, which then devours the player. 
+
+originally written by gregory yob in basic while attending university of massachusetts dartmouth, and noticed on mainframes at least by 1972, hunt the wumpus was first published in the "peoples computer company"peoples computer company, founded in october 1971, was a small non-profit group of independent educators who met in a small storefront on menalto rd. in menlo park, california during the 1970s.  the first issue of their journal, peoples computer company, was published in october 1972. journal in 1973, again in 1975 in "creative computing", and finally in 1979 in the book more basic computer games. building on several grid-based games of the "battleship" variety, yob injected adversarial humor into the computer's hints, prefiguring the "voice" of the infocom narrator.  later versions of the game offered more hazards and other cave layouts.  an implementation of hunt the wumpus was typically included with mbasic, microsoft's basic interpreter for cp/m and one of the company's first products. hunt the wumpus was adapted as an early game for the commodore pet entitled twonky, which was distributed in the late 1970s with cursor magazine.
+
+hunt the wumpus continues to live on at butler university where in cs 248, an object-oriented programming class taught by jon sorenson, students create their own versions of the text-based adventure game using java.http://euclid.butler.edu/oop/index.php?page=projwump
+
+ hunt the wumpus in other games 
+
+what a wumpus might look like|right|150px|thumb
+the card game magic: the gathering has featured several "wumpus" cards. the wumpus seen on magic cards is a beast with a characteristically-shaped head, jaw and mane. mercadian masques featured hunted wumpus (reprinted in several core sets, including 10th edition) as well as thrashing wumpus. planar chaos, a set concentrating on new takes on popular cards, contained shivan wumpus.
+
+the wumpus is also found in the open source game nethack and the game m.u.l.e, with capture of the wumpus in the latter game leading to an in-game cash prize for the player.
+
+ notes 
+
+ 

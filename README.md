@@ -9,7 +9,15 @@ We use timestamps obtained along with metadata for the purpose of filtering. Nex
 
 Once we obtain the list pages and the versions being considered for each of them, we scrape the Wikipedia article corresponding to each version. We remove all additional information in sections like References, Category, etc. from the scraped articles. This is done to ensure that the model doesn’t utilize this information to learn undesirable patterns, and to ensure that the identification ofrelations is solely based on the content.
 
-Our final dataset comprises XXX unique Wikipedia articles with a total of YYY versions; each article having ZZZ versionson average. We split the dataset into train, validation, and test sets in the ratio of 0.7 : 0.1 : 0.2, respectively.
+Our final dataset comprises 446 unique Wikipedia articles with a total of 2508 versions; each article having 5.62 versionson average. We split the dataset into train, validation, and test sets in the ratio of 0.7 : 0.1 : 0.2, respectively.
+
+The directories inside `version_documents` corresponds to a unique article present in this dataset. Each directory contains text files with the naming convention: `0.txt`, `1.txt`, .... While `0.txt` represents the oldest version of the respective article, the text file with largest number in its name represents the newest one. For convenience, we have also provided the parsed dataset at `parsed_dataset.pkl`. On loading, this gives a list of 2-tuple `(title, revisions)`, where `title` is the name of the article and `revisions` is the list of versions arranged in chronological order.
+
+The original dataset used in the paper was constructed using these dump files:
+- [enwiki-20200401-pages-meta-history1.xml-p1p908](https://dumps.wikimedia.org/enwiki/20200401/enwiki-20200401-pages-meta-history1.xml-p1p908.7z)
+- [enwiki-20200401-pages-meta-history1.xml-p13958p14691](https://dumps.wikimedia.org/enwiki/20200401/enwiki-20200401-pages-meta-history1.xml-p13958p14691.7z)
+
+However, these files are currently unavailable in [wikimedia](https://dumps.wikimedia.org/enwiki/). We request contributors to contact us in case they have access to these files. Acquiring these files will allow us to construct complete dataset with consistent statistics as reported in the paper.
 
 ## Contact 
 [Natwar Modani](mailto:nmodani@adobe.com), [Inderjeet Nair](mailto:inair@adobe.com)

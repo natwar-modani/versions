@@ -1,0 +1,23 @@
+[[image:heliopause diagram.png|right|thumb|300px|the heliopause is the boundary between the heliosphere and the interstellar medium outside the solar system. as the solar wind approaches the heliopause, it slows suddenly, forming a shock wave called the termination shock of the solar wind.]]
+
+in astronomy, the heliopause is the boundary where the sun's solar wind is stopped by the interstellar medium.
+
+the solar wind blows a "bubble" known as the heliosphere in the interstellar medium (the rarefied hydrogen and helium gas that permeates the galaxy). the outer border of this "bubble" is where the solar wind's strength is no longer great enough to push back the interstellar medium. this is known as the heliopause, and is often considered to be the outer border of the solar system.  
+
+inside the heliopause is a boundary called the "termination shock" where supersonic solar wind particles are slowed to subsonic speeds by the interstellar medium. the layer between the termination shock and the heliopause is known as the heliosheath.
+
+outside the heliopause, the interaction between the interstellar medium and the heliopause produces the bow shock, a turbulent region in front of the sun's progress through the interstellar medium.
+
+the distance to the heliopause is 76 au, as detected by voyager 2. it is hypothesised that the heliopause could be smaller on the side of the solar system facing the orbital motion through the galaxy. it may also vary depending on the current velocity of the solar wind and the local density of the interstellar medium. it is known to lie far outside the orbit of pluto. the current mission of the voyager 1 and 2 spacecraft is to find and study the termination shock, heliosheath, and heliopause. both voyager 1 and  according to nasa announcements made may 24, 2005 and may 23, 2006, respectively.  it is anticipated that both missions may ultimately reach the heliopause itself.
+
+[[image:72408main acd97-0036-1.jpg|thumb|right|300px|voyager 1 & 2 and pioneer 10  & 11 approaching the heliosheath]]
+
+when particles emitted by the sun bump into the interstellar ones, they slow down while releasing energy. many particles accumulate in and around the heliopause, highly energised by their negative acceleration, creating a shock wave.
+
+an alternative definition is that the heliopause is the magnetopause between the solar system's magnetosphere and the galaxy's plasma currents.
+
+notes
+  nasa. may 24, 2005. voyager enters solar system's final frontier. retrieved may 25, 2005.
+  may 25th, 2006. [voyager ii detects solar system's edge. retrieved may 26, 2005
+
+ 

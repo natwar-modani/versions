@@ -1,0 +1,25 @@
+in chemistry, hydroxyl is a compound containing an oxygen atom bound covalently with a hydrogen atom. the neutral form of this group is a hydroxyl radical. the hydroxyl anion (oh−) is called hydroxide; it is a diatomic ion with a single negative electronic charge. in discussions of synthetic methods in organic chemistry the hydroxyl group (–oh) is referred to as a functional group, when it is linked to a larger organic molecule.
+
+hydroxyl group
+75px
+the term hydroxyl group is used to describe the functional group –oh when it is a substituent in an organic compound. representative organic molecules containing a hydroxyl group are known as alcohols (the simplest of which have the formula cnh2n+1–oh). hydroxyl groups are especially important in biological chemistry because of their tendency to form hydrogen bonds both as donor and acceptor. this property is also related to their ability to increase hydrophilicity and water solubility. the hydroxyl group is especially predominant in the family of molecules known as carbohydrates.
+
+hydroxyl radical
+thumb|right|200px|3d model of hydroxyl group.
+
+the hydroxyl radical, ·oh, is the neutral form of the hydroxide ion. hydroxyl radicals are highly reactive and, as a consequence, short-lived; however, they form an important part of radical chemistry.
+
+hydroxyl free radicals cause damage to oxidative cells, particularly erythrocytes (or red blood cells). these free radicals can damage dna, lipids, and proteins. hydroxyl radicals may be harmful to humans.
+glucose-6-phosphate dehydrogenase (g6pd) is an enzyme the body produces to destroy oh-, before it starts damaging the cells. people with g6pd deficiency are protected against malaria because the plasmodium (the parasites that cause malaria) cannot survive in the damaged blood cells. on the other hand, people with g6pd deficiency are prone to jaundice and kidney disease.
+
+non-terrestrial observation
+
+lunar observation
+
+on september 24, 2009 the scientific journal science reported that india's chandrayaan-1 satellite, nasa's cassini spacecraft and the deep impact probe have each detected the presence of water by evidence of hydroxyl fragments on the moon.  as reported by richard kerr, "a spectrometer (the moon mineralogy mapper, aka "m3"), detected an infrared absorption at a wavelength of 3.0 micrometers that only water or hydroxyl–a hydrogen and an oxygen bound together–could have created."http://sciencenow.sciencemag.org/cgi/content/full/2009/924/1
+
+nasa reported on november 13, 2009 that the lcross probe revealed an ultraviolet emission spectrum consistent with hydroxyl presence.
+
+venus observation
+the venus express orbiter has been continuously sending back venus science data since april 11, 2006. results from venus express'' include the detection of hydroxyl in the atmosphere.
+

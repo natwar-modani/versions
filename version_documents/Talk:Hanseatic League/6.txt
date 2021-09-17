@@ -1,0 +1,44 @@
+ image filenames are seriously problematic 
+hi, casual user here.. i went to this page just now, and two image links were broken with empty boxes, and the icon of a broken picture in the upper left corner.. i quickly went to the page source, and found that the image filenames are really badly suited to internet and file system storage.. aside from german umlauts in the image filenames, they have spaces and a pair of carets ??  these image file names set off all kinds of unnecessary problems. it would be far better to rename images like that. since i am not a wikipedia expert, i just noted the problems here. thx --brian
+
+url:
+ .../fotothek_df_ps_0005300_rath%c3%a4user_%5e_kirchen_%5e_basiliken.jpg
+
+page content:
+...\[\[file:fotothek df ps 0005300 rathäuser ^ kirchen ^ basiliken.jpg|  — preceding unsigned comment added by 70.36.157.248 (talk) 21:58, 20 october 2016 (utc) 
+
+ citation 24 
+
+the link in citation 24 no longer works, and leads to a "page not found" page. a new source/sources will need to be found.  — preceding unsigned comment added by 130.75.181.126 (talk) 10:14, 3 july 2015 (utc) 
+
+ hansa vs. hanseatic 
+
+hello, i don't know if this has been raised before, but browsing some related pages i noticed the adjectives hansa and hanseatic are often used interchangeably. at least in german historiography, "hanse" and "hanseatisch" have two different meanings, with hansa referring to the (medieval) trade league (13th to 17th century), and hanseatic referring to the subsequent (economic and political) alliance of the three city-states of bremen, hamburg and lübeck (17th to 20th century). the page title hanseatic league is probably one of the reasons for this mixing. --109.45.2.136 (talk) 11:32, 8 november 2015 (utc)
+
+ notwithstanding "hans town" after han sloane https://en.wikipedia.org/wiki/hans_sloane, where does the historic english wording "hans-town" (as in, "an old hans-town")stand anent handling the words "hansa" and "hanseatic"?
+
+ wax table 
++imports of wax into england by hanseatic merchantsyearave.cwtcwt. - hundredweight was an imperial measurement.1476–147911071480–148327501510–15144664.61515–15193658.21520–15242798.41525–15296361.21530–153425611535–15391630.61540–15449266.6englische handelspolitik gegen ende des mittelalters, vol.2, p.155
+
+is this table on wax exports really warranted?  there are a number of goods listed as exports, but wax does not seem to be of particular importance.  the current placement of this table sandwiches text down to one-word lines, and it hardly seems useful to have such a specific table on one product.  i'm moving the table here for the time being, as i adjust the images, but i wonder whether it should be retained. laszlo panaflex (talk) 01:58, 25 january 2016 (utc)
+
+ dear laszlo panaflex, 
+thank you for the recent improvements you've applied to the article; great job. i don't know anything about the importance of wax at the time of the league; so i will leave it to more knowledgeable colleagues to decide what's best to do about the table. it may be that wax was an important commodity for some professional trades at the time but i am only speculating.
+for my part, i've augmented on your recent effort by adjusting the size of the map within the infobox, and also increased the size of the picture (under the infobox) to match that of the infobox. please feel free to revert if you conclude it was better before. thanks.
+(i like your username, by the way... )
+with kind regards;
+patrick. ツ pdebee.(talk)(guestbook) 10:20, 25 january 2016 (utc)
+
+ hans town bollards and brompton and hans town ward 
+
+hans town ward...
+https://www.kcfc.org.uk/brompton-hans-town-ward
+
+and the hans town bollards therein...
+http://bollardsoflondon.blogspot.co.uk/2009/09/hans-town-1819.html
+
+thumb|one of sundry hans town bearing bollards  — preceding unsigned comment added by 92.5.85.43 (talk) 19:49, 6 march 2017 (utc) 
+
+ founding date 
+
+the infobox and the templates say 1358 (unsourced), but the article text says 1356. — henry chianski (talk) 21:52, 12 september 2017 (utc)

@@ -1,0 +1,28 @@
+in modern parlance, the hacker ethic is either:
+ the belief that information-sharing is a powerful positive good, and that it is an ethical duty of hackers to share their expertise by writing free software and facilitating access to information and computing resources wherever possible; and/or
+
+ the belief that system hacking for fun and exploration is ethically acceptable as long as the hacker commits no theft, vandalism, or breach of confidentiality.
+
+both of these normative ethical principles are widely, but by no means universally, accepted among hackers. the first, and arguably the second, emerged from the mit artificial intelligence laboratory during the '60s and '70s.
+
+most hackers subscribe to the hacker ethic in the first sense, and many act on it by writing free software, giving the user permission to study, modify, and redistribute it. a few, such as the free software foundation, go further and assert that it is immoral to prevent computer users from sharing or altering software, as is typical with proprietary software.
+
+the second sense is more controversial: some people consider the act of hacking afoul of the government itself to be unethical, like breaking and entering into an office. but the belief that 'ethical' cracking excludes destruction at least moderates the behavior of people who see themselves as 'benign' crackers (see also samurai, gray hat). on this view, it may be one of the highest forms of hacker courtesy to (a) break into a system, and then (b) explain to the sysop, preferably by email from a superuser account, exactly how it was done and how the hole can be plugged -- acting as an unpaid (and unsolicited) tiger team. 
+
+the most reliable manifestation of either version of the hacker ethic is that almost all hackers are actively willing to share technical tricks, software, and (where possible) computing resources with other hackers. huge cooperative networks such as usenet, fidonet and the internet itself can function without central control because of this trait; they both rely on and reinforce a sense of community that may be hackerdom's most valuable intangible asset.
+
+origins and history
+
+the term "hacker ethic" was coined by journalist steven levy and used for the first time in hackers: heroes of the computer revolution (1984). in levy's account of the hacker ethic is in large parts based on the values of the "old school" hackers at mit artificial intelligence laboratory. among these hackers were richard m. stallman, whom levy at the time called the last true hacker. the similarities between the hacker ethic and values existing in open scientific communities is therefore no coincidence.
+
+in levy's codification, the principles of the hacker ethic were:
+
+ access to computers—and anything which might teach you something about the way the world works—should be unlimited and total. always yield to the hands-on imperative!
+ all information should be free.
+ mistrust authority—promote decentralization.
+ hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.
+ you can create art and beauty on a computer.
+ computers can change your life for the better.
+ 
+later in 2001, finnish philosopher pekka himanen opposed the hacker ethic with protestant work ethic. in himanen's opinion the hacker ethic is closer related to the virtue ethics found in the writings of plato and of aristotle.
+

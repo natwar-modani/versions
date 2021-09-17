@@ -1,0 +1,18 @@
+thumb|300px|wave diffraction in the manner of huygens
+huygens' principle (named for dutch physicist christiaan huygens) is a method of analysis applied to problems of wave propagation in the far field limit.  it recognizes that each point of an advancing wave front is in fact the center of a fresh disturbance and the source of a new train of waves; and that the advancing wave as a whole may be regarded as the sum of all the secondary waves arising from points in the medium already traversed. this view of wave propagation helps better understand a variety of wave phenomena, such as diffraction.
+
+for example, if two rooms are connected by an open doorway and a sound is produced in a remote corner of one of them, a person in the other room will hear the sound as if it originated at the doorway. as far as the second room is concerned, the vibrating air in the doorway is the source of the sound. the same is true of light passing the edge of an obstacle, but this is not as easily observed because of the short wavelength of visible light.
+
+ diffraction 
+
+the most common application of huygens' principle is for the case of a plane wave (usually light) incident on an aperture of arbitrary shape.  in this case, huygens' principle simply states that a large hole can be approximated with many small slits, each of which generates waves as a point source.  a point source generates waves that emerge traveling spherically outward, like the waves caused by dropping stones in a pond.  consider the case of single slit diffraction, where we have one long slit through which we shine light onto a distant screen.  we then try to approximate this long slit with an increasing number of short ones, in order to locate the diffraction minima.  we know from the double-slit experiment that two slits interfere destructively when their path lengths differ by .  we can calculate using phasors or a similar technique that for three slits the first and last slit must differ by , and so forth.  we find the pattern to be that the waves traveling from the first and last slit must differ in their path lengths by .  in the limit of approximating the single large slit with an infinite number of small slits, so that n goes to infinity, the path length difference between the left and right side of the slit must be exactly  to get complete destructive interference and so a dark spot.
+
+ fourier transforms 
+
+the qualitative argument we used to glean some understanding of single slit diffraction using only huygens' principle is difficult to apply in general to apertures of truly arbitrary shape.  the wave that emerges from a point source has amplitude  at location r that is given by the solution of the wave equation for a point source.  that's exactly what we mean by the green's function for the wave equation, which is in spherical coordinates
+
+therefore, if we approximate the amplitude from an aperture as coming from many point sources, we should sum together an infinite number of point sources.  but that just describes a surface integral.  thus,
+
+which is simply the spacial fourier transform of the aperture.  huygens' principle when applied to an aperture simply says that the far-field diffraction pattern is the fourier transform of the aperture.
+
+ 

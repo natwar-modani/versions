@@ -1,0 +1,84 @@
+[[image:orontes.jpg|250px|thumb|right|undershot water wheels on the orontes river in hama, syria]]
+[[image:saintanthonyfalls.jpg|250px|thumb|right|saint anthony falls]]
+ 
+
+hydropower or hydraulic power is the force or energy of moving water. it may be captured for some useful purpose. 
+
+prior to the widespread availability of commercial electric power, hydropower was used for irrigation, and operation of various machines, such as watermills, textile machines, and sawmills. a trompe produces compressed air from falling water, which could then be used to power other machinery at a distance from the water. 
+
+the energy of moving water has been exploited for milennia. in india, water wheels and watermills were built; in imperial rome, water powered mills produced flour from grain, and in china and the rest of the far east, hydraulically operated "pot wheel" pumps that raised water into irrigation canals. in the 1830s, at the peak of the canal-building era, hydropower was used to transport barge traffic up and down steep hills using inclined plane railroads. direct mechanical power transmission required that industries using hydropower had to locate near the waterfall. for example, during the last half of the 19th century, many grist mills were built at saint anthony falls, utilizing the 50 foot (15 metre) drop in the mississippi river.  the mills contributed to the growth of  minneapolis. today the largest use of hydropower is for electric power generation, which allows low cost energy to be used at long distances from the water source. 
+
+natural manifestations of hydraulic power
+in hydrology, hydropower is manifested in the force of the water on the riverbed and banks of a river.  it is particularly powerful when the river is in flood. the force of the water results in the removal of sediment and other materials from the riverbed and banks of the river, causing erosion and other alterations.
+
+ types of water power 
+there are several forms of water power:
+ waterwheels, used for hundreds of years to power mills and machinery
+ hydroelectricity, usually referring to hydroelectric dams or run-of-the-river setups.
+ damless hydro, which captures the kinetic energy in rivers, streams and oceans.
+ tidal power, which captures energy from the tides in horizontal direction
+ tidal stream power, which does the same vertically
+ wave power, which uses the energy in waves
+ hydroelectric power 
+
+[[image:water turbine.jpg|thumb|right|260px|hydraulic turbine and electrical generator.]]
+
+hydroelectric power now supplies about 715,000 mwe or 19% of world electricity (16% in 2003). large dams are still being designed. apart from a few countries with an abundance of it, hydro power is normally applied to peak load demand because it is readily stopped and started. nevertheless, hydroelectric power is probably not a major option for the future of energy production in the developed nations because most major sites within these nations are either already being exploited or are unavailable for other reasons, such as environmental considerations.
+
+hydropower produces essentially no carbon dioxide or other harmful emissions, in contrast to burning fossil fuels, and is not a significant contributor to global warming through co2.
+
+hydroelectric power can be far less expensive than electricity generated from fossil fuels or nuclear energy.  areas with abundant hydroelectric power attract industry. environmental concerns about the effects of reservoirs may prohibit development of economic hydropower sources. 
+
+the chief advantage of hydroelectric dams is their ability to handle seasonal (as well as daily) high peak loads. when the electricity demands drop, the dam simply stores more water (which provides more flow when it releases). some electricity generators use water dams to store excess energy (often during the night), by using the electricity to pump water up into a basin. electricity can be generated when demand increases. in practice the utilization of stored water in river dams is sometimes complicated by demands for irrigation which may occur out of phase with peak electrical demands.
+
+not all hydroelectric power requires a dam; a run-of-river project only uses part of the stream flow and is a characteristic of small hydropower projects.
+
+ tidal power 
+
+harnessing the tides in a bay or estuary has been achieved in france (since 1966), canada and russia, and could be achieved in other areas with a large tidal range. the trapped water turns turbines as it is released through the tidal barrage in either direction. another possible fault is that the system would generate electricity most efficiently in bursts every six hours (once every tide). this limits the applications of tidal energy.
+
+ tidal stream power 
+a relatively new technology, tidal stream generators draw energy from currents in much the same way that wind generators do. the higher density of water means that a single generator can provide significant power. this technology is at the early stages of development and will require more research before it becomes a significant contributor.
+
+several prototypes have shown promise. in the uk in 2003, a 300 kw periodflow marine current propeller type turbine was tested off the coast of devon, and a 150 kw oscillating hydroplane device, the stingray, was tested off the scottish coast. another british device, the hydro venturi, is to be tested in san francisco bay.
+
+the canadian company blue energy has plans for installing very large arrays tidal current devices mounted in what they call a 'tidal fence' in various locations around the world, based on a vertical axis turbine design.
+
+ wave power 
+
+harnessing power from ocean surface wave motion might yield much more energy than tides. the feasibility of this has been investigated, particularly in scotland in the uk. generators either coupled to floating devices or turned by air displaced by waves in a hollow concrete structure would produce electricity. numerous technical problems have frustrated progress.
+
+a prototype shore based wave power generator is being constructed at port kembla in australia and is expected to generate up to 500 mwh annually. the wave energy converter has been constructed (as of july 2005) and initial results have exceeded expectations of energy production during times of low wave energy. wave energy is captured by an air driven generator and converted to electricity. for countries with large coastlines and rough sea conditions, the energy of waves offers the possibility of generating electricity in utility volumes. excess power during rough seas could be used to produce hydrogen.
+
+physics
+a hydropower resource can be measured according to the amount of available power, or energy per unit time. in large reservoirs, the available power is generally only a function of the hydraulic head and rate of fluid flow. in a reservoir, the head is the height of water in the reservoir relative to its height after discharge. each unit of water can do an amount of work equal to its weight times the head.
+
+the amount of energy  released by lowering an object of mass  by a height  in a gravitational field is
+
+ where  is the acceleration due to gravity.
+
+the energy available to hydroelectric dams is the energy that can be liberated by lowering water in a controlled way. in these situations, the power is related to the mass flow rate.
+
+substituting  for  and expressing  in terms of the volume of liquid moved per unit time (the rate of fluid flow ) and the density of water, we arrive at the usual form of this expression:
+
+for  in watts,  is measured in kg/m³,  is measured in m³/s,  (gee) is measured in m/s², and  is measured in metres.
+
+some hydropower systems such as water wheels can draw power from the flow of a body of water without necessarily changing its height. in this case, the available power is the kinetic energy of the flowing water.
+
+ where  is the velocity of the water,
+or with  where a is the area through which the water passes, also
+
+over-shot water wheels can efficiently capture both types of energy.
+
+small scale hydro power
+small scale hydro or micro-hydro power has been increasingly used as an alternative energy source, especially in remote areas where other power sources are not viable. small scale hydro power systems can be installed in small rivers or streams with little or no discernible environmental effect on things such as fish migration. most small scale hydro power systems make no use of a dam or major water diversion, but rather use water wheels.
+
+there are some considerations in a micro-hydro system installation. the amount of water flow available on a consistent basis, since lack of rain can affect plant operation.  head, or the  amount of drop between the intake and the exit.  the more head, the more power that can be generated.  there can be legal and regulatory issues, since most countries, cities, and states have regulations about water rights and easements.
+
+over the last few years, the u.s. government has increased support for alternative power generation.  many resources such as grants, loans, and tax benefits are available for small scale hydro systems.
+
+in poor areas, many remote communities have no electricity.  micro hydro power, with a capacity of 100 kw or less, allows communities to generate electricity1. this form of power is supported by various organizations such as the uk's practical action.  
+
+micro-hydro power can be used directly as "shaft power" for many industrial applications.  alternatively, the preferred option for domestic energy supply is to generate electricity with a generator or a reversed electric motor which, while less efficient, is likely to be available locally and cheaply.
+
+ 

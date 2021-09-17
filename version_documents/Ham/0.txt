@@ -1,0 +1,17 @@
+hold-and-modify (more commonly know as ham) is a screenmode of the amiga micro computer. it works by interpreting the data for a pixel as 'copy the colour of my neighbour to the left' (hold), then 'change that colour' (modify). this allowed the computer to use a fairly rich palette, even if there were only a few bits available to indicate the colour.
+
+a disadvantage was that rapid colour changes within a row of pixels were not possible, so if you tried to encode such a fast change, you would get artifacting similar to the type you sometimes get with the jpeg graphics format.
+
+in the early days of multimedia, ham gave the amiga a small advantage over competing systems, because it allowed the system to display digitized photographs and rendered 3d images at a much more realistic level.
+
+on early amiga systems, only 5 bits could be used to indicate colours. most screenmodes worked with indexed colours, meaning the 2^5 (=32) colours could be displayed at most. the ham mode reserved 1 bit to indicate wether a colour was indexed or not (so 16 colours could come from an index and form the initial colours) and used 4 bits to indicate the shift in colour one pixel would have from its left neighbour. 
+
+a row of pixels would always start with one of the 16 indexed colours.
+
+but how does it calculate the colour shift from there on?
+
+ham allowed for a maximum of 4096 colours to be used, because the system used 12-bit colour, 4 bits for each of red, green and blue (2^12 = 4096). 
+
+on later amiga systems (starting with the a1200 and a4000???), a pixel could have 8 bits to encode its colour, which allowed for 256 colours from an index, and a ham mode allowing ??? colours from a 24-bit palette. (iirc, the whole palette could not be used, because you would run out of pixels before that.) 
+
+(was ham mode an invention jay miner?)

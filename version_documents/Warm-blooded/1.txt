@@ -1,0 +1,54 @@
+warm-blooded animals maintain thermal homeostasis; which is keeping your body temperature at a constant level. this involves the ability to cool down or produce more body heat. warm-blooded animals mainly control their body temperature by regulating their metabolic rates (e.g. increasing their metabolic rate as the surrounding temperature begins to decrease).
+
+both the terms "warm-blooded" and "cold-blooded" have fallen out of favor with scientists, because of the vagueness of the terms, and due to an increased understanding in this field.  body temperature types do not fall into simple either/or categories.  each term may be replaced with one or more variants (see: definitions of warm-bloodedness).  body temperature maintenance incorporates a wide range of different techniques that result in a body temperature continuum, with the traditional ideals of warm-blooded and cold-blooded being at opposite ends of the spectrum. 
+
+definitions of warm-bloodedness
+warm-bloodedness generally refers to three separate aspects of thermoregulation.
+endothermy is the ability of some creatures to control their body temperatures through internal means such as muscle shivering, fat burning, and panting (greek: endo = "within," therm = "heat"). some writers restrict the meaning of "endothermy" to mechanisms which directly raise the animal's metabolic rate in order to produce heat. the opposite of endothermy is ectothermy.
+homeothermy is thermoregulation that maintains a stable internal body temperature regardless of external influence. this temperature is often higher than the immediate environment (greek: homoios = "similar," therm = "heat"). the opposite is poikilothermy.
+tachymetabolism is the kind of thermoregulation used by creatures that maintain a high resting metabolism (greek: tachy = "fast, swift," metabol = "to change"). tachymetabolic creatures are, essentially, "on" all the time. though their resting metabolism is still many times slower than their active metabolism, the difference is often not as large as that seen in bradymetabolic creatures. tachymetabolic creatures have greater difficulty dealing with a scarcity of food.
+
+a large proportion of the creatures traditionally called "warm-blooded" (mammals and birds) fit all three of these categories.  however, over the past 30 years, studies in the field of animal thermophysiology have revealed many species belonging to these two groups that don't fit all these criteria.  for example, many bats and small birds are poikilothermic and bradymetabolic when they sleep for the night, or day.  for these creatures, another term was coined: heterothermy.
+
+further studies on animals that were traditionally assumed to be cold-blooded have shown that most creatures incorporate different variations of the three terms defined above, along with their counterparts (ectothermy, poikilothermy and bradymetabolism), thus creating a broad spectrum of body temperature types (see temperature control in cold-blooded animals).
+
+mechanisms
+generating and conserving heat
+the creatures traditionally regarded as warm-blooded have a larger number of mitochondria per cell which enables them to generate heat by increasing the rate at which they "burn" fats and sugars. this requires a much greater quantity of food than is needed by cold-blooded animals in order to replace the fat and sugar reserves.
+
+many endothermic animals supplement these reserves by shivering in cold conditions, since muscular activity also converts fats and sugars into heat. in winter, there may not be enough food to enable an endotherm to keep its metabolic rate stable all day, so some organisms go into a controlled state of hypothermia called hibernation, or torpor. this conserves energy by lowering the body temperature. many birds and small mammals (e.g. tenrecs) also allow their body temperatures to drop at night to reduce the energy cost of maintaining body temperature.  humans also slow down their metabolism slightly during sleep.
+
+heat loss is a major threat to smaller creatures as they have a larger ratio of surface area to volume. most small warm-blooded animals have insulation in the form of fur or feathers. aquatic warm-blooded animals generally use deep layers of fat under the skin for insulation, since fur or feathers would spoil their streamlining. penguins use both feathers and fat, since their need for streamlining limits the degree of insulation which feathers alone can give them. birds, especially waders, have blood-vessels in their lower legs which act as heat exchangers - veins are right next to arteries and thus extract heat from the arteries and carry it back into the trunk.  many warm-blooded animals blanche (become paler) to reduce heat loss by reducing the blood flow to the skin.
+
+avoiding over-heating
+in equatorial climates and during temperate summers over-heating is as great a threat as cold.  in hot conditions many warm-blooded animals increase heat loss by panting and or flushing (increasing the blood flow to the skin). hairless and short-haired mammals also sweat, since the evaporation of sweat uses a lot of heat. elephants keep cool by using their huge ears rather like the radiators in automobiles: they flap their ears to increase the airflow over them.
+
+warm-blooded vs.cold blooded
+advantages of a fast metabolism
+the overall speed of an animal's metabolism increases by a factor of about 2 for every 10 c° rise in temperature (limited by the need to avoid hyperthermia). warm-bloodedness does not provide greater speed than cold-bloodedness - cold-blooded animals can move as fast as warm-blooded animals of the same size and build. but warm-blooded animals have much greater stamina than cold-blooded creatures of the same size and build, because their faster metabolisms quickly regenerate energy supplies (especially atp) and break down muscular waste products (especially lactate). this enables warm-blooded predators to run down prey, warm-blooded prey to outrun cold-blooded predators (provided they avoid the initial charge or ambush) and warm-blooded animals to be much more successful foragers.
+
+advantages of homeothermy
+enzymes have strong temperature preferences and their efficiency is much reduced outside their preferred ranges. a creature with a fairly constant body temperature can therefore use enzymes which are efficient at that temperature. another advantage of a homeothermic animal would be its ability to maintain its constant body temperature even in freezing cold weather. a poikilotherm must either operate well below optimum efficiency most of the time or spend extra resources making a wider range of enzymes to cover the wider range of body temperatures.
+
+disadvantages of warm-bloodedness
+because warm-blooded animals use enzymes which are specialised for a narrow range of body temperatures over-cooling rapidly leads to torpor and then death. also, the energy required to maintain the homeothermic temperature comes from food - this results in homeothermic animals needing to eat much more food than poikilothermic animals. 
+
+thumb|right|thermographic image: a coldblooded snake is eating a warmblooded mouse
+shivering and fat-burning to maintain temperature are very energy-intensive, for example:
+in winter many small birds lose one third of their body weight overnight.
+in general a warm-blooded animal requires 5 to 10 times as much food as a cold-blooded animal of the same size and build, so cold-blooded animals are better at surviving famines and barren environments.
+
+temperature control in cold-blooded animals
+scientific understanding of thermal regulation regimes has advanced greatly since the original distinction was made between warm- and cold-blooded animals, and the issue has been studied much more extensively.
+
+many "cold-blooded" animals use behavioral means to adjust their internal temperatures:
+lizards and snakes bask in the sun in the early morning and late evening , and seek shelter around noon.
+many species of bees and moths flap their wings vigorously to raise the temperature of their flight muscles before taking off.
+bees in large hives will cool the hive in hot periods by going to its entrances and using their wings as fans to draw cooling air through the hive. they will warm the hive in cool periods by gathering in the middle and shivering to produce heat.
+termite mounds are usually oriented in a north-south direction so that they absorb as much heat as possible around dawn and dusk and minimise heat absorption around noon.
+
+some other "cold-blooded" creatures use internal mechanisms to maintain body temperatures significantly above the ambient level:
+tuna and swordfish. fish have long been thought to be cold blooded. tuna and swordfish dive deep into the ocean where the water is very cold. swordfish are able to raise the temperature of their brains and eyes, which allows faster eye movements when hunting. tuna are able to warm their entire bodies through a heat exchange mechanism called the rete mirabile, which helps keep heat inside the body, and minimizes the loss of heat through the gills. they also have their swimming muscles near the center of their bodies instead of near the surface, which minimises heat loss.
+"warm-blooded" sharks (e.g. mako and white sharks) minimize heat loss by using their gills as heat exchangers - veins are right next to arteries and thus extract heat from the arteries and carry it back into the body.
+large sea turtles exhibit inertial homeothermy (bulk homeothermy) - their low ratio of surface area to volume minimises heat loss.
+

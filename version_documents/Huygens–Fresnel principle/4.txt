@@ -1,0 +1,23 @@
+[[image:wellen-brechung.png|thumb|300px|wave refraction in the manner of huygens.]]
+
+thumb|300px|wave diffraction in the manner of huygens.
+
+the huygens–fresnel principle (named for dutch physicist christiaan huygens, and french physicist augustin-jean fresnel) is a method of analysis applied to problems of wave propagation (both in the far field limit and in near field diffraction).  it recognizes that each point of an advancing wave front is in fact the center of a fresh disturbance and the source of a new train of waves; and that the advancing wave as a whole may be regarded as the sum of all the secondary waves arising from points in the medium already traversed. this view of wave propagation helps better understand a variety of wave phenomena, such as diffraction. using this method a nonphysical "backwards" diffraction is predicted due to the treatment of each point as a fresh disturbance.
+
+for example, if two rooms are connected by an open doorway and a sound is produced in a remote corner of one of them, a person in the other room will hear the sound as if it originated at the doorway. as far as the second room is concerned, the vibrating air in the doorway is the source of the sound. the same is true of light passing the edge of an obstacle, but this is not as easily observed because of the short wavelength of visible light.
+
+ diffraction 
+
+the most common application of huygens' principle is for the case of a plane wave (usually light, radio waves, x-rays or electrons) incident on an aperture of arbitrary shape.  in this case, huygens' principle simply states that a large hole can be approximated by a collection of many small holes so each is practically a point source (whose contribution is easy to calculate).  a point source generates waves that travel spherically in all directions (similar to circular waves caused by dropping small stone in a pond).  
+
+consider the case of single slit diffraction, where we have one slit through which we shine light onto a distant screen. suppose, we want to calculate at which point on the screen interference minima (dark stripes) occur. we then replace this relatively wide slit by an increasing number of narrow ones (subslits), and add waves produced by each.  obviously, two small slits interfere destructively when their path lengths differ by  (a 180 degrees phase difference).  we can calculate (using phasors or a similar wave addition math) that for three waves from three slits to cancel each other the phases of slits must differ 120 degrees, thus path difference from the screen point to slits must be , and so forth.  in the limit of approximating the single wide slit with an infinite number of subslits the path length difference between edges of slit must be exactly  to get complete destructive interference (and so a dark stripe on the screen).
+
+ fourier transforms 
+
+the qualitative argument we used to glean some understanding of single slit diffraction using only huygens' principle is difficult to apply in general to apertures of truly arbitrary shape.  the wave that emerges from a point source has amplitude  at location r that is given by the solution of the wave equation for a point source.  that's exactly what we mean by the green's function for the wave equation, which is in spherical coordinates
+
+therefore, if we approximate the amplitude from an aperture as coming from many point sources, we should sum together an infinite number of point sources.  but that just describes a surface integral.  thus,
+
+which is simply the spatial fourier transform of the aperture.  huygens' principle when applied to an aperture simply says that the far-field diffraction pattern is the fourier transform of the aperture.
+
+ 

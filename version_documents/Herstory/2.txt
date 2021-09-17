@@ -1,0 +1,5 @@
+ {{#ifeq:|| |}}
+this article is being considered for deletion in accordance with wikipedia's deletion policy.
+please share your thoughts on the matter at this article's entry on the articles for deletion page.
+you are welcome to edit this article, but please do not blank this article or remove this notice while the discussion is in progress. for more information, particularly on merging or moving the article during the discussion, read the guide to deletion.
+if you created the article, please don't take offense. instead, please join the discussion and consider improving the article so that it meets the wikipedia inclusion criteria.

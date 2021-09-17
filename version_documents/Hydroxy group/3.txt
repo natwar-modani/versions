@@ -1,0 +1,14 @@
+[[file:hydroxyl3d.png|thumb|right|200px|representation of an organic hydroxyl group, where r represents a hydrocarbon or other organic moiety, the red and grey spheres represent oxygen and hydrogen atoms, respectively, and the rod-like connections between these, covalent chemical bonds.]]
+
+a hydroxyl is a chemical functional group containing an oxygen atom connected by a covalent bond to a hydrogen atom, a pairing that can be simply understood as a substructure of the water molecule. when it appears, it imparts to chemical structures some of the reactive and interactive properties of the -oh of water (ionizability, hydrogen bonding, etc.). the neutral form of the hydroxyl group is a hydroxyl radical. the anion form, (oh−) is called the hydroxide anion; it bears a single negative charge largely residing on the more electronegative oxygen. 
+
+hydroxyl group
+the hydroxyl group is prevalent in organic chemistry, where it is the defining functional group in alcohols (ethanol, methanol, etc.), appearing pervasively throughout organic chemical structure (natural products, drugs, etc.) and biochemical structure—in sugars (saccharides), and in some amino acids and phospholipids, and so in all biological barriers (biomembranes and cell walls). one cannot overstate its centrality in all chemistry, especially because of its necessary targeting in organic synthesis, and its roles in enzyme catalysis and  inhibition, and in the formation of biological structures, both via its hydrogen bonding capability. this capability underlies protein-ligand interactions, and imparts water solubility and internal structural stability to macromolecules, etc.
+
+hydroxyl radical
+
+hydroxyl radicals are highly reactive and undergo chemistry that makes them short-lived. on generation in or exposure of biological systems to these radicals, they can cause damage to cells, including those in humans, where they react with dna, lipids, and proteins. 
+
+lunar and other extraterrestrial observations
+in 2009,  india's chandrayaan-1 satellite, nasa's cassini spacecraft and the deep impact probe have each detected the presence of water by evidence of hydroxyl fragments on the moon. as reported by richard kerr, "a spectrometer (the moon mineralogy mapper, aka "m3"), detected an infrared absorption at a wavelength of 3.0 micrometers that only water or hydroxyl—a hydrogen and an oxygen bound together—could have created."http://sciencenow.sciencemag.org/cgi/content/full/2009/924/1 nasa also reported in 2009 that the lcross probe revealed an ultraviolet emission spectrum consistent with hydroxyl presence. the venus express orbiter has been continuously sending back venus science data since april 11, 2006. results from venus express include the detection of hydroxyl in the atmosphere.
+

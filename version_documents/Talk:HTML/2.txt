@@ -1,0 +1,61 @@
+does anyone know why html is not included in the template that lists major programing languages?...
+
+since it's the language that the web was originally built with it seems as major as most the others on that list.  php is included on that list, but it probably would never have existed were it not for html.
+
+--blackcats 03:45, 4 mar 2005 (utc)
+
+it is not included, because html is a markup language and not a programming language.
+
+--andreas 26 mar 2005
+
+hypertext markup language (html) is a markup language designed for creating web pages, that is, information presented on the world wide web.  derived from sgml, which was used by the publishing industry, it is now an internet standard maintained by the world wide web consortium.  the specification for version 4.01 is available there.
+
+html generally appears in text files either stored or created by computers, and then sent over the internet to a web browser.  these files contain marked-up text, that is, instructions for how a web browser should render the page. there are a number of different kinds of markup tag in html - perhaps the most important being the hyperlink tag, <a>, which allows links to be made between documents on the world wide web. other tags tell the browser exactly how to render the text, such as <b> and <i>, which should produce embolden and italicised text respectively, others give more general instructions, such as <em> and <strong>, which instruct the browser to emphasise the text or to make it stronger than the rest of the text. other tags allow for metadata to be included, such as the title of the page, or delimiting the header and body sections, which are all included within the <html> .. </html> tags. other tags which have been added later as the specification evolved allow in-line pictures and video, tables and other enhancements required.
+
+why doesn't this work?
+
+html generally appears in text files either stored or created by computers, and then sent over the internet to a web browser.  these files contain marked-up text, that is, instructions for how a web browser should render the page. there are a number of different kinds of markup tag in html - perhaps the most important being the hyperlink tag, <a>, which allows links to be made between documents on the world wide web. other tags tell the browser exactly how to render the text, such as <b> ; &lt;b&gt;
+
+what??? grr. i'm off to bed. message me if you have any ideas. dave mckee
+
+what does not work? while editing the dutch page about html, i discovered the hard way that you should put code examples between pre (multi-line) or code tags.
+
+also, are you sure html started out as an sgml application? iirc, html 1.x was an sgml-like application, with version 2.0 being the first real sgml app.
+
+berners-lee conceptually based html on sgml.  the first versions were not conforming implementations of sgml--for good reasons.  specifically, conformance required far more resources than was necessary to get the functionality he needed, so he simplified the syntax considerably.  --ldc
+
+could someone please add some historical info on html before september of 1995? -- infrogmation (who remembers when the leading web browsers were mosaic and lynx)
+
+does anyone else think that the following links in the page are rather poor?
+html-collection.com page with hints for html beginners.
+ 10 layout rules.com informations of starting webdesign.
+i vote vor deletion of this links, but am not entirely sure because they have survived quite a few edits. -- patrice neff 06:18, 11 feb 2004 (utc)
+
+ vote for. i would only link a tutorial for valid html here, not tag soup. jor 14:23, 11 feb 2004 (utc)
+
+ another vote for deletion, w3schools link is much better -ayman
+
+i vote to put this link on: http://www.visiomode.com/docs/ 
+those chms are absolutely handy when there's a need to check something quickly from the spec. -ilkka ... comments on this?
+
+in 2001 i wrote a thesis named "how to cope with incorrect html", available at http://elsewhat.com/thesis . it deals with the html standard and how a browser can parse valid and invalid html. perhaps the most interesting part of this thesis is a validation effort of 2.5 million html pages (xhtml was not considered at the time) taken from http://dmoz.org. it showed that only 0.71% of all html pages were valid, and describes in some details the different errors the pages had. you can jump directly this chapter via http://elsewhat.com/thesis/pages/?nr=81 , which shows each page of the thesis as a separate image. perhaps there should be a minor mention on the amount of valid html and links on how to validate html ?
+-dagfinnparnas
+
+should the entries html tag (actual) and block level elements even exist?  the former is imprecise, ambiguous and only serves to confuse the usage of the term "tag".  the latter uses a title that does not restrict its scope to html while not even providing very useful information.  it's also not even a complete list.
+
+ restricted html? 
+
+some software, including mediawiki, only allow restricted use of html by default. i cannot see any reference to or explanation of this in the article. brianjd 03:21, 2005 mar 6 (utc)
+
+i have added cross site scripting, however this is only relevant to a single element, script. brianjd | why restrict html? | 06:42, 2005 mar 13 (utc) [strike brianjd | why restrict html? | 07:09, 2005 mar 20 (utc)]
+actually, it is relevant to form and possibly other elements, but the name and the fact that both the examples were scripts gave the impression that it was only relevant to scripts. brianjd | why restrict html? | 07:09, 2005 mar 20 (utc)
+
+the only justification i have seen for restricting html is cross site scripting (xss), but restricting html is not going to help there because scams can be pulled off with or without xss, e.g. on donations for victims of the 2004 indian ocean earthquake. brianjd | why restrict html? | 13:45, 2005 mar 28 (utc)
+
+the biggest reason i see is that wikitext is not html; it is a plain text markup that happens to have some things in common with html. there are good reasons it's a plain text markup--for one thing, you may want to render it as something other than a web page; for another, people shouldn't have to know html (or very much) to maintain it. demi t/<sub>c</sup> 02:08, 2005 mar 31 (utc)
+
+some html can be used for malicious intent. so as a precaution the things we don't need are disallowed. any particular tag you want to use? mgm|(talk) 15:00, apr 2, 2005 (utc)
+
+ html in wikipedia 
+
+how do i use html in wikipedia when i edit/create entries?

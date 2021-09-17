@@ -1,0 +1,33 @@
+paragraph four wants attention: it's a pointless distinction between "broken down" and "broken up." but the paragraph makes it sound as if the hemoglobin and a red blood cell are always recycled at the same time. so it would seem that each red blood cell has a certain amount of hemoglobin that stays with it for the duration of that cell's life? is that the case? (interesting, but not as cute as monogamous ducks.) :-d
+
+point taken. i hope it's a bit clearer now. on your other point, human red blood cells i believe are pretty much stuck with their initial load of hemoglobin. mammalian red blood cells don't have cell nuclei, so they can't be doing much de novo synthesis of any protein. reptile blood cells do have nuclei (or jurassic park would have lost its major plot premise), so they might do synthesis. i'm not a herpetologist so i don't know.
+just a side note: the classification of dinosaurs is a hotly debated topic. they are not what we would call reptiles because of their activity levels and other physio/morpho-logical differences that can be inferred/ascertained from the fossil record. in fact they are closer to birds in many respects. so we can not say whether or not the rbcs of of dinos had nuclei or not. however, all blood from almost every animal has white blood cells in it, that almost without expection all have nuclei with at least some dna. maveric149
+
+the paragraph recently moved to the bottom probably should be used as the introduction to a new topic called oxygen transport. - dwmyers
+
+i just added the part about carbon dioxide.  i know that it is not constructed very well but i thought it was an important point.  do you think the bohr effect deserves a page of it own? or should it just be defined in this article?  dijay
+
+question: since heme is formed in the mitochondria, and mammalian erythrocytes do not have mitochondria in order to provide more space for hemoglobin, how exactly is hemoglobin made for the red blood cell?  especially without a nucleus to create any mrna.
+
+immature mammalian erythrocytes have both nuclei and mitochondria: the hemoglobin carried in the mature cell is made in the immature cell, before it loses them. - nunh-huh 04:07, 22 oct 2004 (utc)
+
+ 4 chains vs. 2 chains 
+
+i read some time ago that while in "higher" animals including humans, 2 strands of alpha-hemoglobin combine with 2 strands of beta-hemoglobin, in "lesser" animals, the hemoglobin consists only of 2 alpha-strands (enclosing, as usual, an iron atom). unfortunately, i had no luck finding more info on the internet - could somebody who knows about this please elaborate? aragorn2 11:50, 23 oct 2004 (utc)
+
+if you go "low" enough, hemoglobin acts on nitrous oxide rather than oxygen . a little "higher" and animals have large molecular weight hemoglobins that are carried in the plasma. move on up to birds and mammals, and there's small molecular weight hemoglobins that are packaged in red blood cells . the respiratory protein of "lower" animals certainly isn't always simpler (snail hemocyanin, for example, has 10 subunits). i don't know of any animals that have only two alpha-strands as a functional hemoglobin, and alpha-beta dimers are ineffective oxygen carriers, so something's been lost since your read it, or the missing info is in a veterinary source somewhere. - nunh-huh 14:08, 23 oct 2004 (utc)
+
+thanks for the links. i had read about the worm before, but from this text, it's not obvious whether the worm has dimer or tetramer (or even monomer?) hemoglobin. after another google search, i found this:
+http://www.aw-bc.com/mathews/ch07/c07emhp.htm
+and a possible scenario for hemoglobin evolution on this page:
+http://www.asa3.org/evolution/irred_compl.html
+so the lamprey has alpha-alpha-dimer hemoglobin which splits apart when oxygenated, which is what i was referring to.
+
+got it now.. looks like:
+hagfish: monomeric hemoglobin in most species, some have hgb that is dimeric when deoxygenated and monomeric when oxygenated
+lamprey: monomeric when oxygenated, dimeric or tetrameric when deoxygenated
+sharks: dimeric when oxygenated (α1β1); tetrameric when deoxygenated
+vertebrates: α2β2 dimers
+that was a very interesting question! we ought to put a chart or a synopsis in the article. - nunh-huh 03:52, 24 oct 2004 (utc)
+
+there are variety of hemoglobin predecessors, many of which have different names. such as erythrocruorin in worms and myoglobin which is a monomer and has no arrogating ability. erythrocruorin should get an article for it self, i can easily scrounge up enough information and generate image of the protein from pubmed, but i lack the time.

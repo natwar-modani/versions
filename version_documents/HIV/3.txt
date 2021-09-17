@@ -1,0 +1,62 @@
+de:hiveo:hivfr:vihja:hivnl:hivpl:wirus nabytego niedoboru odporno%b6ci sv:hivzh:艾滋病病毒
+
+image:hiv_budding.jpg
+an hiv virus budding from an infected human immune cell.
+
+the human immunodeficiency virus (hiv) is a
+frequently mutating retrovirus that attacks the human immune system
+and which has been shown to cause acquired immune deficiency syndrome (aids).
+
+ history 
+hiv was discovered and identified as the agent for aids by luc montagnier of france and robert gallo of the usa in 1984.
+
+a minority of scientists continue to question the connection between hiv and aids and even the very existence of hiv (see aids reappraisal).
+
+as of february 2003, there were an estimated 50 700 000 worldwide hiv infections.
+
+ pathogenesis 
+
+hiv causes disease by infecting the cd4+ t cells. these are a subset of leukocytes (white blood cells) that normally coordinate the immune response to infection. by using cd4+ t cells to replicate itself, hiv spreads throughout the body and at the same time depletes the very cells that the body needs to fight the virus. once a hiv+ individual's cd4+ t cell count has decreased to a certain threshold, they are prone to a range of diseases that the body can normally control. these opportunistic infections are usually the cause of death.
+
+there are several reasons that hiv is so hard to fight. first, the virus is an rna virus, using the reverse transcriptase enzyme to convert its rna into dna. during that process there is a large chance of mutation. therefore, the virus becomes quickly resistent to therapy. second, the common notion that hiv is a killer feasting on t cells is not true. if hiv were a killer virus, it would have died out soon because there would be too little time for new infections. now, hiv stays in the body for years, infecting people through unsafe sex, blood transfusions and breastfeeding of infants while the patient sometimes doesn't know.  hiv can survive even when drugs eliminate all detectable virons in the blood.  it integrates itself into the dna of the host cell and can stay there for years, lying dormant, immune to all kinds of therapy because it is just dna. when the cell divides and the dna is copied, the virus is copied too. after years, the virus can become active again, seize the cell's machinery and replicate.
+in recent years, the notion that the cd4+ t cells decrease because of direct hiv infection has become doubted as well. the hiv coating protein readily detaches from virus particles. the blood becomes filled with these proteins, which can stick to the cd4+ t cells, gluing them together. in addition, they are recognized by the immune system, causing the immune cells to attack their own cd4+ cells. in summary, hiv is a guerrilla terrorist, keeping low and seeking shelter when threatened, but always ready to hit where it hurts.
+
+ treatment 
+
+patients today are given a complex regime of drugs that attack hiv at various stages in its life cycle. these are known as antiretroviral drugs. they include:
+
+ protease inhibitors (pis) inhibit activity of protease, an enzyme used directly by hiv to cleave nascent viral proteins, and so prevent final assembly of hiv virons.
+ reverse transcriptase inhibitors (rtis) inhibit the activity of reverse transcriptase, an enzyme hiv needs to complete infection of a cell.  lack of this enzyme prevents hiv from building pro-viral dna based on its rna. they come in three forms:
+ nonnucleoside reverse transcriptase inhibitors (nnrtis)
+ nucleoside analog reverse transcriptase inhibitors (nartis or nrtis)
+ nucleotide analog reverse transcriptase inhibitors (ntartis or ntrtis)
+ entry inhibitors inhibit the viral entry into the cell interacting directly with the viral receptor and avoiding the fusion of the viral membrane with the target cell membrane.   
+
+many problems are involved in establishing a course of treatment for hiv. each effective drug comes with side effects, often serious and sometimes life-threatening in themselves. common side effects include extreme nausea and diarrhea, liver damage and failure, and jaundice. any treatment requires regular blood tests to determine continued efficacy (in terms of t-cell count and viral load) and liver function.
+
+ myths regarding the hiv virus 
+
+ aids and hiv are the same thing.
+ hiv is the virus which damages the host it infects in a way that may lead to aids defining illnesses.  certain types of infections must be present for a person to be diagnosed as having aids. a person can be infected for years without developing aids. having an hiv infection does not mean you have aids.
+
+ hiv only affects gay men and drug users.
+ hiv can infect anyone. babies, women, seniors over 50, teens, blacks, whites and hispanics. at risk behavior can lead to infection in anyone.
+
+ there is no risk to two people already infected to have unprotected sex.
+ for years hiv reinfection or superinfection as it is sometimes called, has been theorized as a consequence of unprotected sexual encounters between two hiv infected people. simply put, reinfection occurs when a person living with hiv gets infected a second time while having unprotected sex with another hiv infected person. it's been demonstrated in laboratory studies as well as in animals trials.  and for years, proof that it could happen in real-life situations has been hard to come by.  but now, compelling evidence has surfaced in human case studies that has confirmed our fears that hiv reinfection can occur and can be very problematic for hiv infected people.
+
+ people over age 50 don't get hiv
+ the number of people over age 50 who are hiv+ (those who are infected with hiv) is rapidly growing.
+
+ a hiv positive woman can't give birth to a healthy baby
+ hiv is sometimes transmitted from mother to unborn child, but not always.  delivery via cesarean section and antiretroviral drugs, taken during pregnancy, reduce the chance of mother to child infection.  post-partum infections via breastfeeding are also a problem especially in the third world where infant formula may not be available.
+
+ topics to be covered 
+
+to be written:
+shape
+genome
+enzymes
+structure proteins
+life cycle
+

@@ -1,0 +1,86 @@
+the hammered dulcimer is a stringed musical instrument with the strings stretched over a trapezoidal sounding board. typically, the dulcimer is set on a stand, at an angle, before the musician, who holds small mallet hammers in each hand to strike the strings (cf. appalachian dulcimer).  the word dulcimer is graeco-roman, meaning "sweet song", it derives from the latin dulcis (sweet) and the greek melos (song). the dulcimer's origin is uncertain, but tradition holds it was invented in iran (persia) some 2000 years ago, where it is called a santur (cf. the folkloric kashmiri santoor).
+
+the instrument has been revived in the u.s. in the american folk music traditions. some rock bands employ the hammered dulcimer as a primary instrument, including macha of athens, ga., and tulsa drone of richmond, va. the dulcimer is played in wales, east anglia, northumbria, southwest asia, china, and parts of southeast asia, and in traditional austrian and bavarian folk music.
+
+strings and tuning
+
+thumb|a chromatic hammered dulcimer
+
+the hammered dulcimer comes in various sizes, identified by the number of strings that cross each of the bridges. a 15/14, for example, has two bridges (treble and bass) and spans three octaves.  the strings of a hammered dulcimer are usually found in pairs, two strings for each note (though some instruments have three or four strings per note).  each set of strings is tuned in unison and is called a course.  as with a piano, the purpose of using multiple strings per course is to make the instrument louder, although as the courses are rarely in perfect unison, a chorus effect usually results like a mandolin. a hammered dulcimer, like an autoharp, harp, or piano, requires a tuning wrench for tuning, since the dulcimer's strings are wound around tuning pins with square heads. (ordinarily, 5 mm "zither pins" are used, similar to, but smaller in diameter than piano tuning pins, which come in various sizes ranging upwards from "1/0" or 7 mm.)
+
+the strings of the hammered dulcimer are often tuned diatonically, according to a circle of fifths pattern.  typically, the lowest note (often a g or d) is found on the lower right-hand corner of the instrument, just to the left of the right-hand (bass) bridge.  as a player strikes the courses above in sequence, they ascend the diatonic scale based on the g or d.  with this tuning, the scale is broken into two tetrachords, or groups of four notes.  for example, on an instrument with d as the lowest note, the d major scale is played starting in the lower-right corner and ascending the bass bridge: d - e - f# - g.  this is the lower tetrachord of the d major scale.  at this point the player returns to the bottom of the instrument and shifts to the treble bridge to play the higher tetrachord: a - b - c# - d.
+
+this shift to the adjacent bridge is required because the bass bridge's fourth string g is the start of the lower tetrachord of the g scale.  if the player ascends the first eight strings of the bass bridge, they will encounter a flatted seventh (c natural in this case), because this note is drawn from the g tetrachord.  this d major scale with a flatted seventh is the mixolydian mode in d.  
+
+the pattern continues to the top of the instrument and to the left-hand side of the treble bridge.  moving from the left side of the bass bridge to the right side of the treble bridge is analogous to moving from the right side of the treble bridge to the left side of the treble bridge.
+
+this diatonically-based tuning results in most, but not all, notes of the chromatic scale being available.  to fill in the gaps, many modern dulcimer builders include extra short bridges at the top and bottom of the soundboard, where extra strings are tuned to some or all of the missing pitches.  such instruments are often called "chromatic dulcimers" as opposed to the more traditional "diatonic dulcimers".
+
+hammered dulcimers of non-european descent may have other tuning patterns, and builders of european-style dulcimers sometimes experiment with alternate tuning patterns.
+
+hammers
+thumb|left|hammers in motion
+the hammered dulcimer derives its name from the small mallets that players use to strike the strings, called hammers.  hammers are usually made of wood (most likely hard woods such as maple, cherry, padauk, oak, walnut, or any other hard wood), but can also be made from any material, including metal and plastic.  in the western hemisphere, hammers are usually stiff, but in asia, flexible hammers are often used.  the head of the hammer can be left bare for a sharp attack sound, or can be covered with adhesive tape, leather, or fabric for a softer sound.  two-sided hammers are also available.  the heads of two sided hammers are usually oval or round.  most of the time, one side is left as bare wood while the other side may be covered in leather or a softer material such as piano felt.
+
+several traditional players have used hammers that differ substantially from those in common use today.  paul van arsdale (b. 1920), a player from upstate new york, uses flexible hammers made from hacksaw blades, with leather-covered wooden blocks attached to the ends (these are modeled after the hammers used by his grandfather, jesse martin).  the irish player john rea (1915-1983) used hammers made of thick steel wire, wound with wool. he made these himself from old bicycle spokes.  billy bennington (1900-1986), a player from norfolk county in england, used cane hammers bound with wool.
+
+the hammered dulcimer (as well as the mountain dulcimer), can also be bowed, though this is not a widespread practice, as a traditional bow would do little good. in order to make bowing the instrument possible, bowhammers, and more recently jimbows, were created. bowhammers are a unique invention used by musician michael masley. jimbows consist of a wooden handle connected to a curved nylon rod, which when rosined, will produce the desired sound.
+
+four-hammer dulcimer
+the four-hammer dulcimer is a standard hammered dulcimer instrument played with special hammers and technique. this innovation premiered in the early 1990s.
+
+the first record of a four-hammer dulcimer is glenn mcclure's variation of the burton grip.  mcclure's hammers are wooden dowels with teardrop-shaped heads.  one hammer is held between the pad of the thumb and the midsection of the forefinger.  the handle of the second hammer is a 2.5cm square pad, which is gripped in the middle and ring fingers. swiss player barbara schirmer is another practitioner of the four-hammer technique.
+
+another hammer design is two standard flat-handled hammers riveted together about 4cm from the base so they can pivot.  as of yet, no technique has been developed for these hammers.
+
+the most recent innovation in four-hammer dulcimer playing is the clip-on hammer, designed by hasso pape (hah-soh pah-pee) in 2006.  the clip on hammer is a wooden dowel with an elliptical spheroid head, similar to the mcclure hammers.  one hammer is strapped to the farthest section of each of the index and middle fingers by a 1.5cm strip of elastic adjustable by velcro.  strings are struck in a finger motion similar to that of piano playing.
+
+hammered dulcimers around the world
+
+versions of the hammered dulcimer are used throughout the world.  in eastern europe, a larger descendant of the hammered dulcimer called the cimbalom is played and has been used by a number of classical composers, including zoltán kodály, igor stravinsky and pierre boulez, and more recently, in a different musical context, by blue man group. the khim is the name of both the thai and the khmer hammered dulcimer. the chinese yangqin is a type of hammered dulcimer that originated in persia. the santur and santoor are found in the middle east and india, respectively.
+
+names for the hammered dulcimer in different countries
+ austria - hackbrett
+ belarus - цымбалы (tsymbaly)
+ belgium - hakkebord
+ brazil - saltério
+ cambodia - khim
+ china - yangqin
+ croatian - cimbal, cimbale
+ czech republic - cimbál
+ denmark - hakkebræt
+ france - tympanon
+ germany - hackbrett
+ greece - santouri
+ hungary - cimbalom
+ india - santoor
+ iran - santur
+ iraq - santur
+ ireland - tiompan
+ italy - salterio
+ korea - yanggeum 양금
+ laos - khim
+ latgalia - cymbala
+ latvia - cimbole
+ lithuania - cimbalai, cimbolai
+ mexico - salterio
+ mongolia joochin
+ netherlands - hakkebord
+ poland - cymbały tsymbaly
+ portugal - saltério
+ romania - ţambal
+ russia - цимбалы tsymbaly, дульцимер (dultsimer)
+ slovakia - cimbal
+ slovenia - cimbale, oprekelj
+ spain - salterio
+ sweden - hackbräda, hammarharpa
+ switzerland - hackbrett
+ thailand - khim
+ turkey - santur
+ ukraine - цимбали tsymbaly
+ united kingdom - hammered dulcimer
+ united states - hammered dulcimer
+ vietnam - đàn tam thập lục (lit. "36 strings")
+ yiddish - tsimbl
+
+ 

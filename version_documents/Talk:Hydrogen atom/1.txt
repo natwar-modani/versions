@@ -1,0 +1,9 @@
+ relativistic effects of electron 
+
+the discussion of the speed of the electron stated that it "moved" at 1/100 the speed of light.  my research shows that it's 1/10, and doesn't apply to the innermost shell.  the primer i linked to includes the math.  —då‚ugosz
+
+ wave function 
+
+although the wave function may be correct for a particular definition of the generalized laguerre polynomials, the expression in the article (before my edit) was not if we use the definition in the laguerre polynomials. i think we should be coherent with the other articles, so i have changed the expression for the wave function to use those polynomials. 
+
+(i'm new at editing wikipedia, so if i haven't done anything properly, i would like you to tell me, please. thank you).

@@ -1,0 +1,86 @@
+a hierarchy (in greek hieros, sacred, and arkho, rule) is a system of ranking and organizing things or people.
+
+the first usage in the oxford english dictionary for hierarchy is from 1380, where it was used in reference to the three orders of three angels as depicted by pseudo-dionysius the areopagite. areopagite used the word both in reference to the heavenly hierarchy and the ecclesiastical hierarchy . this was the origin of the common meaning of "rule by priests".  since hierarchical churches such as the roman catholic and eastern orthodox churches had tables of organization that were "hierarchical" in the modern sense of the word, the term came to refer to similar organizational methods in more general settings.
+
+ general description 
+
+hierarchies can be generally divided into two kinds: those where the upper levels of the hierarchy are 'superior' to the lower in some way, and those where the lower levels are 'contained' in the upper, again in different ways. an example of the first kind might be a company organisational structure: the ceo is superior to the divisional managers, who are superior to their team leaders who are superior to their regular workers. an example of the second kind is the hierarchy of animal classification: the set of 'birds' contains the set of 'birds of prey' which contains the set of 'eagles' which contains the set of 'golden eagles'. however, the more commonly used kind of hierarchy is the first kind, where one member is 'superior' to another.
+
+ general description (informal) 
+a precise, mathematical definition of hierarchy will be given below. this section will try to explore the ideas behind that more succinct definition.
+
+a hierarchy is a transitive, irreflexive, asymmetric relationship, such as "is superior to", "is part of", or "is taller than":
+transitivity — if a is superior to b, and b is superior to c, then a is superior to c;
+irreflexivity — no-one can be superior to himself, or taller than himself;
+asymmetry — if a is superior to b, then b isn't superior to a.  when two nodes are related, one is designated the "superior" (or sometimes the "parent") and the other the "subordinate" (or sometimes the "child"). in the intuitive case of the "is the boss of" relation, the boss is the superior and the employee is the subordinate.
+
+a hierarchy's asymmetrical relationship can link entities in one of three ways: directly, indirectly, or not at all. the illustration shows a direct link between the craft and culture sections; the craft section is directly linked to the culture section by the "contains" relationship. this is akin to how your boss is directly in charge of you. in contrast, the illustration shows an indirect link between craft and encyclopedia; the craft section is only "contained" by the encyclopedia as a whole by virtue of being "contained" by the culture section. this is akin to how the ceo of a company is in charge of a factory worker only via middle management. finally, there is effectively no link between the art and the craft sections; neither section contains the other. this is akin to two co-workers, neither of whom is the other's boss.
+
+every member is reachable from any other by following the relationship in either direction, but there is no way of coming back to a particular member by always following the relationship in the same direction.
+
+ mathematical description (formal) 
+a hierarchy can be represented as a connected directed acyclic graph with a designated initial node (the root). such structures are also commonly named trees (since they look like upside-down trees, with the trunk at the top).
+
+ examples of reasoning with hierarchies 
+many aspects of the world are analyzed, arguably fruitfully, from a hierarchical perspective. the concept of hierarchy thus qualifies as interdisciplinary. science provides the following examples:
+
+ in biology, organisms are commonly described as an assembly of parts (organs) which are themselves assemblies of yet smaller parts, and so on.
+ in physics, the standard model decomposes bodies down to their smallest particle components.
+ in linguistics, words or sentences are often broken down into hierarchies of parts and wholes.
+ in ethics, various virtues are enumerated and sometimes organized hierarchically according to certain brands of virtue theory.
+
+in all of these examples, the asymmetric relationship is "is composed of".
+
+hierarchies in programming
+the concept of hierarchies plays a large part in object oriented programming. for more information see hierarchy (object-oriented programming) and memory hierarchy.
+
+ containment hierarchy 
+
+a containment hierarchy is a collection of strictly nested sets.  each entry in the hierarchy designates a set such that the previous entry is a strict superset, and the next entry is a strict subset.  for example, all rectangles are quadrilaterals, but not all quadrilaterals are rectangles, and all squares are rectangles, but not all rectangles are squares. (see also: taxonomy.)
+
+ in geometry: shape, polygon, quadrilateral, rectangle, square
+ in biology: animal, bird, raptor, eagle, golden eagle
+ the chomsky hierarchy in formal languages: recursively enumerable, context-sensitive, context-free, regular
+ in physics: particle, elementary particle, fermion, lepton, electron
+
+ social hierarchies 
+many human organizations, such as businesses, churches, armies and political movements are structured hierarchically, at least officially; commonly superiors, called bosses, have more power than their subordinates (sometimes referred to as deputies or assistants). thus the asymmetrical relationship might be "has power over". (some analysts question whether power "really" works as the traditional organizational chart indicates, however.) see also chain of command.
+
+many social criticisms include a questioning of social hierarchies seen as being unjust. feminism, for instance, often discusses a hierarchy of gender, in which a culture sees males or masculine traits as superior to females or feminine traits.
+
+in the terms above, some feminism criticizes a hierarchy of only two nodes, "masculine" and "feminine", connected by the asymmetrical relationship "is more valuable to society", for example:
+the hierarchical nature of the dualism - the systematic devaluation of females and whatever is metaphorically understood as "feminine" - is what i identify as sexism. (nelson 1992, p. 106)
+
+note that in this context and in other social criticisms, the word hierarchy usually is used as meaning power hierarchy or power structure. feminists may not take issue with inanimate objects being organized in a hierarchical fashion, but rather with the specific asymmetrical organization of unequal value and power between men and women and, usually, other social hierarchies such as in racism and anti-gay bias.
+
+ hierarchical nomenclatures in the arts and sciences 
+hierarchies are important for categorization and organization of large numbers of objects. taxonomies, for example, such as biological taxonomies, are built on hierarchies. hierarchy is also often used to control complexity in engineering endeavors. for example, large electronic devices such as computers are usually composed of modules, which are themselves created out of smaller components (integrated circuits), which in turn are internally organized using hierarchical methods (e.g. using standard cells).
+
+hierarchies are used very extensively in computer science and information theory; here are a few examples. computer files in a file system are stored in a hierarchy of directories in most operating systems. in object-oriented programming, classes are organized hierarchically; the relationship between two related classes is called inheritance. in the internet, ip addresses are increasingly organized in a hierarchy (so that the routing will continue to function as the internet grows).
+
+the pitches and form of tonal music are organized hierarchically, all pitches deriving their importance from their relationship to a tonic key, and secondary themes in other keys are brought back to the tonic in a recapitulation of the primary theme. susan mcclary connects this specifically in the sonata-allegro form to the feminist hierarchy of gender (see above) in her book feminine endings, even pointing out that primary themes were often previously called "masculine" and secondary themes "feminine."
+
+examples of hierarchies:
+ theological: god, saved souls, angels, man, birds, animals, plants, rocks
+ (see also hierarchy of angels)
+ scientific classification of organisms: kingdom, phylum, class, order, family, genus, species
+ social: monarch, nobles, gentry, yeomanry, peasants, serfs
+
+alternatives
+hierarchies and hierarchical thinking has been criticized by many people, as above in #social hierarchies and #hierarchical nomenclatures in the arts and sciences. possible alternatives include:
+ democracy - command hierarchy and workplace democracy
+ enumerative organization, a list
+ retiary organization, a web or network
+ anarchy as a social/political theory and practice
+
+specializations
+ purpose:
+ hierarchical organization
+
+ structural properties:
+ hierarchical tree structure
+ rooted hierarchy
+
+ nature of the hierarchical relationship:
+ containment hierarchy
+

@@ -1,0 +1,22 @@
+the holographic principle is a speculative conjecture about quantum gravity theories, proposed by gerard 't hooft and improved and promoted by leonard susskind, claiming that all of the information contained in a volume of space can be represented by a theory that lives in
+the boundary of that region.  in other words, if you have a room then you can model all of the events within that room by creating a theory that only takes into account what happens in the walls of the room.  the holographic principle also states that at most there is one degree of freedom for every four planck area in that theory. this can be stated as the bekenstein bound, .
+
+what leads to the holographic principle
+
+given any finite, compact region of space (e.g. a sphere), this region will contain matter and energy within it.  if this energy surpasses a critical density then the region collapses into a black hole.
+
+a black hole is known theoretically to have an entropy  which is directly proportional to the surface area of its event horizon.  black holes are maximal entropy objects , so the entropy contained in a given region of space cannot be larger than the entropy of the largest black hole which can fit in that volume.
+
+a black hole's event horizon encloses a volume, and more massive black holes have larger event horizons and enclose larger volumes.  the most massive black hole that can fit in a given region is the one whose event horizon corresponds exactly to the boundary of the given region.
+
+the more mass, the more entropy.  therefore the maximal limit of entropy for any ordinary region of space is directly proportional to the surface area of the region, not its volume.  this is counter-intuitive to physicists because entropy is an extensive variable, being directly proportional to mass, which is proportional to volume (all else being equal, including the density of the mass).
+
+if entropy of ordinary mass (not just black holes) is also proportional to area, then this implies that volume itself is somehow illusory: that mass occupies area, not volume, and so the universe is really a hologram which is isomorphic to the information "inscribed" on its boundaries .
+
+limit on information density
+entropy, if considered as information (see information entropy), can ultimately be measured in bits.  one bit corresponds to four planck areas .  the total quantity of these bits is related to the total degrees of freedom of matter/energy.  the bits themselves would encode information about the states which that matter/energy are occupying.
+
+in a given volume, there is an upper limit to the density of information about the whereabouts of all the particles which compose matter in that volume, suggesting that matter itself cannot be subdivided infinitely many times; rather there must be an ultimate level of fundamental particles, i.e. were a particle composed of sub-particles, then the degrees of freedom of the particle would be the product of all the degrees of freedom of its sub-particles; were these sub-particles themselves also divided into sub-sub-particles, and so on indefinitely, then the degrees of freedom of the original particle must be infinite, violating the maximal limit of entropy density. the holographic principle thus implies that the subdivisions must stop at some level, and that the fundamental particle is a bit (1 or 0) of information.
+
+the most rigorous realization of the holographic principle is the ads/cft correspondence by juan maldacena.
+

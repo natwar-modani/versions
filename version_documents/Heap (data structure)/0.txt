@@ -1,0 +1,38 @@
+this page discusses the heap data structure. for the place from which memory is dynamically allocated, see heap (programming).
+
+in computer science a heap is a specialized tree-based data structure. its base datatype (used for node keys) must be an ordered set.
+
+let a and b be nodes of a heap, such that b is a child of a. the heap must then satisfy the following condition (heap property):
+
+ key(a) ≥ key(b)
+
+thumb|right|240px|example of a complete binary max heap
+
+this is the only restriction of general heaps. in this form it implies that the greatest element is always in the root node, and such a heap is sometimes called a max heap. (alternatively, if the comparison is reversed, the smallest element is always in the root node, which results in a min heap.) due to this fact, heaps are used to implement priority queues. the efficiency of heap operations is crucial in several graph algorithms.
+
+the operations commonly performed in a heap are
+delete-max or delete-min: removing the root node of a max- or min-heap, respectively,
+decrease-key: updating a key within the heap, and
+insert: adding a new key to the heap.
+merge: joining two heaps to form a valid new heap containing all the elements of both.
+
+heaps are used in the sorting algorithm called heapsort.
+
+variants
+binary heap
+binomial heap
+fibonacci heap
+pairing heap
+leftist heap
+soft heap
+2-3 heap
+treap
+beap
+
+comparison of theoretic bounds for variants
+function names assume a min-heap:
+
+ operation  binary  binomial  fibonacci  pairing  leftist  soft  2-3  treap  beap worst-case  worst-case  amortized  worst-case  amortized amortized     find-min  o  o  o  o  o o       delete-min  o  o  o  o  o o       insert  o  o  o  o  o or o o       decrease-key  o  o  o  o  o or o o       merge  o  o  o  o  o or o o      
+
+for pairing heaps the insert, decreasekey and merge operations are conjectured to be o amortized complexity but this has not yet been proven.
+

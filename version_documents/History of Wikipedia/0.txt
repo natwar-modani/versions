@@ -1,0 +1,14 @@
+wikipedia had its origin in a conversation between two old internet friends, larry sanger, editor-in-chief of nupedia, and ben kovitz, a computer programmer and polymath, on the evening of january 2, 2001, in san diego, california. kovitz is (or was) a [ward's wiki] regular. when kovitz explained the basic wiki concept to sanger over dinner, sanger immediately saw that the wiki format would be an excellent format whereby a more open, less formal encyclopedia project could be pursued. for months prior to this, sanger and his boss, jimmy wales, president and ceo of bomis, inc., had been discussing various ways to supplement nupedia with a more open, complementary project.
+
+so it did not take much for sanger to persuade wales to set up a wiki for nupedia. nupedia's first wiki went online on january 10. there was considerable resistance on the part of nupedia's editors and reviewers, however, to making nupedia closely associated with a website in the wiki format. therefore, the new project was given the name "wikipedia" and launched on its own address, wikipedia.com, on january 15.
+
+the project has received large numbers of participants from being mentioned, three times, on the tech website slashdot--there were two minor mentions march 5 and march 30, and then a prominent feature (also featured on the community-edit tech website kuro5hin) on july 26. between these relatively rapid influxes of traffic, there has been a steady stream of traffic from other sources--especially from google, which alone daily sends hundreds of new visitors to the site.
+
+the project passed 1,000 pages around february 12, and regularly passed other milestones in ensuing months. in the first eight months of its existence, over 9,000 encyclopedia entries were created--a rate of over 1,000 articles per month. this rate has more or less steadily increased since the inception of the project. see size of wikipedia.
+
+for further history, see the archives of the wikipedia announcements page.
+
+more essential information about wikipedia can be found in the wikipedia faq.
+
+ wikipedia announcements
+ wikipedians/history

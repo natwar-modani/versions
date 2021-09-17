@@ -1,0 +1,51 @@
+ (repeats the pattern from blue area)     (repeats the pattern from blue area)
+
+right|thumb|an illustration of the complex plane. the imaginary numbers are on the vertical coordinate axis.
+
+an imaginary number, in mathematics, is a number in the form bi where b is a non-zero, real number and i, defined by i² = -1, is known as the imaginary unit. an imaginary number bi can be added to  a real number a , to form a complex number of the form a + bi, where a and  b are called respectively, the "real part" and the "imaginary part" of the complex number a + bi. imaginary numbers can therefore be thought of as complex numbers where the real part is zero. the square of an imaginary number is a negative real number.
+
+imaginary numbers were defined in 1572 by rafael bombelli.  at the time, such numbers were regarded by some as fictitious or useless, much as zero and the negative numbers. many other mathematicians were slow to adopt the use of imaginary numbers, including descartes who wrote about them in his la géométrie, where the term was meant to be derogatory.albert a. martinez, negative math: how mathematical rules can be positively bent (princeton university press, 2005), discusses ambiguities of meaning in imaginary expressions in historical context.
+
+geometric interpretation
+geometrically, imaginary numbers are found on the vertical axis of the complex number plane, allowing them to be presented orthogonal to the real axis.  one way of viewing imaginary numbers is to consider a standard number line, positively increasing in magnitude to the right, and negatively increasing in magnitude to the left.  at 0 on this x-axis, a y-axis can be drawn with "positive" direction going up; "positive" imaginary numbers then "increase" in magnitude upwards, and "negative" imaginary numbers "decrease" in magnitude downwards. this vertical axis is often called the "imaginary axis" and is denoted , , or simply im.
+
+in this representation, multiplication by −1 corresponds to a rotation of 180 degrees about the origin. multiplication by i corresponds to a 90-degree rotation in the "positive" direction (i.e. counter-clockwise), and the equation  is interpreted as saying that if we apply two 90-degree rotations about the origin, the net result is a single 180-degree rotation. note that a 90-degree rotation in the "negative" direction (i.e. clockwise) also satisfies this interpretation. this reflects the fact that −i also solves the equation  — see imaginary unit.
+
+applications of imaginary numbers
+
+for most human tasks, real numbers (or even rational numbers) offer an adequate description of data.  fractions such as ⅔ and ⅛  are meaningless to a person counting stones, but essential to a person comparing the sizes of different collections of stones. negative numbers such as −3 and −5 are meaningless when measuring the mass of an object, but essential when keeping track of monetary debits and credits. similarly, imaginary numbers have essential concrete applications in a variety of sciences and related areas such as signal processing, control theory, electromagnetism, quantum mechanics, cartography, vibration analysis, and many others.
+
+in electrical engineering, for example, the voltage produced by a battery is characterized by one real number (called potential), such as +12 volts or −12 volts. but the "ac" voltage in a home requires two parameters. one is a potential, such as 120 volts, and the other is an angle (called phase).  the voltage is said to have two dimensions. a 2-dimensional quantity can be represented mathematically as either a vector or as a complex number (known in the engineering context as phasor).  in the vector representation, the rectangular coordinates are typically referred to simply as x and y.  but in the complex number representation, the same components are referred to as real and imaginary.  when the complex number is purely imaginary, such as a real part of 0 and an imaginary part of 120, it means the voltage has a potential of 120 volts and a phase of 90°, which is physically very real.
+
+some programming languages have built-in support for imaginary numbers. for example, in the python interpreter, one may use them by appending a lowercase or uppercase j to the number.the leading angle brackets in the first line are part of the interpreter's syntax and are not part of the equation.
+ >>> (5+2j) * (8+5j)
+ (30+41j)
+
+octave and matlab examples:
+
+    >> (5+2j) * (8+5j)
+    ans =
+      30.0000 +41.0000i
+    >> (5+i*2) * (8+5j)
+    ans =
+      30.0000 +41.0000i
+    >>
+
+history
+descartes was the first to use the term “imaginary” number in 1637.  however, imaginary numbers were invented much earlier by gerolamo cardano in the 1500s but they were not widely accepted until the work of leonhard euler (1707–1783) and carl friedrich gauss (1777–1855).
+
+in 1843 a mathematical physicist, william rowan hamilton, extended the idea of an axis of imaginary numbers in the plane to a three-dimensional space of quaternion imaginaries.
+
+with the development of quotients of polynomial rings, the concept behind an imaginary number became more substantial, but then one also finds other imaginary numbers such as the j of tessarines which has a square of +1. this idea first surfaced with the articles by james cockle beginning in 1848.
+
+ powers of  
+
+the powers of  repeat in a cycle:
+
+this can be expressed with the following pattern where n is any integer:
+
+this leads to the conclusion that.
+
+ notes 
+
+ 

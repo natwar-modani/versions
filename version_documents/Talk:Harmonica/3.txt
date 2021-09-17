@@ -1,0 +1,40 @@
+please improve upon my humble beginnings.  let's use this area to discuss editing. 
+-john thaden  12/28/01
+p.s.  welcome harp-l'ers and the like!
+ 
+some questions for the knowledgeable:  what is it that is "harmonic" about a harmonica?  is it really a simple instrument that anyone can play?  why can regular harmonicas be played in only one key?  why do blues players use a g harmonica to play in c?  what about the chromatic harmonica?  is that they one with "keys" mentioned in this article? 
+
+i'm going to put some famous players in the article as well.  i don't know much about the ax, but i'm hoping to jump-start some discussion.  ortolan88
+
+there have been some fabulous improvements since the last time i was here, but whoever decided to put in the blank lines, please don't.  no matter how cool it looks, it causes problems when various browsers try to display text and makes it harder to edit.  but, man oh man, what a load of good work has gone into this!  ortolan88
+
+user:ortolan88, sorry about the blank lines -- i had a browser crash after starting the first major revision of this, so then i moved the whole thing into emacs to do the edit and copied it back, with blank lines i had put in for my convenience.  i'll make sure not to do that in the future!  i created the new skeleton for this and and sent an e-mail off to the harp-l list to encourage other harmonica players to add more stuff -- i'd especially like to see some info on the old harmonica bands and some of the traditional harmonica band instruments (chord harmonica, etc.).
+
+as to some of the questions above, would an explanation of blues techniques be appropriate?  it would involve a bit of musical theory, but it would be simple enough (basically, blues players are playing off of a mixolydian scale, and the bends that one can use when playing in 'g' in a 'c' also make it easy to get blue notes, such as a blue third (between major and minor) and a tritone.  discussions of technique, etc. could go on at some length, and i'm not sure where to put them (under a new section called techniques or under harmonica types?).  
+
+one final note: i just organized the list of harmonica players alphabetically by genre, so if people could follow this pattern (or propose and implement a new one) it would be much appreciated! 
+
+-- user:thomas mills hinkle
+
+maybe there should be a separate article on blues harmonica, linked from here and from the blues pages.  ortolan88
+
+i've removed the header labelled "free reed physics" and instead made a link to free reed in the first paragraph. there are many free reed instruments other than the harmonica (accordian, bandoneon, harmonium, reed organ...), so i think the subject should be discussed on a page of its own. --camembert
+see pan pipes, syrinx.  ortolan88
+
+ editing harmonica 
+
+i'm new here, so i don't know the norms for this discussion group.  forgive me if i transgress.  is it appropriate to place an ad for a commercial product as information on a topic?  i think not.  the reference under "toy harmonica" is a link to a site where you can buy harmonica instructional materials.  i'm not opposed to the seller and his/her product, but think this information would be better placed on a page of vendors. there is no actual information about "toy harmonica".  as a harmonica collector i would be happy to prepare a few paragraphs on toy harmonicas.  larry boy pratt 8/12/04
+
+ if a link goes to an ad, i think it should at the very least be labelled as such and relegated to a "related sites" section. if you know something about toy harmonicas, please do prepare a few paragraphs and add them! and a final note -- you can sign your comments by adding four squiggle marks to the end of your entry, like this --~~~~, which will create a signature like this: --tom 02:32, 13 aug 2004 (utc)
+
+a seperate article or section of this should discuss cross harp and also that the harmonica is also commonly knows as harp in blues circles. -anon
+
+ harmonica layout diagrams 
+
+so the original text layout diagram for a diatonic harp has been replaced with an image. this is great, but i wonder: is there any way in wikipedialand to specify a text diagram as an alternative to the image for text-only browsers? in this case, the image is clearly nicer for those who can load it, but the information provided by the text is essentially the same, and it seems a shame to lose that info for users with text-only browsers.
+
+on a related note, it seems like we should be consistent -- right now only one of the many layout diagrams is done as an image.
+
+see: wikipedia:sign your posts on talk pages and wikipedia:alternative text for images. hyacinth 05:02, 31 mar 2005 (utc)
+
+only the first line of text (though it appears it can be very long) appears, so i don't think the ascii can be an alternative text. i reverted back to the text, and then added a 

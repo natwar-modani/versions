@@ -1,0 +1,65 @@
+see timeline of mathematics for a timeline of events in mathematics. see list of mathematicians for a list of biographies of mathematicians.
+
+the word "mathematics" comes from the greek μάθημα (máthema) which means "science, knowledge, or learning"; μαθηματικός (mathematikós) means "fond of learning".  today, the term refers to a specific body of knowledge - the rigorous, deductive study of numbers, shapes, patterns, and change.
+
+every modern science depends on basic mathematics at the most fundamental level, including such operations as counting, addition and subtraction.
+
+fundamentals
+
+in addition to recognizing how to count concrete objects, prehistoric peoples also recognized how to count abstract quantities, like time -- days, seasons, years.  with counting established, then, the ideas of addition and subtraction naturally followed.  see arithmetic.
+
+mathematics undoubtedly could not have developed out of simple counting and arithmetic, however, without writing.  perhaps prehistoric peoples first expressed quantity by drawing lines in the ground or scratching wood.  (see numeral system:  history.)
+
+mathematics developed further, out of simple writing, with the development of pigments and paint. predynastic egyptians of the 5th millennium bce are the earliest known to have pictorially represented geometric spatial designs.
+
+pigments and paints served other purposes in the historical development of mathematics.  pre-historic art and other early human inventions eventually led to
+
+maps for expressing distance,
+
+geometric shapes and other 3-dimensional figures for expressing basic form, and
+
+graphs for expressing relations.
+
+mathematics developed further, out of simple writing, with the development of other simple tools to record and communicate "quantity" among individuals and over periods of time.  for example, the sumerians of the 4th millennium bce are the earliest known to have used numbers for complex calculations, using a base-60 mathematical system.
+
+developing the concept of "number" through equations
+
+many of the extensions of the concept of number can be seen as responses to equations that would otherwise have had no solution.  in each of the extensions given below we start with an equation and then give the extension to the system which allows the equation to be solved.  we start with the notion of natural numbers: positive integers and zero, although it should be noted that some ancient mathematics did not have the concept of zero.  also note that it was assumed that the normal algebraic operations  return only one value (division by zero is not defined).
+
+ requires the existence of fractional numbers for its solution.  if we allow the solution of all equations of the form  then we get the rational numbers (m and n are both integers).
+
+ has no rational solution.  mathematicians responded by introducing radicals and real numbers, which allowed many polynomial equations to be solved.
+
+ requires the existence of negative numbers such as  for its solution.  the word negative was originally used by those who opposed the introduction of such numbers.
+
+ is the equation that introduces us to the complex numbers, which are discussed below.
+
+complex numbers
+
+when the complex numbers were introduced, there were many who argued that they were imaginary constructs to solve the cubic, and that they should not be considered 'real'.  this is the origin of the terms imaginary and real for the numbers.  however, mathematicians found the new world of complex numbers to be elegant and compelling.  to represent a solution to the equation shown above (i.e., ) mathematicians eventually setlled on the letter i.  however, in the early 19th century, one further extension of the real and complex numbers was found.
+
+all of the numbers described above are algebraic; but liouville showed how to construct transcendental numbers, which could not be expressed as the roots of any algebraic equation. in order to construct these transcendental numbers one needs the "completeness axiom":  any set of real numbers with an upper bound has a least upper bound.  this fills in the real line with all of the irrational numbers that cannot be derived merely from algebraic equations.  it is worth noting that this is an entirely different type of extension.  this is because of the cardinality of real or complex numbers is greater than that of the rationals. 
+
+the fundamental theorem of algebra shows that all polynomial equations over the complex numbers can be solved; thus there is no need for any further extension on algebraic grounds-nevertheless, many further extensions of the complex numbers do exist, such as the quaternions, or the surreal numbers.
+
+mathematicians today rarely view the development of the complex numbers in this way (the preferred teaching method does not emphasize this stepwise development) but it demonstrates the tension in mathematics between the rigorous and the creative which is the main power behind much of modern mathematics.
+
+indian contributions
+
+between 1000 b.c. and 1000 a.d. various treatises on mathematics were authored by indian mathematicians in which were set forth for the first time, the concept of zero, the techniques of algebra and algorithm, square root and cube root. vedic mathematics, as it is referred to today, is a separate field of study and courses are offered even in non-indian universities.
+
+the concept of zero seems to have been a contribution of ancient indian thought. every ancient indian language has multiple words to refer to the concept of 'void' or 'nothing' - 'shunya' in sanskrit. this word is used in early sanskrit texts of the 4th century bc; the concept of zero is clearly explained in pingala’s sutra of the 2nd century.
+
+in brahma-phuta-siddhanta of brahmagupta (7th century), zero is lucidly explained; it was from a translation of this indian text on mathematics (around 770 ad) that the arab mathematicians perfected the decimal system and gave the world its current system of enumeration which we call the hindu-arabic numerals. from the arabs the concept of zero was carried to europe in the 8th century.
+
+aryabhata in 499 ad worked the value of pi to the fourth decimal place as 3.1416.
+
+miscellaneous historical notes
+
+the maya calendar utilized a base-20 number system which included the 'number' zero (also see maya numerals). 
+
+in china, zu chongzhi (祖冲之) of the southern and northern dynasties was the first person to calculate the value of pi to seven decimal places.
+
+the mesopotamian cuneiform tablet plimpton 232 records a number of pythagorean triplets (3,4,5) (5,12,13). ..., dated 1900 bc, possibly millennia before pythagoras.
+
+ 

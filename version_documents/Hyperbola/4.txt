@@ -1,0 +1,94 @@
+right|thumb|350px
+[[image:conicas3.png|right|thumb|196px|hyperbola in terms of its conic section]]
+
+in mathematics, a hyperbola (greek , "over-thrown") is a type of conic section defined as the intersection between a right circular conical surface and a plane which cuts through both halves of the cone.
+
+it may also be defined as the locus of points where the difference in the distance to two fixed points (called the foci) is constant.  that fixed difference in distance is two times a where a is the distance from the center of the hyperbola to the vertex of the nearest branch of the hyperbola. a is also known as the semi-major axis of the hyperbola. the foci lie on the transverse axis and their midpoint is called the center.
+
+for a simple geometric proof that the two characterizations above are equivalent to each other, see dandelin spheres.
+
+algebraically, a hyperbola is a curve in the cartesian plane defined by 
+an equation of the form
+
+such that , where all of the coefficients are real, and where more than one solution, defining a pair of points (x, y) on the hyperbola, exists.
+
+the graph of two variables varying inversely on the cartesian coordinate plane is a hyperbola.
+
+definitions
+the first two were listed above:
+
+the intersection between a right circular conical surface and a plane which cuts through both halves of the cone.
+
+the locus of points where the difference in the distance to two fixed points (called the foci) is constant.
+
+the locus of points for which the ratio of the distances to one focus and to a line (called the directrix) is a constant larger than 1. this constant is the eccentricity of the hyperbola.
+
+a hyperbola comprises two disconnected curves called its arms or branches which separate the foci. 
+at large distances from the foci the hyperbola begins to approximate two lines, known as asymptotes.  the asymptotes cross at the center of the hyperbola and have slope  for an east-west opening hyperbola or  for a north-south opening hyperbola.
+
+a hyperbola has the property that a ray originating at one of the foci is reflected in such a way as to appear to have originated at the other focus.  also, if rays are directed towards one of the foci from the exterior of the hyperbola, they will be reflected towards the other focus.
+
+thumb|350px|conjugate unit rectangular hyperbolas (blue and green) and asymptotes (red)a special case of the hyperbola is the equilateral or rectangular hyperbola, in which the asymptotes intersect at right angles. the rectangular hyperbola with the coordinate axes as its asymptotes is given by the equation xy=, where c is a constant (see figure below).  the point on the curve nearest the origin is .  also, a line passing through the origin and this point is perpendicular to the tangent line.
+
+just as the sine and cosine functions give a parametric equation for the ellipse, so the hyperbolic sine and hyperbolic cosine give a parametric equation for the hyperbola.
+
+if on the hyperbola equation one switches x and y, the conjugate hyperbola is obtained. a hyperbola and its conjugate have the same asymptotes.
+
+equations
+
+cartesian
+east-west opening hyperbola centered at (h,k):
+
+the major axis runs through the center of the hyperbola and intersects both arms of the hyperbola at the vertices (bend points) of the arms.  the foci lie on the extension of the major axis of the hyperbola.  
+
+the minor axis runs through the center of the hyperbola and is perpendicular to the major axis. 
+
+in both formulas a is the semi-major axis (half the distance between the two arms of the hyperbola measured along the major axis), and b is the semi-minor axis.   
+
+if one forms a rectangle with vertices on the asymptotes and two sides that are tangent to the hyperbola, the length of the sides tangent to the hyperbola are 2b in length while the sides that run parallel to the line between the foci (the major axis) are 2a in length.  note that b may be larger than a. 
+
+if one calculates the distance from any point on the hyperbola to each focus, the absolute value of the difference of those two distances is always 2a.
+
+the eccentricity is given by
+
+if c equals the distance from the center to either focus, then
+
+where
+.
+the distance c is known as the linear eccentricity of the hyperbola.  the distance between the foci is 2c or 2aε.
+
+the foci for an east-west opening hyperbola are given by
+
+and for a north-south opening hyperbola are given by
+.
+
+the directrixes for an east-west opening hyperbola are given by
+
+and for a north-south opening hyperbola are given by
+.
+
+for rectangular hyperbolas with the coordinate axes parallel to their asymptotes:
+
+thumb|330px|a graph of the rectangular hyperbola .
+
+the simplest example of these are the hyperbolas
+.
+
+polar
+east-west opening hyperbola:
+
+north-south opening hyperbola:
+
+northeast-southwest opening hyperbola:
+
+northwest-southeast opening hyperbola:
+
+in all formulas the center is at the pole, and a is the semi-major axis and semi-minor axis.
+
+parametric
+east-west opening hyperbola:
+
+north-south opening hyperbola:
+
+in all  formulae (h,k) are the center coordinates of the hyperbola, a is the length of the semi-major axis, and b is the length of the semi-minor axis.
+

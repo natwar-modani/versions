@@ -1,0 +1,74 @@
+de:hamiltonoperator
+ja:ハミルトニアン
+
+the hamiltonian, denoted h, has two distinct but closely related meanings. in classical mechanics, it is a function which describes the state of a mechanical system in terms of position and momentum variables (i.e. symplectic variables), which is the basis for a re-formulation of classical mechanics known as hamiltonian mechanics. in quantum mechanics, the hamiltonian refers to the observable corresponding to the total energy of a system. the classical hamiltonian is described in the article on hamiltonian mechanics. this article discusses the hamiltonian operator in quantum mechanics.
+
+ the quantum hamiltonian 
+
+as explained in the article mathematical formulation of quantum mechanics, the physical state of a system may be characterized as a vector in an abstract hilbert space, and physically observable quantities as hermitian operators acting on these vectors.
+
+the quantum hamiltonian h is the observable corresponding to the total energy of the system. the eigenkets (eigenvectors) of h, denoted {|a〉}, provide an orthonormal basis for the hilbert space. the spectrum of allowed energy levels of the system is given by the set of eigenvalues, denoted {ea}:
+
+.
+
+since h is a hermitian operator, the energy is always a real number.
+
+depending on the hilbert space of the system, the energy spectrum may be either discrete or continuous. in fact, certain systems have a continuous energy spectrum in one range of energies and a discrete spectrum in another range. an example of such a system is the finite potential well, which admits bound states with discrete negative energies and free states with continuous positive energies.
+
+the hamiltonian generates the time evolution of quantum states. if |ψ(t)〉 is the state of the system at time t, then
+
+.
+
+where ℏ is h-bar. this equation is known as the schrödinger equation. (it takes the same form as the hamilton-jacobi equation, which is one of the reasons h is also called the hamiltonian.) given the state at some initial time (t = 0), we can integrate it to obtain the state at any subsequent time. in particular, if h is independent of time, then
+
+.
+
+where the exponential operator on the right hand side is defined by the usual series. this can be shown to be a unitary operator, and is a common form of the time evolution operator (also called the propagator).
+
+ energy eigenket degeneracy, symmetry, and conservation laws 
+
+in many systems, two or more energy eigenstates have the same energy. a simple example of this is a free particle, whose energy eigenstates have wavefunctions that are propagating plane waves. the energy of each of these plane waves is inversely proportional to the square of its wavelength.  a wave propagating in the x direction is a different state from one propagating in the y direction, but if they have the same wavelength, then their energies will be the same. when this happens, the states are said to be degenerate.
+
+it turns out that degeneracy occurs whenever a nontrivial unitary operator u commutes with the hamiltonian. to see this, suppose that |a〉 is an energy eigenket. then u|a〉 is an energy eigenket with the same eigenvalue, since
+
+since u is nontrivial, at least one pair of |a〉 and u|a〉 must represent distinct states. therefore, h has at least one pair of degenerate energy eigenkets. in the case of the free particle, the unitary operator which produces the symmetry is the rotation operator, which rotates the wavefuntions by some angle while otherwise preserving their shape.
+
+the existence of a symmetry operator implies the existence of a conserved observable. let g be the hermitian generator of u:
+
+it is straightforward to show that if u commutes with h, then so does g:
+
+therefore,
+
+in obtaining this result, we have used the schrödinger equation, as well as its dual,
+
+.
+
+thus, the expected value of the observable g is conserved for any state of the system. in the case of the free particle, the conserved quantity is the angular momentum.
+
+ hamilton's equations 
+
+hamilton's equations in classical hamiltonian mechanics have a direct analogy in quantum mechanics. suppose we have a set of basis states { |n〉 }, which need not necessarily be eigenstates of the energy. for simplicity, we assume that they are discrete, and that they are orthonormal, i.e.,
+
+note that these basis states are assumed to be independent of time. we will assume that the hamiltonian is also independent of time.
+
+the instantaneous state of the system at time t, |ψ(t)〉, can be expanded in terms of these basis states:
+
+where
+
+the coefficients an(t) are complex variables. we can treat them as coordinates which specify the state of the system, like the position and momentum coordinates which specify a classical system. like classical coordinates, they are generally not constant in time, and their time dependence give rise to the time dependence of the system as a whole.
+
+the expectation value of the hamiltonian of this state, which is also the mean energy, is
+
+where the last step was obtained by expanding |ψ(t)〉 in terms of the basis states.
+
+each of the an(t)'s actually corresponds to two independent degrees of freedom, since the variable has a real part and an imaginary part. we now perform the following trick: instead of using the real and imaginary parts as the independent variables, we use an(t) and its complex conjugate an*(t). with this choice of independent variables, we can calculate the partial derivative
+
+by applying schrödinger's equation and using the orthonormality of the basis states, this further reduces to
+
+similarly, one can show that
+
+if we define "conjugate momentum" variables πn by
+
+then the above equations become
+
+which is precisely the form of hamilton's equations, with the a's as the generalized coordinates, the π's as the conjugate momenta, and 〈h〉 taking the place of the classical hamiltonian.

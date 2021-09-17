@@ -1,0 +1,29 @@
+hol (which stands for higher order logic) is a family of automated theorem proving systems.  
+these systems share similar logics and implementation strategies.
+
+this paragraph should be moved to the lcf article when it's written...  
+hol follows the lcf approach.  
+in this approach, the system is actually implemented as a library in some programming language.
+this library implements an abstract data type of proven theorems; it is impossible to create a new object of this type without using the functions in the library.
+the functions in the library correspond to inference rules in the hol logic.
+
+systems in the hol family use the ml programming language.
+this language was originally developed along with lcf to serve the purpose of a meta-language for theorem proving systems; in fact, the name stands for "meta-language".
+
+there should be information on the hol logic here.
+
+there are four separate implementations of hol.  
+the first, hol88, is the culmination of the original hol implementation effort.  
+it includes its own ml implementation, and is implemented on top of common lisp.
+the second, hol90, uses standard ml.  
+the third, hol98, uses moscow ml.
+
+these three hol implementations come with large libraries of theorem proving code.
+these implement extra automation on top of the very simple core code.
+
+the fourth implementation, hol light, is much simpler than the others.  
+it uses simpler axioms and inference rules to describe its logic (although the logic is essentially the same as other hol implementations).  
+it also has fewer libraries of automated tactics.
+hol light is implemented in caml light.
+
+for more information about hol, see http://lal.cs.byu.edu/lal/hol-documentation.html.

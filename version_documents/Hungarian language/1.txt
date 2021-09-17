@@ -1,0 +1,92 @@
+ca:hongarès de:ungarische sprache eo:hungara lingvo fr:hongrois hu:magyar nl:hongaars ja:ハンガリー語 pl:język węgierski
+
+hungarian (magyar) is a finno-ugric language spoken in hungary and in certain areas of romania, slovakia, ukraine, serbia, croatia, austria, slovenia, all territories acquired after world war i. (as hungarians say: "hungary is perhaps the only country which is surrounded by itself." - because on the other side of every border is a land which used to be part of hungary.)
+
+there are about 14.5 million speakers, of which 10 million live in hungary.
+
+hungarian vocabulary contains many words borrowed from various turkic languages, as well as a few words borrowed from the turkish language, and several hundred loans from german and slavic languages but has retained its ugric originality. the basic vocabulary shares many words with finnish (e.g. the numbers egy ~ yksi, kettő ~ kaksi, három ~ kolme, négy ~ neljä and víz ~ vesi "water"), so linguists classify both as finno-ugric languages. 
+
+hungarian has many different cases (esetek), most common are the nominative case, accusative case, dative case, instrumental case, final case, supressive case, inessive case, elative case, terminative case, and delative case. there is also a formal case and a few other ones. for examples of some of these cases, refer to the article on the finnish language.
+
+the order of words in a sentence is determined not by syntactic roles but rather by pragmatic, i.e. discourse-driven, factors. words can be combined (as in german) and derived (with suffixes).
+
+the passive voice is almost extinct (one can find it in old literary texts).
+
+many grammatical and syntaxical functions, elements or constructions are based on suffixes. the mark for plural is a suffixed -k, eventually preceded by a vowel when the word ends with a consonant. usually vowels get inserted between the word and its suffix to prevent the buildup of consonants (and prevent unpronouncable words).
+
+the infinitive of verbs is the radical suffixed by -ni.
+
+ verbs 
+
+as a beginning of a more complete vocabulary (szókincs), an extract for the verb "to be" in hungarian, lenni.
+
+forms are presented in this order:
+
+i, you, he/she/it, we, you, they
+
+én, te, ő, mi, ti, ők
+
+the polite form of thou is either ön or maga. (there are some older forms of you like "kend" which is still used in rural areas.)
+(as you probably noticed, hungarian does not have gender-specific pronouns.)
+
+ indicative mode 
+presenttense: vagyok, vagy, van, vagyunk, vagytok, vannak
+
+pasttense: voltam, voltál, volt, voltunk, voltatok, voltak
+
+futuretense: leszek, leszel, lesz, leszünk, lesztek, lesznek
+
+ conditional mode 
+presenttense: lennék, lennél, lenne, lennénk, lennétek, lennének
+
+imperativetense: legyek, legyél (or légy), legyen, legyünk, legyetek, legyenek
+
+ hungarian orthography 
+
+hungarian has a phonemic orthography.  in addition to the standard letters of the latin alphabet, hungarian uses several additional letters.  these include letters with acute accents (á,é,í,ó,ú) which represent long vowels, the umlaut letters ö and ü and their long counterparts ő (unicode &#336; and &#337;) and ű (unicode &#368; and &#369;). sometimes ô or õ is used for ő and û for ű due to the limitations of the latin-1 / iso-8859-1 codepage. (hungarian is the only language using the ő an ű codes.)
+
+additionally, the letter pairs <ny>, <ty>, and <gy> represent the palatal consonants /ñ/, /kj/, and /gj/ (like the "dy" sound in british "duke" or american "would you").
+hungarian uses <s> for /s/ and <sz> for /s/, which is the reverse of polish. <zs> is /z/ and <cs> is /ts/. all these digraphs are considered single letters.  <ly> is also a "single letter digraph", but is pronounced like <j> (english <y>), and mostly appears in old words. more exotic letters are <dz> and <dzs> /dz/. they are hard to find even in a longer text. two examples are madzag; edzeni (rope; to train) and dzsungel (jungle).
+
+all r's are trilled, like the spanish "perro".
+
+hungarian distinguishes between long and short vowels, where the long vowels are written with accents, and between long consonants and short consonants, where the long consonants are written double. the digraphs, when doubled, become trigraphs: <sz>+<sz>=<ssz>. usually a trigraph is a double digraph, but there are a few exceptions: tizennyolc "eighteen" is tizen + nyolc. there are doubling minimal pairs: tizenegyedik (eleventh) vs. tizennegyedik (fourteenth).
+
+primary stress is always on the first syllable of a word.  there is sometimes secondary stress on other syllables, especially when two words have been combined (like "viszontlátásra" (see you later) pronounced "vees-ohnt-lah-tahsh-raw").
+
+while it seems unusual to english speakers at first, once one learns the new orthography and pronunciations, hungarian is nearly totally phonetic.
+
+ common phrases 
+
+hungarian (person, language): magyar ['madyar]
+hello: szia ['sia] (informal) (sounds almost exactly like american "see ya") but you only say this to people that you know well. when you address a stranger you use the more formal "good day": jó napot (kivánok) (yonahpot)
+good-bye: viszontlátásra (formal) (see above), viszlát [vislat] (semi informal)
+please: kérem (szépen)  [kayrrem saypen] (this literally means "i ask (it) well".  see next for a more common form of the polite request)
+i would like ____, please: szeretnék _____ [seh-reht-neyk] (this example illustrates the use of the conditional tense, as a common form of a polite request) 
+sorry: bocsánat [bochanat]
+thank you: köszönöm [kys-yn-ym] (pout your lips for a kiss and say "uh")
+that/this: az [az] ez [ez]
+how much?: mennyi? ['mennyee]
+how much does it cost?: mennyibe kerül? ['mennyee-be keh-rool]
+yes: igen ['igen]
+no: nem [nem]
+i don't understand: nem értem ['nem 'ertem]
+i don't know: nem tudom [nem tuh-doh-m]
+where's the bathroom?: hol van a vécé? ['hol van a 'vay-tsay]
+generic toast: egészségedre! [this is tough.  say it like this: egg-ayss-shay-ged-rreh]
+juice: gyümölcslé [gyu-molech-lay]
+water: víz [viz]
+wine: bor [bor]
+beer: sör [s-er]
+milk: tej [tey]
+do you speak english?: beszél angolul?  ['bes-ayl 'an-gol-ul]
+i love you: szeretlek ['seretlek]
+help!: segítség! [sheg-eet-shayg]
+
+ alternative theories about the origins of hungarian 
+
+ hungarian language has been claimed to be closely related to hunnish, as hungarian legends and histories show the close ties between the two peoples, and both the huns and the modern day hunnish people (székely) lived in hungary. however, the link to hunnish is uncertain.
+
+ some scholars believe modern magyars are ethnic descendants of the ancient sumerians, based primarily on linguistic studies. however, mainstream opinion holds that the sumerian language is a language isolate with no ties to other regional languages.
+
+ 

@@ -1,0 +1,34 @@
+see also: wikipedia:history
+
+these should be the most basic topics in the field--topics about which we'd like to have articles soon.  please see the most basic encyclopedia article topics for general instructions on constructing this list, and consult complete list of encyclopedia topics.
+
+archaeology --
+archaeologist --
+cartography --
+history -- 
+historian -- 
+historiography -- 
+numismatics -- 
+palaeography --
+periodization -- 
+primary source --  
+secondary source -- 
+annal -- 
+chronicle -- 
+map --
+family  history -- 
+local history -- 
+mythology -- 
+cultural history --
+social history --
+radiocarbon dating -- 
+intellectual history --
+
+we need a page on use of various types of sources, including inscriptions and coins.  i would be happy to work on this (lord knows, there are enough things i could pull off talk pages and incorporate), but would like suggestions for  things problematic that need inclusion.  please list on my to do page! jhk
+
+we need an entry on what is in latin technically called intitulatio, or  the official titles of rulers, especially as used in formal addresses, on coins, and on charters.  what do folks think it should be called? royal titles?  titulature? honorifics?  honorifics is nicely general and will cover the titles of the elected as well as the royal. 'intitulation' is an english word (oed sez), but i prefer 'titulature' if we're going for that stem. --michaeltinkler
+
+i like honorifics, m'self.  it should also be linked to nomenclature, so that we can get names right in article titles.  it's an interesting dilemma, though -- we need to make it clear that honorificas often do not reflect reality, but there is also a demonstrable need for simple translation of abbreviated hon's.  any suggestions for keeping it limited to a manageable scope? jhk
+we have an entry above and a table of translated honorifics below? --michaeltinkler
+
+hmmm. problem is, lots of them deserve their own articles -- like dux, comes, comes or dux markionis -- that change dramatically over time and from 'country' to 'country'.  ugh.  not saying no, mind you -- just anticipating issues. jhk

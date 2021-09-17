@@ -1,0 +1,51 @@
+hal 9000 (heuristically programmed algorithmic computer) is a fictional character in the space odyssey series, the first being the novel and film 2001 a space odyssey, written by arthur c clarke. hal is an artificial intelligence, the sentient on-board computer of the spaceship discovery that eventually goes rampant. hal is usually represented only as his television camera "eyes" that can be seen throughout the discovery spaceship. the voice of hal 9000 was performed by the actor douglas rain. hal became operational on january 12, 1997 (1992 in the movie) at the h.a.l. laboratory in urbana, illinois, and was created by dr. chandra. in the 2001 film, hal is depicted as being capable not only of speech recognition and natural language understanding, but also lip reading.
+
+thumb|250px|a view of hal 9000's brain room in discovery
+
+in other languages than english, hal might have another name: for instance, in the french version of  2001 a space odyssey, his name is stated as being carl, for cerveau analytique de recherche et de liaison ("analytic research and communication brain"). however, the famous camera plates still read "hal 9000". 
+
+some versions state that the name hal was derived by rotating one letter (see caesar cipher) of the name ibm, although this has been denied by both arthur c. clarke and his fictional character dr. chandra, who states that "by now, any idiot should know that hal stands for heuristic algorithmic" (2010).
+
+hal's history
+
+hal in 2001: a space odyssey
+in 2001: a space odyssey, after hal appears to be mistaken about a fault in the spacecraft, astronauts david bowman and frank poole consider disconnecting his cognitive circuits.  they believe that hal cannot hear them, but are unaware
+that hal is capable of lip reading.  faced with the prospect of disconnection, hal proceeds to kill frank poole while he is repairing the ship as well as the other members of the crew who are in suspended animation.  realizing what has occurred, astronaut david bowman then shuts the machine down. hal's central core is depicted as a room full of brightly lit computer modules mounted in arrays from which they can be inserted or removed. bowman shuts down hal by removing modules from service one by one; as he does so, we witness hal's consciousness degrading.  hal 9000 is also well known for a chess game he plays with frank poole, whose defeat is seen as an ominous foreshadowing to both the future events of the movie and the increasing dominance of machine over man.
+
+[[image:hal-console.jpg|thumb|250px|hal 9000's characteristic console]]
+
+the book differs from the movie in a number of details.  firstly, the book explains far more explicitly the causes of hal's behavior.  secondly, in the movie, hal shuts bowman out of the craft after bowman attempts to retrieve poole's body.  in the book, bowman stays within the ship and is forced to shut down hal after hal attempts to kill him by opening the ship's airlocks.
+
+hal in 2010: odyssey two
+in the sequel 2010: odyssey two, hal is restarted by his creator, dr. chandra, who arrives on the soviet spaceship alexei leonov. dr. chandra discovers that hal's crisis was caused by a programming contradiction: he was constructed for "the accurate processing of information without distortion or concealment", yet his orders required him to keep the discovery of the monolith tma-1 a secret. this contradiction created a "hofstadter-moebius loop", reducing hal to paranoia.
+
+the alien intelligences controlling the monoliths have grandiose plans for jupiter, plans which place the leonov in danger.  its human crew devises an escape plan, which unfortunately requires leaving the discovery and hal behind, to be destroyed.  dr. chandra explains the danger, and hal sacrifices himself for the leonov's crew.  in the moment of his destruction, the monolith-makers transform hal into a non-corporeal being, so that david bowman's avatar may have a companion.
+
+the details in the book and film are nominally the same, with one important exception - in the film, hal functions normally after being reactivated. in the book, it is revealed that his voice circuits were destroyed during the shutdown, forcing him to communicate through screen text. 
+
+the session of keyboard/screen interaction between hal and dr. chandra has a taste of shrdlu, which both increases the realism of the scene, and gives an interesting insight of the perception of artificial intelligence at the time the book was written.
+
+hal in 2061: odyssey three and 3001: the final odyssey
+in 2061: odyssey three, heywood floyd is surprised to encounter hal, now stored alongside dave bowman in the europa monolith.
+
+in 3001: the final odyssey, we meet the merged forms of dave bowman and hal. the two have merged into one entity called halman after bowman rescued hal from the dying discovery one spaceship towards the end of 2010: odyssey two. halman helps frank poole infect the monolith (which it once served) with a computer virus; as the primitive life in jupiter's clouds were sacrificed to make jupiter into a sun to warm europa, it is feared that humanity would in turn be sacrificed for the new life on europa.
+
+sal 9000
+hal 9000 has at least one earthbound twin, sal 9000.  sal (or possibly another "twin niner-triple-zero") was used as a reference system for hal; when the twin computer fails to predict any communications failure, bowman and poole begin to suspect hal's reliability. sal is clearly "female", and features similar camera plates like hal, but the "eye" is blue.  dr. chandra has a private terminal to sal's mainframe in his office, and his influence causes her to develop a slightly indian accent, making her sound like an indian princess returning from college in cambridge (2010: odyssey two). however, the movie version of sal is voiced by candice bergen, who was not credited for the part.
+
+before the soviet-usa mission to retrieve discovery, chandra uses her for a simulation of the possible effects that a prolonged "sleep" might have induced in hal, code-named project phoenix. when dr. chandra taunts sal to guess the reason for the name, her display of culture makes it clear that sal has access to some form of encyclopedic knowledge database. 
+
+in the book 2010, we learn that another ground-based hal machine undergoes the same psychosis that hal does.
+
+trivia
+hal was also 'featured' in a short commercial by apple computer in the year 2001 in which he asks dave if he likes his mac more than him.
+in the windows computer game star control 3 the computer onboard the warp bubble transport spaceship resembles hal 9000 almost exactly. the voice is also similar.
+on recess (tv series) principal prickly installs a system much like hal 9000.
+roland emmerich's independence day features a scene where jeff goldblum (whose character's name is dave) boots a powerbook 5300 with the startup chime replaced with hal 9000's voice: "good morning dave."
+douglas rain has steadfastly refused to recreate the hal 9000 voice outside of any 2001/2010 context, feeling a very protective obligation to the integrity of the computer's character.
+asteroid number 9000, discovered by e. l. g. bowell in 1981, was eventually given the name "hal".
+on the simpsons, during treehouse of horror xii, there is a segment that has a character similar to hal 9000, which was voiced by pierce brosnan.
+on stargate atlantis, a brief glimpse of hal's "eye" can be seen in the episode "the intruder".
+on futurama, when the planet express ship gets mad at bender, it acts similar to hal, and even comments "oh! if only i could read lips!".
+the movie airplane features an onboard flight computer that simulates hal's voice and slightly condecending attitude.
+

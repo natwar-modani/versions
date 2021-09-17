@@ -1,0 +1,86 @@
+in poetry, a hendecasyllable is a line of eleven syllables. the term "hendecasyllabic" is used to refer to two different poetic meters, the older of which is quantatative and used chiefly in classical (ancient greek and latin) poetry and the newer of which is accentual and used in medieval and modern poetry.
+
+in classical poetry
+
+the classical hendecasyllable is a quantitative meter used in ancient greece in aeolic verse and in scolia, and later by the roman poets catullus and martial. each line has eleven syllables; hence the name, which comes from the greek word for eleven.finch, annie. a poet's craft. ann arbor: university of michigan press, 2012, p. 410  the heart of the line is the choriamb (- u u -). there are three different versions.
+the pattern of the phalaecian (latin: hendecasyllabus phalaecius) is as follows (using "-" for a long syllable, "u" for a short and "x" for an "anceps" or variable syllable):
+ x x  - u u -  u -  u - x 
+
+ (where x x is either - u or - -  or u -)
+
+another form of hendecasyllabic verse is the "alcaic" (latin: hendecasyllabus alcaicus; used in the alcaic stanza), which has the pattern:
+ x - u -  x  - u u -  u -
+
+the third form of hendecasyllabic verse is the "sapphic" (latin: hendecasyllabus sapphicus; so named for its use in the sapphic stanza), with the pattern:
+ - x -  x  - u u -  u - -
+
+forty-three of catullus's poems are hendecasyllabic; for an example, see catullus 1.
+
+the metre has been imitated in english, notably by alfred tennyson, swinburne, and robert frost, cf. "for once then something." contemporary american poets annie finch ("lucid waking") and patricia smith ("the reemergence of the noose") have published recent examples.  poets wanting to capture the hendecasyllabic rhythm in english have simply transposed the pattern into its accentual-syllabic equivalent: /u|/u|/uu/u|/u|, or trochee/trochee/dactyl/trochee/trochee, so that the long/short pattern becomes a stress/unstress pattern. tennyson, however, maintained the quantitative features of the metre:
+
+o you chorus of indolent reviewers,
+irresponsible, indolent reviewers,
+look, i come to the test, a tiny poem
+all composed in a metre of catullus...
+("hendecasyllabics")
+
+in italian poetry
+the hendecasyllable () is the principal metre in italian poetry. its defining feature is a constant stress on the tenth syllable, so that the number of syllables in the verse may vary, equaling eleven in the usual case where the final word is stressed on the penultimate syllable.  the verse also has a stress preceding the caesura, on either the fourth or sixth syllable. the first case is called endecasillabo a minore, or lesser hendecasyllable, and has the first hemistich equivalent to a quinario; the second is called endecasillabo a maiore, or greater hendecasyllable, and has a settenario as the first hemistich.claudio ciociola (2010) "endecasillabo", enciclopedia dell'italiano (in italian). accessed march 2013.
+
+− 	
+the most usual stress schemes for the italian hendecasyllable are stresses on sixth and tenth syllables (for example, "nel mezzo del cammin di nostra vita," dante alighieri, first line of the divine comedy), and on the fourth, seventh and tenth syllables ("un incalzar di cavalli accorrenti," ugo foscolo, dei sepolcri).
+
+most classical italian poems are composed in hendecasyllables, including the major works of dante, francesco petrarca, ludovico ariosto, and torquato tasso. the rhyme system varies from terza rima to ottava, from sonnet to canzone. from the early 16th century, hendecasyllables are often used without a strict system, with few or no rhymes, both in poetry and in drama. an early example is le api ("the bees") by giovanni di bernardo rucellai, written around 1517 and published in 1525, which begins:giovanni rucellai (1539) le api di m. giovanni rucellai gentilhuomo fiorentino le quali compose in roma de l'anno mdxxiiii essendo quivi castellano di castel sant' angelo. [s.l.: s.n.] full text digitised by bayerische staatsbibliothek
+
+mentr'era per cantare i vostri doni
+con altre rime, o verginette caste,
+vaghe angelette delle erbose rive,
+preso dal sonno, in sul spuntar dell'alba
+m'apparve un coro della vostra gente,
+e dalla lingua, onde s'accoglie il mele,
+sciolsono in chiara voce este parole:
+o spirto amici, che dopo mill'anni,
+e cinque cento, rinovar ti piace
+e le nostre fatiche, e i nostri studi,
+fuggi le rime, e'l rimbombar sonoro.
+
+like other early italian-language tragedies, the sophonisba of gian giorgio trissino (1515) is in blank hendecasyllables. later examples can be found in the canti of giacomo leopardi, where hendecasyllables are alternated with settenari. the effect of endecasillabi sciolti ("untied" hendecasyllables) may be considered similar to that of english blank verse.
+
+it has a role in italian poetry, and a formal structure, comparable to the alexandrine in french.
+
+in polish poetry
+the 11-syllable metre was very popular in polish poetry, especially in the seventeenth and eighteenth centuries, owing to strong italian literary influence. it was used by jan kochanowski,compare: summary [in:] lucylla pszczołowska, wiersz polski. zarys historyczny, wrocław 1997, p. 398. piotr kochanowski (who translated jerusalem delivered by torquato tasso), sebastian grabowiecki, wespazjan kochowski and stanisław herakliusz lubomirski. the greatest polish romantic poet, adam mickiewicz, set his poem grażyna in this measure. the polish hendecasyllable is widely used when translating english 
+blank verse.
+
+almost always, the 11-syllable line is divided by a caesura into 5 + 6 syllables. only rarely it is fully iambic. 
+
+a popular form of polish literature that employs the hendacasyllable is the sapphic stanza: 11/11/11/5. 
+
+the polish hendecasyllable is often combined with an 8-syllable line: 11a/8b/11a/8b. such a stanza was used by mickiewicz in his ballads, as in the following example.
+
+ ktokolwiek będziesz w nowogródzkiej stronie,
+ do płużyn ciemnego boru
+ wjechawszy, pomnij zatrzymać twe konie,
+ byś się przypatrzył jezioru.
+ (świteź)
+
+in polish, the word for hendecasyllable is "jedenastozgłoskowiec".
+
+in portuguese poetry
+the hendecasyllable (portuguese: hendecassílabo) is a common meter in portuguese poetry. the best-known portuguese poem composed in hendecasyllables is luís de camões' epic os lusíadas, which begins as follows:
+
+as armas e os barões assinalados,
+que da ocidental praia lusitana,
+por mares nunca de antes navegados,
+passaram ainda além da taprobana,
+em perigos e guerras esforçados,
+mais do que prometia a força humana,
+e entre gente remota edificaram
+novo reino, que tanto sublimaram
+
+in portuguese, hendecasyllables are often referred to as decasyllables (decassílabo), even when the work in question consists exclusively of eleven-syllable lines (as does os lusíadas).
+
+in english poetry
+the term "hendecasyllable" is sometimes used in english poetry to describe  a line of iambic pentameter with an extra short syllable at the end, as in the first line of john keats's endymion: "a thing of beauty is a joy for ever."
+
+ 

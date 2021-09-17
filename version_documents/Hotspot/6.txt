@@ -1,0 +1,42 @@
+a hot spot is a region of high or special activity within a larger area of low or normal activity; it may refer to:
+
+ hotspot (geology), a location above a hot upwelling plume of mantle.
+ hot spot, a keno game offered by the california lottery
+ hot spot (veterinary medicine)
+
+computer science
+ software framework hot spots describe the variation points in software frameworks. 
+ hotspot (wi-fi), a wi-fi access point or area, in particular for connecting to the internet
+ hotspot, a java virtual machine from sun microsystems
+ screen hotspots, especially in  gui applications, provide areas on which computer-users click or hover for extra information-processing
+
+biology
+ biodiversity hotspot, a region of significant biodiversity 
+ mutation hotspot, dna positions where mutations occur with above-average frequency
+ recombination hotspot, dna positions where genetic recombination occurs with above-average frequency
+
+arts and entertainment
+
+ hot spot (cricket), an infra-red tracking system used in cricket
+ hot spot (musical), a 1963 musical with lyrics by martin charnin and music by mary rodgers
+ hot spot (song), a song by hip-hop rap artist foxy brown
+ the hot spot, a 1990 film with don johnson and jennifer connelly
+ the hotspot, a weekly podcast by the editors of gamespot discussing various gaming-related news and events
+ hot spot (comics), is a fictional character in publications from dc comics
+ hot spot (transformers) is the name of several transformers characters
+
+cs:hotspot
+da:hot spot
+de:hot spot
+et:kuum punkt
+es:punto caliente
+fr:hotspot
+ko:핫스팟
+it:hotspot
+nl:hotspot
+ja:ホットスポット
+nds:hotspot
+pt:hotspot
+sk:hot spot
+fi:hot spot (täsmennyssivu)
+zh:hotspot

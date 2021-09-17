@@ -1,0 +1,52 @@
+heapsort is an optimization of selection sort, a sort algorithm.
+in general, a selection sort works as follows:
+
+ remove the lowest datum one at a time until the set of data is empty
+
+the naive algorithm for finding the lowest datum, iterating through the list of unsorted data, has o(n2) performance.
+heapsort optimizes the algorithm by using a heap data structure to speed finding and removing the lowest datum.
+it works as follows:
+
+ make a heap of the data
+ remove items from the heap one at a time until the heap is empty.
+
+the time complexity of the first step is o(n) while that of the second
+is o(n lg n).
+
+it can be performed in place with constant auxiliary storage;
+the "fixheap" routine given below uses tail recursion, and a good compiler or interpreter (such as any scheme implementation) or a competent programmer can straightforwardly convert the algorithm to an iterative form.
+no other worst-case o(n lg n) sort can be performed with constant auxiliary storage.
+because of the o(n lg n) upper bound on heapsort's running time and constant upper bound on its auxiliary storage, embedded systems with real-time constraints often use heapsort. 
+
+here's an implementation in the python programming language:
+
+def reverserange(n):
+    list = range(n)
+    list.reverse()
+    return list
+
+def fixheap(array, heaplen, index):
+    lc = 2 * index + 1  # left child
+    rc = lc + 1         # right child
+
+    # if the left child is inside the heap and the max of the 3, move it up:
+    if (lc < heaplen and array[lc] > array[index] and
+            (rc >= heaplen or
+            (rc < heaplen and array[rc] <= array[lc]))):
+        array[index], array[lc] = array[lc], array[index]
+        fixheap(array, heaplen, lc)
+
+    # else if the right child is, move it up:
+    elif (rc < heaplen and array[rc] > array[index] and array[rc] > array[lc]):
+        array[index], array[rc] = array[rc], array[index]
+        fixheap(array, heaplen, rc)
+
+def makeheap(array):
+    for i in reverserange(len(array)/2):
+        fixheap(array, len(array), i)
+
+def heapsort(array):
+    makeheap(array)
+    for i in reverserange(len(array)):
+        (array[i], array[0]) = (array[0], array[i])
+        fixheap(array, i, 0)

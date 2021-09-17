@@ -1,0 +1,22 @@
+hangman is a pencil and paper
+guessing game for two players.
+one player thinks of a word and the other tries to guess it by suggesting letters. 
+
+the word to guess is represented by a row of dashes, giving the number of letters. if the guessing player suggests a letter which occurs in the word, the other player writes it in all its correct positions. if the suggested letter does not occur in the word, the other player draws one element of the hangman diagram. the game is over when:
+ the guessing player completes the word, or guesses the whole word correctly
+ the other player completes the diagram:
+
+  +----+
+  |    |
+  |    o
+  |   /|\
+  |   / \
+ -+-
+
+ -a-g-a-
+
+the exact nature of the diagram differs; some players draw the gallows part before play and draw parts of the man's body (traditionally the head, then torso, then the left arm, then the right arm, then the left then right legs). 
+some players begin with no diagram at all, and begin by drawing the parts of the gallows, effectively giving the guessing players more chances.
+
+some modifications to game play result in the game wheel of fortune.
+

@@ -1,0 +1,16 @@
+helium-3 is a non-radioactive and light isotope of helium. the helion, the nucleus of a helium-3 atom, consists of two protons but only one neutron, in contrast to two neutrons in ordinary helium. helium-3 is rare on earth and sought-after for use in nuclear fusion.  more abundant helium-3 is thought to exist on the moon (embedded in the upper layer of regolith by the solar wind over billions of years) and the solar system's gas giants (left over from the original solar nebula).
+
+helium-3 undergoes the following reaction, among others, although this is the one most promising to fusion engineers:
+
+d + 3he → 4he (3.7 mev) + p (14.7 mev)
+
+the appeal of helium-3 fusion stems from the nature of its reaction products.  helium-4 is non-radioactive and the lone high-energy proton produced is easily contained using electric and magnetic fields.  in contrast, most other proposed fusion processes for power generation lead to the production of energetic neutrons, bombardment with which renders reactor components radioactive.  most of the energy from the conventional fusion reaction is given off in this form, which is difficult to harness for energy; whereas the proton can be contained and leads to high temperatures which might be liberated for energy generation.
+
+helium-3 is used in cryogenics to achieve temperatures as low as a few thousandths of a kelvin; it was discovered by the australian nuclear physicist mark oliphant while based at cambridge university's cavendish laboratory.
+
+an important property of helium-3, which distinguishes it from the more common helium-4, is that its nucleus is a fermion since it contains an odd number of particles.  it was historically believed that only bosons (like helium-4) could exhibit superfluidity.  the 1970s discovery that helium-3 became a superfluid at around 2 millikelvins was therefore extremely intriguing.  david morris lee, douglas dean osheroff, and robert coleman richardson were awarded the 1996 nobel prize in physics for discovering that the fermion 3he nuclei can pair up at very low temperatures to form effective bosons with an even number of particles.  this process is closely related to the bcs theory of superconductivity in which fermionic electrons form cooper pairs at low temperatures. see fermion condensate. tony leggett won the 2003 nobel prize in physics for his work on refining our understanding of the superfluid phase of helium-3. see external link below.
+
+helium-3 is also a primordial substance in the earth's mantle and is used in isotope geochemistry studies.
+
+the possibility that helium-3 may be widely found on the moon has led to discussions as to whether it could be used as an energy source. the big downsides to helium-3 are that the ignition temperature is ten times higher than conventional fusion, and thus considerably harder to fuse. breakeven has not been achieved with conventional fusion. helium-3 fusion is thus only a potential power source, rather than one likely to be useful in the midterm. in addition, the quantity of helium-3 that gets trapped from the solar wind in the lunar surface has never been determined, and may be below the economic mining point.
+

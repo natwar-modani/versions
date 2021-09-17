@@ -1,0 +1,40 @@
+thumb|400px|diagram that shows the development of different blood cells from hematopoietic stem cell to mature cells
+
+haematopoiesis (from ancient greek: haima blood; poiesis to make) (or hematopoiesis in the united states; sometimes also haemopoiesis or hemopoiesis) is the formation of blood cellular components. all of the cellular components of the blood are derived from haematopoietic stem cells. the term multipotent refers to the ability of a cell to become several different types of cell (but not all types in a germ layer). multipotent haematopoetic cells can become any type of cell in the blood system. the multipotent cells determine what type of cell to become, or differentiate, in a step-wise fashion.  
+
+lineages
+all blood cells are divided into three lineages. 
+ erythroid cells are the oxygen carrying red blood cells. 
+ lymphoid cells are the cornerstone of the adaptive immune system. the lymphoid lineage is primarily composed of t-cells and b-cells. (white blood cells)
+ myeloid cells, which includes granulocytes, megakaryocytes, and macrophages, are involved in such diverse roles innate immunity, adaptive immunity, and blood clotting.
+
+maturation
+as a stem cell matures it undergoes changes in gene expression (the levels of genes change) that   limit the cell types that it can become and move it closer to a specific cell type.  these changes can often be tracked by monitoring the presence of proteins on the surface of the cell. each successive change moves the cell closer to its final choice of cell type and further limits its potential cell type until it is fully differentiated.  this process is usually presented as a dendrogram or decision tree starting with a stem cell at the single starting point and branches for  the major lineages that branch into intermediate semi-differentiated cell types and eventually to fully differentiated cells.
+
+locations
+in developing embryos, blood formation occurs in aggregates of blood cells in the yolk sac, called blood islands. as development progresses, blood formation occurs in the spleen, liver and lymph nodes. when bone marrow develops, it eventually assumes the task of forming most of the blood cells for the entire organism. however; maturation, activation, and some proliferation of lymphoid cells occurs in secondary lymphoid organs (spleen, thymus, and lymph nodes). while most haematopoiesis in adults occurs in the marrow of the long bones such as the femurs, it also occurs in spongy bone like ribs and sternum). in some cases, the liver, thymus, and spleen may resume their haematopoietic function if necessary (called extramedullary haematopoiesis).
+
+in some vertebrates, haematopoiesis can occur wherever there is a loose stroma of connective tissue and slow blood supply, such as the gut, spleen, kidney or ovaries.
+
+haematopoietic growth factors
+[[image:hematopoiesis (human) cytokines.jpg|thumb|500px|diagram including some of the important cytokines that determine which type of blood cell will be created.
+scf= stem cell factor
+tpo= thrombopoietin
+il= interleukin
+gm-csf= granulocyte macrophage-colony stimulating factor
+epo= erythropoietin
+m-csf= macrophage-colony stimulating factor
+g-csf= granulocyte-colony stimulating factor
+sdf-1= stromal cell-derived factor-1
+flt-3 ligand= fms-like tyrosine kinase 3 ligand
+tnf-a = tumor necrosis factor-alpha
+tgfβ = transforming growth factor beta
+]]
+red and white blood cell production is regulated with great precision in healthy humans, and the production of granulocytes is rapidly increased during infection. the proliferation and self-renewal of these cells depend on stem cell factor (scf).
+glycoprotein growth factors regulate the proliferation and maturation of the cells that enter the blood from the marrow, and cause cells in one or more committed cell lines to proliferate and mature.
+three more factors which stimulate the production of committed stem cells are called colony-stimulating factors (csfs) and include: granulocyte-macrophage csf (gm-csf), granulocyte csf (g-csf) and macrophage csf (m-csf).
+these stimulate a lot of granulocyte formation. they are active on either progenitor cells or end product cells.
+
+the commitment of all hematopoietic cells to become a certain type of blood cell depends on external signals. erythropoietin is required for a myeloid progenitor cells to become an erythrocyte. molecular cell biology. lodish, harvey f. 5. ed. : - new york : w. h. freeman and co., 2003, 973 s. b ill. isbn: 0-7167-4366-3 on the other hand, thrombopoietin makes myeloid progenitor cells differentiate to megakaryocytes (thrombocyte-forming cells).
+examples of cytokines and the blood cells they give rise to is shown in the picture to the right.
+

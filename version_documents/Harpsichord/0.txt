@@ -1,0 +1,19 @@
+a harpsichord is a european keyboard instrument which generates sound by plucking (rather than striking) a string. the vaguely-triangular case accommodates long bass strings at the left and short treble strings at the right; characteristically, the profile is more jagged than that of a modern piano.
+
+the virginal is a smaller and simpler rectangular form of the harpsichord, with only one string per note running parallel to the keyboard on the long side of the case (if running diagonally in a more polygonal frame the instrument is a spinet), the range of the virginal is around four octaves. the origin of the word virginal is obscure but it is usually linked to the fact that the instrument was designed for young women. the terms spinet, virginal and harpsichord have been used almost interchangably in the past.
+
+because the plucking mechanism does not produce changes in the volume of sound (see piano), harpsichords were often built with two or more keyboards (called manuals), which control separate sets of strings, each with a distinctive tone color.
+
+the first music written specifically for solo harpsichord came to be published around the middle of the sixteenth century. well into the eighteenth century, the harpsichord was considered to have advantages and disadvantages with respect to the piano. besides solo works, the harpsichord is also well-suited to chordal accompaniment in the basso continuo style (a function it maintained in opera even into the nineteenth century). in the early twentieth century, the harpsichord came to be revived, first in crude "modernizations" of antique instruments, then by closer approximations of historical models.
+
+composers of notable solo harpsichord music include:
+ johann sebastian bach
+ george friderich handel
+ [[domenico scarlatti]
+ francois couperin
+ girolamo frescobaldi
+ william byrd.
+
+related keyboard instruments: 
+ piano
+ clavichord

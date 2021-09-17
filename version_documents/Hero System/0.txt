@@ -1,0 +1,17 @@
+the hero system is the overarching name given to the generic rules underlying the hero games role-playing games such as champions, star hero, and justice, inc..  originally, each of hero games rpgs was self-contained, much as chaosium's basic role-playing games are.  later, as gurps became more popular, a generic version of the rules was published.
+
+the hero system's biggest innovation was its use of a point-based system for character creation with a tool-kit approach to creating abilities.  the rules only define the ability's effects in combat--the player defines what the ability looks like when used.  for example, the ability to project a jet of fire could be bought as "energy blast," or any of a number of other abilities.  the player then defines it as a "jet of fire," with all that implies: it has the possibility of starting secondary fires; it looks, smells and sounds like a jet of fire; etc.  this energy blast could be modified by any number of modifiers such as "explosion," "area of effect" or "no range."  these affect how the power works as well as its final cost.
+
+each player creates his character starting with a pool of points to buy abilities (such as the aforementioned "energy blast" and "armor"), increase characteristics (such as "strength" and "intelligence") and buy skills (such as "computer programming" and "combat driving").  this pool can be increased by taking disadvantages for your character (such as being hunted by an enemy, a dependency of some sort or having people who depend on your character in some way).  the initial pool, as well as the final pool size, is determined by the game master, as well as the point limits on each individual ability.
+
+the advantages of this system are:
+
+it eases game balance issues for the gm: a 200-point character is generally less powerful than a 300-point character.  
+it also is incredibly flexible in character creation, allowing players to create nearly any character they can imagine.  in fact, the hero system is considered by some as the *most* flexible game system ever created.
+
+the primary disadvantages are:
+
+complexity, though perhaps not as much as some other systems, such as rolemaster.
+combat has a tendency to slow things to a crawl.  twenty seconds of combat can take hours to adjudicate.
+
+hero games, at the time of this writing, have released the fifth edition of the hero system.

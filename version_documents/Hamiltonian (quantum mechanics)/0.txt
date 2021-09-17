@@ -1,0 +1,39 @@
+the hamiltonian, denoted h, has two distinct but closely related meanings. in classical mechanics, it is a quantity derived from the lagrangian, which underlies the re-formulation of classical mechanics known as hamiltonian mechanics. in quantum mechanics, it is the observable corresponding to the total energy of a system.
+
+ the hamiltonian operator in quantum mechanics 
+
+as explained in the article mathematical formulation of quantum mechanics, the quantum hamiltonian h is a hermitian operator acting on the hilbert space of a system. the set of eigenkets (eigenvectors) of h, denoted {|a〉}, provide an orthonormal basis for the hilbert space. the spectrum of allowed energy levels of the system is given by the set of eigenvalues, denoted {ea}:
+
+.
+
+since h is a hermitian operator, the energy is always a real number.
+
+depending on the hilbert space of the system, the energy spectrum may be either discrete or continuous. in fact, certain systems have a continuous energy spectrum in one range of energies and a discrete spectrum in another range. an example of such a system is the finite potential well, which admits bound states with discrete negative energies and free states with continuous positive energies.
+
+the hamiltonian generates the time evolution of quantum states. if |ψ(t)〉 is the state of the system at time t, then
+
+.
+
+where ℏ is dirac's constant. this equation is known as the schrödinger equation. (it takes the same form as the hamilton-jacobi equation, which is one of the reasons h is also called the hamiltonian.) given the state at some initial time (t = 0), we can integrate it to obtain the state at any subsequent time. in particular, if h is independent of time, then
+
+.
+
+where the exponential operator on the right hand side is defined by the usual series. this can be shown to be a unitary operator, and is a common form of the time evolution operator.
+
+ energy eigenket degeneracy, symmetry, and conservation laws 
+
+in many systems, two or more energy eigenkets have the same eigenvalue. this is known as degeneracy. degeneracy occurs whenever a nontrivial unitary operator u commutes with the hamiltonian. to see this, suppose that |a〉 is an energy eigenket. then u|a〉 is an energy eigenket with the same eigenvalue, since
+
+since u is nontrivial, at least one pair of |a〉 and u|a〉 must represent distinct states. therefore, h has at least one pair of degenerate energy eigenkets.
+
+the existence of a symmetry operator implies the existence of a conserved observable. let g be the hermitian generator of u:
+
+it is straightforward to show that if u commutes with h, then so does g:
+
+therefore,
+
+in the second line, we have used the schrödinger equation, as well as its dual,
+
+.
+
+(note that h is hermitian.) thus, the expected value of the observable g is conserved for any state of the system.

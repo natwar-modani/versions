@@ -1,0 +1,69 @@
+magyar nyelv
+
+a few facts about (modern) hungarian.
+
+hungarian vocabulary contains many words derived from turkish language, german language, slavic languages but is quite original and colorful. the basic vocabulary shares many words with finnish (e.g. the numbers egy~yksi, kettö~kaksi, három~kolme, négy~neljä), so linguists classify both as finno-ugric languages. it has also been claimed to be closely related to hunnish.
+
+hungarian has many different cases (esetek), most common are nominative case, accusative case, dative case, instrumental case, final case, supressive case, inessive case, elative case, terminative case, delative case. there is also a formal case and a few other ones. i usually start learning a language by learning how to count and the days of the week. here are numbers (számok).  for examples of some of these cases, refer to the article on the finnish language.
+
+the order of words in a sentence is not fixed, and can be used for stressing and denoting. words can be combined (as in german) and derived (with suffixes and affixes).
+
+the passive voice is almost extinct (one can find it in old literary texts).
+
+many grammatical and syntaxical functions, elements or constructions are based on suffixes.
+the mark for plural is a suffixed -k, eventually preceded by a vowel when the word ends by a consonant
+
+the infinitive of verbs is the radical suffixed by -ni
+
+as an appetizer for a more complete vocabulary (szókincs), an extract for the verb "to be" in hungarian, lenni.
+
+forms are presented in this order:
+
+i, you, he/she/it, we, you, they
+
+én, te, ő, mi, ti, ők
+
+the polite form of thou is either ön or maga.
+
+indicative mode
+
+presenttense: vagyok, vagy, van, vagyunk, vagytok, vannak
+
+pasttense: voltam, voltál, volt, voltunk, voltatok, voltak
+
+futuretense: leszek, leszel, lesz, leszünk, lesztek, lesznek
+
+conditional mode
+
+presenttense: lennék, lennél, lenne, lennénk, lennétek, lennének
+
+imperativetense: legyek, légy, legyen, legyünk, legyetek, legyenek
+
+hungarian orthography
+
+hungarian has a phonemic writing system.  in addition to the standard letters of the latin alphabet, hungarian uses several additional letters.  these include letters with acute accents (á,é,í,ó,ú) which represent long vowels, the umlaut letters ö and ü and their long counterparts ő (unicode &#336; and &#337;) and ű (unicode &#368; and &#369;). sometimes <õ> is used for <ő> and <û> for <ű>; these are iso-8859-2 bytes being interpreted as iso-8859-1.
+
+additionally, the letter pairs <ny>, <ky>, and <gy> represent the palatal consonants /ñ/, /kj/, and /gj/.
+hungarian uses <s> for /s/ and <sz> for /s/, which is the reverse of polish. <zs> is /z/ and <cs> is /ts/. all these digraphs are considered single letters.
+
+hungarian distinguishes between long vowels and short vowels, where the long vowels are written with accents, and between long consonants and short consonants, where the long consonants are written double. the digraphs, when doubled, become trigraphs: <sz>+<sz>=<ssz>. usually a trigraph is a double digraph, but there are a few exceptions: tizennyolc "eighteen" is tizen + nyolc. there are doubling minimal pairs: tizenegyedik "eleventh" vs. tizennegyedik "fourteenth".
+
+some common phrases
+
+if you speak hungarian/magyar, you can edit this page right now!
+
+hungarian: magyar /'majar/
+hello: 
+good-bye: 
+please: 
+sorry:
+thank you: köszönöm /'k2s2n2m/
+that one: az /'az/
+how much?: 
+yes: igen /'igen/
+no: nem /'nem/
+sorry: 
+i don't understand: nem ertem /'nem er'tem/
+where's the bathroom?: 
+generic toast: 
+do you speak english?:

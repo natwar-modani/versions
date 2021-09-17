@@ -1,0 +1,45 @@
+pl:szereg harmoniczny (muzyka)
+this article is about the harmonic series in music theory. see harmonic series (mathematics) for the related mathematical concept.
+ 
+
+pitched musical instruments are usually based on some sort of harmonic oscillator, for example a string or a column of air, which can oscillate at a number of frequencies. the integer multiples of the lowest frequency make up the harmonic series.
+
+the lowest of these frequencies is called the fundamental or first partial. this is the note created from normal bowing of a stringed instrument or from the lowest octave of a woodwind instrument. all of the other frequencies in the harmonic series are integer multiples of the fundamental. the difference in terms of frequency (measured in hertz (hz)) is the same between all partials, but the ear responds in a logrithmic fashion, so the partials sound 'closer' together.
+
+the second partial is twice the frequency of the fundamental, which makes it an octave higher. on most wind instruments, for example the saxophone, oboe, or bassoon, there is an octave key which opens a small hole in the tube, prompting the instrument to oscillate at the second harmonic partial and giving the second octave of the instrument. on brass instruments, the second harmonic is the lowest playable note. the fundamental is called a pedal note or pedal tone and can be faked.
+
+the third harmonic partial, at three times the frequency of the fundamental, is a perfect fifth above the second harmonic. similarly, the fourth harmonic partial is four times the frequency of the fundamental; it is a perfect fourth above the third partial (two octaves above the fundamental). note that double the partial number means double the frequency, which in turn means the 'pitch' is an octave higher. for example, the 6th partial g is an octave higher than the 3rd partial g.
+
+after that the harmonics come thick and fast, getting closer and closer together. some harmonics correspond very nearly to named pitches; others, for example the 7th harmonic, are signifigantly off from the equal tempered tones.
+
+for example, given a fundamental of c', the first 16 harmonics are:
+
+ 1st c'
+ 2nd c
+ 3rd g
+ 4th c
+ 5th e (this, and the following odd-numbered partials are "out of tune" in terms of equal temperament)
+ 6th g
+ 7th b-sesquiflat
+ 8th c'
+ 9th d'- (the so-called 'major tone')
+ 10th e' - (the so-called 'minor tone')
+ 11th f'-semisharp
+ 12th g'
+ 13th a'-semiflat (but out of tune)
+ 14th b'-sesquiflat
+ 15th b' natural
+ 16th c'' 
+ 17th c-sharp'' but out of tune
+
+image:hseries.png
+an illustration of the harmonic series above, as musical notation. not all the "wrong" notes are marked as such - see text for more details.
+
+if you have a player capable of reading vorbis files (for example winamp 3), you can listen to  a'' (110 hz) and 15 partials by clicking here.
+
+in just intonation all notes are exact in regards to the harmonic series, and all intervals are based on ratios of the lower integers. in modern equal temperament, notes are approximate, so that music can be played in any key without retuning.  see musical tuning.
+
+harmony in western music, especially the major chord, is based on the lower pitches of the overtone series. since it uses equal temperament, however, only the octave is exactly in tune.
+
+the amplitude and placement of different partials determine the timbre of different instruments, and among a number of psychoacoustic factors, the separate envelopes of the partials two instruments playing in unison is what allows one to perceive them as separate. the placement of partials can also affect the perceived fundamental pitch. not all musical instruments have partials that exactly match the harmonic partials as described here. the partials of piano, and other, strings are increasingly sharper than perfect harmonics because the strings are stiff, leading to nonlinear, inharmonic effects.  see piano acoustics.
+

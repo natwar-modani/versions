@@ -1,0 +1,20 @@
+hash may refer to:
+
+ hash symbol, the glyph #
+ hash mark (disambiguation), one of various symbols
+ hash (food), a coarse mixture of ingredients
+ hash function, a derivation of data
+ hash table, a data structure
+ hash (unix), an operating system command
+ hashish, a psychoactive drug
+ hash house harriers, a running club
+ fragment identifier, in computer hypertext, a string of characters that refers to a subordinate resource
+
+de:hash
+hu:hash (egyértelműsítő lap)
+nl:hash
+ja:ハッシュ
+pl:hash
+ru:хеш
+sv:hash
+th:แฮช

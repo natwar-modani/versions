@@ -1,0 +1,34 @@
+the mp5 is a submachine gun, developed by german weapons designer heckler und koch (hk) in the 1960s. a typical mp5 fires nato 9 x 19 mm parabellum ammunition from curved box-type magazines. the mp5's accuracy, reliability, and wide range of attachments and variants have made it the submachine gun of choice for military and law enforcement agencies worldwide.
+
+overview
+the heckler und koch mp5 is one of the best-known and widely used submachine guns in the world. the mp5 was designed for reliability, ease of handling, and simple maintenance. it is currently in use by military and law enforcement units in more than 50 nations. the mp5 is essentially a scaled-down derivative of hk's earlier g3 assault rifle. mp5s operate using the same delayed blowback action, roller-locked bolt system employed in the g3. this mechanism was originally developed by the earlier german weapons manufacturer mauser werke during wwii. all mp5 variants are fed by either 15-, 30-, or 40-round box-type magazines. (these were originally straight but are curved nowadays.) the mp5 can also be specially fitted with high-capacity drum magazines manufactured by third-parties - for example, the c-mag.
+
+as with most hk weapons, the trigger assembly is completely replaceable, and includes fully automatic, 4-, 3-, and 2-round burst, single shot, and safe positions in various combinations. mp5s were long chambered for the 9 mm × 19 mm parabellum round commonly used in pistols. in the late 1990s more powerful .40 s&w and 10 mm auto versions were introduced, but soon phased out in favor of the new ump submachine gun.
+
+variants
+the original mp5 was available in fixed or folding butt forms. some variants did not have a 3-round burst capacity, or had only a 3-round burst mode. in 1971(mp5a2) and 1973(mp5a3), hk made several general improvements in the mp5.
+
+the next major development was the mp5sd series (sd1-sd6) introduced in 1974. this model had an integrated suppressor and a specially made barrel which reduced the muzzle velocity of its  ammunition to just below the speed of sound. the result was that the mp5sd series is almost inaudible at distances of more than 15 m.
+
+thumb|150px|mp5ka4 9 x 19 mm with 3-round burst trigger group
+thumb|150px|mp5k 9 x 19 mm with standard "s-e-f" trigger group in briefcase
+
+the mp5k ("kurz", meaning "short"), which is only 325 mm long, was introduced in 1976 at the request of a south american arms dealer who saw the potential for its sale to bodyguards as a concealable, but fully automatic weapon. it has a foregrip to reduce muzzle rise and aid in automatic firing. a further development of this is the mp5k-pdw (personal defense weapon) in 1991. this model was built for us air force pilots who needed a compact weapon. it has a folding butt and can accept a silencer and laser sight. it can also be fired from inside a special briefcase. all variants of the mp5k are available in the similar configurations as the original weapon.
+
+under a special contract from the us navy, hk developed the mp5n or "mp5 navy" variant for the navy's elite special operations units (including the us navy seals). the mp5n features a fully ambidextrous trigger group, a telescoping stock, and a threaded barrel for accessories. in addition, hk replaced many of the metal parts on the mp5n with lighter and corrosion-resistant plastics.
+
+the mp5/10, an mp5 chambered in the 10 mm auto cartridge, was hk's first attempt to increase the power of the mp5 series. in 1994, the us federal bureau of investigation adopted the mp5/10 as their standard submachine gun. the mp5/10 series has been plagued by mechanical failures not present in the original mp5. this is most often attributed to the mp5 design being unable to handle the increase in caliber.
+
+history
+the mp5 was first introduced by hk in 1966 under the name hk54. this name comes from hk's old numbering system. the 5 designates the model as a submachine gun, while the 4 identifies it as taking 9 x 19 mm parabellum ammunition. the current name dates from when it was officially adopted by the west german government for use by its police and border guard as the "maschinepistole 5", or mp5 in mid-1966. the gsg-9, the counter-terrorist part of the border guard, then introduced the mp5 to other western counter-terrorist units.
+
+with the increased use of body armor, the future of the mp5 is uncertain. several new trends in gun design have begun to eclipse the submachine gun; small caliber pdw like hk's new mp7 and compact carbines such as the m4, aks-74, the g36c variant of hk's g36, and the xm8 based on the g36. the only major criticism of the mp5 has been its high cost--approximately 900 usd for an mp5n, or the same price as an assault rifle. hk has started to complement the mp5 series with the more powerful and cheaper ump, which is available in both .45 acp and 9 mm × 19 mm parabellum calibers. however, since the ump uses a simple blowback action, it may not necessarily be a rival for the mp5 among the most discriminating users.
+
+one famous counter-terrorist operation involving this gun is operation nimrod (april 30, 1980) in the uk. the special air service, armed with mp5s, was deployed to neutralize the terrorists who had taken over the iranian embassy in london. stun grenades were used to startle and confuse the terrorists. then, sas members went through the front door, second, and third story windows. most of the terrorists were shot and killed. almost every special forces and counter-terrorist unit in the world use mp5s.
+
+cultural impact
+the mp5 is a very popular image in popular culture. the mp5 is a very common movie prop, appearing in countless movies such as die hard, s.w.a.t., bad boys, end of days, terminator 3: rise of the machines, goldeneye, predator, air force one, and the rock, to name a few.
+in die hard, bruce willis dangles in an elevator shaft suspended from the sling of his evidently sturdy mp5. in the matrix, the first gun neo uses in the lobby scene is an hk mp5k, a variant of the mp5.
+
+mp5s are ubiquitous in video games. the weapon appears in name or a similarity in many first person shooters, most famously counter-strike. the mp5 is also pictured in the logo of the german radical leftist terrorist group the red army faction. recently the public had a very close look at the mp5n variant. a famous photo taken during the us government's operation to capture cuban national elián gonzález from his relatives shows a swat team member armed with an mp5 confronting one of elián's relatives who is holding him and hiding him in a closet.
+

@@ -1,0 +1,47 @@
+thumb|200px|a sign meaning 'do not feed the troll'. an internet troll, or simply troll in internet slang, is someone who posts controversial messages in an online community, such as an online discussion forum, with the intention of baiting other users into an emotional response. trolling definition from pc magazine retrieved on 28 may 2007. 
+
+ etymology 
+the contemporary use of the term first appeared on usenet groups in the late 1980s. it is thought to be a truncation of the phrase trolling for suckers, itself derived from the fishing technique known as trolling.usenet newsgroup misc.invest.options 1997 .  the word likely gained currency because of its apt second meaning, drawn from the trolls portrayed in scandinavian folklore and children's tales; they are often ugly, obnoxious creatures bent on mischief and wickedness.
+
+the word occurs also in john awdeley’s fraternity of vagabonds (1561) to characterize the first four of twenty-five types of disobedient male servants or "knaves."  the first entrant in awdeley's list is particularly illustrative, although no provenance has ever been demonstrated to connect it with the modern usage:
+
+early history
+prior to dejanews's archiving of usenet, accounts of trolling were sketchy, there being little evidence to sort through. after that time, however, the huge archives were available for researchers. perhaps the earliest (although poorly-documented) case is the 1982-83 saga of alex and joan from the compuserve forums. lindsy van gelder, a reporter for ms. magazine, documented the incident in 1985 in an article for her publication. alex (in real life, a shy 50-year-old male psychiatrist from new york) pretended to be a highly bombastic, anti-religious, post-car-accident, wheelchair-bound, mute woman named joan, "in order to better relate to his female patients." this went on for two years, and joan had become a hugely detailed character, with an array of emotional relationships. these only began to fall apart after joan coaxed an online friend of hers into an affair with alex.
+
+trolling in the 1990s
+the most likely derivation of the word troll can be found in the phrase "trolling for newbies," popularized in the early 1990s in the usenet group, alt.folklore.urban (afu).one early reference to troll found in the google usenet archive was by user "mark miller," directed toward the user "tad," on february 8, 1990, saying "just go die in your sleep you mindless flatulent troll." however, it is unclear if this instance represents a usage of "troll" as it is known today, or if it was simply a chance choice of epithet. commonly, what is meant is a relatively gentle inside joke by veteran users, presenting questions or topics that had been so overdone that only a new user would respond to them earnestly. for example, a veteran of the group might make a post on the common misconception that glass flows over time. long-time readers would both recognize the poster's name and know that the topic had been done to death already, but new subscribers to the group would not "get it," and would thus respond. these types of trolls served as a shibboleth to identify group insiders. this definition of trolling, considerably narrower than the modern understanding of the term, was considered a positive contribution.see michele tepper, "usenet communities and the cultural politics of information" in david porter, ed., internet culture (1997) at 48 ("[t]he two most notorious trollers in afu, ted frank and snopes, are also two of the most consistent posters of serious research.").  one of the most notorious afu trollers, snopes, went on to create his eponymous urban folklore website.
+
+by the late 1990s, alt.folklore.urban had such heavy traffic and participation that trolling of this sort was frowned upon. others expanded the term to include the practice of playing a seriously misinformed or deluded user, even in newsgroups where one was not a regular; these were often attempts at humor rather than provocation. in such contexts, the noun troll usually referred to an act of trolling, rather than to the author.
+
+recently, the word troll is also frequently used as a synonym for flamebait, even though the two words have distinct meanings.
+
+identity trolling
+in academic literature, the practice was first documented by judith donath (1999), who used several anecdotal examples from various usenet newsgroups in her discussion.  donath's paper outlines the ambiguity of identity in a disembodied "virtual community":
+
+in the physical world there is an inherent unity to the self, for the body provides a compelling and convenient definition of identity. the norm is: one body, one identity. ... the virtual world is different. it is composed of information rather than matter.
+
+donath provides a concise overview of identity deception games which trade on the confusion between physical and epistemic community:
+
+trolling is a game about identity deception, albeit one that is played without the consent of most of the players. the troll attempts to pass as a legitimate participant, sharing the group's common interests and concerns; the newsgroups members, if they are cognizant of trolls and other identity deceptions, attempt to both distinguish real from trolling postings, and upon judging a poster a troll, make the offending poster leave the group. their success at the former depends on how well they — and the troll — understand identity cues; their success at the latter depends on whether the troll's enjoyment is sufficiently diminished or outweighed by the costs imposed by the group.
+
+<blockquote>
+trolls can be costly in several ways. a troll can disrupt the discussion on a newsgroup, disseminate bad advice, and damage the feeling of trust in the newsgroup community. furthermore, in a group that has become sensitized to trolling — where the rate of deception is high — many honestly naïve questions may be quickly rejected as trollings. this can be quite off-putting to the new user who upon venturing a first posting is immediately bombarded with angry accusations. even if the accusation is unfounded, being branded a troll is quite damaging to one's online reputation." (donath, 1999, p. 45)
+</blockquote>
+
+usage
+the term troll is highly subjective. some readers may characterize a post as trolling, while others may regard the same post as a legitimate contribution to the discussion, even if controversial.  the term is often erroneously used to discredit an opposing position, or its proponent, by argument fallacy ad hominem.
+
+often, calling someone a troll makes assumptions about a writer's motives. regardless of the circumstances, controversial posts may attract a particularly strong response from those unfamiliar with the robust dialogue found in some online, rather than physical, communities.  
+
+experienced participants in online forums know that the most effective way to discourage a troll is usually to ignore him or her, because responding encourages a true troll to continue disruptive posts — hence the often-seen warning "please do not feed the troll".
+
+frequently, someone who has been labelled a troll by a group may seek to redeem their reputation by discrediting their opponents, for example by claiming that other members of the group are closed-minded, conspirators, or trolls themselves.
+
+ concern troll 
+a concern troll'' is a pseudonym created by a user whose point of view is opposed to the one that the user's sockpuppet claims to hold. the concern troll posts in web forums devoted to its declared point of view  and attempts to sway the group's actions or opinions while claiming to share their goals, but with professed "concerns". the goal is to sow fear, uncertainty and doubt within the group.
+
+ specific trolling subcultures 
+ autoadmit
+ meow wars
+ slashdot trolls
+

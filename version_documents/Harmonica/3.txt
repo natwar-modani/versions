@@ -1,0 +1,214 @@
+image:harmonica.png
+
+a harmonica is a free reed musical wind instrument (also
+known, among other things, as a mouth organ, french harp or
+"mississippi saxophone"), having multiple, variably-tuned brass
+or bronze reeds, each secured at one end over an airway slot of like
+dimension into which it can freely vibrate, thus repeatedly
+interrupting an airstream to produce sound.  
+
+unlike most free-reed instruments (e.g., reed organs, accordions
+and melodicas), the mouth harmonica lacks a keyboard. instead,
+lips and tongue are used to select one or a few of the several holes
+arranged usually linearly on a mouthpiece.  each hole communicates
+with but one, two or a few reeds.  because a reed mounted above slot
+is made to vibrate more easily by air from above, reeds accessed by a
+mouthpiece hole often may be selected further by choice of breath
+direction (blowing, drawing).
+
+some harmonicas also include a button-actuated slide that, when
+depressed, further redirects the air.
+
+the harmonica is commonly used in blues and folk music, but
+also in jazz, classical music, country music, rock and roll and pop music.
+
+see pan pipes.
+
+ parts of the harmonica
+
+the harmonica consists of a "comb" made of wood or plastic which
+creates the holes into which a player blows or draws to make distinct
+tones.  the metallic blow and draw reedplates are screwed onto either side of the comb.  over the reedplates, there is a metal or plastic cover which projects the sound out of the open back.  chromatic harmonicas also have a button-activated slide.
+
+ harmonica types 
+
+ the diatonic harmonica 
+
+the diatonic harmonica is most likely what you think of when you think
+of a "harmonica."  it has ten holes which offer the player 19 notes
+(10 holes times a draw and a blow for each hole minus one repeated
+note) in a three octave range. the standard diatonic harmonica is
+designed to allow a player to play chords and melody in a single key.
+because they are only designed to be played in a single key at a time,
+diatonic harmonicas are available in all keys.  here is a standard
+diatonic harmonica's layout in the key of c:
+
+        1 2 3 4 5 6 7 8 9 10 
+       ------------------- 
+ blow: |c|e|g|c|e|g|c|e|g|c| 
+ draw: |d|g|b|d|f|a|b|d|f|a| 
+        -------------------
+
+note that there is only one full major scale available on the
+harmonica, between holes 4 and 7.  the lower holes are designed around
+the tonic (c major) and dominant (g major) chords, allowing a player
+to play chords underneath a melody by blocking or unblocking the lower
+holes with the tongue.
+
+in addition to the 19 notes readily available on the harmonica,
+players can play other notes by adjusting their embouchure and forcing
+the reed to resonate at a different pitch.  this technique is
+typically called "bending" and allows to a player all the notes on the
+scale as well as pitches in between.  "bending" creates the glissandos
+characteristic of much blues and country harmonica playing.  the
+physics of bending are quite complex, but amount to this: a player can
+bend a note down toward the pitch of the lower-tuned reed in that
+hole.  in other words, on holes 1 through 6, the draw notes can be
+bent and on holes 7 through 10 the blow notes can be bent.
+
+howard levy developed another technique in the 1970s that allows players
+to force a reed to vibrate faster, resulting in a higher pitch.  this
+technique is called overblowing or overdrawing and is much
+less frequently used.  for the few who master this technique, the
+diatonic harmonica can  function as a fully chromatic instrument.
+
+list of modern overblow masters:
+howard levy
+chris michalek
+joe filisko
+michael peloquin
+rosco selley
+george brooks
+larry eisenberg
+sandy weltman
+greg szlapczynski
+
+ the chromatic harmonica 
+
+the chromatic harmonica has a button-operated slide that allows the
+player to change the pitch of any given hole.  this means that each
+hole has 4 pitches rather than 2.  the slide typically shifts the
+pitch of any given note by a half step.  the note layout on a
+chromatic is traditionally the same as the note layout on holes 4-7 of
+the diatonic harmonica, and is repeated over its length.  chromatic
+harmonicas are usually 12 or 16 holes long.
+
+because it is a fully chromatic instrument, the chromatic harmonica is
+the instrument of choice in jazz and classical music.  in traditional
+harmonica bands, the chromatic harmonica plays the lead part.
+
+ the bass harmonica 
+
+please add some text if you know something of the bass harmonica. 
+lengthy description at: http://www.bassharp.com/bh_101.htm
+
+ the chord harmonica 
+
+please add some text here if you know something of the chord harmonica.
+
+ the echo harmonica 
+
+echo harmonicas have two reeds per note, one of the reeds slightly out of
+tune. this produces a tremolo effect.
+
+please add some text here if you know something about the echo harmonica.
+
+ toy harmonicas 
+
+please add some text here if you know something about the toy harmonica.
+
+ history and related instruments 
+
+the unrelated glass harmonica is a musical instrument formed of a nested set of graduated glass cups mounted sideways on an axle and partially immersed in water, and played by touching the rotating cups with wetted fingers, causing them to vibrate.
+
+ harmonica community 
+
+there is an active harmonica community on the internet and in real
+life, with conferences, cruises and everything.  spah (society for the
+preservation and advancement of the harmonica) is one society with a
+particularly amusing acronym.  a harmonica list-serv is hosted at
+this web site with searchable archives.
+
+ some famous harmonicists 
+
+harmonica bands
+the harmonicats
+borrah minevitch harmonica rascals
+
+blues players
+tom ball
+carey bell
+billy branch
+paul butterfield
+william clarke
+james cotton
+paul delay, notable for chromatic playing as well as diatonic
+rick estrin
+joe filisko
+michael peloquin, versatile player of many styles rooted in the blues
+james harman
+mark hummell
+john mayall of the bluesbreakers
+delbert mcclinton, taught john lennon how to play harp
+charlie musselwhite
+rod piazza
+gary primich
+snooky pryor
+jimmy reed
+peter madcat ruth
+curtis salgado
+corky siegel of the siegel-schwall blues band
+george harmonica smith
+sonny terry
+sugar blue, known for high speed playing.
+little walter, great pioneer in amplified blues harmonica, muddy waters' first harmonica player.
+junior wells, played with muddy waters
+mark wenner
+sonny boy williamson i
+sonny boy williamson ii
+kim wilson of the fabulous thunderbirds
+
+rock and roll
+bob dylan
+mick jagger
+john lennon
+huey lewis
+alanis morissette
+john popper, perhaps the most famous living harmonica player, known for his fast playing.
+lee oskar of war
+john sebastian of the lovin' spoonful, son of a classical harmonica player
+
+rhythm and blues
+stevie wonder
+
+country music
+phil pt gazell
+buddy greene
+kirk jellyroll johnson
+charlie mccoy
+terry mcmillan
+mickey raphael
+wayne raney, known for his "talking harmonica" 
+
+jazz
+george brooks -- diatonic
+william galison-- chromatic
+max geldray of the goon show. 
+ron kalina-- chromatic
+don les-- diatonic & bass
+howard levy--diatonic
+chris michalek--diatonic
+michael polesky--chromatic
+jean "toots" thielemans--chromatic
+les thompson
+sandy weltman
+
+classical music
+larry adler
+robert bonfiglio
+tommy morgan the guy you have heard but don't know
+tommy reilly
+john sebastian, father of the rock musician
+douglas tate
+
+nl:trekzak

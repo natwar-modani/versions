@@ -1,0 +1,32 @@
+hangman  is a paper and pencil guessing game for two or more players. one player thinks of a word, phrase or sentence and the other tries to guess it by suggesting letters.
+
+overview
+the word to guess is represented by a row of dashes, giving the number of letters and category of the word. if the guessing player suggests a letter which occurs in the word, the other player writes it in all its correct positions. if the suggested letter does not occur in the word, the other player draws one element of the hangman diagram as a tally mark. the game is over when:
+thumb|an example game in progress; the answer is wikipedia.
+ the guessing player completes the word, or guesses the whole word correctly
+ the other player completes the diagram:
+
+this diagram is, in fact, designed to look like a hanging man. although debates have arisen about the questionable taste of this picture,foreign english teacher under attack for playing hangman game, japan probe, july 23, 2010 it is still in use today. a common alternative for teachers is to draw an apple tree with ten apples, erasing or crossing out the apples as the guesses are used up.
+
+the exact nature of the diagram differs; some players draw the gallows before play and draw parts of the man's body (traditionally the head, then the torso, then the arms and legs one by one). some players begin with no diagram at all, and drawing the individual elements of the gallows as part of the game, effectively giving the guessing players more chances. the amount of detail on the man can also vary, affecting the number of chances. many players include a face on the head, either all at once or one feature at a time.
+
+some modifications to game play to increase difficulty level are sometimes implemented, such as limiting guesses on high-frequency consonants and vowels. another alternative is to give the definition of the word. this can be used to facilitate the learning of a foreign language.
+
+also, when playing, the official rule of the game is that if there is a number anywhere in the puzzle, it is to be made known prior to the beginning of the game, so that, for example, if the diagramming player picks the christmas classic "miracle on 34th street" and did not make it known to the guesser that there were numbers in the answer to the puzzle, guesser would win by default.
+
+history
+"the origins of hangman are obscure, but it seems to have arisen in victorian times," says tony augarde, author of "the oxford guide to word games" (oxford university press). the game is mentioned in alice bertha gomme's "traditional games" in 1894 under the name "birds, beasts and fishes." the rules are simple; a player writes down the first and last letters of a word for an animal, and the other player guesses the letters in between. in other sources the game is called "gallows", "the game of hangin'", or "hanger". hangman has featured in the 1978 speak & spell video game system under the name "mystery word" and is sometimes played today as a forum game.
+
+strategy
+in the english language, the 12 most commonly occurring letters are, in descending order:
+e-t-a-o-i-n-s-h-r-d-l-u.  this and other letter-frequency lists are used by the guessing player to increase the odds when it is their turn to guess. on the other hand, the same lists can be used by the puzzle setter to stump their opponent by choosing a word which deliberately avoids common letters (e.g. rhythm or zephyr) or one that contains rare letters (e.g. jazz).
+
+another common strategy is to guess vowels first, as english only has five vowels (a, e, i, o and u), and almost every word has at least one.
+
+there are however some words which simply cannot be used. any word used must consist of 5 or more letters and under 13. it must also not consist of more than 3 words connected via a dash. some known banned words consist of: rhythm, xylophone, citadel. words may also not be abbreviated, eg:xperience, h8tred,etc.
+example game
+the following example game illustrates a player trying to guess the word hangman using a strategy based solely on letter frequency.
+
+0123456789guesser loses - the answer was hangman.
+
+ 

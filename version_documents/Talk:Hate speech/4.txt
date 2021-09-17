@@ -1,0 +1,45 @@
+__toc__
+
+wrong section
+"critics have argued that the term "hate speech" is a contemporary example of newspeak, used to silence critics of social policies that have been poorly implemented in a rush to appear politically correct.[7][8][9]"
+this really doesn't belong in the opening section at all.  it diverts off the main discussion and should be at the bottom like criticism sections. seems like someone with an anti-pc agenda trying to hijack the specific topic. 96.31.177.52 (talk) 22:30, 5 december 2014 (utc)
+
+ origin of hate speech laws 
+
+shouldn't there exist a section explainin the origins of the hate speech laws? source: http://www.hoover.org/research/sordid-origin-hate-speech-laws --mr.pseudo don't talk to me 09:35, 24 april 2015 (utc)
+
+ rationale for edits/removal of content 
+
+firstly, i'd like to strongly disagree with this labeling of good faith edits as vandalism, as they are not vandalism. i won't discuss it here any further more, as that's detrimental to discussion of the content of the article.
+
+  is my first edit that is disagreed with. i removed "racist and hate filled", "hate-filled", and "to permit hate speech" to "whether to restrict speech", as well as removed "to americans" from "signs found offensive to americans". i removed "racist and hate filled", as "hate-filled" is a very judgmental and rhetorical thing to say (it would be prudent to just use "racist" or "offensive"), and at the time, i thought that the speech was not described as racist in the source. i now see that the speech was construed as offensive by many, which means that i should've wrote "seen as racist by many". i changed "permit hate speech" to "restrict speech", as the "imminent danger" test does not "permit" hate speech, it is only a test to decide whether to restrict speech or not. saying the test is to "permit hate speech" is rather misleading, as the court designed the test to maximize protection of first amendment rights. i removed "to americans", as that is inconsequential information. we could just say "signs found offensive", as the signs were found offensive by many people. there is no need to state the nationality of those who find the sign offensive, as that is irrelevant.
+
+  my removal of the ntia report, i justified at the time, as there are plenty of other reports commissioned on hate speech, and i don't see why this one is special enough to merit an entire section. there were no sources other than the study itself, so i decided to remove the section. user:aquillon changed the section to one that had secondary sources and relied less on the source, showing how the ntia report was relevant. looked very legitimate, but that was reverted.
+
+  i removed this section, as the entire section is only supported by nhmc affiliated links. the section should have a source that wasn't a special interest group that's only job was talking about portrayals of race in media, so i removed the section, as there were no sources establishing notability of the concept.
+
+  i changed this from "human rights" to "right of others", as the serbian constitution never mentions restrictions on speech to protect human rights, only the rights of others. this is an important distinction, as "human rights" have connotations not applied to simple "rights".
+
+  facebook deciding to remove supposedly harmful speech is not on the same level as government control of speech, as plenty of private organizations ban hate speech from their property all the time, facebook is not any different. facebook shouldn't get an entire section, per wp:balasps.
+
+  i removed this content due to only one source covering the harms of hate speech, but thanks to matsuda becoming an actual ref, it seems to be notable enough now.
+
+i've discussed my rationale, now it's time for yours, user:bullrangifer. i'll effect my changes if you don't respond here. grognard extraordinaire chess (talk) ping when replying 13:40, 23 june 2015 (utc)
+
+ removing descriptive language makes the courts actions look nonsensical. the full import was that the decision did protect a ku klux klan member’s racist and hate-filled speech. there would have been no case, logic, or significance if their speech had been anything but what they typically spout. the decision literally did protect and permit such hate speech (the title of this article!). the section is about americans, so that mention makes sense.
+ sources don't need to be notable. there were two ntia reports, not just one. tweaks might be okay, but total deletion is wrong. we use government reports when we have them. 
+ what's wrong with nhmc affiliated sources? it's a rs. addition of more sources would be fine, but complete removal is unjustified.
+ maybe okay.
+ facebook is an extremely significant player and its actions were noted in the media. it's properly sourced. maybe tweak it, but total deletion is uncalled for. we don't make a distinction between private organizations or government when it comes to sourcing. both can be mentioned and used in rs. this is a good example of how a significant player's action affect this subject.
+ again, content which has sources was completely removed. the matsuda ref wasn't formatted very completely, but it still qualifies as a source. i developed it. again, notability of sources is irrelevant. notability only applies to article creation.
+ we basically have a problem with heavy handed mass deletion without discussion, requiring that sources be notable, and removal of properly  sourced content. that's not how we work here. make smaller edits which preserve sources. try to respect the work of others and build rather than delete. -- bullrangifer (talk) 15:16, 23 june 2015 (utc)
+
+ firstly, i'm not disputing 6, as you've fixed the issue, and you've removed the tweaks added to 2 that showed the topic was notable. my problem with the nhmc refs is that the entire section is about the nhmc. it would be fine to use nhmc refs in other contexts, but the section is mostly about the role of the nhmc in combating hate speech. take out the parts about the nhmc, the section doesn't exist. 
+also, in the context of the kkk speech, "hate filled" needs to be removed, as it is useless rhetoric that could simply be replaced with "offensive". that's like stating a defamatory speech is "lies-filled". it's not very encyclopedic language, even if it is true.
+the problem with facebook isn't source notability, i said it was topic notability. many private property owners ban hate speech on their property, and sometimes get covered in the media for it. we don't give them a big section in the article though, because a private org banning hate speech is barely congruent to the topic of hate speech in general. give them a section on the facebook article, not here. grognard extraordinaire chess (talk) ping when replying 15:58, 23 june 2015 (utc)
+ if a subject has been mentioned in rs, it's fair game. that's how we build content. we don't build an encyclopedia by removing sources and content. we may tweak it, but total removal is uncalled for. -- bullrangifer (talk) 05:14, 24 june 2015 (utc)
+my statement was that the nhmc sources were unreliable, as they were being used to self describe the nhmc. honestly, it would be a lot better if someone other than the nhmc discussed the nhmc's role in anti-racism.
+ saying "hate-filled" in the context of the kkk speech as objective fact isn't a very encyclopedic word to use. use "offensive" or attribute "hate-filled". 
+we don't mention every single instance ever of hate speech in this article, even if they have been covered by reliable sources. why? because the article is a broad overview of the topic of "hate speech", and facebook is a singular website banning hate speech, which is not relevant to the wide topic of hate speech.
+also, another user tweaked the ntia section, and you reverted it. could you explain your reasoning? i also don't see why you reverted my edit about the constitution of serbia, considering you said "maybe okay". i'm going to be reinstating those edits, as you've given no rationale. grognard extraordinaire chess (talk) ping when replying 05:33, 24 june 2015 (utc)
+i'll take the lack of response to my objection to facebook being mentioned in the article as agreement, so i will proceed to make the edits soon. grognard extraordinaire chess (talk) ping when replying 02:19, 26 june 2015 (utc)

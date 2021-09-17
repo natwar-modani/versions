@@ -1,0 +1,16 @@
+hotol, for horizontal take-off and landing, was an unrealised british space shuttle proposal.
+
+designed as a single-stage-to-orbit (ssto) reusable winged launch vehicle, it was to be fitted with a unique air-breathing engine, the rb545, to be developed by rolls royce. the engine was technically a liquid hydrogen/liquid oxygen design, but by air-breathing as the spacecraft climbed through the lower atmosphere, the amount of lox (liquid oxygen) needed to be carried onboard, for use in the upper atmosphere and space, was dramatically reduced. since lox typically represents the majority of the takeoff weight of a rocket, hotol was considerably smaller than normal all-lox designs, roughly the size of a medium-haul airliner such as the mcdonnell douglas dc-9/md-80.
+
+hotol would have been 63 metres long, 7 metres in diameter and with a wingspan of 28 metres. the unmanned craft was intended to put a payload of around seven tonnes in orbit. it was intended to take off from a runway, mounted on the back of a large rocket-boosted trolley that would help get the craft up to "working speed". the engine was intended to switch from jet propulsion to pure rocket propulsion at 26-32 km high, by which time the craft would be travelling at mach 5 to 7. after reaching orbit, hotol was intended to re-enter the atmosphere and glide down to land on a conventional runway. the internal landing gear were too small to carry the weight of the fully-fueled rocket, so emergency landings required the fuel to be dumped.
+
+development began with government funding in 1986. the design team was a joint effort between rolls-royce and british aerospace led by john scott and dr bob parkinson.
+
+during development, it was found that the comparatively heavy rear-mounted engine moved the center of mass of the vehicle rearwards. this meant that the vehicle had to be designed to push the center of drag as far rearward as possible to ensure stability over the entire flight regime. redesign of the vehicle to do this cost a significant proportion of the payload, and made the economics unclear.
+
+in  1988 the conservative government withdrew further funding, the project was approaching the end of its design phase but the plans were still speculative and dogged with aerodynamic problems and operational disadvantages.
+
+a cheaper redesign, interim hotol or hotol 2, to be launched from the back of a modified antonov an-225 transport aircraft, was offered by bae in 1991 but that too was rejected. interim hotol was to have dispensed with an air-breathing engine cycle and was designed to use more conventional lox and liquid hydrogen.
+
+alan bond has formed reaction engines limited where they have since been working on the skylon vehicle which seems to avoid many of the problems of hotol.
+

@@ -1,0 +1,20 @@
+in mathematics and computing, the horner scheme is an algorithm for the efficient evaluation of polynomial functions. even though william george horner is credited in the name, the same rule was invented by isaac newton in 1669 and actually the first person to describe it was the chinese mathematician ch'in chiu-shao in the 1200s.
+
+assume we want to evaluate the value of a polynomial:
+
+that is, we want carry out this evaluation for given x and coefficients. additions are in general easier to perform than multiplications. horner observed in 1819 that p(x) may be evaluated recursively using only n multiplications and n additions. 
+
+given a number x and a polynomial p(t) = a0 + a1t + ... + ant n, first rewrite p with x factored out:
+p(x) = a0 + a1x + a2x2 + ... + an-1 xn-1 + an xn
+ = a0 + x(a1 + x(a2 + ... + x(an-1 + x(an)) ... ))
+then evaluate this expression in the obvious way, starting from the innermost parentheses and working out. i.e.:
+
+b0=anx+an-1
+b1=b0x+an-2
+b2=b1x+an-3
+...
+bn-1=bn-2x+a0=p(x)
+
+this is the method of choice for evaluating polynomials; it is faster and more numerically stable than the "normal" method, which involves computing the powers of x and multiplying them with the coefficients. the horner scheme is often used to convert between different positional numeral systems (in which case x is the base of the number system, and the ai are the digits) and can also be used if x is a matrix, in which case the gain is even larger.
+
+the horner scheme can also be viewed as a fast algorithm for dividing a polynomial by a linear polynomial.

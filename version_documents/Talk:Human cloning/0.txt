@@ -1,0 +1,99 @@
+"groups such as the raelites? and the las-vegas based clonaid, as well as dr's antinori and zavos verge on fundamentalism in trying to achieve their aims."
+
+i'm unable to figure out where the "fundamentalism" comes in here, so i took it out for the time being. can we make this clearer or more npov? thanks.
+
+i used the word fundamentalism because these groups seemed to be determined to clone humans despite all the risks involved - which the wider scientific community recognises. this maybe wasn't quite the quite word, but i think they are certainly extreme.
+
+regarding personality and genetics,
+
+on the other hand, some studies, notably those by [david lykken]?, have purported to show that "30 to 70%" of a person's personality is due to genetic factors [see links below]). 
+
+i do not think this the accepted scientific viewpoint. even in the introduction to the link by lykken it says:
+
+scientists, psychologists like leon kamin, biologists like steven rose, even the odd geneticist like richard lewontin, or the odd paleontologist like stephen gould, continue to believe with john locke that the infant human mind is a tabula rasa
+
+these seem to me to be a lot more well-known and reputable than lykken.
+
+that's a second-hand report; no respectable scientist today--including at least lewontin and gould (i haven't read much of the others) would ever argue that human minds are tabula rasa.  the evidence contradicting that is overwhelming, and has been coming in consistently for decades.  on the other hand, no one but lykken would be so bold as to speak about simple percentages.  that too is a gross oversimplification, since learning interacts in a complex manner with predispositions.  there is a valid point to be made here; perhaps a wording like this: "while a clone shares only dna with its predecessor, and not any of the knowledge, experience, or environment that shaped him, studies such as those on identical twins raised separately show that dna does have a much stronger influence on personality than previously believed."  --ldc
+
+articles is quite npov, buth there is serious problem with the last statement:
+
+however organisations devoted to clone humans, such as the raelites and the las-vegas based clonaid, as well as dr's antinori and zavos, are very hard to control. many think these groups would shift their operations to other countries, where a lack of regulation could bring dangerous results.
+
+certainly not everyone shares the belief that it may be any dangerous. --taw
+
+referring to the scientific community, from what i've read, the vast majority of people think that attempts to clone humans at this time (which these groups are attempting to do) would be dangerous. the birth of children with genetic disabilities is what they are afraid of. i guess not everybody does though. could you explain a bit further what the problem is.
+
+--sodium
+
+you (or they) mean that the danger is that experimentators won't find all possible problems during zygote phase,
+and a child with genetical problems will be born, right ? or are there some other possible problems ? --taw
+
+isn't there also some problems with the genes of cloned animals (some aspect of them called the telomeres, or something like that) being old and damaged, hypothetically leading to faster aging and risks of cancer? --robert merkel
+
+i.e., the "dangers" or "risks" we're discussing here are risks to the cloned individuals?
+
+yes the dangers to cloned-individuals is the problem. scientists such as zavos say that they can deal with all the disorders that we know so far. this is debatable, but the real problem is that we don't yet know all the problems that they could encounter. this is why it is dangerous.
+
+this is what i know about telomeres:
+telomeres become shortened every time a cell divides, until they are so short that the cell will no longer divide. some scientists think that clones will have a shortened life because they will inherit already-small telomeres. however other scientists seem to have discovered that under certain circumstances in cloning the telomeres can be 'reset' - and the clones will have normal or even extended life spans. 
+
+--sodium
+yes, the telomeres are getting shorter with every cell division. some organisms have telomerase, an enzyme that can reconstruct the telomeres. theoretically, it could be inserted into the cloned human. i'm not sure what would happen, though. also, afaik, "dolly" managed quite well, considering it was the first attempt on such a comlicated organism. --magnus manske
+
+dolly wasn't the first attempt, was she? she was the first succesfulattempt. (do i remember this right?) also isn't the general ratio of unsucessful attempts to clone mammals to sucessful attempts something like 4 to 1?
+
+"if the remaining gene is also turned off then 'large offspring syndrome' (los) occurs. however jirtel claims that it is a case of your los, my gain."
+
+ouch.  :-)   maybe wikipedia needs a general guideline: keep the puns in / talk.
+
+fyi all, human cloning originally said that dolly the sheep was cloned at the roswel institute, should read roslin institute. (roswell is something else. :-) ) 
+
+magnus seems to think this isn't quite correct, and i don't at the moment know how to phrase what they really did:
+
+after that, an international team  produced a clone by accident. the results of the experiment were published in the  but didn't receive any atention.
+
+-- sodium
+
+the information was published in a portuguese newspaper. one of the members of the team told the newspaper that 3. the newspaper article says: "só que noutros três ovócitos injectados com adn de uma célula adulta, a redução a metade dos cromossomas não aconteceu - e começou a desenvolver-se um embrião, até às quatro e seis células. " that's portuguese. it means: "but, in the other 3 ovocits injected with the dna of an adult cell, the reduction of the number of cromossomes to half didn't ocour - and an embryo started to develop to 4 and 6 cells." from the newspaper article, i was unable to understand if this information was published or omited in article. joao  
+
+i just got my first edit conflict ever! here's what i wrote:
+from what is described on that page, they made an oocyte with the nucleus of a skin cell, then fertilized it.
+ a human born from that procedure is not a clone, as half of its dna is from the father, half from the mother (the nucleus donor).
+ without fertilization, the oocyte probably would have died.
+ if it would not have died, it would have sooner or later turned into either a skin cell or some weird tumor.
+only if you make that oocyte "believe" it has been fertilized, it will develope into a human, which is a clone. that's the key point. just exchanging nuclei has been done before. --magnus manske
+ 
+please don't consider this as edit conflict. i agree with number 1. number 2 is problematic. the scientists claim that 3 of the cells started embryonic development without fertilization (this information comes from the portuguese newspaper, not from the abstract). so, maybe number 3 is correct. but how do you know that the embryo from advanced cell technology is a true embryo. it only divided 2 or 3 times and then stopped. that may be an indication that something was wrong. advanced cell technology was not the first to produce an embryo, but the first to produce a weird tumor calling it an embryo. the following is a comment from a science article about the advanced cell technology announcement:
+
+the fact that the embryos died so early in development suggests that the inserted nucleus wasn't working properly, says developmental biologist john eppig of the jackson laboratory in bar harbor, maine. in normal human embryos, the nucleus begins to express its genes between the four- and eight-cell stage. the embryos' failure to survive to eight cells "strongly suggests that you're not getting gene activation" in the transferred nucleus, he says. "and if you're not getting that, what  have you got? nothing." 
+
+joao
+
+first, i was referring to the "technical" edit conflict, with someone saving a change here while i was typing!
+now, i was just trying to answer the question wether the  experiment could have possible resulted in a clone, which imo it did not. i don't know anything more about the act experiment than i know from the news (shame on me!), but they actually tried to make a clone and failed. that makes it even more likely that the three oocytes from the prior experiment weren't clones either.
+
+whatever act made there, it is not too unlikely that they made the clone die after some divisions, just in case the publicity gets too bad...
+
+anyway, if they (or others) continue on that path, we'll see if it works (which it probably does, we're not so different from sheep, especially in herds;)
+
+--magnus manske
+
+thanks for clarifying magnus, i should have originally quoted what you said. this technique doesn't really then belong on the human cloning page because it produces embryos with genetic material from the father as well as the mother. it would be relevant under somatic cell nuclear transfer. i should have read the abstract properly, i assumed i would misunderstand it though with my limited as-level biology :) -- sodium
+
+i believe this is incorrect
+
+   reproductive cloning is currently illegal in the us also.
+
+note
+current in-vitro fecondation success in animals is about 40%. in humans, 15%.
+
+argument of biological nature against reproductive cloning : calling into question genetic mixing. it would imply a reduction in genetic diversity (ethnic diversity). it would damage the human genome as a common heritage.
+
+also, introducing asexual reproduction (i.e. not-gametic) would undermine the genetic lottery of which the unpredictability would have an intrinsic value for the individual, helping unicity and freedom.
+
+the children would not be "given" any more, but selected.  it would lead to an instrumentalisation of a human being (the clone) by others which created it for them. many refer to kant, for who a human being should never only be used as a means but be an end in itself.
+
+the clone itself could suffer from feeling a negation of its autonomy, of its self-determination (by knowing he is a copy of another).
+
+plus incertainties in terms of filiation.

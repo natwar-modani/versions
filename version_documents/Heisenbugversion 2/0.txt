@@ -1,0 +1,4 @@
+heisenbug is a term used in software programming to describe a computer bug that disappears or alters its characteristics when it is researched. 
+
+a common example are bugs that occur in a release-mode compile of a program but do not occur when researched under debug-mode, or some bugs caused by a race condition. the name is a pun on the physics term "heisenberg uncertainty principle", which is popularly believed to refer to the way observers affect the observed in quantum mechanics.
+

@@ -1,0 +1,40 @@
+heapsort (method) is a comparison-based sorting algorithm, and is part of the selection sort family. although somewhat slower in practice on most machines than a good implementation of quicksort, it has the advantage of a worst-case θ(n log n) runtime.  heapsort is an in-place algorithm, but is not a stable sort.
+
+ overview 
+the heap sort works as its name suggests - it begins by building a heap out of the data set, and then removing the largest item and placing it at the end of the sorted array. after removing the largest item, it reconstructs the heap and removes the largest remaining item and places it in the next open position from the end of the sorted array. this is repeated until there are no items left in the heap and the sorted array is full. elementary implementations require two arrays - one to hold the heap and the other to hold the sorted elements. http://linux.wku.edu/~lamonml/algor/sort/heap.html
+
+heapsort inserts the input list elements into a heap data structure.  the largest value (in a max-heap) or the smallest value (in a min-heap) are extracted until none remain, the values having been extracted in sorted order.  the heap's invariant is preserved after each extraction, so the only cost is that of extraction.
+
+during extraction, the only space required is that needed to store the heap. in order to achieve constant space overhead, the heap is stored in the part of the input array that has not yet been sorted. (the structure of this heap is described at binary heap: heap implementation.)
+
+heapsort uses two heap operations: insertion and root deletion. each extraction places an element in the last empty location of the array.  the remaining prefix of the array stores the unsorted elements.
+
+ variations 
+the most important variation to the simple variant is an improvement by r. w. floyd which gives in practice about 25% speed improvement by using only one comparison in each siftup run which then needs to be followed by a siftdown for the original child; moreover it is more elegant to formulate. heapsort's natural way of indexing works on indices from 1 up to the number of items. therefore the start address of the data should be shifted such that this logic can be implemented avoiding unnecessary +/- 1 offsets in the coded algorithm.
+
+ternary heapsort "data structures using pascal", tenenbaum & augenstein, 1991, page 405, gives ternary heapsort as an exercise for the student. "write a sorting routine similar to the heapsort except that it uses a ternary heap." uses a ternary heap instead of a binary heap; that is, each element in the heap has three children. it is more complicated to program, but does a constant number of times fewer swap and comparison operations.  this is because each step in the shift operation of a ternary heap requires three comparisons and one swap, whereas in a binary heap two comparisons and one swap are required. the ternary heap does two steps in less time than the binary heap requires for three steps, which multiplies the index by a factor of 9 instead of the factor 8 of three binary steps. ternary heapsort is about 12% faster than the simple variant of binary heapsort.
+
+the smoothsort algorithm   is a variation of heapsort developed by edsger dijkstra in 1981. like heapsort, smoothsort's upper bound is o(n log n). the advantage of smoothsort is that it comes closer to o(n) time if the input is already sorted to some degree, whereas heapsort averages o(n log n) regardless of the initial sorted state. due to its complexity, smoothsort is rarely used.
+
+ comparison with other sorts 
+heapsort primarily competes with quicksort, another very efficient general purpose nearly-in-place comparison-based sort algorithm.
+
+quicksort is typically somewhat faster, due to better cache behavior and other factors, but the worst-case running time for quicksort is o(n2), which is unacceptable for large data sets and can be deliberately triggered given enough knowledge of the implementation, creating a security risk. see quicksort for a detailed discussion of this problem, and possible solutions.
+
+thus, because of the o(n log n) upper bound on heapsort's running time and constant upper bound on its auxiliary storage, embedded systems with real-time constraints or systems concerned with security often use heapsort. 
+
+heapsort also competes with merge sort, which has the same time bounds, but requires ω(n) auxiliary space, whereas heapsort requires only a constant amount. heapsort also typically runs more quickly in practice on machines with small or slow data caches. on the other hand, merge sort has several advantages over heapsort:
+ like quicksort, merge sort on arrays has considerably better data cache performance, often outperforming heapsort on a modern desktop pc, because it accesses the elements in order.
+ merge sort is a stable sort.
+ merge sort parallelizes better; the most trivial way of parallelizing merge sort achieves close to linear speedup, while there is no obvious way to parallelize heapsort at all.
+ merge sort can be easily adapted to operate on linked lists and very large lists stored on slow-to-access media such as disk storage or network attached storage. heapsort relies strongly on random access, and its poor locality of reference makes it very slow on media with long access times.
+
+an interesting alternative to heapsort is introsort which combines quicksort and heapsort to retain advantages of both: worst case speed of heapsort and average speed of quicksort.
+
+ pseudocode 
+
+the following is the "simple" way to implement the algorithm, in pseudocode, where swap is used to swap two elements of the array. notice that the arrays are zero based in this example. 
+
+the heapify function can be thought of as building a heap from the bottom up, successively shifting downward to establish the heap property.  an alternative version (shown below) that builds the heap top-down and shifts upward is conceptually simpler to grasp.  this "siftup" version can be visualized as starting with an empty heap and successively inserting elements.  however, it is asymptotically slower: the "siftdown" version is o(n), and the "siftup" version is o(n log n) in the worst case.  the heapsort algorithm is o(n log n) overall using either version of heapify.
+
+ 

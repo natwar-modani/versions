@@ -1,0 +1,32 @@
+ca:matriu hermítica fr:hermitien
+
+in mathematics, a hermitian matrix is a square matrix with complex that is equal to its own conjugate transpose - that is, if the element in the ith row and jth column is equal to the complex conjugate of the element in the jth row and ith column, for all indices i and j:
+
+the conjugate transpose of a matrix is also called its adjoint, and a synonym for hermitian is self-adjoint.
+
+here is an example of a hermitian matrix:
+
+if all the entries of a matrix are real, then it is hermitian if and only if it is a symmetric matrix.  
+
+every hermitian matrix is normal, and the finite-dimensional spectral theorem applies. it says that any hermitian matrix can be diagonalized by a unitary matrix, and that the resulting diagonal matrix has only real entries. this means that all eigenvalues of a hermitian matrix are real, and, moreover, eigenvectors with distinct eigenvalues are orthogonal. it is possible to find an orthonormal basis of cn consisting only of eigenvectors.
+
+if the eigenvalues of a hermitian matrix are all positive, then the matrix is positive definite.
+
+ hermitian operators 
+
+a continuous linear operator a: h → h on a hilbert space h is called hermitian or self-adjoint if
+(x,ay) = (ax,y)
+for all elements x and y of h. here, the parentheses denote the inner product given on h.
+
+this definition agrees with the one given above if we take as h the hilbert space cn with the standard dot product and interpret a square matrix as a linear operator on this hilbert space. it is however much more general as there are important infinite-dimensional hilbert spaces.
+
+the spectrum of any hermitian operator is real; in particular all its eigenvalues are real.
+a version of the spectral theorem also applies to hermitian operators; while the eigenvectors to different eigenvalues are orthogonal, in general it is not true that the hilbert space h admits an orthonormal basis consisting only of eigenvectors of the operator. in fact, hermitian operators need not have any eigenvalues or eigenvectors at all.
+
+in the mathematical formulation of quantum mechanics, one considers even more general hermitian operators: they are only defined on a dense subspace of a hilbert space and don't have to be continuous.
+
+for example, consider the complex hilbert space l2[0,1] and the differential operator a = d2 / dx2, defined on the subspace consisting of all differentiable functions f : [0,1] → c with f(0) = f(1) = 0. then integration by parts easily proves that a is hermitian.  its eigenfunctions are the sinusoids sin(nπx) for n = 1,2,..., with the real eigenvalues n2π2; the well-known orthogonality of the sine functions follows as a consequence of the  hermitian property.
+
+another example: the complex hilbert space l2(r), and the operator which multiplies a given function by x:
+af(x) = xf(x)
+it is defined on the space of all l2 functions for which the right-hand-side is square-integrable. a is a hermitian operator without any eigenvalues and eigenfunctions.

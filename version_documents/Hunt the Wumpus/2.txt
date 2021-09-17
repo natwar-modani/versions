@@ -1,0 +1,17 @@
+hunt the wumpus was an early computer game. it was based on a simple hide-and-seek format, featuring a mysterious monster (the wumpus) that lurked deep inside a network of rooms. 
+
+ about the game  
+using a command line text interface, a player of hunt the wumpus would enter commands to move through the rooms, or shoot arrows along crooked paths through several adjoining rooms. there were twenty rooms, each connecting to three others, arranged like the vertices of a dodecahedron (or the faces of an icosahedron). hazards included bottomless pits, super bats (which would drop the player in a random location) and the wumpus itself. when the player had deduced from hints which chamber the wumpus was in without entering it, he would fire an arrow into the wumpus' chamber to slay it. however, firing the arrow into the wrong chamber would startle the wumpus, which would then devour the player. 
+
+originally written by gregory yob in basic while attending university of massachusetts dartmouth, and noticed on mainframes at least by 1972, hunt the wumpus was first published in the "peoples computer company"peoples computer company, founded in october 1971, was a small non-profit group of independent educators who met in a small storefront on menalto rd. in menlo park, california during the 1970s.  the first issue of their journal, peoples computer company, was published in october 1972. journal in 1973, again in 1975 in "creative computing", and finally in 1979 in the book more basic computer games. building on several grid-based games of the "battleship" variety, yob injected adversarial humor into the computer's hints, prefiguring the "voice" of the infocom narrator.  later versions of the game offered more hazards and other cave layouts.  an implementation of hunt the wumpus was typically included with mbasic, microsoft's basic interpreter for cp/m and one of the company's first products. hunt the wumpus was adapted as an early game for the commodore pet entitled twonky, which was distributed in the late 1970s with cursor magazine.
+
+ hunt the wumpus in popular culture 
+the game was referenced in the mercadian masques expansion of the game magic: the gathering in the card hunted wumpus, and also in its sister card thrashing wumpus
+
+the parody text-based game "thy dungeonman" (created for homestarrunner.com) will alert you that "you smell a wumpus" if you use the "smell" command.
+
+the wumpus is also found in the open source game nethack.
+
+ notes 
+
+ 

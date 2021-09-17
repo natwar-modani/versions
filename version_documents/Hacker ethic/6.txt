@@ -1,0 +1,20 @@
+the term hacker ethic was coined by journalist steven levy and used for the first time in hackers: heroes of the computer revolution (1984). levy's account of the hacker ethic is in large part based on the values of the hackers at mit artificial intelligence laboratory. among these hackers was richard m. stallman, whom levy at the time called the last true hacker. the similarities between the hacker ethic and values existing in open scientific communities is, therefore, no coincidence.
+
+in levy's codification, the principles of the hacker ethic are:
+ access to computers — and anything which might teach you something about the way the world works — should be unlimited and total. always yield to the hands-on imperative!
+ all information should be free.
+ mistrust authority — promote decentralization.
+ hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.
+ you can create art and beauty on a computer.
+ computers can change your life for the better.
+
+later in 2001, finnish philosopher pekka himanen promoted the hacker ethic in opposition to the protestant work ethic. in himanen's opinion the hacker ethic is more closely related to the virtue ethics found in the writings of plato and of aristotle.
+
+for himanen (who wrote "the hacker ethic"), torvalds (prologue), and castells (epilogue), the hacker ethic centers around passion, hard work, creativity and joy in creating software. 
+
+larger free software projects (especially from the gnu domain) usually pay a lot of attention to be sure their activities are perfectly legal. membership in such communities may require the refusal to study the source code of competitive proprietary software (if such code is available), a written work agreement from an employer or the university where the hacker is working/studying, and other similar precautions (see , for instance). this allows the projects to win law processes that aggressive companies sometimes arrange, claiming that part of the code has been stolen from them. because of the same reasons, hackers prefer gnu/linux and other free/open source systems that come with source code and have no restrictions on learning their internals.
+
+ free open source software 
+
+free open source software is the modern day decedent of old hacker culture. there has been a recent surge of interest in open source software development, which involves developers at many different locations and organizations sharing code to develop and refine programs. to an economist, the behavior of individual programmers and commercial companies engaged in open source projects is initially startling. (j lerner, j tirole - journal of industrial economics, 2002) a popular free open source software example includes mozilla firefox.
+

@@ -1,0 +1,100 @@
+for the past decade or so, telecommunication activities have gained momentum in india. efforts have been made from both governmental and non-governmental platforms to enhance the infrastructure. the idea is to help mordern telecommunication technology penetrate india’s socio-culturally diverse society, and to transform it into a nation of technology aware people.
+
+telephone
+telephony subscribers (wireless and landline):
+255 million (october 2007)india gets 250 mn phones two months before target
+
+cellphones: 216.73 million (october 2007)1-india adds 5.7mln mobile users oct; reliance awaitedcdma user base up 1.94 million in oct
+
+land lines: 39.58 million (september 2094)
+
+yearly cellphone addition: 100 million (2007)
+
+monthly cellphone addition: 7.64 million (october 2007)
+
+teledensity: 21.85% (september 2007)
+
+projected teledensity: 500 million, 40% of population by 2010. 
+
+broadband connection: 2.67 million (september 2007)
+
+telephone system:
+the telecommunications system in india is the fourth largest in the world and it was thrown open to private players in the 1990s.
+the country is divided into multiple zones, called circles (roughly along state boundaries). government and several private players run local and long distance telephone services. competition has caused prices to drop and calls across india are one of the cheapest in the world.the death of std the rates are supposed to go down further with new measures to be taken by the information ministry.free broadband, rent-free landlines likely: maran
+
+landlines: landline service in india is primarily run by bsnl/mtnl and reliance infocomm though there are several other private players too, such as touchtel and tata teleservices. landlines are facing stiff competition from mobile telephones. the competition has forced the landline services to become more efficient. the landline network quality has improved and landline connections are now usually available on demand, even in high density urban areas.  
+
+mobile cellular: the mobile service has seen phenomenal growth since 2000. in september 2004, the number of mobile phone connections have crossed fixed-line connections. currently there are an estimated 201.29 million mobile phone users in india compared to 39.73 million fixed line subscribers. india primarily follows the gsm mobile system, in the 900 mhz band. recent operators also operate in the 1800 mhz band. the dominant players are airtel, reliance infocomm, vodafone, idea cellular and bsnl/mtnl. there are many smaller players, with operations in only a few states. international roaming agreements exist between most operators and many foreign carriers. 
+
+dialling system: on landlines, intra circle calls are considered local calls while inter circle are considered long distance calls. currently government is working to integrate the whole country in one telecom circle. for long distance calls, you dial the area code prefixed with a zero (e.g. for calling delhi, you would dial 011-xxxx xxxx). for international calls, you would dial "00" and the country code+area code+number. the country code for india is 91. 
+
+call rates slashed: communication rates in india fell sharply after the year 2000 when infrastructure improvements and entry of many major  players made indian telecom a highly competitive sector.
+
+there is a conversion process underway to make all numbers in india 10 digits long.
+
+internet users:
+number of internet users in india is the 4th largest in the world. internet population is expected to grow to 100 million users by 2007 
+
+though the number of internet users is high, the penetration level is still lower than most countries across the globe.
+
+broadband internet access
+
+broadband connections have continued growth since beginning on 2006. at the end of november 2006 total broadband connections in the country have reached 2 million. however the definition of broadband is pretty constrained in india compared to other countries. a 256 kbit/s always on connection is the definition of broadband in india compared to 2 mbit/s in other countries.however most isps,especially the government managed companies are now offering speeds up to 2 mbit/s
+
+bsnl, sify, mtnl, airtel, netcom, reliance and hathway are some of the major isps in india. trai has defined broadband as 256 kbit/s or higher. however, many isps advertise their service as broadband but don't offer the suggested speeds. recently, airtel and hathway have begun offering unlimited downloads starting from 64 kbit/s. broadband in india is very costly compared to western europe/uk and usa.
+
+an unlimited download of 256 kbit/s adsl broadband connection from airtel and bsnl costs about rs. 900. the upload limit for 'bsnl unlimited 256 kbit/s plan' is 64 kbit/s. bsnl offers 2 mbit/s down for rs. 500 with a download limit of 2.5 gb,addition download costs around rs. 0.80 per mb. bsnl's broadband schemes for home user
+
+after economic liberalization in 1992, many private isps have entered the market, many with their own local loop and gateway infrastructures.  however the customer service of most of these private isps is pathetic as the critical mass of customers have not yet been reached. in addition the speed that one can get from these isps is questionable and rarely exceeds the broadband definition of 256 kbit/s. right now the market is infinite and competition is fierce to lure prospective customers into buying their services. the telecom services market is regulated by trai. although broadband law of 2004, changed the definition for broadband to 256 kbit/s always on, most isps found that they can provide broadband with a capping of data that can be downloaded.
+adsl providers include:
+
+tata indicom (vsnl)
+mtnl/bsnl
+bharti telecom (airtel, bharti televentures)
+reliance infocomm
+
+airtel has announced its intention to shortly launch 8 mbit/s broadband internet service 
+
+international
+ nine satellite earth stations - 8 intelsat (indian ocean) and 1 inmarsat (indian ocean region).
+ nine gateway exchanges operating from mumbai, new delhi, kolkata, chennai, jalandhar, kanpur, gandhinagar, hyderabad and ernakulam.
+submarine cables
+ locom linking chennai to penang, malaysia
+ india-uaecable linking mumbai to al fujayrah, uae.
+ sea-me-we 2, sea-me-we 3, sea-me-we 4 - (south east asia-middle east-western europe) with landing sites at cochin and mumbai.
+ fiber-optic link around the globe (flag) with a landing site at mumbai (2000).
+
+broadcasting
+
+radio broadcast stations:
+am 153, fm 91, shortwave 68 (1998)
+
+radios:
+116 million (1997)
+
+television terrestrial broadcast stations:
+562 (of which 82 stations have 1 kw or greater power and 480 stations have less than 1 kw of power) (1997)
+
+televisions:
+110 million (2006)
+
+in india, only the government owned doordarshan (door = distant = tele, darshan == vision) is allowed to broadcast terrestrial television signals. it initially had one major national channel (dd national) and a metro channel in some of the larger cities (also known as dd metro). 
+
+satellite/cable television took off during the first gulf war with cnn. there are no regulations against ownership of satellite dish antennas, or operation of cable television systems, which led to an explosion of viewership and channels, led by the star tv group and zee tv. initially restricted to music and entertainment channels, viewership grew, giving rise to several channels in regional languages and many in the national language, hindi. the main news channels available were cnn and bbc world. in the late 1990s, many current affairs and news channels sprouted, becoming immensely popular because of the alternative viewpoint they offered compared to doordarshan. some of the notable ones are aaj tak (means till today, run by the india today group) and star news, initially run by the ndtv group and their charismatic lead anchor, prannoy roy (ndtv now has its own channels, ndtv 24x7, ndtv profit and ndtv india). 
+
+here is a reasonably comprehensive list of indian television stations. 
+
+internet users:
+60,000,000 (september 2007) source: internet world stats
+
+broadband subscribers:
+broadband in india is defined as 256 kbit/s and above by the government regulator. 
+total subscribers were 2.3 million (april 2007) source: trai
+
+internet service providers (isps) & hosts:
+86,571 (2004) source: cia world factbook
+
+country code (top-level domain): in
+
+notes
+

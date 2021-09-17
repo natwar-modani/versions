@@ -1,0 +1,46 @@
+for hyperbole, the figure of speech, see hyperbole.
+
+frame|a graph of a hyperbola, where h = k = 0 and a = b = 2.
+
+in mathematics, a hyperbola is a type of conic section (greek  literally 'overshooting' or 'excess') defined as the intersection between a right circular conical surface and a plane which cuts through both halves of the cone.
+
+it may also be defined as the set of all points for which the difference in the distance to two fixed points (called the foci) is constant.
+
+for a simple geometric proof that the two characterizations above are equivalent to each other, see dandelin spheres.
+
+algebraically, a hyperbola is a curve in the cartesian plane defined by 
+an equation of the form
+
+such that , where all of the coefficients are real, and where more than one solution, defining a pair of points (x, y) on the hyperbola, exists.
+
+definitions
+it can also be defined as the locus of points for which the ratio of the distances to one focus and to a line (called the directrix) is a constant larger than 1. this constant is the eccentricity of the hyperbola. these foci lie on the transverse axis and their midpoint is called the center.
+
+a hyperbola comprises two disconnected curves called its arms which separate the foci. 
+at large distances from the foci the hyperbola begins to approximate two lines, known as asymptotes.
+
+a hyperbola has the property that a ray originating at one of the foci is reflected in such a way as to appear to have originated at the other focus.
+
+an ambigenal hyperbola is one of the triple hyperbolas of the second order, having one of its infinite legs falling within an angle formed by the asymptotes, and the other without. 1828 webster's dictionary, public domain.
+
+thumb|350px|conjugate unit rectangular hyperbolasa special case of the hyperbola is the equilateral or rectangular hyperbola, in which the asymptotes intersect at right angles. the rectangular hyperbola with the coordinate axes as its asymptotes is given by the equation xy=c, where c is a constant.
+
+just as the sine and cosine functions give a parametric equation for the ellipse, so the hyperbolic sine and hyperbolic cosine give a parametric equation for the hyperbola.
+
+if on the hyperbola equation one switches x and y, the conjugate hyperbola is obtained. a hyperbola and its conjugate have the same asymptotes.
+
+equations
+
+cartesian
+(center (h, k) )
+
+in both formulas a is called the semi-major axis; it is half the distance between the two branches; b is called the semi-minor axis. note that b can be larger than a!  the reason for this is because the values of a and b do not dictate which way the hyperbola opens.  it is the order in which y and x are subtracted.  if y is positive, then the hyperbola opens up and down.  if x is positive, then the hyperbola opens left and right.
+
+the eccentricity is given by
+
+for rectangular hyperbolas with the coordinate axes parallel to their asymptotes:
+
+polar
+
+parametric
+

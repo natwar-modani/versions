@@ -1,0 +1,19 @@
+herman hollerith (february 29, 1860 – november 17, 1929) was a german-american statistician who developed a mechanical tabulator based on punched cards in order to rapidly tabulate statistics from millions of pieces of data.
+
+personal life
+
+hollerith entered the city college of new york in 1875 and graduated from the columbia university school of mines with an "engineer of mines" degree in 1879. in 1880, he listed himself as a mining engineer while living in manhattan, and he completed his ph.d. in 1890 at columbia university. in 1890, on september 15, he married lucia beverley talcott (december 3, 1865 – august 4, 1944) of veracruz, mexico, and they had six children (three sons and three daughters). other than his inventions, hollerith was said to cherish three things: his german heritage, his privacy and his cat, bismarck. he also liked good cigars, fine wine, guernsey cows, and money. 
+he also disliked property taxes, and the hard-driving salesmen of thomas j. watson, sr. 
+
+he died in 1929 of a heart attack and was buried in the oak hill cemetery in georgetown, washington, d.c.
+
+electronic tabulation of statistical data
+being urged by john shaw billings, herman hollerith developed a mechanism for reading to make electrical connections to trigger a counter to record one more of each value.  the key idea (due to billings), however, was that all personal data could be coded numerically. hollerith saw that if the numbers could then be punched in specified columns on the cards, the cards could be sorted mechanically, and therefore the appropriate columns totaled. on january 8 1889, he was issued , claim 2 of which reads:
+
+the herein-described method of compiling statistics, which consists in recording separate statistical items pertaining to the individual by holes or combinations of holes punched in sheets of electrically non-conducting material, and bearing a specific relation to each other and to a standard, and then counting or tallying such statistical items separately or in combination by means of mechanical counters operated by electro-magnets the circuits through which are controlled by the perforated sheets, substantially as and for the purpose set forth.
+
+inventions and businesses
+hollerith built machines under contract for the us census bureau, which used them to tabulate the 1890 census in 2.5 years. the 1880 census had taken seven years. he started his own business in 1896 when he founded the tabulating machine company. most of the major census bureaus around the world leased his equipment and purchased his cards, as did major insurance companies. to make his system work he invented the first automatic card-feed mechanism, the first key punch (i.e. a punch that was operated from a keyboard) allowing a skilled operator to punch 200–300 cards per hour and a tabulator. the 1890 tabulator was hardwired to operate only on 1890 census cards. a wiring panel in his 1906 type i tabulator allowed it to do different jobs without having to be rebuilt (the first step towards programming).these inventions were the foundation of the modern information processing industry.
+
+in 1911, four corporations, including hollerith's firm, merged to form the computing tabulating recording corporation (ctr). some accounts of the merger forming ctr state that three corporations were merged. this reference notes that only three of the four merged corporations are represented in the ctr name. that may be the reason for the differing accounts. under the presidency of thomas j. watson, it was renamed ibm in 1924.
+

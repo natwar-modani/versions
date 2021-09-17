@@ -1,0 +1,39 @@
+nl:klavecimbel
+a harpsichord is the general term for a family of european keyboard instruments which generate sound by plucking (rather than striking, as in a piano) a string. it is thought to have originated when a keyboard was affixed to the end of a psaltery, providing a mechanical means to pluck the strings.
+
+the action is fairly similar between all harpsichords:
+
+ the keylever is a simple pivot which rocks on a pin passing through a hole drilled through it.
+ the jack is a thin rectangular piece of wood which sits upright on the end of the keylever, held in place by the guides - upper and lower - which are two long pieces of wood with holes through with the jacks can pass.
+ in the jack, a plectrum made just out almost horizontally, (normally the plectrum is angled upwards a tiny amount) and passes just under the string. historically, plectra were normally made of crow quill, though most modern harpsichords use a plastic called delrin or celcon instead.
+ when the front of the key is pressed, the back is lifted up, the jack is raised, and the plectrum plucks the string.
+ upon lowering the key, the jack falls back down under its own weight, and the plectrum pivots backwards to allow it past the string. this is made possible by having the plectrum held in a tongue which is attached with a hinge and a spring to the body of the jack.
+ at the top of the jack, a damper of felt sticks out and keeps the string from vibrating when the key is not depressed.
+
+while the terms used to denote various members of the family are relatively standardized today, in the harpsichord's heyday, this was not the case.
+
+in modern usage, a harpsichord can mean all the members of the family, or more specifically, the grand-piano-shaped member, with a vaguely triangular case accommodating long bass strings at the left and short treble strings at the right; characteristically, the profile is more elongated than that of a modern piano, with a sharper curve to the bentside. a harpsichord can have from one to three, and occasionally even more, strings per note. often one is at four-foot pitch, an octave higher than the normal eight-foot pitch. single manuals, or keyboards are common, especially in italian harpichords, though many other countries tended to produce double-manuals.
+
+the virginal is a smaller and simpler rectangular form of the harpsichord, with only one string per note running parallel to the keyboard on the long side of the case. the origin of the word virginal is obscure but it is usually linked to the fact that the instrument was frequently played by young women. 
+
+finally, a harpsichord with the strings set at an angle to the keyboard (usually of about 30 degree is called a spinet. 
+
+unsurprisingly, for an instrument that was produced in large numbers for over three centuries, there is a lot of variation between different harpsichords. in addition to the varied forms that the instrument can take, and the different dispositions, or registrations, that can be fitted to a harpsichord, as mentioned above, the range can vary greatly. generally, earlier harpsichords have smaller ranges, and later ones larger, though there are frequent exceptions. in general, the largest harpsichords have a range of just over five octaves, and the smallest have under 4.
+
+the first music written specifically for solo harpsichord came to be published around the middle of the sixteenth century. well into the eighteenth century, the harpsichord was considered to have advantages and disadvantages with respect to the piano. besides solo works, the harpsichord is also well-suited to accompaniment in the basso continuo style (a function it maintained in opera even into the nineteenth century). in the early twentieth century, the harpsichord came to be revived, first in crude "modernizations" of antique instruments, then by closer approximations of historical models.
+
+musicians who play the harpsichord are known as harpsichordists.
+
+composers of notable solo harpsichord music include:
+ johann sebastian bach
+ george friderich handel
+ domenico scarlatti
+ francois couperin
+ girolamo frescobaldi
+ william byrd
+ jean-henri d'anglebert
+
+related instruments: 
+ piano
+ clavichord
+ psaltery

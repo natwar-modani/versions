@@ -1,0 +1,59 @@
+communications in the republic of ireland, including postal services run by an post, are regulated to a large extent by the commission for communications regulation (comreg), the minister for communications, marine & natural resources has overall responsibility for national policy and regulation. much of ireland's communications infrastructure is modern and digital, however in several sectors there are competitive disadvantages to overcome due to the uncompetitive nature of the economy of the republic of ireland.
+
+broadcasting
+
+radio
+stations: am 1, fm 106, shortwave 0 (1998)
+radios: 2.55 million (1997)
+see also: list of irish radio stations
+
+television
+stations: 4 terrestrial stations, using 10 transmitters (plus more than 90 low-power repeaters) (2006) 
+televisions: 1.47 million (1997)
+see also: list of irish television channels
+
+see also: radio telefís éireann and broadcasting commission of ireland. for a more detailed discussion of the broadcasting landscape in ireland, see media in ireland.
+
+internet 
+internet service providers (isps): 14 (1999)
+country code (top-level domain): ie
+domain registrar: ie domain registry
+internet users: 1.26 million (2003) 
+broadband users: 517,000 (q4 2006)
+ broadband penetration: 4.3% (q3 2005)
+ digital subscriber line: 377,410 (q4 2006)
+ cable: 18,000 (q3 2005)
+ fixed wireless: 24,600 (q3 2005)
+ satellite: 2,200 (q3 2005)
+
+leased lines: 26,522 (q3 2005)
+see also: heanet, iedr, inex, itnet
+
+telephone
+telephone system 
+domestic: digital system using cable and microwave radio relay
+international: satellite earth station - 1 intelsat (atlantic ocean)
+
+telephones - fixed
+lines: 2,022,640 (q3 2005)
+local loops unbundled (fully or partially): 3,600 (september 2005)
+ see also: eircom, bt ireland, smart telecom, perlico, magnet entertainment
+
+telephones - mobile 
+ subscribers: 4.7 million (q4 2006) 
+ pre-paid: 3.078 million (q3 2005)
+ contract: 972,000 (q3 2005)
+ mobile phone penetration: 100% (q3 2005)
+ call minutes: 1,449,462,000 (q3 2005)
+ sms messages sent: 1,048,112,000 (q3 2005)
+ mms messages sent: 6.1 million (q3 2005)
+ average revenue per user: €47.37 (q3 2005)
+std codes for irish mobile phone operators:
+ 083 3 ireland umts, hsdpa -1.6%
+ 085 meteor gsm, edge -17.4%
+ 086 o2 ireland gsm, umts -35.4%
+ 087 vodafone ireland gsm, umts, hsdpa -47.2%
+ 088 digiweb mobile 
+ 089 reserved for mvnos, (e.g. tesco ireland on o2 ireland network)
+due to the introduction of full-number portability, some phones may now operate on different networks to those on which their number was originally allocated, thus an 086 number may not necessarily be an o2 number, likewise a vodafone customer may have an 085 number if they were previously a meteor customer. according to comreg, 390,000 mobile phone users had taken advantage of fmnp up to september 2005.
+

@@ -1,0 +1,123 @@
+thumb|250px|right|hop flower in a hallertau hopgarden
+
+hops are the flowers of humulus lupulus used as a flavouring and stability agent in beer since the seventeenth century. hops contain several characteristics very favorable to beer: (a) hops contribute a bitterness that balances the sweetness of the malt, (b) hops also contribute aromas which range from flowery to citrus to herbal, (c) hops have an antibiotic effect that favours the activity of brewer's yeast over less desirable microorganisms and (d) the use of hops aids in "head retention", the length of time that foamy head created by the beer's carbonation agent will last. the bitterness of commercially-brewed beers is measured on the international bitterness units scale. while hops plants are grown by farmers all around the world in many different varieties, there is no major commercial use for hops other than in beer. 
+
+history
+the first documented instance of hop cultivation was in 736, in the hallertau region of present-day germany (which is today the most important production centre with about 25% of the worldwide production), although the first mention of the use of hops in brewing was in 1079. hops were introduced to british beers in the early 1500s, and hop cultivation began in the present-day united states in 1629.
+
+until mechanisation (in the late 1960s for the uk), the need for massed labour at harvest time meant hop-growing had a big social impact. many of those hopping in kent were eastenders, for whom the annual migration meant not just money in the family pocket but a welcome break from the grime and smoke of london. whole families would come down on special trains and live in hoppers' huts for most of september, even the smallest children helping in the fields.
+
+today, the principal production centres for the uk are in kent (which produces kent golding hops) and worcestershire, and washington state for the usa; other important production areas include belgium, as mentioned germany and the czech republic.
+
+brewing
+hop resins are composed of two main acids: alpha and beta acids.  
+
+alpha acids have a mild antibiotic/bacteriostatic effect against gram-positive bacteria, and favours the exclusive activity of brewing yeast in the fermentation of beer. 
+
+beta acids do not isomerise during the boil of wort, and have a negligible effect on beer flavour.  instead they contribute to beer's bitter aroma, and high beta acid hop varieties are often added at the end of the wort boil for aroma.  beta acids oxidize and oxidized beta acids form sulfur compounds such as dms (dimethyl-sulfide) that can give beer off-flavours of rotten vegetables or cooked corn.
+
+the flavour imparted by hops varies by type and use: hops boiled with the beer (known as "bittering hops") produce bitterness, while hops added to beer later impart some degree of "hop flavour" (if during the final 10 minutes of boil) or "hop aroma" (if during the final 3 minutes, or less, of boil) and a lesser degree of bitterness.  adding hops after the boil, a process known as "dry hopping", adds hop aroma, but very little bitterness. the degree of bitterness imparted by hops depends on the degree to which otherwise insoluble alpha acids (aas) are isomerized during the boil, and the impact of a given amount of hops is specified in international bitterness units. unboiled hops are only mildly bitter.  
+
+flavours and aromas are described appreciatively using terms which include "grassy", "floral", "citrus", "spicy", and "earthy". most of the common commercial lagers have fairly low hop influence, while true pilseners should have noticeable noble hop aroma and certain ales (particularly the highly-hopped style known as india pale ale) can have high levels of bitterness.
+
+noble hops
+the term noble hops traditionally refers to four varieties of hop which are low in bitterness and high in aroma. they are the central european cultivars, 'hallertauer mittelfrueh', 'tettnanger', 'spalter', and 'saaz'. they are each named for a specific region or city in which they were first grown or primarily grown. they contain high amounts of the hop oil humulene and low amounts of alpha acids cohumulone and adhumulone, as well as lower amounts of the harsher-tasting beta acids lupulone, colupulone, and adlupulone.  humulene imparts an elegant, refined taste and aroma to beers containing it. 
+ 
+their low relative bitterness but strong aroma are often distinguishing characteristics of european-style lager beer, such as pilsener, dunkel, and oktoberfest/marzen.  in beer, they are considered aroma hops (as opposed to bittering hops); see pilsner urquell as a classic example of the pilsener style, which showcases noble hops.
+
+as with grapes, the land where the hops were grown affects the hops' characteristics.  much like champagne may only be called "champagne" if the grapes were grown in the champagne area of france, noble hops may only officially be considered "noble" if they were grown in the areas for which the hops varieties were named.
+
+'tettnanger' hops come from tettnang, a small town in southern baden-württemberg in  germany. the region produces significant quantities of hops, and ships them to breweries throughout the world.
+
+hop varieties
+particular hop varieties are associated with beer styles, for example pilseners are usually brewed with european (and often czech) hop varieties such as saaz, hallertau, strissel, and spalt. english ales use hop varieties such as fuggle, golding and bullion. north american varieties include cascade, columbia, and willamette.
+
+types of hops
+ahtanum – an american aroma-type variety developed by yakima chief ranches, similar to cascade. popularity seems to be increasing.  (alpha acid: 5.7-6.3% / beta acid: 5.0-6.5%)
+
+amarillo –  popular american mid-range alpha variety developed by virgil gamache farms in late 20th century. (alpha acid: 8-11% / beta acid: 6-7% )
+
+brewer's gold – british bittering hop developed in 1934. sometimes used as aroma variety in conjunction with noble hops. related to bullion. (alpha acid 5.5 - 6.5% / beta acid 2.5 - 3.5%) 
+
+cascade – very successful and well-established american aroma hop developed in 1956 from fuggle and serebrianker (a russian variety), but not released for cultivation until 1972. piney, citrusy, and quite assertive. (alpha acid: 4.5-6.0% / beta acid: 5.0-7.0% )
+
+centennial – american aroma-type variety bred in 1974 and released in 1990. similar to cascade, perhaps with sweeter fruit notes and a slightly chunkier bitterness. (alpha acid: 9.5-11.5% / beta acid: 4.0-5.0%)
+
+challenger – english hop with a spicy character. (alpha acid 6.5 - 8.5% / beta acid 4 - 4.5%) 
+
+chinook – american cross between petham golding and a usda-selected male. big, rich, robust bitterness, with woody aroma characteristics. (alpha acid 12.0 - 14.0% /
+beta acid 3.0 - 4.0%) 
+
+crystal – an american triploid variety developed in 1993 from hallertau, cascade, brewer's gold and early green. quite aromatic, fruity. (alpha acid 3.5 - 5.5% /
+beta acid 4.5 - 6.5%)
+
+first gold – english dwarf hop. a cross-pollination of whitbread golding variety and a dwarf male. it is like a spicier golding, with a higher alpha and slightly richer bitterness. (alpha acid 6.5 - 8.5% / beta acid 3 - 4%)
+
+fuggles - main english hop developed late 19th century. considered by some to be less refined than goldings, others prefer its juicier, more woody character. (alpha acid 4 - 5.5% /
+beta acid 2 - 3%) 
+
+galena - hugely popular american bittering hop developed from brewer's gold by open pollination in the state of idaho. has a moderate bitterness despite its high alpha content. (alpha acid 12 - 14% w/w
+beta acid 7 - 9%)
+
+glacier - low-cohumulone american fuggle descendant.  mild bittering and soft, fruity character with hints of apricot and pear.
+
+goldings - the traditional and very popular english aroma hop. developed in 1790. soft, earthy, vaguely farm-like aroma. widely cultivated. called east kent goldings if grown in east kent, kent goldings if grown in mid-kent, and goldings if grown elsewhere. (alpha acid 4 - 5.5% / beta acid 2 - 3.5%)
+
+hallertau - the original german lager hop; due to susceptibility to crop disease was largely replaced by hersbrucker in the 1970s and 1980s. (alpha acid 3.5 - 5.5% /
+beta acid 3 - 4%) 
+
+hersbrucker - common in german pilsners, this noble hop has a grassy, hay-like aroma, and is seldom used for bittering purposes.  (alpha acid 3 - 5.5% /
+beta acid 4 - 5.5%)
+
+horizon - american high alpha cross made in oregon in 1970 from nugget. soft bitterness. (alpha acid 11 - 13% / beta scid 6.5 - 8.5%) 
+
+liberty - american cross between hallertauer mittlefruh and downy mildew resistant male, developed in 1983. (alpha acid 3.0 - 5.0% / beta acid 3.0 - 4.0%)
+ 
+lublin - the grassy, hay-like signature of polish lagers. the bitterness is slightly harsher than noble varieties, but the aroma is a little bit softer. 
+
+millennium - bittering variety, born of nugget and generally considered interchangeable. (alpha acid 15.5% / beta acid 4.8%)  
+
+mount hood - soft american variety developed from hallertau. frequently used in styles that require only a subtle hop aroma. (alpha acid 5.0 - 8.0% / beta acid 5.0 - 7.5%)
+
+northdown - dual purpose hop in england developed in 1970s, with a northern brewer-like bitterness, and modest but refined aroma, well suited to backing up maltier style beers. (alpha acid 7.5 - 9.5% / beta acid 5 - 5.5%) 
+
+northern brewer – developed in england in 1934 from a cross between a female hop of wild american parentage and an english male. grown in europe and america as a dual-purpose hop, but best suited for bittering. versatile, lending a moderate bitterness. aroma wise it’s quite mellow, and usually used in combination with other hops. (alpha acid 8 - 10% / beta acid 3 - 5%) 
+
+nugget – bittering variety. nuggets generally have a poor reputation as being cheap and unrefined, but do have a pronounced herbal aroma. examples include sierra nevada bigfoot (bittering only), 
+
+pacific gem – high alpha variety from new zealand, but also contributes a berryish aroma. this, along with hallertauer, are frequently organically grown in new zealand, so this is most likely to be found in organic beers outside of nz. has a woody, berryish note. 
+
+perle – one of the least distinctive german hops, the dual-purpose perle is often found in conjunction with other hops. 
+
+pride of ringwood - ubiquitous australian hop. at one time, this was a high-alpha variety, but has been long surpassed. considered by some rather malodorous, por hasn't caught on outside of the australian lager world. 
+
+progress – developed as a replacement for fuggles, this has a higher alpha rating, and is often found in combination with goldings. 
+
+saaz – the bohemian hop, used in almost all czech pilsners. it gives a soft bitterness, so ibus can be high without harshness. the aroma is famous, and a fresh pilsner urquell is still the best place to learn it.
+
+santiam – aroma variety with mid-range alphas. 
+
+select - disease-resistant spalt substitute 
+
+simcoe - high alpha variety with piney notes and a rounded bitterness. has made increasing appearances the past couple of years, in both pilsners and ales. 
+
+spalt - noble hop, with a fine, spicy aroma. used in all manner of german-style beers both ale and lager. is the signature hop for altbier. 
+
+strisselspalt - classic french aroma hop, used mainly in lagers. fairly neutral character can be tough to detect, but is similar to herbrucker. 
+
+styrian goldings – actually derived from fuggles, but grown in more continental conditions. i find them spicier, and more elegant than fuggles, while retaining the delicious woodsy character. used in a wide range of beers, from english ales to witbier and both english and belgian strong ales. 
+
+target - multiuse mid-to-high alpha hop from england. parentage is from kent goldings. 
+
+tettnang – classic hop of north german pilsners, tettnang are used for both bittering and aroma (though the latter is often in conjunction with some form of hallertau). bitterness from tettnang is rich, yet soft, so brewers can really crank up the ibus without rendering the beer astringent. 
+
+tradition - newish, disease-resistant variety from the mittelfrüh lineage, with a refined, spicy, grassy aroma. 
+
+vanguard – american aroma cross developed from hallertau in 1982. (alpha acid 5.5% - 6% / beta acid 6 - 7%)
+
+warrior - new bittering hop, whose popularity is on the rise due to slightly softer bitterness than some its contemporaries and lack of aroma properties. 
+
+willamette – popular american development in 1976 of the english fuggle. mild aroma hop, with a herbal, sometimes gently fruity character. (alpha acid 4.0 - 6.0% / beta acid 3.0 - 4.0%)
+
+zeus – aromatic american high-alpha hop with a chunky bitterness. (alpha acid 15.0%)
+

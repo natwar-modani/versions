@@ -1,0 +1,4 @@
+haematopoietic stem cell is a kind of cell that can give rise to
+two distinct kinds of next generations of cells :
+ identical haematopoietic stem cells (self-renewal)
+ multipotent progenitor cells (next step in differentiation) via haematopoiesis

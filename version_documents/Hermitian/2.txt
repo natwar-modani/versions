@@ -1,0 +1,58 @@
+ca:matriu hermítica fr:hermitien
+
+a number of mathematical entities are named hermitian, after the mathematician charles hermite.  in this article we discuss the term hermitian as used in operator and matrix theory to refer to a certain kind of operator (or matrix). we also discuss a number of related concepts including symmetric and self-adjoint undbounded operators.  we also warn the reader that there is a range of conflicting terminology in use in the literature generally and in wikipedia in particular. 
+
+a hermitian matrix (or self-adjoint matrix) is a square matrix with complex entries so that the matrix is equal to its own conjugate transpose - that is, if the element in the ith row and jth column is equal to the complex conjugate of the element in the jth row and ith column, for all indices i and j:
+
+for example,
+
+is a hermitian matrix.
+
+every hermitian matrix is normal, and the finite-dimensional spectral theorem applies. it says that any hermitian matrix can be diagonalized by a unitary matrix, and that the resulting diagonal matrix has only real entries. this means that all eigenvalues of a hermitian matrix are real, and, moreover, eigenvectors with distinct eigenvalues are orthogonal. it is possible to find an orthonormal basis of cn consisting only of eigenvectors.
+
+if the eigenvalues of a hermitian matrix are all positive, then the matrix is positive definite.  matrix theorists sometimes refer to real hermitian matrices as symmetric matrices, since indeed they are symmetric with respect to the diagonal.
+
+ symmetric and hermitian operators 
+
+for preliminaries see  hilbert space. a partially defined linear operator a on a hilbert space h is called symmetric iff
+
+for all elements x and y in the domain of a.  this usage is fairly standard in the functional analysis literature.
+
+by the hellinger-toeplitz theorem, a symmetric everywhere defined operators is bounded. 
+
+bounded symmetric operators are also called hermitian.
+
+this definition agrees with the one given above if we take as h the hilbert space cn with the standard dot product and interpret a square matrix as a linear operator on this hilbert space. it is however much more general as there are important infinite-dimensional hilbert spaces.
+
+the spectrum of any hermitian operator is real; in particular all its eigenvalues are real. 
+
+a version of the spectral theorem also applies to hermitian operators; while the eigenvectors corresponding to different eigenvalues are orthogonal, in general it is not true that the hilbert space h admits an orthonormal basis consisting only of eigenvectors of the operator. in fact, hermitian operators need not have any eigenvalues or eigenvectors at all.
+
+example. consider the complex hilbert space l2[0,1] and the differential operator a = d2 / dx2, defined on the subspace consisting of all differentiable functions f : [0,1] → c with f(0) = f(1) = 0. then integration by parts easily proves that a is symmetric.  its eigenfunctions are the sinusoids sin(nπx) for n = 1,2,..., with the real eigenvalues n2π2; the well-known orthogonality of the sine functions follows as a consequence of the property of being symmetric.
+
+ self-adjoint operators 
+
+given a densely defined linear operator a on h, its adjoint a* is defined as follows: 
+ the domain of a* consists of vectors x in h such that
+
+is a continuous linear functional on h.  
+
+ by the riesz representation theorem for linear functionals, if x is in the domain of a*, there is a unique vector z in h such that
+
+this  vector z is defined to be a* x.
+
+the following is an alternate characterization of symmetric operator: a densely defined operator a is symmetric iff
+
+an operator a is self-adjoint iff a = a*. 
+
+example.  consider the complex hilbert space l2(r), and the operator which multiplies a given function by x:
+
+it is defined on the space of all l2 functions for which the right-hand-side is square-integrable. a is a symmetric operator without any eigenvalues and eigenfunctions.  in fact the operator is self-adjoint.
+
+as we will show later, self-adjoint operators have very important spectral properties; they are in fact multiplication operators on general measure spaces.
+
+ extensions of symmetric operators 
+
+if an operator a is symmetric, when does it have self-adjoint extensions?  the answer is provided by the cayley transform of a self adjoint operator and the deficiency indices.
+
+ 

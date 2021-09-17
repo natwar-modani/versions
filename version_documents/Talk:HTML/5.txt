@@ -1,0 +1,49 @@
+ "also called 'chevrons' in the uk" 
+
+user:durrantm seems determined to add to the article that the angle brackets in html tags can be called chevrons. i live in the uk and have never heard them called that in web development. ⟨actual chevrons⟩, as the relevant article explains are completely different unicode characters, which will not be recognised as <angle brackets> by any html processor or browser. it might be valid to mention that the angle-bracket characters spent the first few decades of their life in ascii intended to be mathematical less-than and greater-than signs, before sgml and html re-used them. but they are not chevrons, not used as chevrons in html and there is no valid reason why we should let the reader be misled into thinking they are, or that anybody who knows what they're talking about says that they are. --nigelj (talk) 13:59, 22 august 2010 (utc)
+
+justsomethoughts2011 (talk) 06:13, 11 february 2011 (utc)justsomethoughts2011
+suggestion - i think this article will more accessible and valuable if it actually discusses why html had to be used in the first place. i think people do not understand the relationship between a "word" document and the text that appears on a site. obviously different codes/programs were created to interpret the two types of texts - but what's the connection? basically why is html specific to the world wide web?
+i support user durrantm`s chevron. the square bracket has a simmilar issue, and to say 'pointy brackets' isn`t very clever, because sharp edges may get confusing to users who work in automotive industry like myself with principles on haerodynamic edges and smooth shapes, especially in 3d design. even wiki code do not use such brackets. have | mentioned wiki has a list of symbols and neither it`s unicode ? paul188.25.109.59 (talk) 22:53, 16 march 2011 (utc)
+
+shortcut
+| suggest a separate marker for rfc 2854 link outside wikipedia.com domain, maybe a page that inform leaving the wikipedia.com. thank you 188.25.109.59 (talk) 22:40, 16 march 2011 (utc)
+le: yes, | know there are different squared brackets, but the blue links has the look of a wiki article, and there is no template/flag to inform me details on the article | lend on.
+
+code unity
+| suggest the code 
+ ""consisting of tags, enclosed in angle brackets ( like  and  ) within ""
+instead of current 
+ ""consisting of tags, enclosed in angle brackets (like <html> ), within ""
+if someone argues the colour frame you may remove it.
+188.25.109.59 (talk) 22:01, 16 march 2011 (utc)
+
+wiki code
+while in "code uity" thread, | stumbled upon a major error
+ ""consisting of tags, enclosed in angle brackets (like <font style="color: red; border: 1px solid #f6a; background-color: #fff8f0;"><html> and </html> </font>) within ""
+, because | cannot use the space lead for simple frame delimitation.
+188.25.109.59 (talk) 22:01, 16 march 2011 (utc)
+
+ discrepancy about document html tags 
+
+in the section "first specifications" there is the following statement about the number of  elements described by the document html tags
+
+"the first publicly available description of html was a document called html tags, first mentioned on the internet by berners-lee in late 1991. it describes 20 elements comprising the initial, relatively simple design of html."
+
+in the section "html draft version timeline" there is another statement about the number of html tags described by this document
+
+"html tags, an informal cern document listing twelve html tags, was first mentioned in public."
+
+20 elements versus twelve html tags: this is a discrepancy, isn't it? --th.k.walter (talk) 19:59, 5 april 2011 (utc)
+
+well, it seems simple: you count them and that's that. right? uh, are headings, -hn- a tag or six? (-h1-, -h2-, ...) ditto for -hpn-. and is basefont, discussed here to beome -base- in html 2 a tag? it's not given a tag here. and is -nextid- a tag? it says here that it's specific to tbl's next computer, and not intended as a tag (though, for the moment, it was a a tag). answering each of the four above with "it's one tag" gives a total of eighteen, which i've edited in as if it were "the" right number. i think it gives a good general picture of the early tag set. martinrinehart (talk) 15:22, 5 march 2012 (utc)
+
+ quote from creator 
+
+i think that this quote should be added to this article.
+
+“making the web was really simple because there was already this morass of things being developed on the internet,” including protocols such as tcp/ip and other standards. “all i had to do on top of that to create the web was to create a single global space, which some people said was rather arrogant…. http was a new scheme for the web… and the idea was that it would minimally constraining.”
+
+not opposed to the addition, but the last sentence ends "it would minimally constraining." missing a word? the quote here matches the reference below.martinrinehart (talk) 15:15, 5 march 2012 (utc)
+
+http://www.eioba.com/a/x4/tim-berners-lee-weaving-a-semantic-web#ixzz1kdriwz8s  —preceding unsigned comment added by 128.118.101.238 (talk) 02:47, 22 april 2011 (utc) 

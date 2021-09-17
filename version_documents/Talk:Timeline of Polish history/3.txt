@@ -1,0 +1,50 @@
+untitled
+i don't mean to denigrate the good work done here, and i don't necessarily think we should change this entry at all, but i think we should give a higher priority to writing in a standard prose format, with full sentences and paragraphs.  wikipedia shouldn't consist of a bunch of lists and timelines. --lms
+
+well, now that we have a bunch of dates to write around (thanks, h.j. for the work), i have two questions -- first is that, if you look at the timeline, it looks like boleslaw the brave is crowned numerous times -- could someone please clarify?  also, before anyone starts writing stubs on the people, could we all decide on what the best english name for each is?  there are so many versions of many of these names -- are we using the names with the -slaus endings, or the -slaw, or the -slav??  we need to get this part straight, so i suggest get the nomenclature part agreed first! jhk
+
+not my timelines, i saw it and only added a little .boleslaw i chrobry is the great and a later boleslaw (ii or iii ? is the brave , i think.i will check.  also what about boleslaus , like jhk had started somewhere else ? user:h.j.
+
+to jhk , royal genealogy , uk calls boleslaw i ,the brave, king of poland and boleslaw ii
+the bold of poland, king of poland. boleslaw iii wrymouth of poland, duke of poland.
+after  1058 boleslaw ii king of poland ,all  are: duke of poland until 1278 wenceslas ii of bohemia, king of bohemia/poland .
+http://www.fuw.edu/pl/~janbart/ab/krol/krolowie.htm shows polish kings:boleslaw ii smialy (1076-1079) and next przemysl ii 1295-1296 ,then dynasty of przemyslids :waclaw ii czeski (1300-1305) obviously wenceslaus ii (my copy shows this website, but apparently it is changed),therefore i copied user:h.j.
+thanks for the extra research -- i think we really should figure out what version of the names we are going to use -- also it would be nice of taw or another native speaker could help with pronunciations??? jhk
+
+in my opinion we should turn to nomenclature that it used by
+english-speaking historians.it would be counter-productive and confusing
+to devise new names just for wikipedia.
+adopting polish endings is in my opinion a bad idea, either.
+polluting wikipedia article names with germanisms is ugly enough to teach
+us a lesson.--kpjas
+
+well, i guess my problem is that i just don't know enough about modern english-language historiography of poland to know what the norm is.  i know we used to use the -laus ending, but do we still?  does anybody know?  even if we do, i think we should put the polish version and pronunciation, just as we have been with the german stuff... jhk
+i'm too busy with worrying about the ummayads to deal with slavic names.  the simple answer for all european languages is the library of congress - which, of course, brings you 'carlovingian' if you're not careful. --michaeltinkler
+
+i have two suggestions, one of which contributes to the original discussion.
+
+1. the article should be changed so that the timeline is divided into decades, not just years.
+2. how could the huge anti-communist bias of this document go unnoticed? it should be fixed.
+
+ timeline of polish diplomacy 
+
+i'd like to merge timeline of polish diplomacy into this article, as it repeats information that is, or should be, in this article.
+
+ battles 
+
+i would like to remove battles from this timeline, since listing them would make this timeline too detailed (and we don't even have all the wars listed).  i would like to keep only the following:  legnica and varna, because of the death of a monarch, as well as the most famous battles in polish history: grunwald, vienna, and warsaw (1920).  hope this works for everyone. appleseed 03:17, 30 november 2005 (utc)
+
+ guidelines 
+
+these are the guidelines i've been going by to populate this timeline:
+ start date of armed conflict
+ end date of armed conflict (usually with a truce or peace treaty)
+ other important treaties/statutes/unions/agreements
+ election of monarchs
+ coronation of monarchs
+ end of reign of monarchs (one of the following: death, assassination, abdication, flight)
+ election/beginning-of-office of a head of state
+ extraordinary end of office for a head of state (assassination)
+ adoption of constitutions
+ landmarks in publishing
+ other important events

@@ -1,0 +1,29 @@
+the hertz (symbol hz) is the si unit of frequency.  it is named in honor of the german physicist heinrich rudolf hertz who made some important contributions to science in the field of electromagnetism.
+
+one hertz simply means "one (event) per second"; 100 hz means "one hundred (events) per second", and so on.  the unit may be applied to any periodic event – for example, a clock might be said to tick at 1 hz. the reciprocal of frequency is time (period); a frequency of 1 hz is equivalent to a period of 1 second, a frequency of 1 mhz to a period of 1 microsecond. in older writings, e.g. pre-wwii articles about radio transmissions and its electronics, the older but similar unit cycles per second (cps) is seen, along with related multiples kilocycles, megacycles, and so forth.
+
+ si multiples  
+
+1 kilohertz (symbol khz) = 103 hz = 1,000 hz
+1 megahertz (symbol mhz) = 106 hz = 1,000,000 hz
+1 gigahertz (symbol ghz) = 109 hz = 1,000,000,000 hz
+1 terahertz (symbol thz) = 1012 hz = 1,000,000,000,000 hz
+1 petahertz (symbol phz) = 1015 hz = 1,000,000,000,000,000 hz
+1 exahertz (symbol ehz) = 1018 hz = 1,000,000,000,000,000,000 hz
+
+ examples 
+
+50 or 60 hz, electromagnetic – standard domestic ac electric power (220v or 110v voltage)
+20 hz to ~16 khz, acoustic – normal range of human hearing (some animals perceive sounds outside this range)
+261.626 hz, acoustic – the musical note middle c
+440 hz, acoustic – concert pitch (a above middle c), used for tuning musical instruments
+104 khz, transitions – the clock speed of the world's first commercial microprocessor, the intel 4004 (1971) 
+1–8 mhz, transitions – clock speeds of early home/personal computers (mid-1970s to mid-1980s)
+30–300 mhz, electromagnetic – vhf terrestrial tv broadcasts
+88–108 mhz, electromagnetic – fm radio broadcasts
+3.4 ghz, transitions – clock speed of the pentium 4 "prescott" microprocessor (2004)
+428–750 thz, electromagnetic – visible light, from red to violet
+30 phz, electromagnetic – x-rays
+
+hertz is also the name of the world's largest car rental company.  see: the hertz corporation
+

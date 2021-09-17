@@ -1,0 +1,33 @@
+the hour (symbol: h) is a unit of time. it is not an si unit but is accepted for use with the si.
+
+definition
+1 h = 3600 s
+
+history
+
+the hour was originally defined in egypt as 1/24 of a day, based on their duo-decimal numbering system (which counted finger joints on each hand).
+
+in modern usage, an hour was redefined as a unit of time 60 minutes, or 3600 seconds in length. it is approximately 1/24 of a median earth day.
+
+there is also the hour of right ascension, a unit of both time and angle.
+
+earlier definitions of the hour:
+ one twelfth of the time from sunrise to sunset. as a consequence, hours on summer days are longer than on winter days, their length varies with latitude and even, to a small extent, with the local weather (since it affects the atmosphere's index of refraction). for this reason, these hours are sometimes called temporal or unequal hours. romans and greeks used this definition and divided the night into three or four night watches. later, the night (i.e., the time between sunset and sunrise) was also divided into twelve hours. when a clock showed these hours, its period had to be changed every morning and evening (for example by changing the length of its pendulum), or it had to keep position of the sun on the ecliptic (see prague astronomical clock).
+ one twenty-fourth of the apparent solar day (between one noon and the next, or between one sunset and the next). as a consequence, hours vary a little, as the length of an apparent solar day varies throughout the year. when a clock showed these hours, it had to be adjusted a few times in a month.
+ one twenty-fourth of the mean solar day. see mean sun for more information on the difference to the apparent solar day. when an exact clock showed these hours, it had to be adjusted virtually never. however, as earth rotation slows down, this definition has been abandoned. see utc.
+
+ counting hours 
+
+every definition of the hour came with its own starting point for counting the hours.
+ in antiquity, the counting of hours started with sunrise. so, sunrise is always exactly at the beginning of the 1st hour, noon at the end of the 6th hour, and sunset exactly at the end of the 12th hour. this means the length of hours varied with the season.
+ in the so-called italian time, the first hour starts at sunset (or the end of dusk, i. e., 1/2 hour after sunset, depending on local custom). the hours are numbered from 0 to 23. so, the sun rises at lugano in december around 14:46 and noon is around 19:23; in june, the sun rises already at 7:51 and noon is around 15:55. sunset is always at 24:00. this manner of counting hours has the advantage that everyone can easily read the clock to see how much time they will have to finish their day's work without artificial light. it was introduced in italy during the 14th century and lasted until the mid-18th century, or in some regions until the mid-19th century. it was also used in poland and bohemia until the 17th century.
+ in the modern 12-hour clock, counting the hours starts at midnight and restarts at noon. hours are numbered 12, 1, 2, ..., 11. solar noon is always close to 12 noon, differing according to the equation of time (differing by up to about 15 min either way). at the equinoxes, sunrise is around 6 a.m. (ante meridiem, before noon), and sunset around 6 p.m. (post meridiem, after noon).
+ in the modern 24-hour clock, counting the hours starts at midnight, and hours are numbered from 0 to 23. solar noon is always close to 12:00 (again differing according to the equation of time). at the equinoxes, sunrise is around 06:00, and sunset around 18:00.
+
+sunrise and sunset are much more conspicuous points in day than noon or midnight; starting to count then is much easier than starting at noon or midnight. with modern astronomical equipment (and the telegraph or similar means to transfer a time signal in a split-second), this issue is no longer relevant.
+
+sundials often show the hour length and count according to some of the older definitions and countings.
+
+the division of the day into 12 hours dates back to the sumerians. there are probably 12 hours because there are approximately 12 lunar months in a solar year. symmetries of this sort are common in ancient units of measurement.
+
+ 

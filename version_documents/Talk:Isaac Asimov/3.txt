@@ -1,0 +1,48 @@
+ spome  
+
+asimov coined the words "robotics" and "psychohistory." these are significant contributions, but i doubt that the same can really be said about "spome." it's not in the dictionary and i've never heard of it being used by anyone else outside of the article it first appeared in. it's only short for "space home" anyway. it's fluff; i propose that we take it out. richard75 (talk) 15:11, 17 april 2019 (utc)
+ agree. deagol2 (talk) 15:23, 17 april 2019 (utc)
+ unless somebody would show that this is a well-known term perhaps in certain circles, perhaps nasa-related, i too wouldn't oppose its removal. debresser (talk) 21:14, 17 april 2019 (utc)
+ allow me to pile on. robotics and psychohistory -- and positronic  -- all have oed entries citing to asimov as the earliest use. it has no entry for spome:
+robotics:
+1941  in astounding sci.-fiction may 53  there's irony in three of the greatest experts in robotics in the world falling into the same elementary trap, isn't there?
+psychohistory:
+1942  in astounding sci.-fiction may 42/1  after the fall will come inevitable barbarism, a period which, our psychohistory tells us, should..last from thirty to fifty thousand years.
+positronic:
+1941  in astounding sci.-fiction may 53/1  you know the fundamental law impressed upon the positronic brain of all robots, of course.
+ i would agree that the spome discussion should be excised from the article. tjrc (talk) 21:56, 17 april 2019 (utc)
+thanks for finding positronic, we should definitely include that one. richard75 (talk) 09:12, 18 april 2019 (utc)
+
+ serial groper 
+
+in the era of the metoo movement, it has become not only common knowledge within the field, but publicly discussed, that asimov was (to borrow a cutesy term of the time) rather "handsy" in his interactions with females: fans, fellow writers, anybody he thought would put up with it. i feel that this aspect of his behavior definitely has a place in this article. --orange mike | talk 20:50, 31 may 2019 (utc)
+ strong claims need good sources, see wp:exceptional. claims that may tarnish a persons reputation need impeccable sources. debresser (talk) 17:40, 1 june 2019 (utc)
+he addressed this issue in his 1979 autobiography on page 653, where there is a three-paragraph footnote on the subject written by judith merrill. their generation didn't take it as seriously as people do today. richard75 (talk) 14:53, 28 september 2019 (utc)
+there's some discussion of this here; not a site i'm familiar with, but it seems to have editorial control, and nevala-lee is a published author on the history of sf -- i.e. . mike christie (talk - contribs -  library) 20:29, 7 january 2020 (utc)
+
+the article cited by mike christie looks like a good source and should be cited in the article. sanpitch (talk) 17:58, 9 january 2020 (utc)
+
+i added the details of the article to the 'further reading' section, as i was unable to work out how best to integrate this into the article itself. more publication details may be needed to flesh out the citation. the publisher is public books, but i'm not sure how best to cite the articles they publish. carcharoth (talk) 17:32, 10 january 2020 (utc)
+
+burying the issue in the "further reading" doesn't seem an appropriate way to deal with this issue.  the allegation has been made in an on-line source, by a respected historian of the science-fiction community.  i have put a short section in the "influence" section. mr serjeant buzfuz (talk) 23:28, 11 january 2020 (utc)
+
+ pseudonym 
+
+refused early suggestions of using a more common name as a pseudonym.
+
+no, but in one volume of a publication called the early asimov, it is recounted that, having unsuccessfully submitted a story to an editor whom he strongly suspected of antisemitism, asimov resubmitted the same story, without altering a single comma, under the name calvin m knox, and was unsurprised when it was snapped up for publication.
+
+nuttyskin (talk) 03:26, 27 november 2019 (utc)
+do you have the page number please? richard75 (talk) 13:42, 27 november 2019 (utc)
+
+ are you sure you have the right author in mind? calvin m. knox was a pseudonym used by robert silverberg. regards, newyorkbrad (talk) 13:47, 27 november 2019 (utc)
+
+ach, it was a long time ago i last read it, and i was relying on memory alone, so i really couldn't argue the toss with you over it. maybe i did conflate the two authors into one anecdote, albeit accidentally.
+
+nuttyskin (talk) 14:39, 27 november 2019 (utc)
+
+ nationality 
+
+asimov was naturalised american when he was eight. he was born in russia but that's not a reason to call him a russian writer. richard75 (talk) 22:23, 12 december 2019 (utc)
+
+i concur. also wikipedia is pretty clear on this in wp:ethnicity guidelines. nationality under which the individual obtains notability is the one included in the lead. not their birthplace, ethnicity, or previous nationalities. not to mention we have no evidence he retained russian nationality, making russian as a descriptor for the lead just inaccurate in general. apoorva iyer (talk) 00:02, 13 december 2019 (utc)

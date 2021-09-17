@@ -1,0 +1,70 @@
+a handheld game console is a lightweight, portable, electronic device for playing video games. unlike video game consoles, however, the controls, screen and speakers are all part of a single unit. throughout the 1970s and 1980s, several companies – including coleco and milton-bradley – made lightweight table-top or handheld electronic game devices. today, these machines aren't considered strictly consoles, since they often would only play a single game. the first true handheld game console with interchangeable cartridges was the milton bradley microvision in 1979. nintendo has dominated the handheld market since the release of the game boy in 1989, and is often credited as popularizing the handheld console concept.
+
+ history 
+
+ origin 
+the first handheld game console to use interchangeable game cartridges was the microvision, designed by smith engineering, and distributed and sold by milton-bradley in 1979. a small screen, a small selection of games (only thirteen) led to its demise only two years later. today, working microvisions are quite rare. the keypad could be easily damaged and the lcd technology of the late 1970s was poor, leading to liquid crystal leaking and darkening. in 1984, japanese company epoch released their game pocket computer. despite decent reviews, the system failed.
+
+it wasn't until five years later that nintendo released the game boy. the design team headed by gumpei yokoi had also been responsible for the game & watch system, as well as the nintendo entertainment system games metroid and kid icarus. the game boy came under scrutiny by some industry critics, saying that the monochrome screen was too small, and the processing power was inadequate. the design team had felt that low initial cost and battery economy were more important concerns, and when compared to the microvision, the game boy was a huge leap forward.
+
+yokoi recognized that the game boy needed a killer app –  at least one game that would define the console, and persuade customers to buy it. in june 1988, minoru arakawa, ceo of nintendo of america saw a demonstration of the game tetris at a trade show. nintendo purchased the rights for the game, and packaged it with the game boy system. it was almost an immediate hit. by the end of the year more than a million units were sold, and 25 million were sold by 1992. the original game boy (along with the game boy pocket, game boy color, and game boy advance) is the best selling game console ever, having sold more than 190 million units .
+
+ the 1990s 
+
+although the game boy is by far the most successful handheld game console, there were a number of other systems made throughout the 1990s. the atari lynx was released the same year as the game boy, and was the first ever color handheld. it had a backlit display, could be turned upside down to accommodate left-handed players, and also could connect to atari's jaguar console. due to a high price, short battery life, production shortages, a dearth of compelling games, and nintendo's aggressive marketing campaign, and despite a redesign in 1991, the atari lynx never sold very well.
+
+in response to the game boy's success, work began on several handhelds that aimed to capitalize on what was seen to be the game boy's main weakness: inadequate graphic quality. the sega game gear was released in late 1990, and featured a backlit color display, like the lynx's. the game gear's internal architecture was almost identical to the sega master system console (the game gear had 4096 possible colors versus the master system's 256), which allowed sega to quickly release a large number of games that had originally been written for the older system. the game gear had the same drawbacks as the lynx, however, and although it fared a bit better, it also failed to impact the game boy's dominance.
+
+several other attempts to compete with the game boy were released, such as the nec turboexpress, supervision, and neo geo pocket. despite the clear technological superiority of almost all of these handheld consoles, especially by the mid-1990s, none were ever a serious threat to the game boy.
+
+the game boy was nine years old before it got its first significant makeover. in 1998, the game boy color was released. it used the smaller and lighter form-factor of the game boy pocket, but featured a full color screen. it was also backwards-compatible, so that it could play not only games specifically made for the game boy color, but standard game boy games as well. it did not have significantly more computing power than the game boy, however.
+
+ modern handhelds 
+
+in 2001, nintendo revealed the game boy advance, which added extra buttons (left and right "shoulder" tabs), had a much larger screen, and far more computing power. the design was further enhanced about two years later when the game boy advance sp, a compact "clamshell" (folding open and closed, like a briefcase) version, was released. it also had a frontlit color display and rechargeable battery. despite its smaller size, the screen remained the same size as that of the game boy advance.
+
+the nintendo ds was released on november 21, 2004, and is a departure from nintendo's previous incremental upgrades to the pre-existing game boy. the ds has two 3-inch lcd screens. the bottom screen is touch-sensitive, allowing the player to lead a game character or navigate menus more intuitively or even to draw on the screens. in fact, one of the best-received games at the e³ demonstration was one where the player had to draw clouds to catch a falling mario baby. the ds is able to play game boy advance games, and uses 802.11b for wireless multiplayer and internet play.
+
+sony's psp was first revealed at e³ 2003, and was released in japan and north america in late 2004 and early 2005, respectively. like previous competitors to the game boy, the psp is also considerably superior in both processing power and screen quality, but inferior in battery life, price, and durability. unlike previous competitors (except possibly the peripheral-happy game gear), the psp includes several unusual features beyond gaming.
+
+the psp, as well as several other handhelds in this generation, is designed with an emphasis on convergence, partially to help differentiate themselves from nintendo's game-focused offerings. sony, for example, has trumpeted the psp's ability to play movies and music from the system's umd disks, or stored on a memory stick. the psp isn't the only converged game system; nokia's n-gage (and its redesigned successor, the n-gage qd), the tapwave zodiac, and the tiger telematics gizmondo include such unusual features as gsm cell phone functionality, gprs cellular data networking, gps receivers, pda functionality, built-in digital cameras, and so on. to a lesser extent, the ds's unusual, albeit game-oriented, features or the movie-playing play-yan accessory for the ds and gba sp could be seen as part of this trend. it remains to be seen if this trend towards convergence is unique to this generation, or if it survives into the next.
+
+ list of handheld game consoles, notable features, and industry firsts 
+
+ milton bradley microvision (1979)
+ nintendo game & watch (1980 - 1991) - predecessor to game boy; is technically a handheld electronic game
+ atari cosmos (unreleased, developed in 1979)
+ epoch game pocket computer - (1984) - japanese only; not a success
+ nintendo game boy (1989) - first international commercial success
+ atari lynx (1989) - first backlit screen
+ nec turboexpress (1990, japan; 1991, north america) - played hucard (pc engine/turbografx-16) games, first console/handheld intercompatibility
+ sega game gear (1991) - architecturally similar to sega master system, notable accessory firsts include a tv tuner
+ supervision (1992)
+ sega mega jet (1992) - no screen, made for japan air lines
+ nintendo virtual boy (1994) - monochromatic (red only) 3d goggle set, only semi-portable; first 3d portable
+ sega nomad (1995) - played normal sega genesis cartridges, albeit at lower resolution
+ snk neo geo pocket (1996) - unrelated to neo geo consoles or arcade systems save for name
+ game boy pocket (1996) - slimmer redesign of game boy
+ tiger game.com (1997) - first touch screen, first internet support (with use of sold-separately modem)
+ nintendo game boy color (1998)
+ cybiko (around 1998)
+ snk neo geo pocket color (1999)
+ bandai wonderswan (1999) - developed by gumpei yokoi after leaving nintendo
+ bandai wonderswan color (2000)
+ game park gp32 (2001)
+ nintendo game boy advance (2001)
+ bandai swan crystal (2002) - minor redesign of wonderswan color
+ nokia n-gage (2003) - game system and gsm cell phone (first combination of the two); first included mp3 player and fm radio; used bluetooth (first wireless multiplayer); first use of gprs for online play
+ nintendo game boy advance sp (2003) - redesign of gba: slimmer, clamshell form factor; frontlit screen
+ timetop gameking (2003)
+ tapwave zodiac (2004) - first pda/game handheld hybrid; palm os pda with game-focused form factor and features
+ nokia n-gage qd (2004) - redesign of n-gage, removed mp3 playback and radio
+ nintendo ds (2004) - first inclusion of dual screens, built-in microphone, and wi-fi for wireless multiplayer; touchscreen
+ sony psp (2004/2005) - first use of optical media; uses memory sticks for saved data; plays movies and music and views jpeg pictures.
+ tiger gizmondo (2005) - uses gprs network; first inclusion of gps for location-based games, first built-in camera
+ game boy micro (2005) - redesign of gba; smallest game boy form factor to date, first transflective lcd screen in a handheld.
+ game park xgp (2005) - a sucessor unit to the gp32 handheld.
+ game park holdings gpx2 (2005) - a sucessor unit to the gp32 handheld.
+the company gamepark split and became gamepark/gamepark holdings, where they both are creating the "next-gen" for their handheld.
+
+ 

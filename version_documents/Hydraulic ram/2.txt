@@ -1,0 +1,39 @@
+[[image:dscn3606-hydraulic-ram.jpg|thumb|right|a hydraulic ram that drives a fountain at the centre for alternative technology]]
+
+a hydraulic ram is a cyclic water pump powered by hydropower.  it functions as a hydraulic transformer that takes in water at one hydraulic head and flow-rate, and outputs water at a different hydraulic-head and flow-rate. the device utilizes a phenomenon called stagnation pressure, also known as water hammer, that is based on bernoulli's principle. in operation, a portion of the input water that powers the pump is lifted to a point higher than where the water originally started. the hydraulic ram is sometimes used in remote areas, where there is both a source of low-head hydropower, and a need for pumping water to a destination higher in elevation than the source.  in this situation, the ram is often useful, since it requires no outside source of power other than the kinetic energy of water.
+
+history
+in 1772 john whitehurst of cheshire in the united kingdom invented a manually controlled precursor of the hydraulic ram called the "pulsation engine". the first one he installed, in 1775 at oulton, cheshire, raised water to a height of 16 ft (4.9 m). he installed another in an irish property in 1783. he did not patent it, and details are obscure, but it is known to have had an air vessel.  
+
+the first self-acting ram pump was invented by the frenchman joseph michel montgolfier in 1796 for raising water in his paper mill at voiron. his friend matthew boulton took out a british patent on his behalf in 1797. the sons of montgolfier obtained an english patent for an improved version in 1816, and this was acquired, together with whitehurst's design, in 1820 by josiah easton, a somerset-born engineer who had just moved to london.  
+
+easton's firm, inherited by his son james (1796 - 1871), grew during the nineteenth century to become one of the more important engineering manufacturers in the united kingdom, with a large works at erith, kent. they specialised in water supply and sewerage systems world-wide, as well as land drainage projects. eastons had a good business supplying rams for water supply purposes to large country houses, and also to farms and village communities, and a number of their installations still survived as of 2004.
+
+the firm was eventually closed in 1909, but the ram business was continued by james r easton. in 1929 it was acquired by green & cartergreenandcarter.com, of winchester, hampshire, who were engaged in the manufacturing and installation of the well-known vulcan and vacher rams. 
+
+the first us patent was issued to j. cerneau and s.s. hallet in 1809. us interest in hydraulic rams picked up around 1840, as further patents were issued and domestic companies started offering rams for sale. toward the end of the 19th century, interest waned as electricity and electric pumps became widely available. 
+
+by the end of the twentieth century interest in hydraulic rams has revived, due to the needs of sustainable technology in developing countries, and energy conservation in developed ones. a good example is aid foundation international in the philippines, who won an ashden award for their work developing ram pumps that could be easily maintained for use in remote villages.
+
+construction and principle of operation
+a hydraulic ram has only two moving parts, a spring or weight loaded "waste" valve sometimes known as the "clack" valve and a "delivery" check valve, making it cheap to build, easy to maintain, and very reliable. in addition, there is a drive pipe supplying water from an elevated source, and a delivery pipe, taking a portion of the water that comes through the drive pipe to an elevation higher than the source. 
+
+sequence of operation
+[[image:hydraulic ram.gif|thumb|right|250px|hydraulic ram:
+1. inlet - drive pipe;
+2. free flow at waste valve;
+3. outlet - delivery pipe;
+4. waste valve;
+5. delivery check valve;
+6. pressure vessel]]
+initially, the waste valve [4] is open, the delivery valve [5] is closed. the water in the drive pipe [1] starts to flow under the force of gravity and picks up speed and kinetic energy until it forces the waste valve closed. the momentum of the water flow in the supply pipe against the now closed waste valve causes a water hammer, raises the pressure in the pump and opens the delivery valve [5], so some water flows into the delivery pipe [3]. since this water is being forced uphill through the delivery pipe farther than it is falling downhill from the source, the flow slows down and when it reverses the delivery check valve closes. if all water flow has stopped, the loaded waste valve reopens against the now static head, allowing the process to begin again.
+
+a pressure vessel [6] containing air cushions the hydraulic pressure shock when the waste valve closes, and it also improves the pumping efficiency by allowing a more constant flow through the delivery pipe.  although, in theory, the pump could work without it, the efficiency would drop drastically and the pump would be subject to extraordinary stresses which would shorten its life considerably.  this air is under pressure and is gradually dissolved in the water until none remains. one solution to this problem is to have the air separated from the water by an elastic diaphragm (similar to an expansion tank); however, this solution can be problematic in developing countries where replacements are difficult to procure.  another solution is to have a mechanism such as a snifting valve which automatically inserts a small bubble of air with each pump cycle. practicalactionconsulting.org. another solution is to insert an inner tube of a car or bicycle tire into the pressure vessel, with some air in it and the valve closed. this is in effect the same as the diaphragm, but is implemented with more widely available materials. the air in the tube cushions the shock of the water the same as the air in other configurations does.
+
+the optimum length of the drive pipe is 5 to 12 times the vertical distance between the source and the pump, or 500 to 1000 times the diameter of the delivery pipe, whichever is less. this length of drive pipe typically results in a period between pulses of 1 to 2 seconds. a typical efficiency is 60%, but up to 80% is possible. the drive pipe is ordinarily straight but can be curved or even wound in a spiral.  the main requirement is that it be inelastic, strong and rigid as otherwise it would greatly diminish the efficiency.
+
+some later ram designs in the uk  called compound rams were designed to pump treated water using a drive water source of untreated water overcoming the problems of having drinking water sourced from an open stream.
+
+common operational problems
+some common operational problems are intrusion of air into the drive pipe, blockage of the intake or valves with debris, knocking due to having too little air in the pressure vessel, freezing in winter and bursting of the delivery pipe if its output is blocked or not pressure relieved.
+
